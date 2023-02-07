@@ -30,9 +30,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb3617f80a962f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scuola/inglese/Conditional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c661c8ced65f8526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scuola/inglese/causative have and get.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e1710a927bab0ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scuola/inglese/Passive voice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a25ed8a5ac8206d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scuola/inglese/Writing task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/robotica/cose da fare.md",
+                "file": "scuola/inglese/Writing task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/robotica/cose da fare.md",
+                "file": "scuola/inglese/Writing task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/robotica/cose da fare.md"
+                "file": "scuola/inglese/Writing task.md"
               }
             }
           },
@@ -167,13 +215,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "882882299094df39",
+  "active": "3a25ed8a5ac8206d",
   "lastOpenFiles": [
+    "scuola/inglese/Passive voice.md",
+    "scuola/inglese/Writing task.md",
+    "Untitled.md",
+    "scuola/inglese/causative have and get.md",
+    "scuola/inglese/Conditional.md",
+    "scuola/robotica/cose da fare.md",
     "scuola/italiano/Fascismo.md",
     "scuola/italiano/I 3 totalitarismi.md",
     "scuola/italiano/Nazismo.md",
-    "Untitled.canvas",
-    "2023-02-07.md",
-    "Untitled.md"
+    "Untitled.canvas"
   ]
 }
