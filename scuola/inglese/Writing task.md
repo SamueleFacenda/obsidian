@@ -1,3 +1,4 @@
 Almost everybody likes music, expecially students. Music events are moments where people can meet ad pass some good time together, and know each other better. 
 I think that it will be pretty easy to organize some sort of concert into a school, there are a lot of students that plays in bands and a school event can be a good place where to start live playing. But in order to have regurarly organized quality events there should also be someone with more experience, with only a cheap tickets this will be possible.
-Moreover, some students will learn how to organize events, this skill can be very helpful, 
+Moreover, some students will learn how to organize events, this skill can be very helpful.
+In my city there is a group of students that every year organize a series of live music events and cultural initiatives, they invite interesting people to talk and famous people to sing, it's always a great thing.
