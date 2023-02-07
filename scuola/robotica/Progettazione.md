@@ -25,6 +25,7 @@ Se uso il lack durante il movimento, conto la cella prima o dopo?
 Dovrei muovermi a meta' per fare bene, non so neanche dov'e' la vittime(in che cella) se controllo durante
 Faccio cosi', non controllo proprio sempre, solo se mi sto muovendo dritto a meta'. Questa cosa la implementiamo ma rimane disattivata se non ce n'e' bisogno
 forse va messo un interrupt per il lack of pregress
+tengo il codice principale nel loop, se no a poco senso di esistere
 
 individuo cosi' i diversi moduli:
 * movimento, avanti indietro, rotazioni(modifica la direzione), allineamento(legge posizioni relative tof)
