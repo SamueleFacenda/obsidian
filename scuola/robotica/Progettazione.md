@@ -20,4 +20,9 @@ lista dei moduli vari e necessita':
 * diverse strategie(es esplora tutto o torna a casa)
 * diverse stratefie(es esplora tutto un piano o va avanti)
 * riconoscimento vittime(comunicazione raspberry)
+il controlle delle vittime continuo va fatto durante il movimento, il 
+
+individuo cosi' i diversi moduli:
+* movimento, avanti indietro, rotazioni(modifica la direzione), allineamento(legge posizioni relative tof)
+* kit: lampeggio, sgancio kit, conta kit, accede alla rotazione per lasciare i kit nel posto giusto, vuole sapere la direzione relativa della vittima
 * 
