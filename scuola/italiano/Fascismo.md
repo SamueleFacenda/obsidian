@@ -23,3 +23,5 @@ Occupazione di terre(pianura Padada) e fabbriche, rivendicazioni economiche.
 
 Nelle fabbriche nascono i rappresentanti di fabbrica(copia dei soviet), operai eletti per rappresentare anche quelli non iscritti al sindacato e trattare coi padroni delle aziende
 ostruzionismo, i padroni rispondono con le serrate, chiusuta e licenziamento. Primo consiglio nato alla FIAT
+Nasce confindustria, tutti contro tutti, lo stato non riesce più a controllare questi problemi
+ci sono i partiti socialisti, popolari e comunisti
