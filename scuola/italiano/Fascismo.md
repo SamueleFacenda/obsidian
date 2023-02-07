@@ -1,3 +1,4 @@
+### Introduzione
 italia nel dopoguerra
 
 problemi economici:
@@ -25,3 +26,12 @@ Nelle fabbriche nascono i rappresentanti di fabbrica(copia dei soviet), operai e
 ostruzionismo, i padroni rispondono con le serrate, chiusuta e licenziamento. Primo consiglio nato alla FIAT
 Nasce confindustria, tutti contro tutti, lo stato non riesce più a controllare questi problemi
 ci sono i partiti socialisti, popolari e comunisti
+
+
+### Nasce il fascismo
+1919 Benito Mussuolini fonda a Milano i Fasci Italiani di combattimento, una struttura paramilitare.
+Nascono come:
+* anti borghesi
+* anti socialisti
+* anti clericali
+* anti monarchici
