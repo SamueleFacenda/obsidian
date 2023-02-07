@@ -23,12 +23,12 @@ lista dei moduli vari e necessita':
 il controlle delle vittime continuo va fatto durante il movimento, il controllo del pulsante di lack of progress anche
 Se uso il lack durante il movimento, conto la cella prima o dopo?
 Dovrei muovermi a meta' per fare bene, non so neanche dov'e' la vittime(in che cella) se controllo durante
-Faccio cosi', non controllo proprio sempre, solo se mi sto muovendo dritto a meta'. Durante le rotazioni anche controllo a meta', ma in 
-
+Faccio cosi', non controllo proprio sempre, solo se mi sto muovendo dritto a meta'. Questa cosa la implementiamo ma rimane disattivata se non ce n'e' bisogno
+forse va messo un interrupt per il lack of pregress
 
 individuo cosi' i diversi moduli:
 * movimento, avanti indietro, rotazioni(modifica la direzione), allineamento(legge posizioni relative tof)
 * kit: lampeggio, sgancio kit, conta kit, accede alla rotazione per lasciare i kit nel posto giusto, vuole sapere la direzione relativa della vittima
 * esplorazione, indica a livello astratto dove andare(direzioni assolute), deve sapere la direzione relativa per calcolare il percorso piu' veloce, se va bene deve contare anche i diversi piani, soltanto indica la posizione e aggiorna la mappa ogni tot
-* gestione vittime, parla col raspberry, salva le coordinate(hashmap) con le vittime gia' viste
+* gestione vittime, parla col raspberry, salva le coordinate(hashmap) con le vittime gia' viste, chiama lo sgancio kit
 * 
