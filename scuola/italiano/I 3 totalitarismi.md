@@ -1,6 +1,6 @@
 stalinismo
-nazismo
-fascino
+[[Nazismo]]
+[[Fascismo]]
 
 e poi guerra dopo gennaio
 
