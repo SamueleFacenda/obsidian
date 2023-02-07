@@ -1,3 +1,5 @@
 {
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "promptDelete": false,
+  "newFileLocation": "current"
 }

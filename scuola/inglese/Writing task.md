@@ -1,0 +1,1 @@
+Almost everybody likes music, expecially students. Music events are moments where people can meet ad 
