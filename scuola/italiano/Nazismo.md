@@ -23,13 +23,8 @@ si candida come presidente della repubblica ma non ottiene l'incarico. Il partit
 Squadre di azione del partito, le SA
 
 Incendio al reichstag, misterioso, per rispondere chiede più poteri e li ottiene(dal 33 al 34)
-
 vengono sovrapposti stato e partito nazional-socialista, nell'estate del '33
-
 eliminate le SA(per competizione col hitler) con repressioni nel '34 nella notte dei lunghi coltelli
-
 gobbels ministro della propaganda
-
 himmler capo delle ss
-
 rohm capo delle sa
