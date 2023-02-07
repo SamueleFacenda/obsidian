@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "616163340e652629",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ca7971f711cb7b3",
+  "active": "f8d620af585d99b5",
   "lastOpenFiles": []
 }
