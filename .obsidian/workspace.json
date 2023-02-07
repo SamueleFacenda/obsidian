@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/italiano/I 3 totalitarismi.md",
+                "file": "scuola/italiano/Nazismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/italiano/I 3 totalitarismi.md",
+                "file": "scuola/italiano/Nazismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/italiano/I 3 totalitarismi.md",
+                "file": "scuola/italiano/Nazismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/italiano/I 3 totalitarismi.md"
+                "file": "scuola/italiano/Nazismo.md"
               }
             }
           },
@@ -137,13 +137,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +156,9 @@
   },
   "active": "b76560914364d9c7",
   "lastOpenFiles": [
-    "scuola/italiano/Fascismo.md",
     "scuola/italiano/I 3 totalitarismi.md",
     "scuola/italiano/Nazismo.md",
+    "scuola/italiano/Fascismo.md",
     "Untitled.canvas",
     "2023-02-07.md",
     "Untitled.md"
