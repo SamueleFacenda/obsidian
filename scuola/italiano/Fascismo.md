@@ -12,4 +12,3 @@ problemi sociali:
 problemi politici:
 1.  elezioni con sistema proporzionale(massa)
 2.  partito popolare vs partito socialista
-
