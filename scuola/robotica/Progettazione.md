@@ -20,7 +20,10 @@ lista dei moduli vari e necessita':
 * diverse strategie(es esplora tutto o torna a casa)
 * diverse stratefie(es esplora tutto un piano o va avanti)
 * riconoscimento vittime(comunicazione raspberry)
-il controlle delle vittime continuo va fatto durante il movimento, il 
+il controlle delle vittime continuo va fatto durante il movimento, il controllo del pulsante di lack of progress anche
+Se uso il lack durante il movimento, conto la cella prima o dopo?
+Dovrei muovermi a meta' per fare bene, non so neanche dov'e' la vittime(in che cella) se controllo durante
+
 
 individuo cosi' i diversi moduli:
 * movimento, avanti indietro, rotazioni(modifica la direzione), allineamento(legge posizioni relative tof)
