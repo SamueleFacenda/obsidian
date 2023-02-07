@@ -20,3 +20,6 @@ Governo NITTI si dimette perchè incapace di gestire le spinte interne
 1919-1920 è definito biennio rosso, per le molte tensioni sociali, scioperi e agitazioni popolari.
 La guerra ha portato un senso di nazionalismo, per aver combattuto tutti sullo stesso fronte. Quindi c'è molto senso di partecipazione sociale, che porta a questi moti.
 Occupazione di terre(pianura Padada) e fabbriche, rivendicazioni economiche.
+
+Nelle fabbriche nascono i rappresentanti di fabbrica(copia dei soviet), operai eletti per rappresentare anche quelli non iscritti al sindacato e trattare coi padroni delle aziende
+ostruzionismo, i padroni rispondono con le serrate, chiusuta e licenziamento. Primo consiglio nato alla FIAT

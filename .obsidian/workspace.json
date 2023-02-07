@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23849d0bfafe8191",
+        "id": "f815dd9b79e0ab38",
         "type": "tabs",
         "children": [
           {
-            "id": "1ca7971f711cb7b3",
+            "id": "b76560914364d9c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,11 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "616163340e652629",
+  "active": "b76560914364d9c7",
   "lastOpenFiles": [
     "scuola/italiano/Nazismo.md",
+    "Untitled.canvas",
+    "2023-02-07.md",
+    "scuola/italiano/Fascismo.md",
     "scuola/italiano/I 3 totalitarismi.md",
-    "Untitled.md",
-    "scuola/italiano/Fascismo.md"
+    "Untitled.md"
   ]
 }
