@@ -1,4 +1,8 @@
 [
   "obsidian-wakatime",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "templater-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "nldates-obsidian"
 ]
