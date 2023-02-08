@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e3bedb369766081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idee e progetti.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/robotica/Progettazione.md",
+                "file": "Idee e progetti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/robotica/Progettazione.md",
+                "file": "Idee e progetti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/robotica/Progettazione.md"
+                "file": "Idee e progetti.md"
               }
             }
           },
@@ -165,8 +178,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "deb1c4dcc8c36561",
+  "active": "9e3bedb369766081",
   "lastOpenFiles": [
+    "scuola/robotica/Untitled.md",
     "scuola/robotica/Progettazione.md",
     "scuola/robotica/cose da fare.md",
     "scuola/sistemi/GDPR.md",
@@ -174,8 +188,7 @@
     "README.md",
     "scuola/inglese/Writing task.md",
     "scuola/inglese/Passive voice.md",
-    "Untitled.md",
-    "scuola/inglese/causative have and get.md",
-    "scuola/inglese/Conditional.md"
+    "Idee e progetti.md",
+    "scuola/inglese/causative have and get.md"
   ]
 }
