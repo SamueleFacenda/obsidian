@@ -1,8 +1,8 @@
 idee:
--  [name::tickstats] [status:: progress]
--  ER scheme markup language [status:: idea]
--  ToDo widget for notion
--  Website for Travistate Songs
+-  [name:: tickstats] [status:: progress]
+-  [name:: ER scheme markup language] [status:: idea]
+-  [name:: ToDo widget for notion] [status:: idea]
+-  [name:: Website for Travistate Songs] [status:: idea]
 
 
 ```dataview
