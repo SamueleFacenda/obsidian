@@ -12,9 +12,9 @@ lista dei moduli vari e necessita':
 - [ ] raddrizzamento(fine tuning)
 - [ ] memorizzamento lack of progress
 - [x] rilascio di un numero di kit
-- [ ] lampeggio e pausa per vittime trovate
+- [x] lampeggio e pausa per vittime trovate
 - [ ] controllo continuo per vittime visive
-- [ ] avere direzione di movimento migliore
+- [x] avere direzione di movimento migliore
 - [ ] salvataggio campo a piu' piani
 - [ ] riconoscimento salite/discese
 - [x] diverse strategie(es esplora tutto o torna a casa)
@@ -33,5 +33,6 @@ individuo cosi' i diversi moduli:
 * esplorazione, indica a livello astratto dove andare(direzioni assolute), deve sapere la direzione relativa per calcolare il percorso piu' veloce, se va bene deve contare anche i diversi piani, soltanto indica la posizione e aggiorna la mappa ogni tot
 * gestione vittime, parla col raspberry, salva le coordinate(hashmap) con le vittime gia' viste, chiama lo sgancio kit
 * main loop, connette il basso all'alto livello, legge dalla mappa i movimenti da fare, li fa, aggiorna la mappa, chiama i metodi per le vittime
-* meglio se faccio un po' di interfacce: per il movimento, la lettura delle distanze
+* meglio se faccio un po' di interfacce: per il movimento, la lettura delle distanze, movimento che si occupa anche dell'allineamento
 * per fare una variabile globale per tutti(la direzione) forse devo fare un file apposta
+* giroscopio e simili
