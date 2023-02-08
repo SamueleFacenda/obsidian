@@ -7,4 +7,5 @@ idee:
 
 ```dataview
 LIST
+FROM "idee"
 ```
