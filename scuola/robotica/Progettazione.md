@@ -32,4 +32,6 @@ individuo cosi' i diversi moduli:
 * kit: lampeggio, sgancio kit, conta kit, accede alla rotazione per lasciare i kit nel posto giusto, vuole sapere la direzione relativa della vittima
 * esplorazione, indica a livello astratto dove andare(direzioni assolute), deve sapere la direzione relativa per calcolare il percorso piu' veloce, se va bene deve contare anche i diversi piani, soltanto indica la posizione e aggiorna la mappa ogni tot
 * gestione vittime, parla col raspberry, salva le coordinate(hashmap) con le vittime gia' viste, chiama lo sgancio kit
-* 
+* main loop, connette il basso all'alto livello, legge dalla mappa i movimenti da fare, li fa, aggiorna la mappa, chiama i metodi per le vittime
+* meglio se faccio un po' di interfacce: per il movimento, la lettura delle distanze
+* per fare una variabile globale per tutti(la direzione) forse devo fare un file apposta
