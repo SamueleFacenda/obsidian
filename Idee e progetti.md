@@ -1,9 +1,16 @@
-- [ ] tickstats
-- [ ] ER scheme markup language
-- [ ] ToDo widget for notion
-- [ ] Website for Travistate Songs
+idee:
+-  tickstats
+-  ER scheme markup language
+-  ToDo widget for notion
+-  Website for Travistate Songs
 
 
 ```dataview
-TASK 
+LIST
+WHERE file.name = this.file.name
 ```
+
+
+
+
+
