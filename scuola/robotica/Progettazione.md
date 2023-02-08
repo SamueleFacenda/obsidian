@@ -9,14 +9,14 @@ lista dei moduli vari e necessita':
 - [ ] distanza alla direzione assoluta
 - [x] numero di kit usati
 - [x] memorizzazione vittime gia' viste
-- [ ] raddrizzamento(fine tuning)
+- [x] raddrizzamento(fine tuning)
 - [ ] memorizzamento lack of progress
 - [x] rilascio di un numero di kit
 - [x] lampeggio e pausa per vittime trovate
 - [ ] controllo continuo per vittime visive
 - [x] avere direzione di movimento migliore
 - [ ] salvataggio campo a piu' piani
-- [ ] riconoscimento salite/discese
+- [x] riconoscimento salite/discese
 - [x] diverse strategie(es esplora tutto o torna a casa)
 - [ ] diverse strategie(es esplora tutto un piano o va avanti)
 - [x] riconoscimento vittime(comunicazione raspberry)
@@ -35,4 +35,4 @@ individuo cosi' i diversi moduli:
 * main loop, connette il basso all'alto livello, legge dalla mappa i movimenti da fare, li fa, aggiorna la mappa, chiama i metodi per le vittime
 * meglio se faccio un po' di interfacce: per il movimento, la lettura delle distanze, movimento che si occupa anche dell'allineamento
 * per fare una variabile globale per tutti(la direzione) forse devo fare un file apposta
-* giroscopio e simili
+* modulo giroscopio, roconoscimento salite e discese, tempo di salite e discese
