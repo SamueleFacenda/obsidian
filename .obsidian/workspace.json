@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/sistemi/GDPR.md",
+                "file": "scuola/robotica/Progettazione.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/sistemi/GDPR.md",
+                "file": "scuola/robotica/Progettazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/sistemi/GDPR.md",
+                "file": "scuola/robotica/Progettazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/sistemi/GDPR.md"
+                "file": "scuola/robotica/Progettazione.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "adf13a560f07e335",
   "lastOpenFiles": [
-    "scuola/sistemi/Crittografia.md",
+    "scuola/robotica/cose da fare.md",
     "scuola/sistemi/GDPR.md",
+    "scuola/sistemi/Crittografia.md",
     "README.md",
     "scuola/robotica/Progettazione.md",
-    "scuola/robotica/cose da fare.md",
     "scuola/inglese/Writing task.md",
     "scuola/inglese/Passive voice.md",
     "Untitled.md",
