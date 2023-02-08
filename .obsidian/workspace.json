@@ -136,8 +136,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "eeb3f9a2c3978fc9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -152,10 +161,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adf13a560f07e335",
+  "active": "eeb3f9a2c3978fc9",
   "lastOpenFiles": [
     "scuola/robotica/cose da fare.md",
     "scuola/sistemi/GDPR.md",
