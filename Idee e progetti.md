@@ -1,12 +1,13 @@
 idee:
--  tickstats
--  ER scheme markup language
+-  [name::tickstats] [status:: progress]
+-  ER scheme markup language [status:: idea]
 -  ToDo widget for notion
 -  Website for Travistate Songs
 
 
 ```dataview
-LIST list.text
-
+TABLE WITHOUT ID L.name, L.status
+FLATTEN file.lists as L
+WHERE file.path = this.file.path
 ```
 
