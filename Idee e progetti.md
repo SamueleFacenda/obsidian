@@ -7,10 +7,4 @@ idee:
 
 ```dataview
 LIST
-WHERE file.name = this.file.name
 ```
-
-
-
-
-
