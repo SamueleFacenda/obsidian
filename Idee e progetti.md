@@ -6,6 +6,7 @@ idee:
 
 
 ```dataview
-LIST
-FROM "idee"
+LIST list.text
+
 ```
+
