@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f815dd9b79e0ab38",
+        "id": "2108bc76dade2d0c",
         "type": "tabs",
         "children": [
           {
-            "id": "adf13a560f07e335",
+            "id": "deb1c4dcc8c36561",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,13 +165,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eeb3f9a2c3978fc9",
+  "active": "deb1c4dcc8c36561",
   "lastOpenFiles": [
+    "scuola/robotica/Progettazione.md",
     "scuola/robotica/cose da fare.md",
     "scuola/sistemi/GDPR.md",
     "scuola/sistemi/Crittografia.md",
     "README.md",
-    "scuola/robotica/Progettazione.md",
     "scuola/inglese/Writing task.md",
     "scuola/inglese/Passive voice.md",
     "Untitled.md",
