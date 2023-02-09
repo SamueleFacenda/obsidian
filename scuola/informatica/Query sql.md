@@ -71,8 +71,11 @@ ON AEROPORTO.Nazione = Tmp.Nazione AND AEROPORTO.NumPiste = Tmp.MaxPiste;
 
 Trovare gli aeroporti da cui partono voli internazionali (questa informazione viene ricavata  dal fatto che l’aeroporto di partenza e di arrivo sono in due nazioni differenti)
 ```
-SELECT DISTINCT idCittaPart, idCittaArr
-FROM VOLO
+SELECT DISTINCT Citta
+FROM AEROPORTO
+INNER JOIN VOLO
+ON idCittaPart ) idCitta
+-- ho gli aeroporti con la città di partenza
 WHERE idCittaPart IN (SELECT idCitta
                       FROM AEROPORTO
                       WHERE Nazione != (SELECT Nazione
