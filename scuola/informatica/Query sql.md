@@ -157,13 +157,20 @@ Estrarre le città italiane da cui ogni giovedì partono più di 3 voli diretti 
 SELECT Citta
 FROM AEROPORTO as a
 WHERE Nazione = 'Italia'
-GROUP BY Citta
-HAVING (
+WHERE (
 	SELECT COUNT(*)
 	FROM AEROPORTO as aa
 	INNER JOIN VOLO as v
-	ON 
-)
+	ON v.idCittaPart = aa.idCitta
+	WHERE a.idCitta = aa.idCitta
+	AND v.GiornSett = 'Giovedì'
+	AND (
+	-- prendo la nazione di destinazione
+		SELECT Nazione
+		FROM AEROPORTO
+		WHERE idCitta = v.idCittaDest
+	) = 'Inghilterra'
+) > 0
 ```
 Trovare il numero di voli del giovedì di ogni aeroporto da cui partono almeno 100 voli (Attenzione il conteggio è fatto sul giovedì ma la condizione del 100 è fatta su tutti i giorni)
 ```
