@@ -192,6 +192,3 @@ FROM (
 WHERE GiornSett = 'Giovedì'
 GROUP BY idCitta
 ```
-
-
-for (int i =)
