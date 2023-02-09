@@ -192,3 +192,4 @@ FROM (
 WHERE GiornSett = 'Giovedì'
 GROUP BY idCitta
 ```
+
