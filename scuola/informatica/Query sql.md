@@ -72,24 +72,29 @@ ON AEROPORTO.Nazione = Tmp.Nazione AND AEROPORTO.NumPiste = Tmp.MaxPiste;
 Trovare gli aeroporti da cui partono voli internazionali (questa informazione viene ricavata  dal fatto che l’aeroporto di partenza e di arrivo sono in due nazioni differenti)
 ```
 SELECT DISTINCT Citta
-FROM AEROPORTO
-INNER JOIN VOLO
-ON idCittaPart ) idCitta
+FROM AEROPORTO as a
+INNER JOIN VOLO as v
+ON idCittaPart = idCitta
 -- ho gli aeroporti con la città di partenza
-WHERE idCittaPart IN (SELECT idCitta
-                      FROM AEROPORTO
-                      WHERE Nazione != (SELECT Nazione
-                                        FROM AEROPORTO
-                                        WHERE idCitta = idCittaArr))
-  AND idCittaArr IN (SELECT idCitta
-                     FROM AEROPORTO
-                     WHERE Nazione != (SELECT Nazione
-                                       FROM AEROPORTO
-                                       WHERE idCitta = idCittaPart));
-
+WHERE (
+-- prendo la nazione di partenza
+	SELECT Nazione
+	FROM AEROPORTO as aa, VOLO as vv
+	WHERE aa.idCitta = vv.idCittaPart 
+	ANS vv.idCittaPart = v.idCittaPart
+) != (
+-- prendo la nazione di arrivo
+	SELECT Nazione
+	FROM AEROPORTO as aaa, VOLO as vvv
+	WHERE aaa.idCitta = vvv.idCittaArr
+	ANS vvv.idCittaPart = v.idCittaArr
+)
 ```
 Trovare il numero totale di partenze internazionali nella giornata di giovedì  da tutti gli aeroporti
 
+```
+
+```
 Trovare il numero di aeroporti che hanno almeno una partenza internazionale il giovedì
 
 Trovare il numero di partenze internazionali del giovedì da ogni aeroporto
