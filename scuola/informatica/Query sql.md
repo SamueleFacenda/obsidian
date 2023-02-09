@@ -174,5 +174,10 @@ WHERE (
 ```
 Trovare il numero di voli del giovedì di ogni aeroporto da cui partono almeno 100 voli (Attenzione il conteggio è fatto sul giovedì ma la condizione del 100 è fatta su tutti i giorni)
 ```
-
+SELECT COUNT(*), Citta
+FROM (
+	
+) as AeroportiConPiuDi100Voli
+WHERE GiornSett = 'Giovedì'
+GROUP BY idCitta
 ```
