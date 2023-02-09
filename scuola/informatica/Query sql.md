@@ -176,8 +176,19 @@ Trovare il numero di voli del giovedì di ogni aeroporto da cui partono almeno 1
 ```
 SELECT COUNT(*), Citta
 FROM (
-	
-) as AeroportiConPiuDi100Voli
+	SELECT *
+	FROM VOLO
+	INNER JOIN AEROPORTO
+	ON idCitta = idCittaPart
+	WHERE idCitta IN (
+		SELECT idCitta
+		FROM VOLO
+		INNER JOIN AEROPORTO
+		ON idCittaPart = idCitta
+		GROUP BY idCitta
+		HAVING COUNT(*) > 100
+	)
+) as VoliDaAeroportiConPiuDi100Voli
 WHERE GiornSett = 'Giovedì'
 GROUP BY idCitta
 ```
