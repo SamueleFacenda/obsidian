@@ -93,12 +93,65 @@ WHERE (
 Trovare il numero totale di partenze internazionali nella giornata di giovedì  da tutti gli aeroporti
 
 ```
-
+SELECT COUNT(*)
+FROM VOLO as v
+WHERE GiornoSett = 'Giovedì' AND (
+-- prendo la nazione di partenza
+	SELECT Nazione
+	FROM AEROPORTO as aa, VOLO as vv
+	WHERE aa.idCitta = vv.idCittaPart 
+	ANS vv.idCittaPart = v.idCittaPart
+) != (
+-- prendo la nazione di arrivo
+	SELECT Nazione
+	FROM AEROPORTO as aaa, VOLO as vvv
+	WHERE aaa.idCitta = vvv.idCittaArr
+	ANS vvv.idCittaPart = v.idCittaArr
+)
 ```
 Trovare il numero di aeroporti che hanno almeno una partenza internazionale il giovedì
+```
+SELECT Citta
+FROM VOLO as v
+INNER JOIN AEROPORTO as a
+ON v.idCittaPart = v.idCitta
+WHERE GiornoSett = 'Giovedì' AND (
+-- prendo la nazione di partenza
+	SELECT Nazione
+	FROM AEROPORTO as aa, VOLO as vv
+	WHERE aa.idCitta = vv.idCittaPart 
+	ANS vv.idCittaPart = v.idCittaPart
+) != (
+-- prendo la nazione di arrivo
+	SELECT Nazione
+	FROM AEROPORTO as aaa, VOLO as vvv
+	WHERE aaa.idCitta = vvv.idCittaArr
+	ANS vvv.idCittaPart = v.idCittaArr
+)
+GROUP BY Citta
+```
 
 Trovare il numero di partenze internazionali del giovedì da ogni aeroporto
-
+```
+SELECT Citta, COUNT(*)
+FROM VOLO as v
+INNER JOIN AEROPORTO as a
+ON v.idCittaPart = v.idCitta
+WHERE GiornoSett = 'Giovedì' AND (
+-- prendo la nazione di partenza
+	SELECT Nazione
+	FROM AEROPORTO as aa, VOLO as vv
+	WHERE aa.idCitta = vv.idCittaPart 
+	ANS vv.idCittaPart = v.idCittaPart
+) != (
+-- prendo la nazione di arrivo
+	SELECT Nazione
+	FROM AEROPORTO as aaa, VOLO as vvv
+	WHERE aaa.idCitta = vvv.idCittaArr
+	ANS vvv.idCittaPart = v.idCittaArr
+)
+GROUP BY Citta
+```
 Estrarre le città italiane da cui ogni giovedì partono più di 3 voli diretti in Inghilterra
 
 Trovare il numero di voli del giovedì di ogni aeroporto da cui partono almeno 100 voli (Attenzione il conteggio è fatto sul giovedì ma la condizione del 100 è fatta su tutti i giorni)
