@@ -59,9 +59,32 @@ HAVING NumPiste >= 5
 ```
 
 Trovare le città in cui si trovano gli aeroporti con più piste di ogni nazione purché siano almeno 5
+```
+SELECT AEROPORTO.Nazione, AEROPORTO.Citta
+FROM AEROPORTO
+JOIN (SELECT Nazione, MAX(NumPiste) AS MaxPiste
+      FROM AEROPORTO
+      WHERE NumPiste >= 5
+      GROUP BY Nazione) AS Tmp
+ON AEROPORTO.Nazione = Tmp.Nazione AND AEROPORTO.NumPiste = Tmp.MaxPiste;
+```
 
 Trovare gli aeroporti da cui partono voli internazionali (questa informazione viene ricavata  dal fatto che l’aeroporto di partenza e di arrivo sono in due nazioni differenti)
+```
+SELECT DISTINCT idCittaPart, idCittaArr
+FROM VOLO
+WHERE idCittaPart IN (SELECT idCitta
+                      FROM AEROPORTO
+                      WHERE Nazione != (SELECT Nazione
+                                        FROM AEROPORTO
+                                        WHERE idCitta = idCittaArr))
+  AND idCittaArr IN (SELECT idCitta
+                     FROM AEROPORTO
+                     WHERE Nazione != (SELECT Nazione
+                                       FROM AEROPORTO
+                                       WHERE idCitta = idCittaPart));
 
+```
 Trovare il numero totale di partenze internazionali nella giornata di giovedì  da tutti gli aeroporti
 
 Trovare il numero di aeroporti che hanno almeno una partenza internazionale il giovedì
