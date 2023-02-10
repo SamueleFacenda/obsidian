@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/italiano/I 3 totalitarismi.md",
+                "file": "scuola/italiano/Nazismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/italiano/I 3 totalitarismi.md",
+                "file": "scuola/italiano/Nazismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/italiano/I 3 totalitarismi.md",
+                "file": "scuola/italiano/Nazismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/italiano/I 3 totalitarismi.md"
+                "file": "scuola/italiano/Nazismo.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "9e3bedb369766081",
   "lastOpenFiles": [
+    "scuola/italiano/I 3 totalitarismi.md",
     "scuola/informatica/Query sql.md",
     "scuola/robotica/Progettazione.md",
     "scuola/robotica/cose da fare.md",
@@ -188,7 +189,6 @@
     "scuola/sistemi/GDPR.md",
     "scuola/sistemi/Crittografia.md",
     "README.md",
-    "scuola/inglese/Writing task.md",
-    "scuola/inglese/Passive voice.md"
+    "scuola/inglese/Writing task.md"
   ]
 }

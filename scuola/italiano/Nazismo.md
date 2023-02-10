@@ -1,9 +1,8 @@
 Repubblica di Weimar(1919, 1933)
 
-problemi economico per le spese di guerra, blocco produttivo, problemi politici con spinte interne(comuniscmo vs nazionalismo) e dopo la perdita di territori
+problemi economico per le spese di guerra, blocco produttivo, problemi politici con spinte interne(comunismo vs nazionalismo) e dopo la perdita di territori
 
 partito nazionalsocialista tedesco dei lavoratori(nsdap) 1920
-
 ogni cittadino non tedesco deve essere espulso dal reich, scritto nel programma del partito
 
 colpo di stato a monaco fallito(1923), retata al partito e anche hitler, vengono arrestati e passano 9 mesi in cercere. Lì scrive mein kampf e scrive il suo programma politico in modo più violento
