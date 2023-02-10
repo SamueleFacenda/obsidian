@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5345e3fda7ee9091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scuola/italiano/Pirandello.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "51f1d67e8cd315ce",
             "type": "leaf",
             "state": {
@@ -192,6 +204,8 @@
   },
   "active": "5b5b6b310da4c5dd",
   "lastOpenFiles": [
+    "scuola/italiano/Pirandello.md",
+    "scuola/italiano/Il fu Mattia Pascal.md",
     "scuola/storia/Nazismo.md",
     "scuola/storia/I 3 totalitarismi.md",
     "scuola/informatica/Query sql.md",
@@ -199,8 +213,6 @@
     "scuola/robotica/cose da fare.md",
     "Idee e progetti.md",
     "scuola/robotica/Untitled.md",
-    "scuola/sistemi/GDPR.md",
-    "scuola/sistemi/Crittografia.md",
-    "README.md"
+    "scuola/sistemi/GDPR.md"
   ]
 }
