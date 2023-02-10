@@ -40,4 +40,8 @@ i fasci sono sostenuti da ex combattenti, interventisti e ex socialisti rivoluzi
 i fasci richiedono tutte le richeste delle persone(es riduzione giornate lavoto, minimo salariale, voto alle donne)
 
 caratteristiche:
-- l
+- leader determinante(espulso dai socialisti perchè interventista)
+- violenza verso l'opposizione
+- squadre d'azione
+- cameratismo(divisa, armi, violenza)
+
