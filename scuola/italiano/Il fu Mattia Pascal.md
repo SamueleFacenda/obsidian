@@ -1,0 +1,2 @@
+Mattia Pascal è in viaggio in treno, di ritorno da Montecarlo dove ha vinto una grossa somma di denaro. Per passarsi il tempo compra un giornale, dove, in mezzo a molte frivolezze, trova una notizia di un suicidio nel suo paese di provenienza. 
+Con suo grande stupore scopre che 
