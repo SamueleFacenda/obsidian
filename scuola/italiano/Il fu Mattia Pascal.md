@@ -1,2 +1,2 @@
 Mattia Pascal è in viaggio in treno, di ritorno da Montecarlo dove ha vinto una grossa somma di denaro. Per passarsi il tempo compra un giornale, dove, in mezzo a molte frivolezze, trova una notizia di un suicidio nel suo paese di provenienza. 
-Con suo grande stupore scopre che 
+Con suo grande stupore scopre che il cadavere trovato è stato identificato come Mattia Pascal e, dopo un primo istinto di andare a smentire di corsa la notizia, comincia a riflettere sui benefici del liberarsi della sua vita attuale. Capisce che così può liberarsi del matrimonio, ne sarebbe contenta anche la famiglia di sua moglie visto che questa potrebbe risposarsi con qualcuno di migliore. 
