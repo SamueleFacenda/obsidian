@@ -36,3 +36,8 @@ Nascono come:
 * anti clericali
 * anti monarchici
 
+i fasci sono sostenuti da ex combattenti, interventisti e ex socialisti rivoluzionari
+i fasci richiedono tutte le richeste delle persone(es riduzione giornate lavoto, minimo salariale, voto alle donne)
+
+caratteristiche:
+- l
