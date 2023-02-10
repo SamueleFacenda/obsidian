@@ -11,8 +11,12 @@
             "id": "9e3bedb369766081",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "scuola/italiano/I 3 totalitarismi.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/informatica/Query sql.md",
+                "file": "scuola/italiano/I 3 totalitarismi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/informatica/Query sql.md",
+                "file": "scuola/italiano/I 3 totalitarismi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/informatica/Query sql.md"
+                "file": "scuola/italiano/I 3 totalitarismi.md"
               }
             }
           },
@@ -175,8 +178,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8d620af585d99b5",
+  "active": "9e3bedb369766081",
   "lastOpenFiles": [
+    "scuola/informatica/Query sql.md",
     "scuola/robotica/Progettazione.md",
     "scuola/robotica/cose da fare.md",
     "Idee e progetti.md",
@@ -185,7 +189,6 @@
     "scuola/sistemi/Crittografia.md",
     "README.md",
     "scuola/inglese/Writing task.md",
-    "scuola/inglese/Passive voice.md",
-    "scuola/inglese/causative have and get.md"
+    "scuola/inglese/Passive voice.md"
   ]
 }
