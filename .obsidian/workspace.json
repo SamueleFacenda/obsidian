@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e3bedb369766081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/storia/Nazismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5b5b6b310da4c5dd",
             "type": "leaf",
             "state": {
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5345e3fda7ee9091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/italiano/Pirandello.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51f1d67e8cd315ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/informatica/Query sql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
