@@ -45,3 +45,4 @@ caratteristiche:
 - squadre d'azione
 - cameratismo(divisa, armi, violenza)
 
+Programma di san sepolcro, in piazzale san sepolcro, a Milano, 1919
