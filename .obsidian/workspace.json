@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "680c7c8d1cf55633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scuola/inglese/Random homeworks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/storia/Fascismo.md",
+                "file": "scuola/inglese/Random homeworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/storia/Fascismo.md",
+                "file": "scuola/inglese/Random homeworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/storia/Fascismo.md"
+                "file": "scuola/inglese/Random homeworks.md"
               }
             }
           },
@@ -165,10 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b5b6b310da4c5dd",
+  "active": "680c7c8d1cf55633",
   "lastOpenFiles": [
-    "scuola/storia/I 3 totalitarismi.md",
     "scuola/storia/Fascismo.md",
+    "scuola/storia/I 3 totalitarismi.md",
     "scuola/italiano/Il fu Mattia Pascal.md",
     "scuola/italiano/Pirandello.md",
     "scuola/storia/Nazismo.md",
