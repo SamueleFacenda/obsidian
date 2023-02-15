@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d6fad3aebebd2246",
@@ -178,7 +179,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "680c7c8d1cf55633",
+  "active": "f8d620af585d99b5",
   "lastOpenFiles": [
     "scuola/storia/Fascismo.md",
     "scuola/storia/I 3 totalitarismi.md",
