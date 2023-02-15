@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d6fad3aebebd2246",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/inglese/Random homeworks.md",
+                "file": "scuola/storia/Fascismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/inglese/Random homeworks.md",
+                "file": "scuola/storia/Fascismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/inglese/Random homeworks.md"
+                "file": "scuola/storia/Fascismo.md"
               }
             }
           },
@@ -178,7 +179,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "680c7c8d1cf55633",
+  "active": "f8d620af585d99b5",
   "lastOpenFiles": [
     "scuola/storia/Fascismo.md",
     "scuola/storia/I 3 totalitarismi.md",
