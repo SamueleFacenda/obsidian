@@ -1,6 +1,6 @@
 {
-  "commitMessage": "vault backup windows surfaceNene: {{date}}",
-  "autoCommitMessage": "vault backup auto windows surfaceNene: {{date}}",
+  "commitMessage": "vault backup samu nokia8: {{date}}",
+  "autoCommitMessage": "vault backup auto android surfaceNene: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
