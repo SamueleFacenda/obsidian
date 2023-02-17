@@ -27,6 +27,11 @@ they still allow users to access the
 applications and data they need.
 
 ## hardware 2
-1. Back in the 1969 at Intel we have designed the first central prosessing unit condensed in one single chip, but 1961 was the beginning, when I've created the first integrated circuit.
-2. It predicts the power of the microprocessor in the years, based on  optimization and miniaturization of the process
-3. 
+
+1. Back in 1969 at Intel we designed the first central processing unit condensed in one single chip, but 1961 was the beginning, when I've created the first integrated circuit.
+2. It predicts the power of the microprocessor in the years, based on  optimization and miniaturization of the process
+3. During years intel scaled the process reducing the size of the microprocessors, gaining speed and optimizing power consumption. It also have upgraded the architecture from 16 bit to 64 bit, exponentially better. 
+4. It was, as I’ve said, the first single chip cpu, it was commercialized in 1971 when Intel held the rights to the chip. It was able to run at 740Khz and used a 16 bit architecture. All in a 3 by 4 millimeter space.
+5. The microprocessor 4004 was designed by Federico Faggin, Ted Hoff and Stanley Mazor.
+6. I can't agree more. We can now manufacture 1.3 Billion transistor in a microprocessor.
+7. Yes, the race for miniaturization is still relevant. Although it is true that devices such as phones or tablets do not require the latest and smallest processors. But it is also true that there are areas where increased processing power and miniaturization are critical.
