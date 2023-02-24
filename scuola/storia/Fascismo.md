@@ -46,3 +46,12 @@ caratteristiche:
 - cameratismo(divisa, armi, violenza)
 
 Programma di san sepolcro, in piazzale san sepolcro, a Milano, 1919
+
+1921 a Roma nasce il partito nazionale fascista(pnf)
+non più anticlericali
+sostegno al re, no repubblica
+programma antitedesco
+programma economico liberista
+
+26 ottobre 1922 michele bianchi, segretario pnf, occupa stazioni e prefetture a Roma
+Il re non dichiara lo stato d'assedio
