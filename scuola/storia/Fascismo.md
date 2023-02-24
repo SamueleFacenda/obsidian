@@ -63,3 +63,7 @@ Gran consiglio del fascismo, indirizza l'azione del governo
 misure liveriste, stato corporativo(gruppi in base all'attività produttiva)
 Elezioni con legge Acerbo con sistema maggioritario, fascisti e sostenitori con un'unica lista
 30 maggio 1924 il socialista Giacomo Matteotti denuncia i brogli, rapito e assassinato
+Le opposizioni chiedono al re un governo legale e si ritirano
+Nel 3 gennaio 1925 Mussuolini si assume la responsabilità dell'omicidio
+
+Nasce il regime dittatoriale in questo punto
