@@ -158,13 +158,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b5b6b310da4c5dd",
+  "active": "faf05354e7513bec",
   "lastOpenFiles": [
     "scuola/inglese/Random homeworks.md",
     "scuola/storia/Fascismo.md",
