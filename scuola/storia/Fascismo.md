@@ -55,3 +55,7 @@ programma economico liberista
 
 26 ottobre 1922 michele bianchi, segretario pnf, occupa stazioni e prefetture a Roma
 Il re non dichiara lo stato d'assedio
+29 ottobre il re convoca mussuolini e diventa capo del governo
+
+politica del doppo binario, violenza e diplomazie con forze politiche vicine, squadre d'azioni non sciolte ma ufficiali, la Milizia volontria per la sicurezza nazionale
+Gran consiglio del fascismo, indirizza l'azione del governo
