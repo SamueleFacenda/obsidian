@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/inglese/Random homeworks.md",
+                "file": "scuola/storia/Fascismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/inglese/Random homeworks.md",
+                "file": "scuola/storia/Fascismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/inglese/Random homeworks.md"
+                "file": "scuola/storia/Fascismo.md"
               }
             }
           },
@@ -179,8 +178,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "680c7c8d1cf55633",
+  "active": "5b5b6b310da4c5dd",
   "lastOpenFiles": [
+    "scuola/inglese/Random homeworks.md",
     "scuola/storia/Fascismo.md",
     "scuola/storia/I 3 totalitarismi.md",
     "scuola/italiano/Il fu Mattia Pascal.md",
@@ -189,7 +189,6 @@
     "scuola/informatica/Query sql.md",
     "scuola/robotica/Progettazione.md",
     "scuola/robotica/cose da fare.md",
-    "Idee e progetti.md",
-    "scuola/robotica/Untitled.md"
+    "Idee e progetti.md"
   ]
 }
