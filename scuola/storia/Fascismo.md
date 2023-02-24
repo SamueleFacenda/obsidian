@@ -67,3 +67,7 @@ Le opposizioni chiedono al re un governo legale e si ritirano
 Nel 3 gennaio 1925 Mussuolini si assume la responsabilità dell'omicidio
 
 Nasce il regime dittatoriale in questo punto
+Leggi fascistissime(novembre 1926)
+Tribunale speciale per la difesa dello stato
+
+totalitarismo imperfetto: c'è ancora il re e la chiesa
