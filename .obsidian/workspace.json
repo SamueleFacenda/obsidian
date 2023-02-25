@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "492fcbeeb306c8e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "faf05354e7513bec",
+  "active": "492fcbeeb306c8e0",
   "lastOpenFiles": [
     "scuola/storia/I 3 totalitarismi.md",
     "scuola/storia/Fascismo.md",
