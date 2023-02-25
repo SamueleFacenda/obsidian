@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/storia/Fascismo.md",
+                "file": "scuola/storia/Nazismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/storia/Fascismo.md",
+                "file": "scuola/storia/Nazismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/storia/Fascismo.md",
+                "file": "scuola/storia/Nazismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/storia/Fascismo.md"
+                "file": "scuola/storia/Nazismo.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   "active": "5b5b6b310da4c5dd",
   "lastOpenFiles": [
     "scuola/storia/I 3 totalitarismi.md",
-    "scuola/storia/Nazismo.md",
     "scuola/storia/Fascismo.md",
+    "scuola/storia/Nazismo.md",
     "scuola/inglese/Random homeworks.md",
     "scuola/italiano/Il fu Mattia Pascal.md",
     "scuola/italiano/Pirandello.md",
