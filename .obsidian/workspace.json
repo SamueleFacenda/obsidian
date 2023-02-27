@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f46080ee646bac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scuola/storia/Fascismo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11930d77e4f5d40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scuola/storia/Nazismo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/storia/I 3 totalitarismi.md",
+                "file": "scuola/storia/Nazismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/storia/I 3 totalitarismi.md",
+                "file": "scuola/storia/Nazismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/storia/I 3 totalitarismi.md"
+                "file": "scuola/storia/Nazismo.md"
               }
             }
           },
@@ -163,11 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b5b6b310da4c5dd",
+  "active": "11930d77e4f5d40c",
   "lastOpenFiles": [
     "scuola/storia/Fascismo.md",
-    "scuola/storia/Nazismo.md",
     "scuola/storia/I 3 totalitarismi.md",
+    "scuola/storia/Nazismo.md",
     "scuola/inglese/Random homeworks.md",
     "scuola/italiano/Il fu Mattia Pascal.md",
     "scuola/italiano/Pirandello.md",
