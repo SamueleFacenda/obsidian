@@ -74,4 +74,5 @@ totalitarismo imperfetto: c'è ancora il re e la chiesa
 
 11 febbraio 1929, patti lateranensi, per controllare la chiesa e evitare prevalicamenti, cattolicesimo diventa religione di stato. Sono 2 o più documenti, più trattati
 partito unico, controllo dell'educazione e delle masse, dopo scuola e dopo lavoro, propaganda, controllo del consenso, controllo dello stato con struttura piramidale
-li controllano 'dalla '
+li controllano
+opera nazionale 
