@@ -108,4 +108,6 @@ canzoni e discorsi in radio
 fallimento, messo in pratica ma non troppo
 1926, abolizione libertà sindacale e diritto di sciopero
 1927 carta del lavoro, le corporazioni coordinano tutti gli aspetti dell'attività produttiva
-per evi
+per evitare conflitti tra classi, lavoratori e datori di lavoro devono collaborare per l'interesse della nazione
+Gli operai ad esempio non dovrebbero più ribellarsi con i capifabbrica perchè sono tutti della stessa corporazione
+camera dei fasci delle corporazioni(deputati), vita difficile per lei, i membri sono scelti dal partito
