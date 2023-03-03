@@ -104,3 +104,8 @@ propaganda anche al cinema e alla radio
 fondazione istituto LUCE, pubblicità e documentari(con sonoro dal 1930) di propaganda
 canzoni e discorsi in radio
 
+#### Lo stato corporativo
+fallimento, messo in pratica ma non troppo
+1926, abolizione libertà sindacale e diritto di sciopero
+1927 carta del lavoro, le corporazioni coordinano tutti gli aspetti dell'attività produttiva
+per evi
