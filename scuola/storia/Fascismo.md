@@ -71,13 +71,25 @@ Leggi fascistissime(novembre 1926)
 Tribunale speciale per la difesa dello stato
 
 totalitarismo imperfetto: c'è ancora il re e la chiesa
-
+#### La chiesa
 11 febbraio 1929, patti lateranensi, per controllare la chiesa e evitare prevalicamenti, cattolicesimo diventa religione di stato. Sono 2 o più documenti, più trattati
 partito unico, controllo dell'educazione e delle masse, dopo scuola e dopo lavoro, propaganda, controllo del consenso, controllo dello stato con struttura piramidale
 > li controllano 'dalla culla alla tomba'
-
+#### Controllo del tempo livero
 1926 opera nazionale balilla, gestita dal partito. Organizzati per fascie d'età. 
 è difficile smantellare il tessuto sociale, vengono chiusi tutti i movimenti che non sono religiosi. 
 1931 le organizzazioni giovanili vengono sciolte
 la Chiesa riesce a limitare il monopolio dell'educazione, con Azione cattolica e Gioventù cattolica.
 1925 opera nazionale del dopolavoro, organizza il tempo libero delle persone. Questa organizzazione non riesce a eliminare il vecchio tessuto popolare(bande, cori...)
+#### La scuola
+1922-1924, riforma di Giovanni Gentile, più cultura umanistica di istruzione tecnica, scuola diventa selettiva, equilibrio tra scuola pubblica e privata, licei a numero chiuso. 
+1934-1935, culmine con la celebrazione dei riti fascisti a scuola
+Il fascismo viene usato nell'istruzione, ad esempio nei problemi matematici
+#### La propaganda
+- immagine positiva e vincente della dittatura
+- celebrazione della grandezza di roma
+- valori:
+	- forza
+	- ordine
+	- potenza
+- culto del 
