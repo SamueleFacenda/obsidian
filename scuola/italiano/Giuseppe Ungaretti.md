@@ -4,3 +4,7 @@
 1914 va in Italia, interventista
 dopoguerra torna a Parigi
 1922 aderisce al fascismo, concordia politica e sociale
+
+## Testi
+molte analogie
+relazioni di oggetti non secondo la logica ma secondo libere associazioni -> intuizioni
