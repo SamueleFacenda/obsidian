@@ -10,3 +10,8 @@ molte analogie
 relazioni di oggetti non secondo la logica ma secondo libere associazioni -> intuizioni
 versi brevi, anche di una sola parola
 forza evocativa della parola: espressionismo lessicale
+
+## Fasi
+- uno: sperimentalismo, opere: allegria(porto sepolto)
+- due: recupero tradizione, opera: sentimento del tempo
+- tre
