@@ -12,6 +12,6 @@ versi brevi, anche di una sola parola
 forza evocativa della parola: espressionismo lessicale
 
 ## Fasi
-- uno: sperimentalismo, opere: allegria(porto sepolto)
+- uno: sperimentalismo, opera: allegria(porto sepolto)
 - due: recupero tradizione, opera: sentimento del tempo
-- tre
+- tre: compostezza formale, opera: il dolore
