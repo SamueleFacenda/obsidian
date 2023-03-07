@@ -12,4 +12,5 @@ Fasi del dhcp:
 - discover, il client cerca il server dhcp(di solito è il router)
 - offer, il server risponde con un indirizzo
 - request, il client accetta o meno l'indirizzo
-- acknowledge, 
+- acknowledge, il server conferma l'assegnazione dell'indirizzo
+attacchi: dhcp spoofing, un attaccante cerca di assumere il controllo della rete tramite false assegnazioni dhcp. Si difende con il dhcp snooping, monitorando e limitando il traffico della rete.
