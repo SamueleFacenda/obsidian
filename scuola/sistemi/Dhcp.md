@@ -14,3 +14,4 @@ Fasi del dhcp:
 - request, il client accetta o meno l'indirizzo
 - acknowledge, il server conferma l'assegnazione dell'indirizzo
 attacchi: dhcp spoofing, un attaccante cerca di assumere il controllo della rete tramite false assegnazioni dhcp. Si difende con il dhcp snooping, monitorando e limitando il traffico della rete.
+L'assegnazione di un indirizzo ha una scadenza, pre prevenire la saturazione della rete. Alla scadenza un host deve procedere a una nuova richiesta
