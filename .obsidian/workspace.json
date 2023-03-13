@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e662c4b336678fd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/sistemi/Dhcp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/sistemi/Dhcp.md",
+                "file": "scuola/italiano/Giuseppe Ungaretti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/sistemi/Dhcp.md",
+                "file": "scuola/italiano/Giuseppe Ungaretti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/sistemi/Dhcp.md"
+                "file": "scuola/italiano/Giuseppe Ungaretti.md"
               }
             }
           },
@@ -189,10 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e662c4b336678fd0",
+  "active": "b75f488565c1fa13",
   "lastOpenFiles": [
-    "scuola/italiano/Giuseppe Ungaretti.md",
     "scuola/sistemi/Dhcp.md",
+    "scuola/italiano/Giuseppe Ungaretti.md",
     "scuola/storia/Fascismo.md",
     "scuola/storia/I 3 totalitarismi.md",
     "scuola/storia/Nazismo.md",
