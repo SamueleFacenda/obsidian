@@ -112,3 +112,6 @@ per evitare conflitti tra classi, lavoratori e datori di lavoro devono collabora
 Gli operai ad esempio non dovrebbero più ribellarsi con i capifabbrica perchè sono tutti della stessa corporazione
 camera dei fasci delle corporazioni(deputati), vita difficile per lei, i membri sono scelti dal partito
 
+#### La politica economica
+
+crisi del '29, Grande depressione. Disoccupazione, salari bassi e riduzione produzione. 
