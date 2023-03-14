@@ -141,3 +141,9 @@ La società delle nazioni condalla l'aggressione con sanzioni economiche. La Ger
 Comando a Pietro Badoglio, bombardamenti e gas velenosi. 15 maggio 1936 Badoglio entra ad Addis Abeba. Mussuolini fonda l'impero d'etiopia, Vittorio emanuele III imperatore.
 eritrea + somalia + etiopia = africa orientale italiana
 
+##### Terza fase
+avvicinamento alla Germania. germania prova e prendere l'Autria, poi l'Italia non si oppone.
+24 ottobre 1936 nasce l'asse Roma-Berlino
+lotta al bolscevismo
+sostegno ai militari spagnoli
+1938, l'Italia permette alla Germania di conquistare l'Austria
