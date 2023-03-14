@@ -115,3 +115,13 @@ camera dei fasci delle corporazioni(deputati), vita difficile per lei, i membri 
 #### La politica economica
 
 crisi del '29, Grande depressione. Disoccupazione, salari bassi e riduzione produzione. 
+risposte:
+- sostegno dello stato nell'indistria e nelle opere pubbliche, creazione istututi per il controlle della finanza pubblica(mobiliare, ricostruzione industriale). Capitalismo di stato
+- autarchia, mercato verso l'interno
+
+#### La politica estera
+
+##### Prima fase
+1924 patto di Roma, iugoslavia siconosciuta in cambio di Fiume
+1924 riconoscimento dell'Urss
+
