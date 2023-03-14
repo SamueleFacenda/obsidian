@@ -147,3 +147,5 @@ avvicinamento alla Germania. germania prova e prendere l'Autria, poi l'Italia no
 lotta al bolscevismo
 sostegno ai militari spagnoli
 1938, l'Italia permette alla Germania di conquistare l'Austria
+
+leggi razziali, non antisemite. Fine anni 30 ideologia razziste, separazione tra locali e coloni in etiopia. La dichiarazione sulla razza, Leggi per la difesa della razza.
