@@ -124,4 +124,12 @@ risposte:
 ##### Prima fase
 1924 patto di Roma, iugoslavia siconosciuta in cambio di Fiume
 1924 riconoscimento dell'Urss
+1925 patto di Locarno, frontiera italo-tedesca è intangibile
+1928 patto Briand-Kellog, guerra bandita dalle relazioni internazionali
 
+##### Seconda fase
+1932 sistema produttivo bellico, militarizzazione
+1919 si schiera con gli stati danneggiati dai trattati di Versailles
+cerca di tenere i rapporti con francia e inghilterra
+1933 patto a quattro, GB Francia e germania
+Francia autorizza l'italia a invadere l'etiopia
