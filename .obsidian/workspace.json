@@ -42,18 +42,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "182b831d02897d59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/italiano/compiti.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -203,10 +191,10 @@
   },
   "active": "e6e1966935c3a62c",
   "lastOpenFiles": [
-    "scuola/storia/Fascismo.md",
-    "scuola/sistemi/Coso di gruppo.md",
-    "scuola/italiano/compiti.md",
     "scuola/italiano/Giuseppe Ungaretti.md",
+    "scuola/italiano/compiti.md",
+    "scuola/sistemi/Coso di gruppo.md",
+    "scuola/storia/Fascismo.md",
     "scuola/sistemi/Dhcp.md",
     "scuola/storia/I 3 totalitarismi.md",
     "scuola/storia/Nazismo.md",

@@ -14,3 +14,8 @@ static network address translation. Viene sempre utilizzato lo stesso indirizzi 
 
 ## Nat dinamico
 tecnica di traduzione di indirizzi ip in modo dinamico, per nascondere il proprio indirizzo. Gli indirizzi pubblici vengono usati per essere assegnati agli host che comunicano con l'esterno. è importante che questa pool sia minore del numeo di dispositivi. Quando un host vuole comunicare gli viene assegnato il primo indirizzo disponibile. Non viene usata coi server, visto che non sarebbero accessibili dall'esterno. Comandi: sulle interfacce ip nat inside/outside. Creo la pool e l'access list. Ip nat inside source list LISTA pool POOL ed è fatto. 
+
+## Server web
+Scambia contenuti di default sulle porte 80 e 443, usando il protocollo http. 
+#### Http
+client server, documentato negli rfc. Ci sono tre macro categorie: start line che definisce se è una richiesta o risposta, due caratteri ascii per la fine delle startline e inizial'header. Associazione nome campo e valore, spesso riempiti dal browser. Contengono ad esempio i cookie. Ultima sezione, il body, contiene il messaggio principale, che può essere una pagina web o anche i campi di un form. Sicurezza, possono essere ispezionati i pacchetti http dal web server se il protocollo è in chiaro(no https). Questi server sono in una dmz, anche per bilanciare il carico. 
