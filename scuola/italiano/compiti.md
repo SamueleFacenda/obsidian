@@ -11,4 +11,6 @@ informatica
 livelli:
 - pila iso osi
 - protocolli di rete
-- 
+- livelli progettazione
+- astrazione, progettazione, implementazione, logico
+- dmz, livelli 
