@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/italiano/Giuseppe Ungaretti.md",
+                "file": "scuola/italiano/compiti.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/italiano/Giuseppe Ungaretti.md",
+                "file": "scuola/italiano/compiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/italiano/Giuseppe Ungaretti.md",
+                "file": "scuola/italiano/compiti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/italiano/Giuseppe Ungaretti.md"
+                "file": "scuola/italiano/compiti.md"
               }
             }
           },
@@ -179,9 +179,9 @@
   },
   "active": "b75f488565c1fa13",
   "lastOpenFiles": [
+    "scuola/italiano/Giuseppe Ungaretti.md",
     "scuola/storia/Fascismo.md",
     "scuola/sistemi/Coso di gruppo.md",
-    "scuola/italiano/Giuseppe Ungaretti.md",
     "scuola/italiano/compiti.md",
     "scuola/sistemi/Dhcp.md",
     "scuola/storia/I 3 totalitarismi.md",
