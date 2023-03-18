@@ -13,4 +13,4 @@ livelli:
 - protocolli di rete
 - livelli progettazione
 - astrazione, progettazione, implementazione, logico
-- dmz, livelli 
+- dmz, livelli di accesso alla rete
