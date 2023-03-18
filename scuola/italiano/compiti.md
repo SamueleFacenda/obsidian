@@ -6,3 +6,9 @@ fratelli ungaretti
 
 3. la bocca digrignata, il suo essere massacrato, la posizione rivolta verso il cielo, i segni della morte e della congestione. 
 10. Nel suo commento Ungaretti riprende i concetti di altre suo poesie come la fratellanza tra tutti i soldati, bloccati nella loro orribile situazione. Parla anche di contraddizione, riferendosi a come si sentisse attaccato alla vita, a come volesse essere lontano dalla morte proprio quando questa stava a pochi metri da lui.
+
+informatica
+livelli:
+- pila iso osi
+- protocolli di rete
+- 
