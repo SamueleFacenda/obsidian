@@ -3,3 +3,6 @@ fratelli ungaretti
 2. reggimento, spasimante, notte: evidenziano la fratellanza tra i soldati amici, la sofferenza delle battaglie e la cupezza della situazione.
 3. Dopo il primo attimo dell'incontro si sono ritrovati e c'è il sollievo della compagnia, del ritrovo dei fratelli.
 	La parola fratelli ha uno spazio bianco che lo precede anche per evidenziare la difficoltà con cui si può definire fratello una persona che si deve uccidere.
+
+3. la bocca digrignata, il suo essere massacrato, la posizione rivolta verso il cielo, i segni della morte e della congestione. 
+10. Nel suo commento Ungaretti 
