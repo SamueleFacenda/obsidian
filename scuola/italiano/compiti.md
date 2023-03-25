@@ -15,4 +15,6 @@ livelli:
 - astrazione, progettazione, implementazione, logico
 - dmz, livelli di accesso alla rete
 - sicurezza
-- 
+
+Nei due testi si possono individu
+Le parole, le poesie nascono sempre dal profondo del poeta(una parola è scavata nella mia vita come un abisso, e poi torna alla luce con i suoi canti), vengono dal suo silenzio, dalla sua immersione e poi vengono disperse. Le poesie sono poi fatte di parole, imperscrutabili e parte di un delirante fermento.  
