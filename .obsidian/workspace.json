@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b75f488565c1fa13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/italiano/compiti.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/italiano/compiti.md",
+                "file": "scuola/storia/Fascismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/italiano/compiti.md",
+                "file": "scuola/storia/Fascismo.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/italiano/compiti.md"
+                "file": "scuola/storia/Fascismo.md"
               }
             }
           },
@@ -162,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,12 +163,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b75f488565c1fa13",
+  "active": "faf05354e7513bec",
   "lastOpenFiles": [
-    "scuola/informatica/Query sql.md",
-    "scuola/italiano/compiti.md",
     "scuola/italiano/Giuseppe Ungaretti.md",
     "scuola/storia/Fascismo.md",
+    "scuola/italiano/compiti.md",
+    "scuola/informatica/Query sql.md",
     "scuola/sistemi/Coso di gruppo.md",
     "scuola/sistemi/Dhcp.md",
     "scuola/storia/I 3 totalitarismi.md",

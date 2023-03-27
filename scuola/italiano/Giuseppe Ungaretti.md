@@ -3,7 +3,7 @@
 1912 va a Parigi, lezioni di Bergson
 1914 va in Italia, interventista
 dopoguerra torna a Parigi
-1922 aderisce al fascismo, concordia politica e sociale
+1922 aderisce al [[fascismo]], concordia politica e sociale
 
 ## Testi
 molte analogie
