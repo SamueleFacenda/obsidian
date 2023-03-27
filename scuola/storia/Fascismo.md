@@ -116,7 +116,7 @@ camera dei fasci delle corporazioni(deputati), vita difficile per lei, i membri 
 
 crisi del '29, Grande depressione. Disoccupazione, salari bassi e riduzione produzione. 
 risposte:
-- sostegno dello stato nell'indistria e nelle opere pubbliche, creazione istututi per il controlle della finanza pubblica(mobiliare, ricostruzione industriale). Capitalismo di stato
+- sostegno dello stato nell'industria e nelle opere pubbliche, creazione istituti per il controllo della finanza pubblica(mobiliare, ricostruzione industriale). Capitalismo di stato
 - autarchia, mercato verso l'interno
 
 #### La politica estera
