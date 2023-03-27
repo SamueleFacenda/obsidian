@@ -137,7 +137,7 @@ Francia autorizza l'italia a invadere l'etiopia
 aggressione all'Etiopia
 impero attraverso espansione coloniale. Prestigio militare, riscattare l'onore perduto ad Adua nel 1896, cercare di ottenere nuove materie prime.
 3 ottobre 1935 l'Italia attacca l'Etiopia e l'Eritra, avanza a stento
-La società delle nazioni condalla l'aggressione con sanzioni economiche. La Germania non sostiene questo.
+La società delle nazioni condanna l'aggressione con sanzioni economiche. La Germania non sostiene questo.
 Comando a Pietro Badoglio, bombardamenti e gas velenosi. 15 maggio 1936 Badoglio entra ad Addis Abeba. Mussuolini fonda l'impero d'etiopia, Vittorio emanuele III imperatore.
 eritrea + somalia + etiopia = africa orientale italiana
 
