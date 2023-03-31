@@ -10,4 +10,4 @@ fan di italo svevo
 ossi di seppia mel 1925, torino
 
 si trasferisce a firenze, 1927. Lavora per la casa editrice bemproad, e a capo del gabinetto scientifico viesseux(perde il posto perchè antifascista). Scrive per la rivista Solaria. 
-Durante la seconda guerra mondiale: incontra irma brandeis
+Durante la seconda guerra mondiale: incontra irma brandeis. Pubblica la seconda raccolta: "le occasioni" 1939. Incotra Drusilla Tanzi(Mosca) e diventa sua moglia. Alla fine della guerra si iscrive al comitato nazionale di liberazione.
