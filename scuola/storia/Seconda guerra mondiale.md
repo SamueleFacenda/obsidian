@@ -7,3 +7,4 @@ guerra lampo, guerra con attacchi aerei, attacchi gestiti dalle truppe via terra
 La germania non era capace di sostenera una guerra lunga. Così vengono coinvolti i civili.
 
 Il primo settembre del 1939 inizia la guerra, in tre settimane la germania invade la polonia. 
+Il tre settembre la Francia e la GB intervengono contro i tedeschi, ma fiaccamente. 
