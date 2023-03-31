@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f46080ee646bac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/storia/Nazismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b523275026cbc1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/inglese/compiti.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cbf77ca203938d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/italiano/Eugenio montale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba2f315227ceb55f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a6d5fcf9d6f26091",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "altro/scout/Untitled.md",
+                "file": "altro/scout/Carta di clan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "altro/scout/Untitled.md",
+                "file": "altro/scout/Carta di clan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "altro/scout/Untitled.md",
+                "file": "altro/scout/Carta di clan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "altro/scout/Untitled.md"
+                "file": "altro/scout/Carta di clan.md"
               }
             }
           },
@@ -216,7 +167,7 @@
   "active": "a6d5fcf9d6f26091",
   "lastOpenFiles": [
     "scuola/storia/Seconda guerra mondiale.md",
-    "altro/scout/Untitled.md",
+    "altro/scout/Carta di clan.md",
     "altro/scout/Untitled",
     "altro/scout",
     "altro",
