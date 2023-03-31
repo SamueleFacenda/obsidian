@@ -28,3 +28,5 @@ come la vorremmo:
 - vissuta insieme e in modo compatto(vicini, senza abbandonarci)
 - espressione di libertà attraverso l'essenzialità
 - affidarsi agli altri riconoscendo i propri limiti
+- non fine a sé stessa(!) ma che prenda in considerazione gli aspetti sopra esposti
+- originale, scoperta del territorio
