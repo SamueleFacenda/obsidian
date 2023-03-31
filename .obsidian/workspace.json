@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cbf77ca203938d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scuola/italiano/Eugenio montale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d6fad3aebebd2246",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/inglese/compiti.md",
+                "file": "scuola/italiano/Eugenio montale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/inglese/compiti.md",
+                "file": "scuola/italiano/Eugenio montale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/inglese/compiti.md"
+                "file": "scuola/italiano/Eugenio montale.md"
               }
             }
           },
@@ -177,10 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b523275026cbc1b",
+  "active": "8cbf77ca203938d0",
   "lastOpenFiles": [
-    "scuola/storia/Nazismo.md",
     "scuola/inglese/compiti.md",
+    "scuola/italiano/Eugenio montale.md",
+    "scuola/storia/Nazismo.md",
     "scuola/storia/I 3 totalitarismi.md",
     "scuola/storia/Fascismo.md",
     "scuola/italiano/Giuseppe Ungaretti.md",
