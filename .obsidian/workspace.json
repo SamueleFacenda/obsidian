@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6d5fcf9d6f26091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "altro/scout/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md",
+                "file": "altro/scout/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md",
+                "file": "altro/scout/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md"
+                "file": "altro/scout/Untitled.md"
               }
             }
           },
@@ -201,10 +213,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba2f315227ceb55f",
+  "active": "a6d5fcf9d6f26091",
   "lastOpenFiles": [
-    "scuola/italiano/Eugenio montale.md",
     "scuola/storia/Seconda guerra mondiale.md",
+    "altro/scout/Untitled.md",
+    "altro/scout/Untitled",
+    "altro/scout",
+    "altro",
+    "scuola/italiano/Eugenio montale.md",
     "scuola/inglese/compiti.md",
     "scuola/storia/Nazismo.md",
     "scuola/storia/I 3 totalitarismi.md",
