@@ -19,4 +19,5 @@ cos'è per noi:
 - momento di crescita personale
 - momento di confronto e scoperta dell'altro
 - condivisione della fatica
+- 
 > riconosciamo che la strada è fare fatica, ma che attraverso la fatica si creano rapporti veri di comunità
