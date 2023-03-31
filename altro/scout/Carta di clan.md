@@ -3,11 +3,12 @@ I punti principali estrapolati dalle riflessioni di lunedì(bigliettini cosa vog
 - attenzione all'ambiente
 - aiutare chi è in difficoltà
 - creare legami lungo la strada/confronto
-- attenzione alle mete
-- puntualità e organizzazione
+- attenzione alle mete, puntualità e organizzazione
 - creare una struttura, un percorso dietro alla strada(dietro alle diverse uscite)
 - provare a raggiungere e superare i nostri limiti
 
 ### aspetto tecnico
 introduzione(cose astratte)
 poi impegni
+
+#### introduzione
