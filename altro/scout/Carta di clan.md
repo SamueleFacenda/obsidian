@@ -25,4 +25,6 @@ cos'è per noi:
 
 come la vorremmo:
 - riuscire a vivere e superare gli ostacoli con serentità e leggerezza
-- 
+- vissuta insieme e in modo compatto(vicini, senza abbandonarci)
+- espressione di libertà attraverso l'essenzialità
+- affidarsi agli altri riconoscendo i propri limiti
