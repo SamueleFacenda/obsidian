@@ -19,5 +19,10 @@ cos'è per noi:
 - momento di crescita personale
 - momento di confronto e scoperta dell'altro
 - condivisione della fatica
-- 
+- apprezzamento della natura
+
 > riconosciamo che la strada è fare fatica, ma che attraverso la fatica si creano rapporti veri di comunità
+
+come la vorremmo:
+- riuscire a vivere e superare gli ostacoli con serentità e leggerezza
+- 
