@@ -7,11 +7,13 @@ I punti principali estrapolati dalle riflessioni di lunedì(bigliettini cosa vog
 - puntualità e organizzazione
 - creare una struttura, un percorso dietro alla strada(dietro alle diverse uscite)
 - provare a raggiungere e superare i nostri limiti
+- strada come crescita personale
 
 ### aspetto tecnico
 introduzione(cose astratte)
 poi impegni
 se si riesce titolo dell'impegno(stile legge scout) + spiegazione
+
 #### introduzione
 cos'è per noi:
 - 
