@@ -49,4 +49,7 @@ testi chiave:
 temi:
 - negatività esistenziale
 - visione pessimistica del mondo
-- ...
+- desiderio di recuperare il passato
+- ricerca di un varco
+- mare
+- oggetti conreti per cercare sentimenti
