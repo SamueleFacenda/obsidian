@@ -36,4 +36,8 @@ Durante la seconda guerra mondiale: incontra irma brandeis. Pubblica la seconda 
 
 Si contrappone ai "poeti laureati"(d'Annunzio), quelli che parlano in modo astratto, si oppone alla figura del poeta vate. 
 Usa un linguaggio nuovo: aspro, essenziale, con termini comuni e termini precisi.
-Metriva per lo più tradizionale.
+Metrica per lo più tradizionale.
+
+
+## Ossi di seppia
+
