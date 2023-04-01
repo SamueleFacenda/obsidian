@@ -24,5 +24,10 @@ Durante la seconda guerra mondiale: incontra irma brandeis. Pubblica la seconda 
 - **il pessimismo**, male di vivere, l'esistenza umana non riserva gioie, pessimismo storico-sociale, di fondo.
 - **critica alla società dei consumi**, silenzio poetico negli anni '60, critica con ironia e sarcasmo la società del tempo.
 - **ricerca del varco**, una via per comprendere il senso dell'esistenza, liberare l'uomo dalla vita piena di angoscia e impotenza. Poetica degli oggetti e le figure femminili sono chiavi per comprendere il mondo.
-- **poetica degli oggetti**, non è la parola l'importante, ma gli oggetti, possono essere l'immagine perfetta del male di vivere.
-- 
+- **poetica degli oggetti**, non è la parola l'importante, ma gli oggetti, possono essere l'immagine perfetta del male di vivere. Correlativo oggettivo di Eliot(per descrivere un'emozione, mi serve un oggetto)
+- **figure femminili**, descritte non fisicamente ma attraverso gesti, particolari, immagini e oggetti. Servono per dare un senso e un significato ai testi. Sono:
+  - Arletta(Anna degli Uberti), doppa porta salvezza
+  - Arzia(Irma Brandeis), donna angelo che sostiene il poeta
+  - Mosca(Drusilla Tanzi), realtà quotidiana e private
+  - Volpe(Anna Maria Spaziani, poetessa), passione carnale
+- **poesia metafisica**, non indaga a realtà e non è una confessione, è una testimonianza o riflessione sul disagio esistenziale. 
