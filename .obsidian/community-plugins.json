@@ -1,8 +1,7 @@
 [
   "obsidian-git",
   "dataview",
-  "templater-obsidian",
-  "cm-editor-syntax-highlight-obsidian",
   "nldates-obsidian",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-wakatime"
 ]
