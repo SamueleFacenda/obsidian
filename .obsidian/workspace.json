@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "altro/scout/Carta di clan.md",
+                "file": "scuola/italiano/Eugenio Montale.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "altro/scout/Carta di clan.md",
+                "file": "scuola/italiano/Eugenio Montale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "altro/scout/Carta di clan.md",
+                "file": "scuola/italiano/Eugenio Montale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "altro/scout/Carta di clan.md"
+                "file": "scuola/italiano/Eugenio Montale.md"
               }
             }
           },
@@ -166,12 +166,12 @@
   },
   "active": "a6d5fcf9d6f26091",
   "lastOpenFiles": [
-    "scuola/storia/Seconda guerra mondiale.md",
     "altro/scout/Carta di clan.md",
+    "scuola/storia/Seconda guerra mondiale.md",
     "altro/scout/Untitled",
     "altro/scout",
     "altro",
-    "scuola/italiano/Eugenio montale.md",
+    "scuola/italiano/Eugenio Montale.md",
     "scuola/inglese/compiti.md",
     "scuola/storia/Nazismo.md",
     "scuola/storia/I 3 totalitarismi.md",
