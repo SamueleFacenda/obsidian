@@ -21,7 +21,8 @@ Durante la seconda guerra mondiale: incontra irma brandeis. Pubblica la seconda 
 
 ### Concetti chiave
 
-- **il pessimismo**, male di vivere, l'esistenza umana non riserva gioie, pessimismo storico-sociale, di fondo
+- **il pessimismo**, male di vivere, l'esistenza umana non riserva gioie, pessimismo storico-sociale, di fondo.
 - **critica alla società dei consumi**, silenzio poetico negli anni '60, critica con ironia e sarcasmo la società del tempo.
 - **ricerca del varco**, una via per comprendere il senso dell'esistenza, liberare l'uomo dalla vita piena di angoscia e impotenza. Poetica degli oggetti e le figure femminili sono chiavi per comprendere il mondo.
 - **poetica degli oggetti**, non è la parola l'importante, ma gli oggetti, possono essere l'immagine perfetta del male di vivere.
+- 
