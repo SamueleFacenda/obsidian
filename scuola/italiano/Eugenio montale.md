@@ -31,3 +31,9 @@ Durante la seconda guerra mondiale: incontra irma brandeis. Pubblica la seconda 
   - Mosca(Drusilla Tanzi), realtà quotidiana e private
   - Volpe(Anna Maria Spaziani, poetessa), passione carnale
 - **poesia metafisica**, non indaga a realtà e non è una confessione, è una testimonianza o riflessione sul disagio esistenziale. 
+
+### Scelte linguistiche
+
+Si contrappone ai "poeti laureati"(d'Annunzio), quelli che parlano in modo astratto, si oppone alla figura del poeta vate. 
+Usa un linguaggio nuovo: aspro, essenziale, con termini comuni e termini precisi.
+Metriva per lo più tradizionale.
