@@ -14,6 +14,7 @@ Durante la seconda guerra mondiale: incontra irma brandeis. Pubblica la seconda 
 1956 pubblica la terza raccolta: "la bufera e altro". Senatore a vita nel 1967, nobel nel '75. Muore a milano e 1981. 
 
 Sintesi opere:
-- ossi di seppia(1925), si parla del male di vivere, il poeta non riesce a cogliere il senso profondo della vita, non trova un "varco" per capire lel cose che lo circondano. Paesaggio ligure
-- le occasioni(1939), poesie collegate ai ricordi e alla rivelazione di significati nascosti. Ricerca dell'eccezione alla negatività(le occasioni). Si parla di Clizia
-- La bufera e altro(1956), scritta durante la seconda guerra mondiale, parla del dramma sociale ma anche con momenti di analisi interiore. La bufera è la guerra e l'altro i
+- Ossi di seppia(1925), si parla del male di vivere, il poeta non riesce a cogliere il senso profondo della vita, non trova un "varco" per capire lel cose che lo circondano. Paesaggio ligure
+- Le occasioni(1939), poesie collegate ai ricordi e alla rivelazione di significati nascosti. Ricerca dell'eccezione alla negatività(le occasioni). Si parla di Clizia
+- La bufera e altro(1956), scritta durante la seconda guerra mondiale, parla del dramma sociale ma anche con momenti di analisi interiore. La bufera è la guerra e l'altro indica le cose negative della società del dopoguerra. Importanti le figure femminili.
+- Sature(1979), ultimi testi, comprende la sezione "Xenia", rimpianto e dolore. Condanna la società di massa in cui è difficile fare il poeta, critica il presente
