@@ -41,3 +41,12 @@ Metrica per lo più tradizionale.
 
 ## Ossi di seppia
 
+61 testi
+4 sezioni
+testi chiave:
+- i limoni
+- non chiederci la parola
+temi:
+- negatività esistenziale
+- visione pessimistica del mondo
+- ...
