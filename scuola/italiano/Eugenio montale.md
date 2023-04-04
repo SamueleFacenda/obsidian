@@ -7,7 +7,7 @@ frequenta anna degli umberti(annetta o arletta) e collabora con peiro gobetti
 rifiuta le avanguardie
 fan di italo svevo
 1925 firma il manifesto degli intellettuali antifascisti
-ossi di seppia mel 1925, torino
+ossi di seppia nel 1925, torino
 
 si trasferisce a firenze, 1927. Lavora per la casa editrice bemproad, e a capo del gabinetto scientifico viesseux(perde il posto perchè antifascista). Scrive per la rivista Solaria. 
 Durante la seconda guerra mondiale: incontra irma brandeis. Pubblica la seconda raccolta: "le occasioni" 1939. Incotra Drusilla Tanzi(Mosca) e diventa sua moglia. Alla fine della guerra si iscrive al comitato nazionale di liberazione.
@@ -30,7 +30,7 @@ Durante la seconda guerra mondiale: incontra irma brandeis. Pubblica la seconda 
   - Arzia(Irma Brandeis), donna angelo che sostiene il poeta
   - Mosca(Drusilla Tanzi), realtà quotidiana e private
   - Volpe(Anna Maria Spaziani, poetessa), passione carnale
-- **poesia metafisica**, non indaga a realtà e non è una confessione, è una testimonianza o riflessione sul disagio esistenziale. 
+- **poesia metafisica**, non indaga la realtà e non è una confessione, è una testimonianza o riflessione sul disagio esistenziale. 
 
 ### Scelte linguistiche
 
