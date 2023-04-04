@@ -13,3 +13,8 @@ il fronte occidentale: linea maginot.
 sempre passando dal belgio, passando dalla foresta delle ardenne(non era possibile nella prima guerra mondiale perchè mancavano i mezzi)
 
 1940 le truppe inglesi(francesi e belghe), si ritirano a dankerque, nella manica. 340.000 uomini vengono salvati in una missione di recupero.
+
+Francia e Germania fanno un armistizio  il 22 giugno 1940, la parte settentrionale è sotto occupazione tedesca, la parte meridionale è la repubbliva di vichy, guidata da Philippe Pétain(fantoccio tedesco).
+
+Battaglia d'Inghilterra, aerea
+Luftwaffe contro inglesi, che prevalgono con i radar. U-boote sconfitti nell'atlantico
