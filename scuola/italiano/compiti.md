@@ -24,9 +24,10 @@ Le parole, le poesie nascono sempre dal profondo del poeta(una parola è scavata
 #### Tesi
 La musica ha un potere immenso sugli esseri umani
 #### Argomenti
+- la musica genera emozioni in modo ineguagliabile, 
 - musicoterapia
-- musica che fa compagnia
-- bob marley che fa stringere la mano a due politici nemici, la musica unisce e trasmette messag
+- musica che fa compagnia, contro la solitudine
+- bob marley che fa stringere la mano a due politici nemici, la musica unisce e trasmette messaggi
 #### Antitesi
-
+Ci sono altre forme d'arte che trasmettono emozioni e messaggi, la musica è solo una delle tante, 
 #### Confutazione
