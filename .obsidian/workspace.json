@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md",
+                "file": "scuola/italiano/compiti.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d6fad3aebebd2246",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md",
+                "file": "scuola/italiano/compiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md",
+                "file": "scuola/italiano/compiti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md"
+                "file": "scuola/italiano/compiti.md"
               }
             }
           },
@@ -165,10 +164,10 @@
   },
   "active": "a6d5fcf9d6f26091",
   "lastOpenFiles": [
+    "scuola/storia/Seconda guerra mondiale.md",
     "scuola/italiano/Eugenio Montale.md",
     "README.md",
     "altro/scout/Carta di clan.md",
-    "scuola/storia/Seconda guerra mondiale.md",
     "altro/scout/Untitled",
     "altro/scout",
     "altro",
