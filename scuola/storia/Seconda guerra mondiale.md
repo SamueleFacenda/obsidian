@@ -21,3 +21,5 @@ Luftwaffe contro inglesi, che prevalgono con i radar. U-boote sconfitti nell'atl
 
 1939, l'Italia si dichiara non belligerante, non neutrale, anche perchè sapevano di essere inferiori.
 10 giugno 1940, Mussuolini annuncia l'entrata in guerra.
+
+cosa c'e' il 14?
