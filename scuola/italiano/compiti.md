@@ -21,3 +21,12 @@ Le parole, le poesie nascono sempre dal profondo del poeta(una parola è scavata
 
 ### Scaletta
 
+#### Tesi
+La musica ha un potere immenso sugli esseri umani
+#### Argomenti
+- musicoterapia
+- musica che fa compagnia
+- bob marley che fa stringere la mano a due politici nemici, la musica unisce e trasmette messag
+#### Antitesi
+
+#### Confutazione
