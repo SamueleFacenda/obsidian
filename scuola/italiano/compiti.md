@@ -24,10 +24,11 @@ Le parole, le poesie nascono sempre dal profondo del poeta(una parola è scavata
 #### Tesi
 La musica ha un potere immenso sugli esseri umani
 #### Argomenti
-- la musica genera emozioni in modo ineguagliabile, 
+- la musica genera emozioni in modo ineguagliabile, è nella vita di tutti 
 - musicoterapia
 - musica che fa compagnia, contro la solitudine
 - bob marley che fa stringere la mano a due politici nemici, la musica unisce e trasmette messaggi
 #### Antitesi
-Ci sono altre forme d'arte che trasmettono emozioni e messaggi, la musica è solo una delle tante, 
+Ci sono altre forme d'arte che trasmettono emozioni e messaggi, la musica è solo una delle tante, il suo potere poi, la sua origine creativa, è riproducibile tramite algoritmi e studi, non è una vera arte.
 #### Confutazione
+La musica è la forma d'arte più diffusa, riesce ad attrarre qualunque tipo di individuo ed è facile da "riprodurre", basta cantare. è così da millenni ed è in continua evoluzione, non finirà mai e c'è bisogno di una mente umana creative per scrivere una canzone nuova ed originale.
