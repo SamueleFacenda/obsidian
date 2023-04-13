@@ -1,0 +1,1 @@
+Non vengono richieste informazioni sui PDA, uso solo il codice. Non viene richiesta neanche la loro gestione degli accessi, quindi la lascio come ulteriore sviluppo del problema e non la prendo in considerazione in questa soluzione. 
