@@ -31,3 +31,5 @@ La germania voleva attaccare l'urss, ideologie opposte e questioni territoriali
 Nazisti in oriente, razza slava considerata inferiore, molti ebrei, odio per il regime comunista.
 
 22 giugno 1941 la Germania invade l'URSS, tedeschi fino a leningrado e mosta, russi fanno terra bruciata. Guerra più violenta.
+
+resistenza in russia, partigiani. A occidente sabotatori clandestini, a oriente veri e propri eserciti non regolari.
