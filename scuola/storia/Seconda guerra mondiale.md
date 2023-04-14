@@ -33,3 +33,7 @@ Nazisti in oriente, razza slava considerata inferiore, molti ebrei, odio per il 
 22 giugno 1941 la Germania invade l'URSS, tedeschi fino a leningrado e mosta, russi fanno terra bruciata. Guerra più violenta.
 
 resistenza in russia, partigiani. A occidente sabotatori clandestini, a oriente veri e propri eserciti non regolari.
+
+### Guerra del pacifico
+1941, Giappone e usa entrano in guerra con potenze diverse
+Carta atlantica, Roosvelt e Churchill con 8 punti(fine guerra, libertà di navigazione...)
