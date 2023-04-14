@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/informatica/Prova maturità.md",
+                "file": "scuola/italiano/Eugenio Montale.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d6fad3aebebd2246",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/informatica/Prova maturità.md",
+                "file": "scuola/italiano/Eugenio Montale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/informatica/Prova maturità.md",
+                "file": "scuola/italiano/Eugenio Montale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/informatica/Prova maturità.md"
+                "file": "scuola/italiano/Eugenio Montale.md"
               }
             }
           },
@@ -178,8 +177,8 @@
   },
   "active": "401d91f068d5c2c4",
   "lastOpenFiles": [
-    "scuola/informatica/Query sql.md",
     "scuola/informatica/Prova maturità.md",
+    "scuola/informatica/Query sql.md",
     "scuola/italiano/compiti.md",
     "scuola/storia/Seconda guerra mondiale.md",
     "scuola/italiano/Eugenio Montale.md",
