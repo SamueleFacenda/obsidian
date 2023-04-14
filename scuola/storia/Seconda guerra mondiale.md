@@ -25,3 +25,6 @@ guerra parallela: la germania è occupata con i suoi confini, l'italia è occupa
 
 attacca la Francia, scarsi risultati
 28 ottobre 1940 Grecia, dall'albania, conquistata nel '39. Scarsi risultati
+
+#### Operazione barbarossa
+La germania voleva attaccare l'
