@@ -54,3 +54,11 @@ temi:
 - mare
 - oggetti conreti per cercare sentimenti
 
+### Non chiederci la parola
+
+- critica a poeta vate + persone sicure:
+  - il poeta vate pretende di avere sempre le risposte
+  -   le persone sicure non si pongono domande
+- poetica:
+  - Montale non può dare risposte, scrive solo per trasmettere ciò che prova e che sente
+  - Uso di oggetti 
