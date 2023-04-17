@@ -35,3 +35,4 @@ La musica è la forma d'arte più diffusa, riesce ad attrarre qualunque tipo di 
 
 ### Commento di "Meriggiare pallido e assorto"
 Questo è un testo di Eugenio Montale, appartenente alla raccolta "Ossi di seppia", uno dei più significativi.
+Come in altri testi(e.g. I limoni), nella gran parte del testo, qui nelle prime strofe, avviene una descrizione dettagliata del paesaggio ligure, molto caro a Montale. La strofa più importante però è l'ultima
