@@ -32,3 +32,6 @@ La musica ha un potere immenso sugli esseri umani
 Ci sono altre forme d'arte che trasmettono emozioni e messaggi, la musica è solo una delle tante, il suo potere poi, la sua origine creativa, è riproducibile tramite algoritmi e studi, non è una vera arte.
 #### Confutazione
 La musica è la forma d'arte più diffusa, riesce ad attrarre qualunque tipo di individuo ed è facile da "riprodurre", basta cantare. è così da millenni ed è in continua evoluzione, non finirà mai e c'è bisogno di una mente umana creative per scrivere una canzone nuova ed originale.
+
+### Commento di "Meriggiare pallido e assorto"
+Questo è un testo di Eugenio Montale, appartenente alla raccolta "Ossi di seppia", uno dei più significativi.
