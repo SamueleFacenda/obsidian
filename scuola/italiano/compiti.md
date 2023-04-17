@@ -35,4 +35,4 @@ La musica è la forma d'arte più diffusa, riesce ad attrarre qualunque tipo di 
 
 ### Commento di "Meriggiare pallido e assorto"
 Questo è un testo di Eugenio Montale, appartenente alla raccolta "Ossi di seppia", uno dei più significativi.
-Come in altri testi(e.g. I limoni), nella gran parte del testo, qui nelle prime strofe, avviene una descrizione dettagliata del paesaggio ligure, molto caro a Montale. La strofa più importante però è l'ultima
+Come in altri testi(e.g. I limoni), nella gran parte del testo, qui nelle prime strofe, avviene una descrizione dettagliata del paesaggio ligure, molto caro a Montale. La strofa più importante però è l'ultima, in cui viene espressa l'idea del poeta. Dice infatti che la vita è seguitare una muraglia che ha in cima cozzi aguzzi di bottiglia. L'interpretazione risiede nella poetica di Montale e nei suoi temi più canonici, come la ricerca del varco. Il significato è appunto che la vita scorre di fianco a un muro, che ci nasconde il significato di essa. Un muro senza un varco, che non è scavalcabile()
