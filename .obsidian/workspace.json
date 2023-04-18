@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/italiano/compiti.md",
+                "file": "scuola/storia/Seconda guerra mondiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/italiano/compiti.md",
+                "file": "scuola/storia/Seconda guerra mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/italiano/compiti.md",
+                "file": "scuola/storia/Seconda guerra mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/italiano/compiti.md"
+                "file": "scuola/storia/Seconda guerra mondiale.md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "401d91f068d5c2c4",
   "lastOpenFiles": [
-    "scuola/italiano/Untitled.md",
+    "scuola/storia/Nazismo.md",
+    "scuola/storia/Fascismo.md",
     "scuola/italiano/compiti.md",
+    "scuola/italiano/Untitled.md",
     "scuola/italiano/Eugenio Montale.md",
     "scuola/storia/Seconda guerra mondiale.md",
     "scuola/informatica/Prova maturità.md",
@@ -189,9 +191,7 @@
     "altro/scout",
     "altro",
     "scuola/inglese/compiti.md",
-    "scuola/storia/Nazismo.md",
     "scuola/storia/I 3 totalitarismi.md",
-    "scuola/storia/Fascismo.md",
     "scuola/italiano/Giuseppe Ungaretti.md",
     "scuola/sistemi/Coso di gruppo.md",
     "scuola/sistemi/Dhcp.md",

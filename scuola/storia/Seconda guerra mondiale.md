@@ -39,3 +39,7 @@ resistenza in russia, partigiani. A occidente sabotatori clandestini, a oriente 
 Carta atlantica, Roosvelt e Churchill con 8 punti(fine guerra, libertà di navigazione...)
 
 7 dicembre 1941, Pearl Harbor, 88 navi distrutte dai giapponesi. 
+
+### 1942
+
+Anno della svolta, i tedeschi cominciano a perdere.
