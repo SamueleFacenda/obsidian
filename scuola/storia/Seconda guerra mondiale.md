@@ -43,3 +43,6 @@ Carta atlantica, Roosvelt e Churchill con 8 punti(fine guerra, libertà di navig
 ### 1942
 
 Anno della svolta, i tedeschi cominciano a perdere.
+
+fronte pacifico, USA blocca avanzata giapponese.
+La Germania ferma l'avanzata a stalingrado(e leningrado e mosca). Nel 1942 controffensiva sovietica, nel 1943 le truppe tedesche si ritirano lungo il DON e URSS avanza.
