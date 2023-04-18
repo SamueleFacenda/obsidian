@@ -46,3 +46,5 @@ Anno della svolta, i tedeschi cominciano a perdere.
 
 fronte pacifico, USA blocca avanzata giapponese.
 La Germania ferma l'avanzata a stalingrado(e leningrado e mosca). Nel 1942 controffensiva sovietica, nel 1943 le truppe tedesche si ritirano lungo il DON e URSS avanza.
+
+Battaglia di El alamein, località egiziana, lì il fronte si stabilizza e i nazisti arretrano. Gli inglesi e americani arrivano in tunisia e sbarcano in italia.
