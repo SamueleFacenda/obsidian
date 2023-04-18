@@ -48,3 +48,7 @@ fronte pacifico, USA blocca avanzata giapponese.
 La Germania ferma l'avanzata a stalingrado(e leningrado e mosca). Nel 1942 controffensiva sovietica, nel 1943 le truppe tedesche si ritirano lungo il DON e URSS avanza.
 
 Battaglia di El alamein, località egiziana, lì il fronte si stabilizza e i nazisti arretrano. Gli inglesi e americani arrivano in tunisia e sbarcano in italia.
+
+### 1943
+Italia inadeguata, 10 luglio gli alleati sbarcano in Sicilia, Mussuolini destituito, Badoglio generale.
+Badoglio e il Re scappano e vanno in Puglia, 8 settembre 1943 armistizio tra Badoglio e gli alleati, guerra contro la Germania.
