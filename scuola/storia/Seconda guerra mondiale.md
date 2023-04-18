@@ -54,3 +54,5 @@ Italia inadeguata, 10 luglio gli alleati sbarcano in Sicilia, Mussuolini destitu
 Badoglio e il Re scappano e vanno in Puglia, 8 settembre 1943 armistizio tra Badoglio e gli alleati, guerra contro la Germania.
 Caos, soldati senza ordini, Badoglio e il Re vanno in Pugla, i Tedeschi occunano il nord(operazione Alarico). Gli italiani militari vengono fatti prigionieri. Nasce la repubblice Sociale Italiana, di Mussuolini(repubblica di Salò) liberato dal Gran Sasso.
 Linea Gustav, Line Hitler(sotto Roma), linea gotica.
+
+Nasce il comitato di liberazione nazionale, 1943, unione di movimenti e partiti antifascisti, chiedono  al re di abdicare.
