@@ -52,4 +52,5 @@ Battaglia di El alamein, località egiziana, lì il fronte si stabilizza e i naz
 ### 1943
 Italia inadeguata, 10 luglio gli alleati sbarcano in Sicilia, Mussuolini destituito, Badoglio generale.
 Badoglio e il Re scappano e vanno in Puglia, 8 settembre 1943 armistizio tra Badoglio e gli alleati, guerra contro la Germania.
-Caos, soldati senza ordini, Badoglio e il Re vanno in Pugla, i Tedeschi occunano il nord(operazione Alarico). Gli italiani militari vengono fatti prigionieri. Nasce la repubblice Sociale Italiana, di Mussuolini(repubblica di Salò) liberato dal Gran Sasso. 
+Caos, soldati senza ordini, Badoglio e il Re vanno in Pugla, i Tedeschi occunano il nord(operazione Alarico). Gli italiani militari vengono fatti prigionieri. Nasce la repubblice Sociale Italiana, di Mussuolini(repubblica di Salò) liberato dal Gran Sasso.
+Linea Gustav, Line Hitler(sotto Roma), linea gotica.
