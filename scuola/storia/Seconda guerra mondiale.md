@@ -65,4 +65,10 @@ Invasione della Germania, Sovietici a Berlino, Hitler si suicida nel bunker
 7 maggio 1945 la Germania si arrende (accordo di Reims)
 
 Alleati in nord Italia, fine Repubblica di Salò.
-Mussuolini prova a fuggire in Svizzera, arrestato 
+Mussuolini prova a fuggire in Svizzera, arrestato fucilato e esposto in Piazzale Loreto.
+Comitato nazionale di liberazione insorge con i partigiani, Sandro Pertini guida l'insurrezione, 25 aprile 1945.
+
+### Conflitto nel pacifico
+Usa e Giappone continuano, gli altri usano i kamikaze. Truman il 6 e 9 agosto 1945 manda le bombe atomiche.
+
+2 settembre 1945
