@@ -13,4 +13,7 @@ Si avvicina alla psicanalisi, strumento per conoscere l'uomo (lui stesso la subi
 muore nel 1957 a Gorizia
 
 ### Canzoniere
-L'opera è 
+L'opera è autobiografica ideale, si parla di "Romanzo interiore"
+426 testi in 3 volumi (l'ultima edizione è postuma)
+parla di "Poesia onesta"
+Temi: amore per Trieste, donn
