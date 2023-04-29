@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3d9d8762fc96742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scuola/italiano/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md",
+                "file": "scuola/italiano/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md",
+                "file": "scuola/italiano/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md"
+                "file": "scuola/italiano/Untitled.md"
               }
             }
           },
@@ -175,14 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "401d91f068d5c2c4",
+  "active": "d3d9d8762fc96742",
   "lastOpenFiles": [
+    "scuola/storia/Seconda guerra mondiale.md",
+    "scuola/italiano/Untitled.md",
     "scuola/storia/Nazismo.md",
     "scuola/storia/Fascismo.md",
     "scuola/italiano/compiti.md",
-    "scuola/italiano/Untitled.md",
     "scuola/italiano/Eugenio Montale.md",
-    "scuola/storia/Seconda guerra mondiale.md",
     "scuola/informatica/Prova maturità.md",
     "scuola/informatica/Query sql.md",
     "README.md",
