@@ -56,3 +56,9 @@ Caos, soldati senza ordini, Badoglio e il Re vanno in Pugla, i Tedeschi occunano
 Linea Gustav, Line Hitler(sotto Roma), linea gotica.
 
 Nasce il comitato di liberazione nazionale, 1943, unione di movimenti e partiti antifascisti, chiedono  al re di abdicare.
+
+### La cancellazione dello sterminio
+Mentre gli alleati avanzavano, Himmler decide di eliminare le prove dello sterminio degli ebrei. Distruggono le camere a gas e i forni crematori, smantellano i campi di concentramento, uccidono o deportano i prigionieri
+
+### 1945
+Invasione della Germania, Sovietici a Berlino, 
