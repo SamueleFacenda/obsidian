@@ -61,4 +61,8 @@ Nasce il comitato di liberazione nazionale, 1943, unione di movimenti e partiti 
 Mentre gli alleati avanzavano, Himmler decide di eliminare le prove dello sterminio degli ebrei. Distruggono le camere a gas e i forni crematori, smantellano i campi di concentramento, uccidono o deportano i prigionieri
 
 ### 1945
-Invasione della Germania, Sovietici a Berlino, 
+Invasione della Germania, Sovietici a Berlino, Hitler si suicida nel bunker
+7 maggio 1945 la Germania si arrende (accordo di Reims)
+
+Alleati in nord Italia, fine Repubblica di Salò.
+Mussuolini prova a fuggire in Svizzera, arrestato 
