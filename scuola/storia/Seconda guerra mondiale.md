@@ -71,4 +71,5 @@ Comitato nazionale di liberazione insorge con i partigiani, Sandro Pertini guida
 ### Conflitto nel pacifico
 Usa e Giappone continuano, gli altri usano i kamikaze. Truman il 6 e 9 agosto 1945 manda le bombe atomiche.
 
-2 settembre 1945
+2 settembre 1945 armistizio giapponese, fine della guerra
+60 milioni di vittime, 3/4 civili
