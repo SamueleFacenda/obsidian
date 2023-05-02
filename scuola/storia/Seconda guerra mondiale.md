@@ -73,3 +73,11 @@ Usa e Giappone continuano, gli altri usano i kamikaze. Truman il 6 e 9 agosto 19
 
 2 settembre 1945 armistizio giapponese, fine della guerra
 60 milioni di vittime, 3/4 civili
+
+### Post
+Vengono inventati nei processi di norimberga i crimini contro l'umanità. Questo perchè si è capito che ci sono i diritti umani fondamentali. I crimini:
+- cospirazione contro la pace
+- crimini contro la pace
+- violazione delle leggi e delle convenzioni di guerra
+- crimini contro l'umanità
+Viene a riprendersi l'idea della socità delle nazioni unite, nasce l'ONU (ottobre 1945). C'è il consiglio di sicurezza (Usa, Urss, GB, Francia e Cina hanno diritto di veto)
