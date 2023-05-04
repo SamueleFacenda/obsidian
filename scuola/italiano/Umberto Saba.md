@@ -1,6 +1,6 @@
 ### Sintesi
 - canzoniere: raccolta di poesie come cronaca della sua vita
-- stile facile (stile discorsivo/colloquiale) difficile (siflessione sulla realtà e agire umano)
+- stile facile (stile discorsivo/colloquiale) difficile (riflessione sulla realtà e agire umano)
 
 ### Vita
 Umberto Saba (Poli)
