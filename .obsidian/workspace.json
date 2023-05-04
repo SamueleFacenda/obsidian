@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md",
+                "file": "scuola/italiano/Umberto Saba.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md",
+                "file": "scuola/italiano/Umberto Saba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md",
+                "file": "scuola/italiano/Umberto Saba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/storia/Seconda guerra mondiale.md"
+                "file": "scuola/italiano/Umberto Saba.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "d3d9d8762fc96742",
   "lastOpenFiles": [
-    "scuola/italiano/Umberto Saba.md",
     "scuola/storia/Seconda guerra mondiale.md",
+    "scuola/italiano/Umberto Saba.md",
     "scuola/storia/Nazismo.md",
     "scuola/storia/Fascismo.md",
     "scuola/italiano/compiti.md",
