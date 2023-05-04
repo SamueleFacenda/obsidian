@@ -80,4 +80,5 @@ Vengono inventati nei processi di norimberga i crimini contro l'umanità. Questo
 - crimini contro la pace
 - violazione delle leggi e delle convenzioni di guerra
 - crimini contro l'umanità
-Viene a riprendersi l'idea della socità delle nazioni unite, nasce l'ONU (ottobre 1945). C'è il consiglio di sicurezza (Usa, Urss, GB, Francia e Cina hanno diritto di veto)
+Viene a riprendersi l'idea della socità delle nazioni unite, nasce l'ONU (ottobre 1945). C'è il consiglio di sicurezza (Usa, Urss, GB, Francia e Cina hanno diritto di veto).
+L'europa si spacca, tra sovietici e statunitensi.
