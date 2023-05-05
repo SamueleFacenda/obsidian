@@ -7,4 +7,6 @@ Europa: conferenze e trattati di pace(Yalta, Potsdam, Parigi)
 - potenze storiche (Francia, Inghilterre, Olanda) perdono la supremazia
 - zone d'influenza: ovest usa e est urss
 - paesi baltici con usee
-- Italia per
+- Italia perse Dodecaneso, Albania, Istria, colonie...
+- Germania divisa in 4 (usa + Francia + GB + urss), berlino compresa
+- ONU
