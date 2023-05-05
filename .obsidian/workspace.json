@@ -37,38 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/italiano/Umberto Saba.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8220af341b51a56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "scuola/storia/Guerra fredda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f23cb61db61f663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/storia/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/storia/Untitled.md",
+                "file": "scuola/storia/Guerra fredda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/storia/Untitled.md",
+                "file": "scuola/storia/Guerra fredda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/storia/Untitled.md"
+                "file": "scuola/storia/Guerra fredda.md"
               }
             }
           },
@@ -211,10 +187,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f23cb61db61f663",
+  "active": "01c0f16ef1a1bd4e",
   "lastOpenFiles": [
-    "scuola/storia/Guerra fredda.md",
     "scuola/storia/Untitled.md",
+    "scuola/storia/Guerra fredda.md",
     "scuola/italiano/Umberto Saba.md",
     "scuola/storia/Seconda guerra mondiale.md",
     "scuola/italiano/Eugenio Montale.md",
