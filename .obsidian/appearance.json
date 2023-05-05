@@ -2,5 +2,6 @@
   "accentColor": "",
   "monospaceFontFamily": "Fira Code",
   "textFontFamily": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "nativeMenus": false
 }
