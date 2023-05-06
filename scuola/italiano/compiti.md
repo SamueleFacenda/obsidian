@@ -71,7 +71,7 @@ ia
 anafora(qui)
 antitesi
 iterazione
-iperbato(sposti una parola)
+iperbato(sposti parole che dovrebbero trovarsi vicine)
 anastrofe(cambi l'ordine sintattico)
 
 
