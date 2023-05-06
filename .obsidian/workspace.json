@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/italiano/Eugenio Montale.md",
+                "file": "scuola/italiano/Umberto Saba.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,19 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6eea789dbe034e49",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/storia/Guerra fredda.md",
+                "file": "scuola/italiano/Umberto Saba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/storia/Guerra fredda.md",
+                "file": "scuola/italiano/Umberto Saba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/storia/Guerra fredda.md"
+                "file": "scuola/italiano/Umberto Saba.md"
               }
             }
           },
@@ -205,13 +194,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6eea789dbe034e49",
+  "active": "401d91f068d5c2c4",
   "lastOpenFiles": [
-    "scuola/storia/Untitled.md",
+    "scuola/italiano/Eugenio Montale.md",
     "scuola/storia/Guerra fredda.md",
+    "scuola/storia/Untitled.md",
     "scuola/italiano/Umberto Saba.md",
     "scuola/storia/Seconda guerra mondiale.md",
-    "scuola/italiano/Eugenio Montale.md",
     "scuola/storia/Nazismo.md",
     "scuola/storia/Fascismo.md",
     "scuola/italiano/compiti.md",

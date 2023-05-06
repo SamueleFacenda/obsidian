@@ -19,3 +19,4 @@ Parla di "Poesia onesta"
 Temi: amore per Trieste, donna (Lina) e vita (parla poi di doloroso amore)
 No sperimentalismi
 Oggetti + Vita sono i protagonisti dei suoi testi
+
