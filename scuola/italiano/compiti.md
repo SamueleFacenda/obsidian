@@ -70,4 +70,8 @@ ia
 
 anafora(qui)
 antitesi
+iterazione
+iperbato(sposti una parola)
+anastrofe(cambi l'ordine sintattico)
+
 
