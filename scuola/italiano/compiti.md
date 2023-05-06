@@ -39,3 +39,7 @@ Come in altri testi(e.g. I limoni), nella gran parte del brano, qui nelle prime 
 Questo è un tema centrale, lo troviamo anche in limoni, dove l'autore spiega come talvolta sembra si possa cogliere il senso dell'esistenza umana ma che esso sfugge sempre; oppure in non chiederci la parola, dove appunto spiega come lui non sia capace di trovare un varco.
 Però rispetto a quest'ultimo non avviene una critica ai poeti vate, che credono di aver trovato il significato della vita, invece si sofferma molto sulle descrizioni paesaggistiche e naturali, sempre con un linguaggio semplice caratteristico della poetica di Montale. Al contrario appunto dei poeti laureati, che sì parlavano di natura ma con linguaggio ricercato e scientifico(e.g. Pascoli o D'Annunzio, Myriace).
 Un'ultimo commento da fare è sempre riferito all'ultima strofa, dove la tecnica utlizzata per rappresentare lo scorrere della vita attraveso la metafora del muro è caratteristica di Montale, della sua poetica degli oggetti.
+
+### figure retoriche città vecchia
+
+enjambemant
