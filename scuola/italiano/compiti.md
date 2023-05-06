@@ -42,4 +42,32 @@ Un'ultimo commento da fare è sempre riferito all'ultima strofa, dove la tecnica
 
 ### figure retoriche città vecchia
 
-enjambemant
+enjambemant (3, 11, 13, 15, 17, 21)
+
+asa
+ecchia
+ecchia
+ada
+
+are
+ito
+ito
+are
+ito
+
+ega
+ega
+ore
+ita
+ore
+ita
+ore
+ore
+
+ia
+arsi
+ia
+
+anafora(qui)
+antitesi
+
