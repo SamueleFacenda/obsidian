@@ -74,4 +74,7 @@ iterazione
 iperbato(sposti parole che dovrebbero trovarsi vicine)
 anastrofe(cambi l'ordine sintattico)
 
+Riassunto:
+Ho attraversato Trieste 
+
 
