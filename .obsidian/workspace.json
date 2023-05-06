@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6eea789dbe034e49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,6 +97,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "cec063bdea23397a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -187,7 +205,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01c0f16ef1a1bd4e",
+  "active": "6eea789dbe034e49",
   "lastOpenFiles": [
     "scuola/storia/Untitled.md",
     "scuola/storia/Guerra fredda.md",
