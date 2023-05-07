@@ -4,3 +4,5 @@
 4. I think that I own the expirience and the capacity required by this position.
 5. I am replying to the adversisement on yeserday's newspaper for the elecrtonic tecnician position.
 6. As you can see from my curriculum I have long experience in the IT field.
+
+Lavori scelti: 9 e 10

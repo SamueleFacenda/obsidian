@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/italiano/compiti.md",
+                "file": "scuola/inglese/compiti.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/italiano/compiti.md",
+                "file": "scuola/inglese/compiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/italiano/compiti.md",
+                "file": "scuola/inglese/compiti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/italiano/compiti.md"
+                "file": "scuola/inglese/compiti.md"
               }
             }
           },
@@ -184,10 +184,10 @@
   },
   "active": "d3d9d8762fc96742",
   "lastOpenFiles": [
+    "scuola/italiano/compiti.md",
     "scuola/italiano/Umberto Saba.md",
     "scuola/italiano/Giuseppe Ungaretti.md",
     "scuola/storia/Guerra fredda.md",
-    "scuola/italiano/compiti.md",
     "scuola/storia/Seconda guerra mondiale.md",
     "scuola/italiano/Eugenio Montale.md",
     "scuola/storia/Untitled.md",
