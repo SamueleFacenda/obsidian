@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/inglese/compiti.md",
+                "file": "scuola/storia/Seconda guerra mondiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/inglese/compiti.md",
+                "file": "scuola/storia/Seconda guerra mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/inglese/compiti.md",
+                "file": "scuola/storia/Seconda guerra mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/inglese/compiti.md"
+                "file": "scuola/storia/Seconda guerra mondiale.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "d3d9d8762fc96742",
   "lastOpenFiles": [
+    "scuola/inglese/compiti.md",
     "scuola/italiano/compiti.md",
     "scuola/italiano/Umberto Saba.md",
     "scuola/italiano/Giuseppe Ungaretti.md",
@@ -200,7 +201,6 @@
     "altro/scout/Untitled",
     "altro/scout",
     "altro",
-    "scuola/inglese/compiti.md",
     "scuola/storia/I 3 totalitarismi.md",
     "scuola/sistemi/Coso di gruppo.md",
     "scuola/sistemi/Dhcp.md",
