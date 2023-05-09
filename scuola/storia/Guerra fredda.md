@@ -29,3 +29,14 @@ nuove alleanze:
 - patto atlantico - NATO
 - patto di varsavia - urss
 maccartismo: campagna anticomunista
+
+### Germania
+
+Repubblica federale tedesca (BRD) ovest
+Repubblica democratica tedesca (DDR) est
+
+tentativo di creare uno stato nuovo, fallisce!
+Creano le due repubblica (1949)
+
+
+
