@@ -18,3 +18,9 @@ guerra fredda: termine di Walter Lippmann (giornalista)
 guerra ideologica
 dottrina Truman: volontà usa di bloccare avanzata sovietica ("mondo delle libertà" vs "mondo del totalitarismo")
 politica del contenimento
+
+Usa è una potenza economica, il dollaro diventa centrale.
+Fondo monetario internazionale, banca centrale, per superare le conseguenze delle autarchie di guerra, questo negli accordi di "Brettom Woods", che cercano di instaurare un nuovo sistema economico.
+
+### Piano Marshall (1947)
+aiuti economici (6 miliardi i)
