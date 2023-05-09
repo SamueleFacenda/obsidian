@@ -10,3 +10,11 @@ Europa: conferenze e trattati di pace(Yalta, Potsdam, Parigi)
 - Italia perse Dodecaneso, Albania, Istria, colonie...
 - Germania divisa in 4 (usa + Francia + GB + urss), berlino compresa
 - ONU
+
+guerra fredda: termine di Walter Lippmann (giornalista)
+- conflitto permanente usa-urss
+- deterrenza nucleare
+- pochi conflitti "reali" (corea 1930-53, afghanistan 1979-89, vietnam 1964-75, grecia)
+guerra ideologica
+dottrina Truman: volontà usa di bloccare avanzata sovietica ("mondo delle libertà" vs "mondo del totalitarismo")
+politica del contenimento
