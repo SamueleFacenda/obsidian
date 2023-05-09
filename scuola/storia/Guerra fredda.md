@@ -23,4 +23,9 @@ Usa è una potenza economica, il dollaro diventa centrale.
 Fondo monetario internazionale, banca centrale, per superare le conseguenze delle autarchie di guerra, questo negli accordi di "Brettom Woods", che cercano di instaurare un nuovo sistema economico.
 
 ### Piano Marshall (1947)
-aiuti economici (6 miliardi i)
+aiuti economici (6 miliardi in 4 anni) + materie prime. Scopo: far riprendere l'economia, per nuovi scambi usa-europa
+
+nuove alleanze:
+- patto atlantico - NATO
+- patto di varsavia - urss
+maccartismo: campagna anticomunista
