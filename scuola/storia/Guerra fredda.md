@@ -43,4 +43,7 @@ Creano le due repubblica (1949)
 Alleane per porre fine all'isolazionismo
 1951 ceca
 1957 Trattato di Roma -> euratom, cee (unione dogananle)
-primi paesi: Italia, Francia,
+primi paesi: Italia, Francia, Germania Ovest, Belgio, Olanda e Lussemburgo
+
+### Urss
+unità territoriale, sbocco sul mar baltico(Estonia, Lettonia, Lituania, Ungheria, )
