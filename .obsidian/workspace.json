@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/storia/Guerra fredda.md",
+                "file": "scuola/italiano/Letteratura della resistenza.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/storia/Guerra fredda.md",
+                "file": "scuola/italiano/Letteratura della resistenza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/storia/Guerra fredda.md",
+                "file": "scuola/italiano/Letteratura della resistenza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/storia/Guerra fredda.md"
+                "file": "scuola/italiano/Letteratura della resistenza.md"
               }
             }
           },
@@ -184,12 +184,13 @@
   },
   "active": "d3d9d8762fc96742",
   "lastOpenFiles": [
+    "scuola/storia/Guerra fredda.md",
+    "scuola/italiano/Letteratura della resistenza.md",
     "scuola/storia/Seconda guerra mondiale.md",
     "scuola/inglese/compiti.md",
     "scuola/italiano/compiti.md",
     "scuola/italiano/Umberto Saba.md",
     "scuola/italiano/Giuseppe Ungaretti.md",
-    "scuola/storia/Guerra fredda.md",
     "scuola/italiano/Eugenio Montale.md",
     "scuola/storia/Untitled.md",
     "scuola/storia/Nazismo.md",
