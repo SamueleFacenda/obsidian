@@ -46,4 +46,8 @@ Alleane per porre fine all'isolazionismo
 primi paesi: Italia, Francia, Germania Ovest, Belgio, Olanda e Lussemburgo
 
 ### Urss
-unità territoriale, sbocco sul mar baltico(Estonia, Lettonia, Lituania, Ungheria, )
+unità territoriale, sbocco sul mar baltico(Estonia, Lettonia, Lituania, Ungheria, Romania...)
+repressione interna (partito unico, comunismo, pianificazione economica)
+armamento + espansione territoriale
+
+Dopo stalin sale il tipo della coesistenza pacifica
