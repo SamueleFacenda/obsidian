@@ -8,3 +8,7 @@ Copia della letteratura americana, ideali di libertà
 Cosa: vita quotidiana, realtà del tempo, classi popolati
 Modelli: verga, letteratura americana, realismo italiano di inizio '900
 Come: oggettività (documenti), lingua non letteraria (dialoghi)
+
+2 filoni:
+- letteratura partigiana: resistenza (Fenoglio, Calvino), memorialistica
+- descrizione istaliua sottosviluppata (Carlo Levi)
