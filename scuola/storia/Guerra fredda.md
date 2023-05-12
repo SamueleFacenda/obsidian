@@ -38,5 +38,9 @@ Repubblica democratica tedesca (DDR) est
 tentativo di creare uno stato nuovo, fallisce!
 Creano le due repubblica (1949)
 
+### L'Europa
 
-
+Alleane per porre fine all'isolazionismo
+1951 ceca
+1957 Trattato di Roma -> euratom, cee (unione dogananle)
+primi paesi: Italia, Francia,
