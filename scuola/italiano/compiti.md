@@ -78,5 +78,5 @@ Riassunto:
 Il poeta attraversa Trieste e con una strada ripida raggiunge un posto senza persone in cui sta da solo, al limitare della città. Questa città è scontrosa grazia, come un amore geloso. Da questo punto lui vede tutto, le chiese, le vie e il loro percorso. C'è un'aria strana, caratteristica, in questa città viva in ogni parte, che ha un angolo fatto per lui e per la sua vita pensosa.
 
 ### Riassunto i sommersi e i salvati
-Nei campi di concentramenti
+Nei campi di concentramenti c'è una netta divisione tra gli individui, tra quelli che riescono a sopravvivere e quelli che soccombono. A soccombere sono sempre quelli di alcuni gruppi, come i musulmani, durano al massimo 3 mesi. I tedeschi internati invece riescono sempre a trovarsi qualche mansione, è infatti questo l'unico modo per andare avanti, piccoli gesti quotidiani che ti portano un giorno in una posizione migliore, come Alfred, che con molto sacrifici riesce ad ottenere un posto di riguardo nello stabilimento chimico.
 
