@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "c755b34eab778a10",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "01c0f16ef1a1bd4e",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3d9d8762fc96742",
+  "active": "c755b34eab778a10",
   "lastOpenFiles": [
     "scuola/italiano/Letteratura della resistenza.md",
     "scuola/storia/Guerra fredda.md",
