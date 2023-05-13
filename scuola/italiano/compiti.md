@@ -77,4 +77,6 @@ anastrofe(cambi l'ordine sintattico)
 Riassunto:
 Il poeta attraversa Trieste e con una strada ripida raggiunge un posto senza persone in cui sta da solo, al limitare della città. Questa città è scontrosa grazia, come un amore geloso. Da questo punto lui vede tutto, le chiese, le vie e il loro percorso. C'è un'aria strana, caratteristica, in questa città viva in ogni parte, che ha un angolo fatto per lui e per la sua vita pensosa.
 
+### Riassunto i sommersi e i salvati
+
 
