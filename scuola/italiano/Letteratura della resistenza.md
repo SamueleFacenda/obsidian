@@ -11,4 +11,6 @@ Come: oggettività (documenti), lingua non letteraria (dialoghi)
 
 2 filoni:
 - letteratura partigiana: resistenza (Fenoglio, Calvino), memorialistica
-- descrizione istaliua sottosviluppata (Carlo Levi)
+- descrizione Italia sottosviluppata (Carlo Levi)
+
+in comune hanno (i neoralisti) la descrizione del momento storico
