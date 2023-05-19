@@ -17,12 +17,12 @@ Darwin, teoria dell'evoluzione, darwinismo sociale cioè legittimazione della su
 
 
 e come tutto finisce in letteratura?
-Spunta il realismo, naturalismo in francia e varismo in italia, poi il decadentismo
+Spunta il realismo, naturalismo in francia e verismo in italia, poi il decadentismo
 
 il positivismo porta a:
 
 realismo:
-anni 30 dell'800, scrittura semplice, descrizione della realtà in modo oggettivo e concrete, descrizioni precise, realtà sociale e borghese, narratore onnisciente che commenta e giudica la vicenda
+anni 30 dell'800, scrittura semplice, descrizione della realtà in modo oggettivo e concreto, descrizioni precise, realtà sociale e borghese, narratore onnisciente che commenta e giudica la vicenda
 -> oggittività con commenti
 
 naturalismo:
