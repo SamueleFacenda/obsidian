@@ -11,12 +11,8 @@
             "id": "d3d9d8762fc96742",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scuola/italiano/Eugenio Montale.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -105,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/italiano/Eugenio Montale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/italiano/Eugenio Montale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "scuola/italiano/Eugenio Montale.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,6 +176,7 @@
   },
   "active": "d3d9d8762fc96742",
   "lastOpenFiles": [
+    "scuola/italiano/Eugenio Montale.md",
     "scuola/italiano/Umberto Saba.md",
     "scuola/storia/Guerra fredda.md",
     "scuola/italiano/compiti.md",
@@ -194,7 +187,6 @@
     "scuola/storia/Seconda guerra mondiale.md",
     "scuola/inglese/compiti.md",
     "scuola/italiano/Giuseppe Ungaretti.md",
-    "scuola/italiano/Eugenio Montale.md",
     "scuola/storia/Untitled.md",
     "scuola/storia/Nazismo.md",
     "scuola/storia/Fascismo.md",

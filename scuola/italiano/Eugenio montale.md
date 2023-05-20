@@ -6,7 +6,7 @@ frequenta anna degli umberti(annetta o arletta) e collabora con peiro gobetti
 
 rifiuta le avanguardie
 fan di italo svevo
-1925 firma il manifesto degli intellettuali antifascisti
+1925 firma il manifesto degli intellettuali antifascisti ([[Fascismo]])
 ossi di seppia nel 1925, torino
 
 si trasferisce a firenze, 1927. Lavora per la casa editrice bemproad, e a capo del gabinetto scientifico viesseux(perde il posto perchè antifascista). Scrive per la rivista Solaria. 
