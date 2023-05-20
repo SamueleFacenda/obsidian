@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/storia/Guerra fredda.md",
+                "file": "scuola/italiano/Eugenio Montale.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/italiano/Realismo.md",
+                "file": "scuola/italiano/compiti.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/italiano/Realismo.md",
+                "file": "scuola/italiano/Eugenio Montale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/italiano/Realismo.md",
+                "file": "scuola/italiano/Eugenio Montale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/italiano/Realismo.md"
+                "file": "scuola/italiano/Eugenio Montale.md"
               }
             }
           },
@@ -183,15 +182,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01c0f16ef1a1bd4e",
+  "active": "d3d9d8762fc96742",
   "lastOpenFiles": [
+    "scuola/italiano/Umberto Saba.md",
     "scuola/storia/Guerra fredda.md",
+    "scuola/italiano/compiti.md",
     "scuola/italiano/Realismo.md",
     "scuola/italiano/Giovanni Verga.md",
     "scuola/italiano/Decadentismo.md",
-    "scuola/italiano/compiti.md",
     "scuola/italiano/Letteratura della resistenza.md",
-    "scuola/italiano/Umberto Saba.md",
     "scuola/storia/Seconda guerra mondiale.md",
     "scuola/inglese/compiti.md",
     "scuola/italiano/Giuseppe Ungaretti.md",

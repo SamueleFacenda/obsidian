@@ -1,4 +1,4 @@
-fratelli [[Giuseppe Ungaretti]]
+### fratelli [[Giuseppe Ungaretti]]
 1. parola tremante: la parola viene pronunciata con voce tremante, foglia appena nata: timida e fragile, involontaria rivolta: nonostante siano in guerra c'è la voglia di vedersi come fratelli, com uomini che si ritrovano.
 2. reggimento, spasimante, notte: evidenziano la fratellanza tra i soldati amici, la sofferenza delle battaglie e la cupezza della situazione.
 3. Dopo il primo attimo dell'incontro si sono ritrovati e c'è il sollievo della compagnia, del ritrovo dei fratelli.
@@ -7,7 +7,7 @@ fratelli [[Giuseppe Ungaretti]]
 3. la bocca digrignata, il suo essere massacrato, la posizione rivolta verso il cielo, i segni della morte e della congestione. 
 10. Nel suo commento Ungaretti riprende i concetti di altre suo poesie come la fratellanza tra tutti i soldati, bloccati nella loro orribile situazione. Parla anche di contraddizione, riferendosi a come si sentisse attaccato alla vita, a come volesse essere lontano dalla morte proprio quando questa stava a pochi metri da lui.
 
-informatica
+### informatica
 livelli:
 - pila iso osi
 - protocolli di rete
@@ -44,6 +44,7 @@ Un'ultimo commento da fare è sempre riferito all'ultima strofa, dove la tecnica
 
 enjambemant (3, 11, 13, 15, 17, 21)
 
+#### rime
 asa
 ecchia
 ecchia
@@ -80,3 +81,6 @@ Il poeta attraversa Trieste e con una strada ripida raggiunge un posto senza per
 ### Riassunto i sommersi e i salvati
 Nei campi di concentramenti c'è una netta divisione tra gli individui, tra quelli che riescono a sopravvivere e quelli che soccombono. A soccombere sono sempre quelli di alcuni gruppi, come i musulmani, durano al massimo 3 mesi. I tedeschi internati invece riescono sempre a trovarsi qualche mansione, è infatti questo l'unico modo per andare avanti, piccoli gesti quotidiani che ti portano un giorno in una posizione migliore, come Alfred, che con molto sacrifici riesce ad ottenere un posto di riguardo nello stabilimento chimico.
 
+
+### Riassunto il terzo spazio dei vinti
+[[Giovanni Verga]]

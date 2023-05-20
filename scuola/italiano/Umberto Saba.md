@@ -9,7 +9,7 @@ padre veneziano e madre ebrea
 abbandona la scuola -> diventa autodidatta
 
 Si avvicina alla psicanalisi, strumento per conoscere l'uomo (lui stesso la subisce)
-2<sup>a</sup> guerra mondiale, scappa per le leggi razziali, parigi roma e firenze da montale
+2<sup>a</sup> guerra mondiale, scappa per le leggi razziali ([[Fascismo]]), parigi roma e firenze da [[Eugenio Montale]]
 muore nel 1957 a Gorizia
 
 ### Canzoniere
