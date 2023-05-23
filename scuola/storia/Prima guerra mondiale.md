@@ -13,17 +13,17 @@ hanno quindi un sacco di innovazione e le usano per menarsi
 Russia: vasto territorio, molta popolazione, forza militare, società agricola e arretrata
 regime autocratico(zar), crisi e rivoluzione 1905, zar concede un parlamento, anche dopo la perdita in manciuria col Giappone, quindi nasce la duma e la rivoluzione agraria
 
-molti stati imperiali falliscono abbastanza tutti
+molti stati imperiali, falliscono abbastanza tutti
 
 impero austro-ungarico
 fortemente frammentato nel 1867, prova a controllare i balcani, per avere sbocco sul mare
 
 impero ottomano:
 nel 1908 i giovani turchi, che è un movimento politico militare che promuove lo sviluppo economico
-ruvolta e aspirazione d'indipendenza, si disgrega, per problemi economici, politici e sociali
+rivolta e aspirazione d'indipendenza, si disgrega, per problemi economici, politici e sociali
 guerre balcaniche, 1912 e 1913
 
-vari stati cambiano impero, altri non voglioono e il contesto internazionale si riempie di tensione, soprattutto nella zona balcanica
+vari stati cambiano impero, altri non vogliono e il contesto internazionale si riempie di tensione, soprattutto nella zona balcanica
 
 germania fa la tripice alleanza con italia e impero austo-ungarico(1882)
 duplice intesa(1894) tra francia e russia, diventa tripice con gran bretagna nl 1907
