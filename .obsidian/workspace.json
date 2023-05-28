@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/storia/I 3 totalitarismi.md",
+                "file": "scuola/italiano/Pirandello.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "717cfbd5d9f95914",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
               }
             }
           },
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/storia/I 3 totalitarismi.md",
+                "file": "scuola/italiano/Pirandello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/storia/I 3 totalitarismi.md",
+                "file": "scuola/italiano/Pirandello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/storia/I 3 totalitarismi.md"
+                "file": "scuola/italiano/Pirandello.md"
               }
             }
           },
@@ -193,8 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "717cfbd5d9f95914",
+  "active": "01c0f16ef1a1bd4e",
   "lastOpenFiles": [
+    "scuola/italiano/Letteratura della resistenza.md",
+    "scuola/storia/I 3 totalitarismi.md",
     "scuola/storia/Il Dopoguerra.md",
     "scuola/storia/Prima guerra mondiale.md",
     "scuola/italiano/compiti.md",
@@ -205,7 +196,6 @@
     "scuola/italiano/Realismo.md",
     "scuola/italiano/Giovanni Verga.md",
     "scuola/italiano/Decadentismo.md",
-    "scuola/italiano/Letteratura della resistenza.md",
     "scuola/storia/Seconda guerra mondiale.md",
     "scuola/inglese/compiti.md",
     "scuola/storia/Nazismo.md",
@@ -217,7 +207,6 @@
     "altro/scout/Untitled",
     "altro/scout",
     "altro",
-    "scuola/storia/I 3 totalitarismi.md",
     "scuola/sistemi/Coso di gruppo.md",
     "scuola/sistemi/Dhcp.md",
     "scuola/inglese/Random homeworks.md",
