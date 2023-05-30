@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/italiano/Pirandello.md",
+                "file": "scuola/sistemi/Coso di gruppo.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/italiano/Pirandello.md",
+                "file": "scuola/sistemi/Coso di gruppo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/italiano/Pirandello.md",
+                "file": "scuola/sistemi/Coso di gruppo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/italiano/Pirandello.md"
+                "file": "scuola/sistemi/Coso di gruppo.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "01c0f16ef1a1bd4e",
   "lastOpenFiles": [
+    "scuola/italiano/Pirandello.md",
     "scuola/italiano/Letteratura della resistenza.md",
     "scuola/storia/I 3 totalitarismi.md",
     "scuola/storia/Il Dopoguerra.md",
@@ -211,7 +212,6 @@
     "scuola/sistemi/Dhcp.md",
     "scuola/inglese/Random homeworks.md",
     "scuola/italiano/Il fu Mattia Pascal.md",
-    "scuola/italiano/Pirandello.md",
     "scuola/robotica/Progettazione.md"
   ]
 }

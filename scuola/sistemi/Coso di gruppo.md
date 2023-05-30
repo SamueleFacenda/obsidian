@@ -22,3 +22,9 @@ client server, documentato negli rfc. Ci sono tre macro categorie: start line ch
 
 ## Server mail
 server mail manda e riceve posta elettronica. Usa protocolli come smtp, pop3 e imap. Simple mail transfer protocol usa la porta 25, i client lo usano per mandare i messaggi ai server di posta, dove rimangono in attessa. Per poter ricevere questi messaggi uso ad esempio pop3(porta 110) per richiedere i messaggi al server e scaricarli nella propria memoria. Il client deve autenticarsi. Così però non c'è sincronizzazione tra i dispositivi, visto che al download i messaggi vengono eliminato. Così si una imap(internet message access protocol, porta 143). Simile al pop3 ma permette di visualizzare i messaggi direttamente sul server mail. Però usa molta memoria. Questi server vanno nella dmz.
+
+## VPN
+tunneling: 
+autenticazione e autorizzazione
+integrità
+riservatezza
