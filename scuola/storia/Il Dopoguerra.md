@@ -32,7 +32,7 @@ situazione:
 	5. germania:
 		a. perdite economiche, territoriali e crisi sociale
 		b. scontri
-		c. 1919, nasce la repubblica di weimar peraio e nazionalisti
+		c. 1919, nasce la repubblica di weimar operaio e nazionalisti
 	6. usa:
 		a. isolazionismo
 		b. melting pot, razzismo

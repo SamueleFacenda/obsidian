@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/sistemi/Coso di gruppo.md",
+                "file": "scuola/italiano/Letteratura della resistenza.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/sistemi/Coso di gruppo.md",
+                "file": "scuola/storia/Il Dopoguerra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/sistemi/Coso di gruppo.md",
+                "file": "scuola/storia/Il Dopoguerra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/sistemi/Coso di gruppo.md"
+                "file": "scuola/storia/Il Dopoguerra.md"
               }
             }
           },
@@ -182,10 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01c0f16ef1a1bd4e",
+  "active": "ecfb6f7e16b081ce",
   "lastOpenFiles": [
-    "scuola/italiano/Pirandello.md",
     "scuola/italiano/Letteratura della resistenza.md",
+    "scuola/italiano/Realismo.md",
+    "scuola/italiano/Decadentismo.md",
+    "scuola/sistemi/Coso di gruppo.md",
+    "scuola/italiano/Pirandello.md",
     "scuola/storia/I 3 totalitarismi.md",
     "scuola/storia/Il Dopoguerra.md",
     "scuola/storia/Prima guerra mondiale.md",
@@ -194,9 +198,7 @@
     "scuola/italiano/Eugenio Montale.md",
     "scuola/italiano/Umberto Saba.md",
     "scuola/storia/Guerra fredda.md",
-    "scuola/italiano/Realismo.md",
     "scuola/italiano/Giovanni Verga.md",
-    "scuola/italiano/Decadentismo.md",
     "scuola/storia/Seconda guerra mondiale.md",
     "scuola/inglese/compiti.md",
     "scuola/storia/Nazismo.md",
@@ -208,7 +210,6 @@
     "altro/scout/Untitled",
     "altro/scout",
     "altro",
-    "scuola/sistemi/Coso di gruppo.md",
     "scuola/sistemi/Dhcp.md",
     "scuola/inglese/Random homeworks.md",
     "scuola/italiano/Il fu Mattia Pascal.md",
