@@ -9,7 +9,7 @@ prime leggi a tutela degli operai
 questa è la belle epoque
 primi movimenti femministi
 
-positivismo, la realtà và spiegata in modo scientifico essendo regolata da leggi precise, ci sono le discipline precise, cioè matematica fisica e science naturali
+positivismo, la realtà va' spiegata in modo scientifico essendo regolata da leggi precise, ci sono le discipline precise, cioè matematica fisica e science naturali
 Auguste Comte, studiare causa-effetto
 Hippolyte Taine, il comportamento umano è risultato di fattori di influenza, tipo ambiente e momento storico
 Emile Durkheim, la coscienza collettiva determina le azioni dei singoli
@@ -23,7 +23,7 @@ il positivismo porta a:
 
 realismo:
 anni 30 dell'800, scrittura semplice, descrizione della realtà in modo oggettivo e concreto, descrizioni precise, realtà sociale e borghese, narratore onnisciente che commenta e giudica la vicenda
--> oggittività con commenti
+-> oggettività con commenti
 
 naturalismo:
 idem ma non commentano, impersonale
