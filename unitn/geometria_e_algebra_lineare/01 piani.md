@@ -48,3 +48,5 @@ con $\overrightarrow{V}\cdot\overrightarrow{W}=V_1W_1+V_2W_2+V_3W_3$
 
 Osservazione:
 $\overrightarrow{V}\bot\overrightarrow{W}\iff \overrightarrow{V} \cdot \overrightarrow{W}=0$
+
+Sono Samule $\iff$ ho cognome Facenda $\iff$ traiardo nelle CTF $\iff$ legge il messaggio
