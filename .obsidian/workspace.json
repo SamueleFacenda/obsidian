@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/italiano/Realismo.md",
+                "file": "unitn/analisi_1/02 principio di induzione.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scuola/italiano/Realismo.md",
+                "file": "unitn/analisi_1/02 principio di induzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scuola/italiano/Realismo.md",
+                "file": "unitn/analisi_1/02 principio di induzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scuola/italiano/Realismo.md"
+                "file": "unitn/analisi_1/02 principio di induzione.md"
               }
             }
           },
@@ -185,9 +185,11 @@
   },
   "active": "ecfb6f7e16b081ce",
   "lastOpenFiles": [
+    "unitn/analisi_1/01 Polinomi.md",
+    "unitn/analisi_1/02 principio di induzione.md",
+    "scuola/italiano/Realismo.md",
     "scuola/storia/Il Dopoguerra.md",
     "scuola/italiano/Letteratura della resistenza.md",
-    "scuola/italiano/Realismo.md",
     "scuola/italiano/Decadentismo.md",
     "scuola/sistemi/Coso di gruppo.md",
     "scuola/italiano/Pirandello.md",
@@ -211,8 +213,6 @@
     "altro/scout",
     "altro",
     "scuola/sistemi/Dhcp.md",
-    "scuola/inglese/Random homeworks.md",
-    "scuola/italiano/Il fu Mattia Pascal.md",
-    "scuola/robotica/Progettazione.md"
+    "scuola/inglese/Random homeworks.md"
   ]
 }

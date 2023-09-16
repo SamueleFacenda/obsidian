@@ -1,6 +1,6 @@
 ## Principio di induzione
 >Il principio di induzione riguarda proprieta dei numeri naturali $N$.
->Sia $P_n$ una proprieta che riguarda N, ossia un'affermazione che contiene al suo interno un paramentro n E N e che a seconda del valore di n, puo assere vera o falsa
+>Sia $P_n$ una proprieta' che riguarda N, ossia un'affermazione che contiene al suo interno un paramentro n E N e che a seconda del valore di n, puo assere vera o falsa
 
 Supponiamo che
 $P_0$ sia vera
