@@ -38,15 +38,58 @@ Siano $\overrightarrow{V}=(V_1,V_2,V_3),\overrightarrow{W}=(W_1,W_2,W_3)\in V^3$
 L'angolo (convesso) tra i vettori $\overrightarrow{V}$ e $\overrightarrow{W}$ e' $\theta \in [0, \pi]$ definiti tra i due segmenti$\overrightarrow{P_1P_2} \, e\, \overrightarrow{P_1,P_2}$ rispettivamente
 
 Chiamo $\overrightarrow{U}$ il vettore che va dalla fine di $\overrightarrow{V}$ alla fine di $\overrightarrow{W}$, che corrisponde a $\overrightarrow{V}-\overrightarrow{W}$
-$|\overrightarrow{U}|^2=U_1^2+U_2^2+U_3^2=(V_1-W_1)^2+(V_2+W_2)^2+(V_3+W_3)^2$
+$|\overrightarrow{U}|^2=U_1^2+U_2^2+U_3^2=(V_1-W_1)^2+(V_2-W_2)^2+(V_3-W_3)^2$
 $=|\overrightarrow{V}|^2+|\overrightarrow{W}|^2-2(V_1W_1+V_2W_2+V_3W_3)$
 $|\overrightarrow{U}|^2=(|\overrightarrow{W}|\sin{\theta})^2+(|\overrightarrow{V}|-|\overrightarrow{W}|\cos{\theta})^2$
 $=|\overrightarrow{V}|^2+|\overrightarrow{W}|^2-2|\overrightarrow{V}||\overrightarrow{W}|\cos{\theta}$
 $|\overrightarrow{V}||\overrightarrow{W}|\cos{\theta}=V_1W_1+V_2W_2+V_3W_3$
 $\cos{\theta}=\frac{\overrightarrow{V}\cdot\overrightarrow{W}}{|\overrightarrow{V}||\overrightarrow{W}|}$
-con $\overrightarrow{V}\cdot\overrightarrow{W}=V_1W_1+V_2W_2+V_3W_3$
+con $\overrightarrow{V}\cdot\overrightarrow{W}=V_1W_1+V_2W_2+V_3W_3$ (prodotto scalare tra vettori geometrici)
 
 Osservazione:
 $\overrightarrow{V}\bot\overrightarrow{W}\iff \overrightarrow{V} \cdot \overrightarrow{W}=0$
 
-Sono Samule $\iff$ ho cognome Facenda $\iff$ traiardo nelle CTF $\iff$ legge il messaggio
+Osservazioni sul prodotto scalare:
+E' bilineare
+$(\overrightarrow{V}+\overrightarrow{W})\cdot \overrightarrow{U}=\overrightarrow{V}\cdot\overrightarrow{U}+\overrightarrow{W}\cdot\overrightarrow{U}$
+DIstributiva a destra e sinistra
+$k\in\Bbb{R}\,\, (k\overrightarrow{V})\cdot\overrightarrow{W}=\overrightarrow{V}\cdot(k\overrightarrow{W})=k(\overrightarrow{V}\cdot\overrightarrow{W})$
+Proprieta' commutativa
+$\overrightarrow{V}\cdot\overrightarrow{V}=|\overrightarrow{V}|^2$
+
+Osservazione: retta nel piano
+r: ax+by=c
+Siano $P_1\ne P_2$ in r:
+$\begin{cases}ax_1+by_1=c\\ax_2+b_2=c\end{cases}$
+a(x_2-x_1)+b(y_2-y_2)=0   Seconda equazione meno la prima
+Sia $\overrightarrow{n}=(a,b)$  rettore normale di r
+$\Rightarrow\overrightarrow{n}\cdot\overrightarrow{P_1P_2}=0$ (cioe' e' ortogonale ad r)
+
+Osservazione: piano $\pi$ di eq. cartasiana
+ax+by+cz=d
+Se $P_1,P_2\in \Bbb{R} \Rightarrow$
+$\begin{cases}ax_1+by_1+cy_1=d\\ ax_2by_2+cz_2=d\end{cases}$
+$a(x_2-x_1)+b(y_2-y_1)+c(z_2-z_1)=0$
+$\overrightarrow{n}\cdot\overrightarrow{P_1P_2}=0$
+$\Rightarrow\overrightarrow{n}=(a,b,c)$ e' ortogonalead ogni rettore $\overrightarrow{P_1P_2}$ della giaciture del primo, cioe' e' ortogomale a $\pi$
+$\overrightarrow{n}$ rettore normale di $\pi$
+
+### Aree e volumi
+Siano $\overrightarrow{V}=(V_1,V_2)\,e\,\overrightarrow{W}=(W_1,W_2)\in V^2$
+
+Area parallelogrammo:
+$A^2=|\overrightarrow{V}|^2(|\overrightarrow{W}|\sin{\theta})^2=|\overrightarrow{V}|^2|\overrightarrow{W}|^2(1-\cos^2 \theta)$
+$=|\overrightarrow{V}|^2|\overrightarrow{W}|^2-(\overrightarrow{V}\cdot\overrightarrow{W})^2$
+$=(V_1^2+V_2^2)(W_1^2+W_2^2)-(V_1W_1+V_1W_2)^2$
+$(V_1W_2-V_2W_1)^2$
+
+$\Rightarrow A=|V_1W_2-V_2W_1|$
+
+Se $\overrightarrow{V},\overrightarrow{W}\in R^3$
+$A^2=(V_1W_2-V_2W_1)^2+(V_1W_3-V_3W_1)^2+(V_2W_3-V_3W_2)^2$
+
+
+### Prodotto vettoriale
+$\overrightarrow{V}\times\overrightarrow{W}=(V_2W_3-V_3W_2,V_3W_1-V_1W_3,V_1W_2-V_2W_1)\in V^3$
+$A=|\overrightarrow{V}\times\overrightarrow{W}|$
+
