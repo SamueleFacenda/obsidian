@@ -15,3 +15,11 @@ y = parte immaginaria di z = $\Bbb{Im}(z) = I(z)$
 Piano di Argand-Gauss o solo Gauss
 Il solito piano cartesiano, con la parte reale (rappr. cartesiana) sull'asse x e quella immaginaria sulle y
 
+### Operazioni algebriche tra numeri complessi
+
+Somma e differenza sono semplici, sommo le parti reali e le parti immaginarie
+
+Prodotto: 
+z w = (a+bi)(c+di)
+= ac + adi + bci + bdi^2
+
