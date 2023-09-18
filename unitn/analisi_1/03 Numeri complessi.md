@@ -103,6 +103,9 @@ allora
 $\cos(2\theta)=\cos^2\theta-\sin^2\theta$
 $\sin(2\theta)...
 
+Esercizio per casa
+Scrivere in forma esponenziale z=e, z=-5, $z=(1+i)^{20}$,z=$(\sqrt 3 -i)^{-20}$
+
 
 
 
