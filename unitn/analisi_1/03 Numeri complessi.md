@@ -80,6 +80,10 @@ $|\bar z| = |z|$
 $\overline{\frac 1 z}= \frac 1 z$
 $|z\cdot w|=|z|\cdot|w|$
 
+## Forma esponenziale
+
+$z=\rho e^{i\theta}$
+
 
 
 
