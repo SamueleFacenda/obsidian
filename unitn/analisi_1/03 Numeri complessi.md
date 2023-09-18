@@ -82,7 +82,14 @@ $|z\cdot w|=|z|\cdot|w|$
 
 ## Forma esponenziale
 
-$z=\rho e^{i\theta}$
+$z=\rho e^{i\theta}=\rho(\cos \theta + i \sin\theta)$
+Questa rappresentazione e' molto utile in alcune manipolazione algebriche, ad esempio nei prodotti
+$zw=\rho\pi e^{i(\theta+\varphi)}$
+$\frac z w =\frac \rho \pi e^{i(\theta -\varphi)}$
+$\frac i z = \frac 1 \rho e^{-i\theta}$
+$\bar z = \rho e^{-i\theta}$
+
+## Potenze n-esime in C
 
 
 
