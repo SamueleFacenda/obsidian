@@ -59,7 +59,12 @@ Si usano le coordinate polari nel piano. Ogni coppia e' individuata dalla coppia
 Formule di passaggio: $a=\rho \cos \theta \;\; b=\rho \sin \theta$
 Al contrario: $\rho=|z|=\sqrt{a^2+b^2}$ e $\theta$ lo leggo nel disegno oppure $\frac b a =\frac{\sin\theta}{\cos\theta}=\tan \theta$
 
-Scrivere un numero in forma trigonometrica significa scrivere che $$ z = a +bi=\rho \cos \theta + \rho \sin \theta i = \rho (\cos 'theta + ')
+Scrivere un numero in forma trigonometrica significa scrivere che $$ z = a +bi=\rho \cos \theta + \rho \sin \theta i = \rho (\cos \theta + i \sin \theta)$$
+Il coniugato ha semplicemente il segno invertito di isin.
+
+### Prodotto in forma triconometrica
+$w=\pi (\cos \phi +i\sin \phi)$
+$$z\cdot
 
 
 
