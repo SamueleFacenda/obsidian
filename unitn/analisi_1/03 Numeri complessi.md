@@ -78,6 +78,7 @@ $\overline{z+w}=\bar z + \bar w$
 $\bar{\bar z}=z$
 $|\bar z| = |z|$
 $\overline{\frac 1 z}= \frac 1 z$
+$|z\cdot w|=|z|\cdot|w|$
 
 
 
