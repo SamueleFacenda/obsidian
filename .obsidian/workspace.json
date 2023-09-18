@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2108bc76dade2d0c",
+        "id": "460962081498c323",
         "type": "tabs",
         "children": [
           {
-            "id": "01c0f16ef1a1bd4e",
+            "id": "43e8d8e138d82d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scuola/italiano/Letteratura della resistenza.md",
+                "file": "unitn/analisi_1/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ecfb6f7e16b081ce",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/01 piani 2023-09-15 11.12.44.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6412be97841d5081",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/01 piani 2023-09-15 11.12.44.excalidraw.md",
+                "file": "unitn/analisi_1/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/01 piani 2023-09-15 11.12.44.excalidraw.md",
+                "file": "unitn/analisi_1/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/01 piani 2023-09-15 11.12.44.excalidraw.md"
+                "file": "unitn/analisi_1/Untitled.md"
               }
             }
           },
@@ -192,13 +171,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6412be97841d5081",
+  "active": "43e8d8e138d82d31",
   "lastOpenFiles": [
+    "unitn/analisi_1/Untitled.md",
+    "scuola/italiano/Letteratura della resistenza.md",
+    "Excalidraw/01 piani 2023-09-15 11.12.44.excalidraw.md",
     "unitn/analisi_1/02 principio di induzione.md",
     "unitn/analisi_1/01 Polinomi.md",
     "scuola/italiano/Realismo.md",
     "scuola/storia/Il Dopoguerra.md",
-    "scuola/italiano/Letteratura della resistenza.md",
     "scuola/italiano/Decadentismo.md",
     "scuola/sistemi/Coso di gruppo.md",
     "scuola/italiano/Pirandello.md",
@@ -220,8 +201,6 @@
     "altro/scout/Carta di clan.md",
     "altro/scout/Untitled",
     "altro/scout",
-    "altro",
-    "scuola/sistemi/Dhcp.md",
-    "scuola/inglese/Random homeworks.md"
+    "altro"
   ]
 }

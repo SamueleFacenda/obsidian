@@ -13,4 +13,4 @@ Come: oggettività (documenti), lingua non letteraria (dialoghi)
 - letteratura partigiana: resistenza (Fenoglio, Calvino), memorialistica
 - descrizione Italia sottosviluppata (Carlo Levi)
 
-in comune hanno (i neoralisti) la descrizione del momento storico
+in comune hanno (i neorealisti) la descrizione del momento storico
