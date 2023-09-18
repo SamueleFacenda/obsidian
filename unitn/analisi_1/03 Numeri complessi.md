@@ -72,11 +72,12 @@ Invertire il modulo e il segno di $\theta$
 $$\frac z w = z \cdot \frac 1 w = \frac \rho \pi (\cos(\theta-\varphi)+i\sin(\theta-\varphi))$$
 Divido i moduli, sottraggo gli angoli
 
-## Proprieta' del coniugato
+## Proprietà del coniugato
 
-$\bar{z+w}=\bar z + \bar w$
-
-
+$\overline{z+w}=\bar z + \bar w$
+$\bar{\bar z}=z$
+$|\bar z| = |z|$
+$\overline{\frac 1 z}= \frac 1 z$
 
 
 
