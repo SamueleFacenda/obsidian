@@ -94,6 +94,11 @@ $z^n=(a+bi)^n$
 Meglio usare la forma trigonometrica.
 $z\cdot z=\rho^2(\cos(2\theta)+i\sin(2\theta))$
 In generale $z^n=\rho^n(\cos(n\theta)+i\sin(n\theta))$
+oppure $z^n=\rho^n e^{in\theta}$
+Oss: $z=\cos \theta + i\sin\theta\;\;(\rho =1)$
+Trovo le formule della trigonometria
+$z^2=\cos(3\theta)+i\sin(2\theta)$
+
 
 
 
