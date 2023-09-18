@@ -51,5 +51,8 @@ $\frac{1}{i}=-i$
 
 Osservazioni:
 $\frac{1}{z}=\bar z \;\;\forall z \in \Bbb C \;\; t.c. \;\; |z|=1$
-Nel piano di Gauss-
+Nel piano di Gauss-Argand e' la circonferenza con centro in 0 e raggio 1.
+
+## Rappresentazione trigonometrica
+Si usano le coordinate polari nel piano. Ogni coppia e' individuata dalla coppia ($\rho , \theta$  ) dove il primo rappresenta la distanza dal punto all'origine e $\theta$ e' l'angolo che identifica la posizione del punto rispetto all'asse delle reale e preso in senso antiorario
 
