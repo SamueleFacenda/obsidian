@@ -90,6 +90,10 @@ $\frac i z = \frac 1 \rho e^{-i\theta}$
 $\bar z = \rho e^{-i\theta}$
 
 ## Potenze n-esime in C
+$z^n=(a+bi)^n$
+Meglio usare la forma trigonometrica.
+$z\cdot z=\rho^2(\cos(2\theta)+i\sin(2\theta))$
+In generale $z^n=\rho^n(\cos(n\theta)+i\sin(n\theta))$
 
 
 
