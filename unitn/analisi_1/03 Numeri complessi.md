@@ -35,3 +35,6 @@ Somma e differenza in C seguono la regola del parallelogramma
 Reciproco in C:
 $\frac{1}{z}=\frac{1}{a+bi}=\frac{1}{a+bi}\frac{a-bi}{a-bi}=\frac{a-bi}{a^2+b^2}$
 
+### Coniugato
+
+Si definisce coniugato di z il numero complesso con stessa parte reale e opposta parte immaginaria: $\bar z$
