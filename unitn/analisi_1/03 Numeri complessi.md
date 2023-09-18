@@ -28,3 +28,4 @@ Elemento neutro somma: equivalente in C di 0, che e' $0\in\Bbb{C} \;\;\; 0=0+0i$
 $z\pm 0=0$
 Opposto nella somma: $\forall z \in \Bbb{C} \exists w \in \Bbb{C} \;t.c.\, z+w=0$
 quindi per $z=a+bi\Rightarrow w=-1-bi \Rightarrow -z$
+E' l'opposto di z rispetto all'origine
