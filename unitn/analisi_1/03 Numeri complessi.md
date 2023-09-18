@@ -22,7 +22,7 @@ Somma e differenza sono semplici, sommo le parti reali e le parti immaginarie
 Prodotto: 
 z w = (a+bi)(c+di)
 = ac + adi + bci + bdi ^2^
-zw = ac-bd = (ab+bc)i
+zw = ac-bd + (ab+bc)i
 
 Elemento neutro somma: equivalente in C di 0, che e' $0\in\Bbb{C} \;\;\; 0=0+0i$
 $z\pm 0=0$
