@@ -32,9 +32,19 @@ E' l'opposto di z rispetto all'origine
 
 Somma e differenza in C seguono la regola del parallelogramma
 
-Reciproco in C:
+### Reciproco 
+in C:
 $\frac{1}{z}=\frac{1}{a+bi}=\frac{1}{a+bi}\frac{a-bi}{a-bi}=\frac{a-bi}{a^2+b^2}$
 
 ### Coniugato
 
 Si definisce coniugato di z il numero complesso con stessa parte reale e opposta parte immaginaria: $\bar z$
+
+### Modulo
+
+Si definisce per z:
+$|z|=\sqrt{a^2+b^2}$
+
+### Operazioni
+$z\cdot \bar z = (a+bi)(a-bi)=a^2+b^2=|z|^2$
+
