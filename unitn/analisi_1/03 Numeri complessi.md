@@ -29,3 +29,9 @@ $z\pm 0=0$
 Opposto nella somma: $\forall z \in \Bbb{C} \exists w \in \Bbb{C} \;t.c.\, z+w=0$
 quindi per $z=a+bi\Rightarrow w=-1-bi \Rightarrow -z$
 E' l'opposto di z rispetto all'origine
+
+Somma e differenza in C seguono la regola del parallelogramma
+
+Reciproco in C:
+$\frac{1}{z}=\frac{1}{a+bi}=\frac{1}{a+bi}\frac{a-bi}{a-bi}=\frac{a-bi}{a^2+b^2}$
+
