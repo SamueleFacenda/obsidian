@@ -97,8 +97,11 @@ In generale $z^n=\rho^n(\cos(n\theta)+i\sin(n\theta))$
 oppure $z^n=\rho^n e^{in\theta}$
 Oss: $z=\cos \theta + i\sin\theta\;\;(\rho =1)$
 Trovo le formule della trigonometria
-$z^2=\cos(3\theta)+i\sin(2\theta)$
-
+1' modo $z^2=\cos(2\theta)+i\sin(2\theta)$
+2' modo $z^2=(\cos\theta + i\sin\theta)^2=\cos^2 \theta +2\cos\theta i\sin\theta -\sin^2\theta$
+allora
+$\cos(2\theta)=\cos^2\theta-\sin^2\theta$
+$\sin(2\theta)...
 
 
 
