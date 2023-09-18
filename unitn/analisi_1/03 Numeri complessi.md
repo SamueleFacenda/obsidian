@@ -62,9 +62,10 @@ Al contrario: $\rho=|z|=\sqrt{a^2+b^2}$ e $\theta$ lo leggo nel disegno oppure $
 Scrivere un numero in forma trigonometrica significa scrivere che $$ z = a +bi=\rho \cos \theta + \rho \sin \theta i = \rho (\cos \theta + i \sin \theta)$$
 Il coniugato ha semplicemente il segno invertito di isin.
 
-### Prodotto in forma triconometrica
-$w=\pi (\cos \phi +i\sin \phi)$
-$$z\cdot
+### Prodotto in forma trigonometrica
+$w=\pi (\cos \varphi +i\sin \varphi)$
+$$z\cdot w=\theta\pi(\cos{\theta + \varphi}+i\sin(\theta + \varphi))$$
+
 
 
 
