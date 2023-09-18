@@ -57,5 +57,11 @@ Nel piano di Gauss-Argand e' la circonferenza con centro in 0 e raggio 1.
 Si usano le coordinate polari nel piano. Ogni coppia e' individuata dalla coppia ($\rho , \theta$  ) dove il primo rappresenta la distanza dal punto all'origine e $\theta$ e' l'angolo che identifica la posizione del punto rispetto all'asse delle reale e preso in senso antiorario
 
 Formule di passaggio: $a=\rho \cos \theta \;\; b=\rho \sin \theta$
-Al contrario: $\rho=|z|=\sqrt{a^2+b^2}$ e $\theta$ lo leggo nel disegno oppure $\frac b a 
+Al contrario: $\rho=|z|=\sqrt{a^2+b^2}$ e $\theta$ lo leggo nel disegno oppure $\frac b a =\frac{\sin\theta}{\cos\theta}=\tan \theta$
+
+Scrivere un numero in forma trigonometrica significa scrivere che $$ z = a +bi=\rho \cos \theta + \rho \sin \theta i = \rho (\cos 'theta + ')
+
+
+
+
 
