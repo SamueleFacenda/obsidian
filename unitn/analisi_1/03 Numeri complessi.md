@@ -45,6 +45,11 @@ Si definisce coniugato di z il numero complesso con stessa parte reale e opposta
 Si definisce per z:
 $|z|=\sqrt{a^2+b^2}$
 
-### Operazioni
+### Considerazioni
 $z\cdot \bar z = (a+bi)(a-bi)=a^2+b^2=|z|^2$
+$\frac{1}{i}=-i$
+
+Osservazioni:
+$\frac{1}{z}=\bar z \;\;\forall z \in \Bbb C \;\; t.c. \;\; |z|=1$
+Nel piano di Gauss-
 
