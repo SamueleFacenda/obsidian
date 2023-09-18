@@ -65,6 +65,9 @@ Il coniugato ha semplicemente il segno invertito di isin.
 ### Prodotto in forma trigonometrica
 $w=\pi (\cos \varphi +i\sin \varphi)$
 $$z\cdot w=\theta\pi(\cos{\theta + \varphi}+i\sin(\theta + \varphi))$$
+Reciproco:
+$\frac 1 z = \frac{\bar z}{|z|^2} $
+
 
 
 
