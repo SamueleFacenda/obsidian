@@ -66,7 +66,16 @@ Il coniugato ha semplicemente il segno invertito di isin.
 $w=\pi (\cos \varphi +i\sin \varphi)$
 $$z\cdot w=\theta\pi(\cos{\theta + \varphi}+i\sin(\theta + \varphi))$$
 Reciproco:
-$\frac 1 z = \frac{\bar z}{|z|^2} $
+$\frac 1 z = \frac{\bar z}{|z|^2} = \frac 1 \rho (\cos \theta -i\sin\theta)$
+Invertire il modulo e il segno di $\theta$
+#### Prodotto
+$$\frac z w = z \cdot \frac 1 w = \frac \rho \pi (\cos(\theta-\varphi)+i\sin(\theta-\varphi))$$
+Divido i moduli, sottraggo gli angoli
+
+## Proprieta' del coniugato
+
+$\bar{z+w}=\bar z + \bar w$
+
 
 
 
