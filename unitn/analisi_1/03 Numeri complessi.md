@@ -107,7 +107,12 @@ Esercizio per casa
 Scrivere in forma esponenziale z=e, z=-5, $z=(1+i)^{20}$,z=$(\sqrt 3 -i)^{-20}$
 
 
-
+Dimostrazione per induzione:
+$z^n=(a+bi)^n$
+Meglio usare la forma trigonometrica.
+$z\cdot z=\rho^2(\cos(2\theta)+i\sin(2\theta))$
+passo induttivo:
+ipotesi: 
 
 
 
