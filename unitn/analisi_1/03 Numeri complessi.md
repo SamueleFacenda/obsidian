@@ -112,7 +112,13 @@ $z^n=(a+bi)^n$
 Meglio usare la forma trigonometrica.
 $z\cdot z=\rho^2(\cos(2\theta)+i\sin(2\theta))$
 passo induttivo:
-ipotesi: 
+ipotesi: $z^n=\rho^n(\cos(n\theta)+i\sin(n\theta))$
+tesi: $z^{n+1}=\rho^{n+1}(\cos((n+1)\theta)+i\sin((n+1)\theta))$
+dimostrazione:
+$$z^{n+1}=\rho(\cos \theta + i\sin \theta)\cdot \rho(\cos \theta + i\sin \theta)\cdot\\rho(\cos \theta + i\sin \theta)...n+1$$
+
+$$=\rho^n(\cos(n\theta)+i\sin(n\theta))\rho(\cos \theta + i\sin \theta)$$
+$$\rho^{(\cos \theta + i\sin \theta)
 
 
 
