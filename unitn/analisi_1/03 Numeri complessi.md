@@ -118,7 +118,8 @@ dimostrazione:
 $$z^{n+1}=\rho(\cos \theta + i\sin \theta)\cdot \rho(\cos \theta + i\sin \theta)\cdot\\rho(\cos \theta + i\sin \theta)...n+1$$
 
 $$=\rho^n(\cos(n\theta)+i\sin(n\theta))\rho(\cos \theta + i\sin \theta)$$
-$$\rho^{(\cos \theta + i\sin \theta)
+$$=\rho^{n+1}(\cos \theta + i\sin \theta)(\cos(n\theta)+i\sin(n\theta))$$
+
 
 
 
