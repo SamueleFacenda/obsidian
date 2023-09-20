@@ -165,4 +165,5 @@ Def. Molteplicit' di una redice
 Sia $\alpha$ radice di P(x), si definisce MOLTEPLICITA' di $\alpha$ il piu' grande naturale m tale che P(x) e' divisibile per $(x-\alpha)^m$ 
 
 Fatto 2: Teorema fondamentale dell'algebra
-Un polinomio di grado n ha esattamente n radici complesse eventualmente contate 
+Un polinomio di grado n ha esattamente n radici complesse eventualmente contate con le rispettive molteplicita'
+Conseguenza: ogni polinomio puo' essere fattorizzato in prodotti di n monomi (polinomio di grado 1 a coefficienti complessi)
