@@ -102,5 +102,4 @@ Proprietà del prodotto vettoriale:
 - Il volume del parallelepipedo definito da tre vettori $\overrightarrow{U},\overrightarrow{V}, \overrightarrow{W}\in V^3$ e' uguale a $V=|\overrightarrow{U}\cdot(\overrightarrow{V}\times\overrightarrow{W})|$ 
 OSS 
 - $\Rightarrow$ il segno di $\overrightarrow{V}_1\overrightarrow{W}_2-\overrightarrow{V}_2\overrightarrow{W}_1$ dipende dall'orientazione di $\{\overrightarrow{V},\overrightarrow{W}\}$ per vettori nel piano. Il segno dipende da fatto che abbiano un angolo antiorario(+) o orario(-) (da V a W). 
-- Nello spazio con una terna di vettori: la terna e' orientata positivamente ("mano destra") $\iff \overrightarrow{U}\cdot(\overrightarrow{V}\times\overrightarrow{W}) >0$
-- 
+- Nello spazio con una terna di vettori: la terna e' orientata positivamente ("mano destra") $\iff \overrightarrow{U}\cdot(\overrightarrow{V}\times\overrightarrow{W}) >0$ . All'opposto e' orientata negativamente.
