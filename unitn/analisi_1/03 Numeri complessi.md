@@ -136,8 +136,16 @@ e $z=\rho e^{i\theta}$ (tho e theta sono incognite)
 allora ho $z^n=w_0 \iff \rho^ne^{in\theta}=\theta_0e^{i\theta_0}$
 $\iff \rho^n = \rho_0 \;\; e \;\; in\theta=i\theta_0+2k\pi\;\; k\in \Bbb Z$
 Rho0 e' positivo e reale, quindi trovo facilmente $\rho$: $\rho = \sqrt[n]{\rho_0}$
-$\theta = \frac {\theta_0} n + k\frac {n\pi} n$
+$\theta = \frac {\theta_0} n + k\frac {2\pi} n$
 Le uniche soluzioni rilevanti per theta sono quelle in cui k=0,1,2...,n-1
 
-$z^3=8i$ $8e^{i\frac \pi 2}$
+Esercizio
+$z^3=8i=8e^{i\frac \pi 2}$
+$\rho=\sqrt[3]8=2$
+$\theta=\frac \pi 6 + \frac {2k\pi} 3$
+Sostituisco k=0,1,2
+$k=0\;\;\theta=\frac \pi 6$
+$k=1\;\;\theta=\frac {5\pi} 6$
+$k=2\;\;\theta=\frac {3\pi} 2$
+
 
