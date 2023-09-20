@@ -126,3 +126,9 @@ $$=\rho^{n+1}(\cos \theta + i\sin \theta)(\cos(n\theta)+i\sin(n\theta))$$
 ## Radici di un numero complesso
 
 Dato un numero complesso $w_0\in\Bbb C$ e un numero intero $n\ge z$ si dicono radici n-esime di $w_0$ i numeri $z\in \Bbb C$ tali che $z^n=w_0$
+
+Se $w_0\ne 0 \Rightarrow$ l'eq $z^n=w_0$ ha sempre n soluzioni complesse e distinte
+Queste soluzioni rappresentano i vertici di un n-agono regolare
+
+Come si calcolano le radici? Lavoriamo sulla rappresentazione euleriana.
+$w_0=\rho_0 e^{i\theta_0}$ 
