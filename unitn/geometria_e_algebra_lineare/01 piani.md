@@ -93,10 +93,10 @@ $A^2=(V_1W_2-V_2W_1)^2+(V_1W_3-V_3W_1)^2+(V_2W_3-V_3W_2)^2$
 $\overrightarrow{V}\times\overrightarrow{W}=(V_2W_3-V_3W_2,V_3W_1-V_1W_3,V_1W_2-V_2W_1)\in V^3$
 $A=|\overrightarrow{V}\times\overrightarrow{W}|$
 
-Proprieta' del prodotto vettoriale:
+Proprietà del prodotto vettoriale:
 - $A=|\overrightarrow{V}\times\overrightarrow{W}|$ area del parallelogramma
 - $\overrightarrow{V}\times\overrightarrow{W}=-\overrightarrow{V}\times\overrightarrow{W}$ (anticommutativo)
 - $\overrightarrow{V}\times\overrightarrow{W}=0\iff \overrightarrow{V}=\overrightarrow{0}\text{ oppure }\overrightarrow{W}=\overrightarrow{0}$ oppure i due vettori sono proporzionali(paralleli)
 - $\overrightarrow{V}\times\overrightarrow{W}$ e' ortogonale a $\overrightarrow{V}$ e $\overrightarrow{W}$
-- Il verso di $\overrightarrow{V}\times\overrightarrow{W}$ e\ quello determinato dalla regola della mano destra (o della vite destrosa)
-- Il volume del parallelepipedo definito da tre vettori $\overrightarrow{U},\overrightarrow{V}, \overrightarrow{W}\in V^3$ e' uguale a $V=|\overrightarrow{U}\cdot(\overrightarrow{V}\times\overrightarrow{W})|$,
+- Il verso di $\overrightarrow{V}\times\overrightarrow{W}$ e\ quello determinato dalla regola della mano destra (o della vite destrorsa)
+- Il volume del parallelepipedo definito da tre vettori $\overrightarrow{U},\overrightarrow{V}, \overrightarrow{W}\in V^3$ e' uguale a $V=|\overrightarrow{U}\cdot(\overrightarrow{V}\times\overrightarrow{W})|$ 
