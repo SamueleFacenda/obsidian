@@ -3,5 +3,6 @@
   "monospaceFontFamily": "Fira Code",
   "textFontFamily": "",
   "theme": "obsidian",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 14
 }
