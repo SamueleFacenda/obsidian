@@ -160,3 +160,9 @@ Divisione polinomi
 Dati due polinomi A(x) e B(x) esistono sempre 2 polinomi Q(x) e R(x) tali che A(x)=B(x)Q(x)+R(x) -> resto
 
 Fatto 1: Ogni polinomio di grado n puo' avere al massimo n radici
+
+Def. Molteplicit' di una redice
+Sia $\alpha$ radice di P(x), si definisce MOLTEPLICITA' di $\alpha$ il piu' grande naturale m tale che P(x) e' divisibile per $(x-\alpha)^m$ 
+
+Fatto 2: Teorema fondamentale dell'algebra
+Un polinomio di grado n ha esattamente n radici complesse eventualmente contate 
