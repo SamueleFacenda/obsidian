@@ -131,4 +131,9 @@ Se $w_0\ne 0 \Rightarrow$ l'eq $z^n=w_0$ ha sempre n soluzioni complesse e disti
 Queste soluzioni rappresentano i vertici di un n-agono regolare
 
 Come si calcolano le radici? Lavoriamo sulla rappresentazione euleriana.
-$w_0=\rho_0 e^{i\theta_0}$ 
+$w_0=\rho_0 e^{i\theta_0}$ (rho e theta sono finiti)
+e $z=\rho e^{i\theta}$ (tho e theta sono incognite)
+allora ho $z^n=w_0 \iff \rho^ne^{in\theta}=\theta_0e^{i\theta_0}$
+$\iff \rho^n = \rho_0 \;\; e \;\; in\theta=i\theta_0+2k\pi\;\; k\in \Bbb Z$
+Rho0 e' positivo e reale, quindi trovo facilmente $\rho$: $\rho = \sqrt[n]{\rho_0}$
+$\theta = \
