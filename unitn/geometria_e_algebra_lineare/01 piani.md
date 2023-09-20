@@ -100,3 +100,4 @@ Proprietà del prodotto vettoriale:
 - $\overrightarrow{V}\times\overrightarrow{W}$ e' ortogonale a $\overrightarrow{V}$ e $\overrightarrow{W}$
 - Il verso di $\overrightarrow{V}\times\overrightarrow{W}$ e\ quello determinato dalla regola della mano destra (o della vite destrorsa)
 - Il volume del parallelepipedo definito da tre vettori $\overrightarrow{U},\overrightarrow{V}, \overrightarrow{W}\in V^3$ e' uguale a $V=|\overrightarrow{U}\cdot(\overrightarrow{V}\times\overrightarrow{W})|$ 
+OSS $\Rightarrow$ il segno di $\overrightarrow{V}_1\overrightarrow{W}_2-
