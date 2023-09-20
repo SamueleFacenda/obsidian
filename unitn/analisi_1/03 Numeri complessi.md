@@ -172,3 +172,5 @@ Conseguenza: ogni polinomio puo' essere fattorizzato in prodotti di n monomi (po
 ### Fattorizzazione sui numeri reali
 Sia P(x) polinomio a coefficienti reali $a_l\in\Bbb R$ vale il fatto seguente:
 $P(\bar z)=\overline {P(z)}$
+Conseguenza: se P(x) e' a coefficienti reali allora se $\alpha$ e' radice allora anche $\bar\alpha$ e' radice
+Conseguenza 2: se P(x) ha coefficienti reali allora se $\alpha \in \Bbb C$ 
