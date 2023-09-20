@@ -149,3 +149,10 @@ $k=1\;\;\theta=\frac {5\pi} 6$
 $k=2\;\;\theta=\frac {3\pi} 2$
 
 
+## Polinomi con numeri complessi
+$P(x)=a_nx^n+a_{n-1}x^{n-1}+...+a_1x^1+a_0$
+Dove $a_k\;\;k=0,1,2,...,n$ sono i coefficienti del polinomio $\in \Bbb R\;\;o\;\; \Bbb C$ con la variante x pensata come reale o complessa.
+
+Def. Un numero complesso $\alpha\in \Bbb C$ si dice radice del polinomio P(x) se $P(\alpha)=0$
+Teorema di riffuni Se $\alpha \in \Bbb C$ e' radice di P(x) allora P(x) e' divisibile per (x-$\alpha$) ossia esiste il polinomio Q(x) t.c. 
+
