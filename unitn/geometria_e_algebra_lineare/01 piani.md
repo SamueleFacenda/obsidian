@@ -94,5 +94,8 @@ $\overrightarrow{V}\times\overrightarrow{W}=(V_2W_3-V_3W_2,V_3W_1-V_1W_3,V_1W_2-
 $A=|\overrightarrow{V}\times\overrightarrow{W}|$
 
 Proprieta' del prodotto vettoriale:
-- L'area del parallelogramma definito dai due vettori e' uguale alla lunghezza del vettore prodotto dei due vettori.
-- $\overrightarrow{V}\times\\overrightarrow{W}=-\overrightarrow{V}\times
+- $A=|\overrightarrow{V}\times\overrightarrow{W}|$ area del parallelogramma
+- $\overrightarrow{V}\times\overrightarrow{W}=-\overrightarrow{V}\times\overrightarrow{W}$ (anticommutativo)
+- $\overrightarrow{V}\times\overrightarrow{W}=0\iff \overrightarrow{V}=\overrightarrow{0}\text{ oppure }\overrightarrow{W}=\overrightarrow{0}$ oppure i due vettori sono proporzionali(paralleli)
+- $\overrightarrow{V}\times\overrightarrow{W}$ e' ortogonale a $\overrightarrow{V}$ e $\overrightarrow{W}$
+- 
