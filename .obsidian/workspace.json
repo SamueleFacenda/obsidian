@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unitn/analisi_1/03 Numeri complessi.md",
+                "file": "unitn/geometria_e_algebra_lineare/01 piani.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unitn/analisi_1/03 Numeri complessi.md",
+                "file": "unitn/geometria_e_algebra_lineare/01 piani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unitn/analisi_1/03 Numeri complessi.md",
+                "file": "unitn/geometria_e_algebra_lineare/01 piani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unitn/analisi_1/03 Numeri complessi.md"
+                "file": "unitn/geometria_e_algebra_lineare/01 piani.md"
               }
             }
           },
@@ -173,8 +173,8 @@
   },
   "active": "43e8d8e138d82d31",
   "lastOpenFiles": [
-    "unitn/geometria_e_algebra_lineare/01 piani.md",
     "unitn/analisi_1/03 Numeri complessi.md",
+    "unitn/geometria_e_algebra_lineare/01 piani.md",
     "unitn/analisi_1/02 principio di induzione.md",
     "unitn/analisi_1/01 Polinomi.md",
     "unitn/geometria_e_algebra_lineare/00 vettori geometrici.md",

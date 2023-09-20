@@ -93,3 +93,6 @@ $A^2=(V_1W_2-V_2W_1)^2+(V_1W_3-V_3W_1)^2+(V_2W_3-V_3W_2)^2$
 $\overrightarrow{V}\times\overrightarrow{W}=(V_2W_3-V_3W_2,V_3W_1-V_1W_3,V_1W_2-V_2W_1)\in V^3$
 $A=|\overrightarrow{V}\times\overrightarrow{W}|$
 
+Proprieta' del prodotto vettoriale:
+- L'area del parallelogramma definito dai due vettori e' uguale alla lunghezza del vettore prodotto dei due vettori.
+- $\overrightarrow{V}\times\\overrightarrow{W}=-\overrightarrow{V}\times
