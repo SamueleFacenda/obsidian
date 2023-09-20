@@ -178,4 +178,5 @@ Conseguenza 2: se P(x) ha coefficienti reali allora se $\alpha \in \Bbb C$ e' ra
 Osservazione:
 Sia $\alpha$ radice di P a coefficienti reali $\Rightarrow$ $\bar \alpha$ e' radice
 $(x-\alpha)(x-\bar\alpha)=x^2-\bar\alpha x-\alpha x+\alpha\bar\alpha=x^2-(\alpha+\bar\alpha)x+\alpha\bar\alpha$
-$=x^2-2Re\alpha x +
+$=x^2-2Re(\alpha) x + |\alpha|^2$
+
