@@ -181,5 +181,5 @@ $(x-\alpha)(x-\bar\alpha)=x^2-\bar\alpha x-\alpha x+\alpha\bar\alpha=x^2-(\alpha
 $=x^2-2Re(\alpha) x + |\alpha|^2$
 
 Fattorizzazione sui reali: Se P(x) e' un polinomio a coefficienti reali allora lo fattorizzo sui complessi come prodotto di n fattori di grado 1.
-Alcuni di questi sono fattori reali (ossia nel caso in cui $\alpha_k$ e' reale) altri se sono fattori con coefficienti complessi allora la radice $\alpha_e$ e\ complessa quindi poiche' P(x) e' a coefficienti reali $\Rightarrow \bar\alpha_e$ e\ anche vertice, quindi i due monomi ... (non ho finito di copiare, lezione 20/09)
+Alcuni di questi sono fattori reali (ossia nel caso in cui $\alpha_k$ e' reale) altri se sono fattori con coefficienti complessi allora la radice $\alpha_e$ e' complessa quindi poiche' P(x) e' a coefficienti reali $\Rightarrow \bar\alpha_e$ e\ anche vertice, quindi i due monomi ... (non ho finito di copiare, lezione 20/09)
 
