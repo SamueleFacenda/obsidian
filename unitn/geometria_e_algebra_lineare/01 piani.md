@@ -98,4 +98,5 @@ Proprieta' del prodotto vettoriale:
 - $\overrightarrow{V}\times\overrightarrow{W}=-\overrightarrow{V}\times\overrightarrow{W}$ (anticommutativo)
 - $\overrightarrow{V}\times\overrightarrow{W}=0\iff \overrightarrow{V}=\overrightarrow{0}\text{ oppure }\overrightarrow{W}=\overrightarrow{0}$ oppure i due vettori sono proporzionali(paralleli)
 - $\overrightarrow{V}\times\overrightarrow{W}$ e' ortogonale a $\overrightarrow{V}$ e $\overrightarrow{W}$
-- 
+- Il verso di $\overrightarrow{V}\times\overrightarrow{W}$ e\ quello determinato dalla regola della mano destra (o della vite destrosa)
+- Il volume del parallelepipedo definito da tre vettori $\overrightarrow{U},\overrightarrow{V}, \overrightarrow{W}\in V^3$ e' uguale a $V=|\overrightarrow{U}\cdot(\overrightarrow{V}\times\overrightarrow{W})|$,
