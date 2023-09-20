@@ -167,3 +167,8 @@ Sia $\alpha$ radice di P(x), si definisce MOLTEPLICITA' di $\alpha$ il piu' gran
 Fatto 2: Teorema fondamentale dell'algebra
 Un polinomio di grado n ha esattamente n radici complesse eventualmente contate con le rispettive molteplicita'
 Conseguenza: ogni polinomio puo' essere fattorizzato in prodotti di n monomi (polinomio di grado 1 a coefficienti complessi)
+
+
+### Fattorizzazione sui numeri reali
+Sia P(x) polinomio a coefficienti reali $a_l\in\Bbb R$ vale il fatto seguente:
+$P(\bar z)=\overline {P(z)}$
