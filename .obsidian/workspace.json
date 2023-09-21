@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/01 piani.md",
+                "file": "unitn/analisi_1/01 Polinomi.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/01 piani.md",
+                "file": "unitn/analisi_1/01 Polinomi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/01 piani.md",
+                "file": "unitn/analisi_1/01 Polinomi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/01 piani.md"
+                "file": "unitn/analisi_1/01 Polinomi.md"
               }
             }
           },
@@ -173,12 +173,12 @@
   },
   "active": "43e8d8e138d82d31",
   "lastOpenFiles": [
+    "unitn/analisi_1/02 principio di induzione.md",
+    "unitn/geometria_e_algebra_lineare/01 piani.md",
     "unitn/geometria_e_algebra_lineare/2023-09-20-Note-13-29esercizi.xopp~",
     "unitn/geometria_e_algebra_lineare/2023-09-20-Note-13-29esercizi.xopp",
     "unitn/geometria_e_algebra_lineare/00 vettori geometrici.md",
-    "unitn/geometria_e_algebra_lineare/01 piani.md",
     "unitn/analisi_1/03 Numeri complessi.md",
-    "unitn/analisi_1/02 principio di induzione.md",
     "unitn/analisi_1/01 Polinomi.md",
     "scuola/italiano/Letteratura della resistenza.md",
     "Excalidraw/01 piani 2023-09-15 11.12.44.excalidraw.md",
