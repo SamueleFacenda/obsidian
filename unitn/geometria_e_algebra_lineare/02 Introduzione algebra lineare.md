@@ -14,4 +14,7 @@ Un campo è un'insieme K che ha due operazioni +,x tali che:
 - (K,+) è un gruppo commutativo
 - (K*=K\{0},x} è un gruppo commutativo
 - a(b+c)=ab + ac $\forall a,b,c \in K$
-- 
+
+### Ennuple e matrici
+$\Bbb R ^ n=\left\{ (a_1,...,a_n)|a_1,...,a_n \in \Bbb R\right\}$
+n-uple
