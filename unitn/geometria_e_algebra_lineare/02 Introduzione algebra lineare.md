@@ -18,3 +18,10 @@ Un campo è un'insieme K che ha due operazioni +,x tali che:
 ### Ennuple e matrici
 $\Bbb R ^ n=\left\{ (a_1,...,a_n)|a_1,...,a_n \in \Bbb R\right\}$
 n-uple
+
+somma: $a=(a_1,...,a_n), b=(b_1,...,b_n)$
+$a+b=(a_1+b_1, ..., a_n+b_n)\in \Bbb R ^2$
+
+$(\Bbb R^2,+)$ è un gruppo commutativo
+$0=(0,...,0)\in\Bbb R^2$ è l'elemento neutro
+Data $a\in\Bbb R^2$ $-a=(-a_1,...,-a_n)$ (n-upla opposta)
