@@ -63,4 +63,5 @@ A m x n   A n x l
 Il prodotto di A e B (in questo ordine) è la matrice C=AB m x l, con $C=[c_{ik}]$
 dato che
 
-$c_{ik}=a_{i1}b_{1k}+a_{i2}b_{1}
+$c_{ik}=a_{i1}b_{1k}+a_{i2}b_{1k}+...+a_{in}b_{nk}$
+con i =1,...,m e k=1,...,l
