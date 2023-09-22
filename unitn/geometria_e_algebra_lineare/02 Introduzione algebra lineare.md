@@ -57,3 +57,10 @@ $M_{m}(R)=M_{m,m}(R)$
 $M_{m,n}(R)$ è un gruppo commutativo rispetto alla somma di matrici
 Matrice nulla (elemento neutro) è una matrice con solo elementi zero
 Elemento simmetrico è una matrice con tutti gli elementi opposti
+
+#### Moltiplicazione di matrici
+A m x n   A n x l
+Il prodotto di A e B (in questo ordine) è la matrice C=AB m x l, con $C=[c_{ik}]$
+dato che
+
+$c_{ik}=a_{i1}b_{1k}+a_{i2}b_{1}
