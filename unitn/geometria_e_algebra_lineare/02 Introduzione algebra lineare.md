@@ -43,3 +43,14 @@ a_{21} & a_{22} & ... & a_{2n} \\
 a_{n1} & a_{n2} & ... & a_{nn} \\
 \end{bmatrix}$$
 Se m=1 è detto vettore riga, che si può identificare con la n-upla corrispondente (uso le parentesi diverse per identificare elementi di insiemi diversi)
+
+#### Somma di matrici
+A,B m x n
+Se $A=[a_{ij}]$ e $B=[b_{ij}]$
+A+B=$[a_{ij}+b_{ij}]$
+#### Moltiplicazione per scalare
+kA=$[ka_{ij}]\,\, k\in\Bbb R$
+
+$M_{m,n}(R)=\{A|A\,matrice\,reale\,m\times n\}$
+$M_{m}(R)=M_{m,m}(R)$
+
