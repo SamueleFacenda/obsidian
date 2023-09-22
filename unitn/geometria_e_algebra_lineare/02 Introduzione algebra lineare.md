@@ -38,7 +38,8 @@ $\forall k,k_1,k_2\in\Bbb R, \forall a,b \in \Bbb R^2$
 Una matrice reale $m\times n$ o(o di tipo (m,n)) è una tabella formata da m righe e n colonne contenenti numeri reali $a_{aj},i=1,...,m; j=1,...,n$
 $A=[a_{ij}]$
 $$ A=\begin{bmatrix}
-a_{11} & a_{12} & ... a_{1n} \\
-a_{21} & a_{22} & ... a_{2n} \\
-a_{n1} & a_{n2} & ... a_{nn} \\
+a_{11} & a_{12} & ... & a_{1n} \\
+a_{21} & a_{22} & ... & a_{2n} \\
+a_{n1} & a_{n2} & ... & a_{nn} \\
 \end{bmatrix}$$
+Se m=1 è detto vettore riga, che si può identificare con la n-upla corrispondente (uso le parentesi diverse per identificare elementi di insiemi diversi)
