@@ -6,3 +6,5 @@ Un insieme G sul quale è definita un'operazione $\star$ : GxG-> G che denotiamo
 - $\forall a \in G\;\; \exists$ simmetrico $a^I \in G$ tale che $a\star a^I=a^I \star a = e$
 
 Un gruppo (G,$\star$) è detto commutativo (abeliano) se $a\star b=b\star a \,\,\, \forall a,b\in G$
+
+$(V^2, +),(V^3,+)$ sono gruppi commutativi
