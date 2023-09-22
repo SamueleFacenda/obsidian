@@ -54,3 +54,6 @@ kA=$[ka_{ij}]\,\, k\in\Bbb R$
 $M_{m,n}(R)=\{A|A\,matrice\,reale\,m\times n\}$
 $M_{m}(R)=M_{m,m}(R)$
 
+$M_{m,n}(R)$ è un gruppo commutativo rispetto alla somma di matrici
+Matrice nulla (elemento neutro) è una matrice con solo elementi zero
+Elemento simmetrico è una matrice con tutti gli elementi opposti
