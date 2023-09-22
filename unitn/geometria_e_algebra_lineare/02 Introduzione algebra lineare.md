@@ -15,7 +15,7 @@ Un campo è un'insieme K che ha due operazioni +,x tali che:
 - (K*=K\{0},x} è un gruppo commutativo
 - a(b+c)=ab + ac $\forall a,b,c \in K$
 
-### Ennuple e matrici
+### Ennuple
 $\Bbb R ^ n=\left\{ (a_1,...,a_n)|a_1,...,a_n \in \Bbb R\right\}$
 n-uple
 
@@ -33,3 +33,12 @@ Proprietà:
 - $(k_1k_2)a=k_1(k_2a)=k_2(k_1a)$
 - $k(a+b)=ka+kb$
 $\forall k,k_1,k_2\in\Bbb R, \forall a,b \in \Bbb R^2$
+
+### Matrici
+Una matrice reale $m\times n$ o(o di tipo (m,n)) è una tabella formata da m righe e n colonne contenenti numeri reali $a_{aj},i=1,...,m; j=1,...,n$
+$A=[a_{ij}]$
+$$ A=\begin{bmatrix}
+a_{11} & a_{12} & ... a_{1n} \\
+a_{21} & a_{22} & ... a_{2n} \\
+a_{n1} & a_{n2} & ... a_{nn} \\
+\end{bmatrix}$$
