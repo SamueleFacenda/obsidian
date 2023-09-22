@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "460962081498c323",
+        "id": "311f9f13d4733a56",
         "type": "tabs",
         "children": [
           {
-            "id": "43e8d8e138d82d31",
+            "id": "1d9c4d04f4cad641",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,10 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43e8d8e138d82d31",
+  "active": "1d9c4d04f4cad641",
   "lastOpenFiles": [
-    "unitn/analisi_1/01 Polinomi.md",
     "unitn/geometria_e_algebra_lineare/02 Introduzione algebra lineare.md",
+    "unitn/analisi_1/01 Polinomi.md",
     "unitn/analisi_1/2023-09-21-Note-12-04-esercizi.xopp~",
     "unitn/analisi_1/02 principio di induzione.md",
     "unitn/geometria_e_algebra_lineare/01 piani.md",
