@@ -67,4 +67,20 @@ $c_{ik}=a_{i1}b_{1k}+a_{i2}b_{1k}+...+a_{in}b_{nk}$
 con i =1,...,m e k=1,...,l
 
 
-Sistema di equazioni lie
+Riscrittura in forma matriciale di un sistema di equazioni lineari.
+$$\begin{cases}
+x_1+x_2+x_3=4\\
+2x_1+2x_2+5x_3=11\\
+4x_1+6x_2+8x_3=24
+\end{cases}$$
+$$A=\begin{bmatrix}
+1 & 1 & 1\\
+2 & 2 & 5\\
+4 & 6 & 8
+\end{bmatrix}
+,x=\begin{bmatrix}x_1\\x_2\\x_3\end{bmatrix}
+,b=\begin{bmatrix}4\\11\\24\end{bmatrix}
+$$
+b è il vettore/colonna di termini noti
+
+#### Proprietà della moltiplicazio
