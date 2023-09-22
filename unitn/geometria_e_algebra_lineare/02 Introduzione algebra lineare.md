@@ -20,8 +20,16 @@ $\Bbb R ^ n=\left\{ (a_1,...,a_n)|a_1,...,a_n \in \Bbb R\right\}$
 n-uple
 
 somma: $a=(a_1,...,a_n), b=(b_1,...,b_n)$
-$a+b=(a_1+b_1, ..., a_n+b_n)\in \Bbb R ^2$
+$a+b=(a_1+b_1, ..., a_n+b_n)\in \Bbb R ^n$
 
-$(\Bbb R^2,+)$ è un gruppo commutativo
-$0=(0,...,0)\in\Bbb R^2$ è l'elemento neutro
-Data $a\in\Bbb R^2$ $-a=(-a_1,...,-a_n)$ (n-upla opposta)
+$(\Bbb R^n,+)$ è un gruppo commutativo
+$0=(0,...,0)\in\Bbb R^n$ è l'elemento neutro
+Data $a\in\Bbb R^n$ $-a=(-a_1,...,-a_n)$ (n-upla opposta)
+
+#### Moltiplicazione per scalare:
+$ka = (ka_1,...,ka_n)\in \Bbb R^n$
+Proprietà:
+- $(k_1+k_2)a=k_1a+k_2a$
+- $(k_1k_2)a=k_1(k_2a)=k_2(k_1a)$
+- $k(a+b)=ka+kb$
+$\forall k,k_1,k_2\in\Bbb R, \forall a,b \in \Bbb R^2$
