@@ -65,3 +65,6 @@ dato che
 
 $c_{ik}=a_{i1}b_{1k}+a_{i2}b_{1k}+...+a_{in}b_{nk}$
 con i =1,...,m e k=1,...,l
+
+
+Sistema di equazioni lie
