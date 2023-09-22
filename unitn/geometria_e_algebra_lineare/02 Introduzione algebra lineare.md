@@ -83,4 +83,11 @@ $$A=\begin{bmatrix}
 $$
 b è il vettore/colonna di termini noti
 
-#### Proprietà della moltiplicazio
+#### Proprietà della moltiplicazione di matrici
+1. associatività: (AB)C=A(BC)
+2. distributività: (A+B)C=AC+BC
+3. distributività a sinistra/destra A(B+C)=AB+AC
+4. k(AB)=(kA)B=(kB)A
+
+Non valgono:
+- commutatività
