@@ -20,4 +20,5 @@ coppie ordinate: $(a,b)\ne(b,a)$
 - Invertibilità
 Def: Sia f:A->B, si dice che f è 
 - iniettiva se $a_1\ne a_2 \Rightarrow f(a_1)\ne f(a_2)$
-- 
+- surgettiva se $\forall\in B \;\exists\, a\in B \,\,t.v.\,\, b=f(a)$
+- bigettiva se 
