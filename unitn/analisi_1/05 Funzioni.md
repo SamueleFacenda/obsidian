@@ -24,4 +24,9 @@ Def: Sia f:A->B, si dice che f è
 - bigettiva se f è iniettiva e surgettiva
 
 ### Immagine e controimmagine
-f: a->b, sia $E\subseteq A$
+f: A->B, sia $E\subseteq A$
+$f(E)=\{f(a):a\in E\}\subseteq B$
+$=\{b\in B:\exists a \in E\,\,t.c.\,\,f(a)=b\}$
+
+Dato $F\subseteq B$ la controimmagine di F in A è l'insieme $f^{-1}(F)\subseteq A$ costituito da tutti gli elementi di A che vanno a finire in F con la legge f.
+
