@@ -33,4 +33,9 @@ Dato $F\subseteq B$ la controimmagine di F in A è l'insieme $f^{-1}(F)\subseteq
 ### Proprietà di simmetria
 - pari: $f(-x)=f(x) \forall x\in\Bbb R$
 - dispari: $f(-x)=-f(x)\forall x \in \Bbb R$
-- periodica: se esiste T>0 t.c. $f(x+T)=f(x)\forall x\in \
+- periodica: se esiste T>0 t.c. $f(x+T)=f(x)\forall x\in \Bbb R$
+in termini di grafico:
+- pari: il grafico è simmetrico rispetto all'asse y
+- dispari: simmetrico rispetto all'origine
+- periodica: se il pezzo di grafico con $x\in[0,T]$ si ripete poi sempre uguale
+
