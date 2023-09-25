@@ -91,3 +91,11 @@ b è il vettore/colonna di termini noti
 
 Non valgono:
 - commutatività
+
+Elemento neutro
+$$I_n=\begin{bmatrix}
+1 & 0 & 0\\
+0 & 1 & 0\\
+0 & 0 & 1
+\end{bmatrix}(n\,righe\,e\,colonne)$$
+Ha la diagonale principale con solo valori 1 e tutto il resto 0. Matrice identità o identica di ordine n
