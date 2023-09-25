@@ -45,4 +45,4 @@ in termini di grafico:
 idem con decrescente
 
 Una funzione di questo tipo è detta monotona.
-Ogni funzione strettamente monotona è iniettiva
+Ogni funzione strettamente monotona è iniettiva, ma non per forza surgettiva
