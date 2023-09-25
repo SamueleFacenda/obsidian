@@ -39,3 +39,7 @@ in termini di grafico:
 - dispari: simmetrico rispetto all'origine
 - periodica: se il pezzo di grafico con $x\in[0,T]$ si ripete poi sempre uguale
 
+### Monotonia
+- debolmente crescente se x>y => f(y)$\ge$f(x)
+- strettamente crescente se x>y => f(y)>f(x)
+idem con decrescente
