@@ -43,3 +43,6 @@ in termini di grafico:
 - debolmente crescente se x>y => f(y)$\ge$f(x)
 - strettamente crescente se x>y => f(y)>f(x)
 idem con decrescente
+
+Una funzione di questo tipo è detta monotona.
+Ogni funzione strettamente monotona è iniettiva
