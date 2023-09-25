@@ -12,3 +12,12 @@ la funzione composta di f e g si scrive (g$\circ$f)(a)=f(f(a))
 ### Prodotto cartasiano di 2 insiemi
 Siano A e B 2 insiemi: si definisce PRODOTTO CARTESIANO $A\times B ={(a,b):a\in A,b\in B}$ 
 coppie ordinate: $(a,b)\ne(b,a)$
+
+## Concetti base di funzioni
+- iniettività
+- Surgettività
+- Bigettività
+- Invertibilità
+Def: Sia f:A->B, si dice che f è 
+- iniettiva se $a_1\ne a_2 \Rightarrow f(a_1)\ne f(a_2)$
+- 
