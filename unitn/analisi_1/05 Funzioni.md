@@ -30,3 +30,7 @@ $=\{b\in B:\exists a \in E\,\,t.c.\,\,f(a)=b\}$
 
 Dato $F\subseteq B$ la controimmagine di F in A è l'insieme $f^{-1}(F)\subseteq A$ costituito da tutti gli elementi di A che vanno a finire in F con la legge f.
 
+### Proprietà di simmetria
+- pari: $f(-x)=f(x) \forall x\in\Bbb R$
+- dispari: $f(-x)=-f(x)\forall x \in \Bbb R$
+- periodica: se esiste T>0 t.c. $f(x+T)=f(x)\forall x\in \
