@@ -22,5 +22,3 @@ la funzione $f(x)=\cos x$  vista come $f:[0,\pi]\rightarrow[-1,1]$
 è strettamente decrescente, inettiva e surgettiva. Quindi ha un'inversa $g:[-1,1]\rightarrow[0,\pi]$  $g(x)=\arccos x$ 
 la funzione $f(x)=\tan x=\frac {\sin x} {\cos x}$  vista come $f:[-\frac \pi 2, \frac \pi 2]\rightarrow\Bbb R$ 
 è strettamente crescente, inettiva e surgettiva. Quindi ha un'inversa $g:\Bbb R\rightarrow[-\frac \pi 2, \frac \pi 2]$  $g(x)=\arctan x$
-
-1, pi-2,pi-3,pi-4  1,2,3,2pi-4 
