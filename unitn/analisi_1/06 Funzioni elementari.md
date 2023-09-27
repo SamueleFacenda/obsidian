@@ -12,4 +12,4 @@ Per le funzioni definite nel reale, il grafico della funzione inversa è il simm
 
 ## Esponenziali
 a parametro $f(x)=a^x$
-$f:\Bbb R \rightarrow(0,+\infty)$ è strettamente crescente, iniettiva e surgettiva. Quindi esiste linversa
+$f:\Bbb R \rightarrow(0,+\infty)$ è strettamente crescente, iniettiva e surgettiva. Quindi esiste linversa $g:(0,+\infty)\rightarrow\Bbb R$ detta logaritmo in base a di x $g(x)=\log_a x$ 
