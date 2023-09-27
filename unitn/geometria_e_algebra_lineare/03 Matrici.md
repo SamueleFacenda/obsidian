@@ -13,4 +13,4 @@ grafo orientato: idem sono che contiene lati orientati, cioè coppie ordinate di
 ### Matrice di adiacenza
 A $a_{ij}=\text{ numero di lati da }v_i\,a\,v_j$
 
-Teorema: sia $s\in \Bbb N$. L'elemento (i,j) della matrice $A_s$
+Teorema: sia $s\in \Bbb N$. L'elemento (i,j) della matrice $A^s$ è uguale al numero i cammini di lunghezza S nel grafo che collega $v_i\,a\,v_j$.
