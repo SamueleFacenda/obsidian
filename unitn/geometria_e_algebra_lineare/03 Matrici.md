@@ -9,3 +9,8 @@ $A\in M_n(\Bbb R)$ la potenza k-esima di A è: $A^k=A...A$ k volte
 ## Grafo
 grafo non orientato: insieme $V=\{v_1,...v_n\}$ di vertici o nodi e un insieme E di lati che congiungono coppie di vertici
 grafo orientato: idem sono che contiene lati orientati, cioè coppie ordinate di vertici
+
+### Matrice di adiacenza
+A $a_{ij}=\text{ numero di lati da }v_i\,a\,v_j$
+
+Teorema: sia $s\in \Bbb N$. L'elemento (i,j) della matrice $A_s$
