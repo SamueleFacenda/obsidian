@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/Matrici.md",
+                "file": "unitn/geometria_e_algebra_lineare/03 Matrici.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/Matrici.md",
+                "file": "unitn/geometria_e_algebra_lineare/03 Matrici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/Matrici.md",
+                "file": "unitn/geometria_e_algebra_lineare/03 Matrici.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/Matrici.md"
+                "file": "unitn/geometria_e_algebra_lineare/03 Matrici.md"
               }
             }
           },
@@ -174,9 +174,9 @@
   "active": "1d9c4d04f4cad641",
   "lastOpenFiles": [
     "unitn/geometria_e_algebra_lineare/02 Introduzione algebra lineare.md",
-    "unitn/geometria_e_algebra_lineare/Matrici.md",
-    "unitn/analisi_1/06 Funzioni elementari.md",
+    "unitn/geometria_e_algebra_lineare/03 Matrici.md",
     "unitn/analisi_1/05 Funzioni.md",
+    "unitn/analisi_1/06 Funzioni elementari.md",
     "unitn/geometria_e_algebra_lineare/01 piani.md",
     "unitn/analisi_1/01 Polinomi.md",
     "unitn/analisi_1/2023-09-21-Note-12-04-esercizi.xopp~",
