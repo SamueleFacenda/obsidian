@@ -5,3 +5,6 @@ Ci permette di capire se una matrice è invertibile (se è diverso da 0).
 
 ### Potenza di una matrice
 $A\in M_n(\Bbb R)$ la potenza k-esima di A è: $A^k=A...A$ k volte
+
+## Grafo
+grafo non orientato: insieme $V=\{v_1,...v_n\}$ di vertici o nodi e un insieme E di lati che congiungono coppie di vertici
