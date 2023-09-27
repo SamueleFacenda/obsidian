@@ -16,4 +16,7 @@ $f:\Bbb R \rightarrow(0,+\infty)$ è strettamente crescente, iniettiva e surgett
 
 ## Funzioni trigonometriche
 
-Fatti: la funzione $f(x)=\sin x$ 
+Fatti: la funzione $f(x)=\sin x$  vista come $f:[-\frac \pi 2, \frac \pi 2]\rightarrow[-1,1]$
+è strettamente crescente, inettiva e surgettiva. Quindi ha un'inversa $g:[-1,1]\rightarrow[-\frac \pi 2, \frac \pi 2]$  $\arcsin x$ 
+la funzione $f(x)=\cos x$  vista come $f:[0,\pi]\rightarrow[-1,1]$
+è strettamente decrescente, inettiva e surgettiva. Quindi ha un'inversa $g:[-1,1]\rightarrow[0,\pi]$  $g(x)=\arccos x$ 
