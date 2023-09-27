@@ -15,3 +15,5 @@ a parametro $f(x)=a^x$
 $f:\Bbb R \rightarrow(0,+\infty)$ è strettamente crescente, iniettiva e surgettiva. Quindi esiste linversa $g:(0,+\infty)\rightarrow\Bbb R$ detta logaritmo in base a di x $g(x)=\log_a x$ 
 
 ## Funzioni trigonometriche
+
+Fatti: la funzione $f(x)=\sin x$ 
