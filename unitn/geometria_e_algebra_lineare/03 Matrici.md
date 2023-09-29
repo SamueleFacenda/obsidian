@@ -14,3 +14,10 @@ grafo orientato: idem sono che contiene lati orientati, cioè coppie ordinate di
 A $a_{ij}=\text{ numero di lati da }v_i\,a\,v_j$
 
 Teorema: sia $s\in \Bbb N$. L'elemento (i,j) della matrice $A^s$ è uguale al numero i cammini di lunghezza S nel grafo che collega $v_i\,a\,v_j$.
+
+Osservazioni sull'invertibilità:
+A,B n x x , invertibili
+AB invertibile
+$(AB)(A^{-1}B^{-1})=I_n$ 
+
+Per n>1, l'insieme della matrici invertibili forma un gruppo non commutativo rispetto al prodotto matriciale
