@@ -37,3 +37,6 @@ bilineare, simmetrico (commutativo?), definito positivo ($x\cdot x\ge 0$ e $x\cd
 Def:  $x\in\Bbb R^2$ , la lunghezza o norma di x è $||x||=\sqrt{x\cdot x}$
 Def $x,y\in\Bbb R^2$, la distrnza tra x e y è $d(x,y)=||x-y||\ge0$
 Def: un elemento $x\in\Bbb R^2$ è detto versore se ha norma 1. Se $x\ne 0$
+
+Proprietà: $\alpha\in\Bbb R,||\alpha x||=\sqrt{(\alpha x_1)^2+...+(\alpha x_n)^2}=|\alpha|||x||$
+$||x+y||^2=||x||^2+2x\cdot y+||y||^2$
