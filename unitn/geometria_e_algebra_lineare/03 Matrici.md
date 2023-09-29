@@ -35,4 +35,5 @@ Proprietà:
 bilineare, simmetrico (commutativo?), definito positivo ($x\cdot x\ge 0$ e $x\cdot x=0\iff x=0$)
 
 Def:  $x\in\Bbb R^2$ , la lunghezza o norma di x è $||x||=\sqrt{x\cdot x}$
-Def $x,y\in\Bbb R^2$ 
+Def $x,y\in\Bbb R^2$, la distrnza tra x e y è $d(x,y)=||x-y||\ge0$
+Def: un elemento $x\in\Bbb R^2$ è detto versore se ha norma 1. Se $x\ne 0$
