@@ -42,3 +42,11 @@ Proprietà: $\alpha\in\Bbb R,||\alpha x||=\sqrt{(\alpha x_1)^2+...+(\alpha x_n)^
 $||x+y||^2=||x||^2+2x\cdot y+||y||^2$
 Def: $x,y\in \Bbb R^2$, x e y si dicono ortogonali se $x\cdot y=0$ $(x\bot y)$
 Oss: se $x\bot y\Rightarrow||x+y||^2=||x||^2+||y||^2$ 
+
+#### Proiezione ortogonale
+Def: $pr_y(x)=\frac{x\cdot y}{||y||^2}y\in \Bbb R^2$
+è la proiezione ortogonale di z su y
+
+### Disuguaglianza di Cauchy-Schwarz
+$\forall x,y\in\Bbb R^2,\,\,\,\,\,|x\cdot y|\le||x||||y||$
+Vale l'uguaglianza $\iff$ x e y sono proporzionali
