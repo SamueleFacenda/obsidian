@@ -28,3 +28,8 @@ Def: dati $A\in M_{m,n}(\Bbb R)$ la sua trasposta è $A^T=[a_{ji}]$ se $A=[a_{ij
 Se m=n e $A=A^T$, A si dice simmetrica.
 
 Def: Una combinazione lineare di k matrici $A_1,...,A_k$ con coefficienti $c_1,...,c_k$ è a sua volta una matrice $c_1A_1+...+c_kA_k$ (m x n)
+
+## Prodotto scalare in $\Bbb R ^n$
+DEf $x,y\in \Bbb R^2$ il prodotto scalare di x e y è $x\cdot y= \sum_{i=1}^n{x_iy_i}\in\Bbb R$ 
+Proprietà:
+bilineare, simmetrico (commutativo?), 
