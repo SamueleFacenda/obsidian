@@ -40,3 +40,5 @@ Def: un elemento $x\in\Bbb R^2$ è detto versore se ha norma 1. Se $x\ne 0$
 
 Proprietà: $\alpha\in\Bbb R,||\alpha x||=\sqrt{(\alpha x_1)^2+...+(\alpha x_n)^2}=|\alpha|||x||$
 $||x+y||^2=||x||^2+2x\cdot y+||y||^2$
+Def: $x,y\in \Bbb R^2$, x e y si dicono ortogonali se $x\cdot y=0$ $(x\bot y)$
+Oss: se $x\bot y\Rightarrow||x+y||^2=||x||^2+||y||^2$ 
