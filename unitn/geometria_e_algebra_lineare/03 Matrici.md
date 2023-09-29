@@ -27,3 +27,4 @@ Per n>1, l'insieme della matrici invertibili forma un gruppo non commutativo ris
 Def: dati $A\in M_{m,n}(\Bbb R)$ la sua trasposta è $A^T=[a_{ji}]$ se $A=[a_{ij}]$
 Se m=n e $A=A^T$, A si dice simmetrica.
 
+Def: Una combinazione lineare di k matrici $A_1,...,A_k$ con coefficienti $c_1,...,c_k$ è a sua volta una matrice $c_1A_1+...+c_kA_k$ (m x n)
