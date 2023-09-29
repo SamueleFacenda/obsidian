@@ -50,3 +50,6 @@ Def: $pr_y(x)=\frac{x\cdot y}{||y||^2}y\in \Bbb R^2$
 ### Disuguaglianza di Cauchy-Schwarz
 $\forall x,y\in\Bbb R^2,\,\,\,\,\,|x\cdot y|\le||x||||y||$
 Vale l'uguaglianza $\iff$ x e y sono proporzionali
+
+Corollario: (disuguaglianza triangolare)
+$\forall x,y\in\Bbb R^2$   $||x+y||\le||x||+||y||$
