@@ -31,3 +31,7 @@ Sono enunciati del tipo:
 In generale, fare i limiti usando le definizioni può risultare molto difficile se non impossibile. Quindi si usano strumenti più sofisticati. 
 
 ## Retta reale estesa
+$\overline{\Bbb R}=\Bbb R \cup \{+\infty\}\cup\{-\infty\}$
+Utilità:
+- se io dico che $a_n\to l\in\overline{\Bbb R}$ , trovo il vantaggio di unificare in una unica espessione le le prime 3 tipologie d limiti di successioni.
+- in $\overline{\Bbb R}$ sono "quasi" definite le operazione algebriche dei reali.
