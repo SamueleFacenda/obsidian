@@ -16,3 +16,5 @@ Sia $a_n$ una successione, sono possibili 4 tipi di comportamenti:
 - $\lim_{n\to +\infty}{a_n}=+\infty$
 - $\lim_{n\to +\infty}{a_n}=-\infty$ 
 - $\lim_{n\to +\infty}{a_n}$ Non esiste, $a_n$ è indeterminata
+
+Si dice che $a_n\to l^+$ se $\forall \epsilon>0$ si ha che $l<a_n\lel+\epsylon$ 
