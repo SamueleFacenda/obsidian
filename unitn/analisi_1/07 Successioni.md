@@ -22,3 +22,5 @@ Si dice che $a_n\to l^+$ se $\forall \epsilon>0$ si ha che $l<a_n\le l+\epsilon$
 
 ## Teorema di unicità
 Una successione ha sempre uno solo dei comportamenti sopra elencati
+
+Posso scegliere 
