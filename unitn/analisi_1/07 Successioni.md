@@ -35,3 +35,12 @@ $\overline{\Bbb R}=\Bbb R \cup \{+\infty\}\cup\{-\infty\}$
 Utilità:
 - se io dico che $a_n\to l\in\overline{\Bbb R}$ , trovo il vantaggio di unificare in una unica espessione le le prime 3 tipologie d limiti di successioni.
 - in $\overline{\Bbb R}$ sono "quasi" definite le operazione algebriche dei reali.
+Le operazioni sono definite a parte che in questi casi:
+- $+\infty-\infty$
+- $0\cdot (\pm \infty)$
+- $\frac{\pm\infty}{\pm\infty}$
+  - $\frac 0 0$
+  - $o^0$
+  - $1^{\pm\infty}$
+  - $(\pm\infty)^0$
+  - 
