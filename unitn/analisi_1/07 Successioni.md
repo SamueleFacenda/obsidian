@@ -5,3 +5,7 @@ Sia $P_n$ una proprietà che dipende da un parametro $n\in\Bbb R$
 Osservazioni:
 - possiamo rimpiazzare VERA con FALSA
 - se una proprietà $P_n$ è vera definitivamente allora $P_n$ è vera frequentemente. Il contrario non è sempre vero
+## Successioni
+Def. Rigida: Una successione di numeri reali è una funzione $a:\Bbb N\rightarrow\Bbb R$. In generale invece di scrivere i valori con il simbolo a(n) si preferisce scrivere $a_r$
+
+Def. Meno rigida: Si considera una succe
