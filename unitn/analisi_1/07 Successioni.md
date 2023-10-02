@@ -52,4 +52,9 @@ Allora valgono:
 - $c\cdot a_n\to c\cdot l_1\quad c\in\Bbb R\\\{0\}$
 
 ### Teorema confronto a 2
-Siano $a_n$ e $b_n$ successioni. Supponiamo che $a_n\le
+Siano $a_n$ e $b_n$ successioni. Supponiamo che $a_n\le b_n$ definitivamente
+- se $a_n\to +\infty$ allora $b_n\to +-infty$
+- se $b_n\to -\infty$ allora $a_n\to - \infty$
+### Teorema di confronto a 3
+(teorema dei carabinieri)
+Supponiamo che $a_n<c_n<b_n$ definitivamente e supponiamo che $a_n\to l\in\Bbb R$ e $b_n\to l\in\Bbb R$ allora $c_n$ è di tipo uno e $c_n\to l$ (lo stesso l)
