@@ -12,5 +12,7 @@ Def. Meno rigida: Si considera una successione come una funzione a valori reali 
 
 ## Limiti
 Sia $a_n$ una successione, sono possibili 4 tipi di comportamenti:
-- $\lim_{n\to +\infty}{a_n}=l\in\Bbb R$ (il limite è l, $a_n$ tende ad l per $n\to +\infty$) 
-- 
+- $\lim_{n\to +\infty}{a_n}=l\in\Bbb R$ (il limite è l oppure $a_n$ tende ad l per $n\to +\infty$) 
+- $\lim_{n\to +\infty}{a_n}=+\infty$
+- $\lim_{n\to +\infty}{a_n}=-\infty$ 
+- $\lim_{n\to +\infty}{a_n}$ Non esiste, $a_n$ è indeterminata
