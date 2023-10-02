@@ -27,4 +27,7 @@ Una successione ha sempre uno solo dei comportamenti sopra elencati
 Sono enunciati del tipo:
 - Se $a_n\to +\infty$, allora definitivamente $a_n>0$ oppure $a_n\ge2023$ 
 - Se $a_n\to l>0$ allora definitivamente $a_n >0$
-- 
+
+In generale, fare i limiti usando le definizioni può risultare molto difficile se non impossibile. Quindi si usano strumenti più sofisticati. 
+
+## Retta reale estesa
