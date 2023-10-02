@@ -19,3 +19,6 @@ Sia $a_n$ una successione, sono possibili 4 tipi di comportamenti:
 
 Si dice che $a_n\to l^+$ se $\forall \epsilon>0$ si ha che $l<a_n\le l+\epsilon$ 
 ...  non sono riuscito a copiare 02-ottobre 2023
+
+## Teorema di unicità
+Una successione ha sempre uno solo dei comportamenti sopra elencati
