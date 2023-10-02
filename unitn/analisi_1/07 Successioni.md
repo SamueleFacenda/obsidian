@@ -8,4 +8,4 @@ Osservazioni:
 ## Successioni
 Def. Rigida: Una successione di numeri reali è una funzione $a:\Bbb N\rightarrow\Bbb R$. In generale invece di scrivere i valori con il simbolo a(n) si preferisce scrivere $a_r$
 
-Def. Meno rigida: Si considera una succe
+Def. Meno rigida: Si considera una successione come una funzione a valori reali che sia definita anche per non ogni $n\in\Bbb N$ ma almeno vera definitivamente, ossia permettiamo solo un numero finito di eventuali problemi
