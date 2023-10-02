@@ -24,3 +24,7 @@ Si dice che $a_n\to l^+$ se $\forall \epsilon>0$ si ha che $l<a_n\le l+\epsilon$
 Una successione ha sempre uno solo dei comportamenti sopra elencati
 
 ## Teoremi di tipo "permanenza del segno"
+Sono enunciati del tipo:
+- Se $a_n\to +\infty$, allora definitivamente $a_n>0$ oppure $a_n\ge2023$ 
+- Se $a_n\to l>0$ allora definitivamente $a_n >0$
+- 
