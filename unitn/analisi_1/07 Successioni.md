@@ -43,4 +43,5 @@ Le operazioni sono definite a parte che in questi casi:
   - $o^0$
   - $1^{\pm\infty}$
   - $(\pm\infty)^0$
-  - 
+### Teoremi algebrici
+Siano $a_n$ e $n_n$ 2 successioni. SUpponiamo che $a_n\to l_1\in\overline{\Bbb R}$ 
