@@ -44,4 +44,12 @@ Le operazioni sono definite a parte che in questi casi:
   - $1^{\pm\infty}$
   - $(\pm\infty)^0$
 ### Teoremi algebrici
-Siano $a_n$ e $n_n$ 2 successioni. SUpponiamo che $a_n\to l_1\in\overline{\Bbb R}$ 
+Siano $a_n$ e $n_n$ 2 successioni. Supponiamo che $a_n\to l_1\in\overline{\Bbb R}$ e $b_n\to l_2\in\overline{\Bbb R}$.
+Allora valgono:
+- $a_n+b_n\to l_1+l_2$   $a_n-b_n\to l_i-l_2$
+- $a_n\cdot b_n\to l_1\cdot l_2$ (idem con diviso)
+- $a_n^{b_n}\to l_1^{l_2}$
+- $c\cdot a_n\to c\cdot l_1\quad c\in\Bbb R\\\{0\}$
+
+### Teorema confronto a 2
+Siano $a_n$ e $b_n$ successioni. Supponiamo che $a_n\le
