@@ -153,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d9c4d04f4cad641",
+  "active": "eeb3f9a2c3978fc9",
   "lastOpenFiles": [
     "unitn/analisi_1/07 esercizi.md",
     "unitn/analisi_1/07 Successioni.md",
