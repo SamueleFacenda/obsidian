@@ -32,5 +32,8 @@ $r^1:\begin{cases}x-z-1=0\\y+3z+1=0\end{cases}$
 
 $\lambda(x-z-1)+\mu(y+3z+1)=0$ Se $\lambda$ e $\mu$ non sono entrambi nulli, questa equazione rappresenta un piano contenente r$^1$
 $\pi\parallel r\iff\vec n\perp\vec v$ 
-$\vec n=(\lambda,\mu,-\lambda+3\mu)
-
+$\vec n=(\lambda,\mu,-\lambda+3\mu)$ normale a $\pi$
+$\vec n\cdot\vec v=0=\lambda+\mu+\lambda-3\mu=2\lambda-2\mu\Rightarrow\lambda=\mu$
+$\lambda=1=\mu$ (a piacere, non nulli)
+$\pi:x+y+2z=0$ (sostituendo sopra lambda e mu)
+$d(r,r^1)=d(P_0,\pi)=d((2,0,1),\pi)=
