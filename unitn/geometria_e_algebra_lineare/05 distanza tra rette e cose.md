@@ -28,5 +28,9 @@ Trovo i punti e calcolo la norma
 C'è un solo piano che contiene r$^1$ ed è parallelo ad r.
 $d(r,r^1)=d(d,\pi)=d(P_0,\pi)\quad\forall P_0\in r$
 Dobbiamo trovare il piano $\pi$ contenete r$^1$ e parallelo ad r (tecnica dei fasci di piani)
-$\lambda($ 
+$r^1:\begin{cases}x-z-1=0\\y+3z+1=0\end{cases}$
+
+$\lambda(x-z-1)+\mu(y+3z+1)=0$ Se $\lambda$ e $\mu$ non sono entrambi nulli, questa equazione rappresenta un piano contenente r$^1$
+$\pi\parallel r\iff\vec n\perp\vec v$ 
+$\vec n=(\lambda,\mu,-\lambda+3\mu)
 
