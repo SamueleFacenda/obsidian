@@ -15,3 +15,4 @@ Per dimostrarlo rigorosamente, usiamo la disuguaglianza di Bernulli
 Uso $x=\frac 1 n$ : $$\left(1+\frac 1 n\right)^n\ge 1+n\cdot \frac 1 n=1+1=2$$
 Quindi prendo ora la radice n-esima in entrambi i membri e memore della stretta crescenza della radice n-esima ottengo 
 $$\left(1+\frac 1 n\right)\ge2^{\frac 1 n}\ge 1$$
+1 per il teorema dei 2 carabinieri.
