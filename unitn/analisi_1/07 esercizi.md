@@ -33,9 +33,9 @@ Allora:
 - se l<1 si ha che $a_n\to0$
 - se l=1 allora il criterio non fornisce informazioni
 ### Criterio rapporto
-Supponiamo che sia $a_n>0$ definitivamente. Supponiamo che $\lim_{n\to+\infty}{\frac{a_n+1}{a_n}}=l\in\overline{\Bbb R}$ . Allora la conclusione è la stessa del criterio della radice
+Supponiamo che sia $a_n>0$ definitivamente. Supponiamo che $\lim_{n\to+\infty}{\frac{a_{n+1}}{a_n}}=l\in\overline{\Bbb R}$ . Allora la conclusione è la stessa del criterio della radice
 ### Criterio rapporto $\Rightarrow$ radice
-Supponiamo che sia $a_n>0$ definitivamente. Supponiamo che $\lim_{n\to+\infty}{\frac{a_n+1}{a_n}}=l\in\overline{\Bbb R}$
+Supponiamo che sia $a_n>0$ definitivamente. Supponiamo che $\lim_{n\to+\infty}{\frac{a_{n+1}}{a_n}}=l\in\overline{\Bbb R}$
 Allora $\lim_{n\to+\infty}{\sqrt[n]{a_n}}=l$ (stesso l di prima)
 ### Criterio De L'Hopital per successioni
 Supponiamo dh avere 2 successioni $a_n$ e $b_n$. Supponiamo che $b_n$ sia strettamente crescente con $b_n>0$ e che $\lim_{n\to+\infty}{b_n}=+\infty$ Allora 
@@ -45,4 +45,7 @@ caso 1. Supponiamo che $\sqrt[n]{a_n}\to l>1$. Supponiamo che $l\in\Bbb R$
 Per i risultati dei termini nella permanenza del segno io so che almeno definitivamente ho che $\sqrt[n]{a_n}\ge\frac{1+l}2$
 Ora almeno la potenza n-esima in entrambi i membri conservando la disuguaglianza per la stretta crescenza e ottengo $a_n\ge\left(\frac{1+l} 2\right)^n$
 caso 2. Supponiamo che $\sqrt[n]{a_n}\to l<1$. Supponiamo che $l\in\Bbb R$
-Per permanenza del segno definitivamente vale $\sqrt[n]{a_n}\le\frac{l+1}2$. 
+Per permanenza del segno definitivamente vale $\sqrt[n]{a_n}\le\frac{l+1}2$. elevo alla n
+$0\le a_n\le\left(\frac{l+1}2\right)^n$  che tende a 0 per i carabinieri
+
+
