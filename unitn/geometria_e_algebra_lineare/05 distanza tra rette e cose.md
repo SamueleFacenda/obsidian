@@ -9,7 +9,7 @@ $d(r,r^1)=d(P,Q)=||\overrightarrow{PQ}||$
 con $P\in r,Q\in r^1$
 $\overrightarrow{PQ}\bot r,r^1$
 ##### esempio
-$r:\begin{cases}x=2+t\\y=t\\z=t-1\end{cases}(t\in\Bbb R)\quad r^1:\begin{cases}x-z=1\\y+3z=-1\end{cases}$
+$r:\begin{cases}x=2+t\\y=t\\z=1-t\end{cases}(t\in\Bbb R)\quad r^1:\begin{cases}x-z=1\\y+3z=-1\end{cases}$
 ##### Modo 1
 $P=(2+t,t,1-t)\in r$
 $r^1=\begin{cases}x=1+s\\y=-1-3s\\z=s\end{cases}$
@@ -36,4 +36,6 @@ $\vec n=(\lambda,\mu,-\lambda+3\mu)$ normale a $\pi$
 $\vec n\cdot\vec v=0=\lambda+\mu+\lambda-3\mu=2\lambda-2\mu\Rightarrow\lambda=\mu$
 $\lambda=1=\mu$ (a piacere, non nulli)
 $\pi:x+y+2z=0$ (sostituendo sopra lambda e mu)
-$d(r,r^1)=d(P_0,\pi)=d((2,0,1),\pi)=
+$d(r,r^1)=d(P_0,\pi)=d((2,0,1),\pi)=\frac{|1\cdot2+1\cdot0+2\cdot1|}{\sqrt{1+1+4}}$
+#### Modo 3
+Ho $\vec V^{II}$, vettore perpendicolare alle due rette. Se ho il vettore $\overrightarrow{AB}
