@@ -26,3 +26,9 @@ Successione che va a 0: infinitesima
 2. criterio del rapporto
 3. criterio del rapporto $\Rightarrow$ radice
 4. L'Hopital per successioni
+### Criterio della radice
+Supponiamo che $a_n\ge0$ almeno definitivamente. Supponiamo che esista $\lim_{n\to+\infty}{\sqrt[n]{a_n}}=l\in\overline{\Bbb R}$
+Allora:
+- se l>1 si ha che $a_n\to+\infty$
+- se l<1 si ha che $a_n\to0$
+- se l=1 allora il criterio non fornisce informazioni
