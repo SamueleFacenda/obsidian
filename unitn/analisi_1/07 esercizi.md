@@ -20,3 +20,9 @@ $$\left(1+\frac 1 n\right)\ge2^{\frac 1 n}\ge 1$$
 $\lim_{n\to+\infty}{\frac{\sin n} n}=0$
 $$\frac {-1} n \le \frac {\sin n} n \le \frac 1 n$$
 Successione che va a 0: infinitesima
+
+## Criteri per successioni reali
+1. criterio della radice
+2. criterio del rapporto
+3. criterio del rapporto $\Rightarrow$ radice
+4. L'Hopital per successioni
