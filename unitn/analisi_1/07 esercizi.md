@@ -10,4 +10,8 @@ $$\lim_{n\to+\infty}{(\frac 2 3 )^n}=\lim_{n\to+\infty}{\frac 1 {(\frac 2 3)^n}}
 $\lim_{n\to+\infty}{n!}=+\infty$
 Per dimostrarlo possiamo usare che $n!\ge 2^n$ e si dimostra per induzione.
 ### 4
-$$\lin_{n\to+\infty}{\sqrt[n] 2}=\lim_{n\to+\infty}{n^{\}}
+$$\lim_{n\to+\infty}{\sqrt[n] 2}=\lim_{n\to+\infty}{2^{\frac 1 n}}=2^0=1$$
+Per dimostrarlo rigorosamente, usiamo la disuguaglianza di Bernulli
+Uso $x=\frac 1 n$ : $$\left(1+\frac 1 n\right)^n\ge 1+n\cdot \frac 1 n=1+1=2$$
+Quindi prendo ora la radice n-esima in entrambi i membri e memore della stretta crescenza della radice n-esima ottengo 
+$$\left(1+\frac 1 n\right)\ge2^{\frac 1 n}\ge 1$$
