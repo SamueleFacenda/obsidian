@@ -17,4 +17,6 @@ Quindi prendo ora la radice n-esima in entrambi i membri e memore della stretta 
 $$\left(1+\frac 1 n\right)\ge2^{\frac 1 n}\ge 1$$
 1 per il teorema dei 2 carabinieri.
 ### 5
-$\lim_{n\to\+\infty}{\fr}
+$\lim_{n\to+\infty}{\frac{\sin n} n}=0$
+$$\frac {-1} n \le \frac {\sin n} n \le \frac 1 n$$
+Successione che va a 0: infinitesima
