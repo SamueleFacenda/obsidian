@@ -38,4 +38,8 @@ $\lambda=1=\mu$ (a piacere, non nulli)
 $\pi:x+y+2z=0$ (sostituendo sopra lambda e mu)
 $d(r,r^1)=d(P_0,\pi)=d((2,0,1),\pi)=\frac{|1\cdot2+1\cdot0+2\cdot1|}{\sqrt{1+1+4}}$
 #### Modo 3
-Ho $\vec V^{II}$, vettore perpendicolare alle due rette. Se ho il vettore $\overrightarrow{AB}
+Ho $\vec V^{II}$, vettore perpendicolare alle due rette. Se ho il vettore $\overrightarrow{AB}$(due punti a piacere sulle due rette) posso fare la proiezione di questo su $\vec{V^{II}}$.
+$d(r,r^1)=||pr_{\vec{V^II}}(\overrightarrow{AB})||\quad A\in r,B\in r^1$
+$\vec{V^{II}}=\vec V\times\vec {V^1}$ (va bene un qualunque vettore parallelo a questo)
+$A(2,0,1)\in r, B=(1,-1,0)\in r^1$
+$\vec V\times\vec{V^1}=(1,1,-1)\times(1,-3,1)=(-2,-2,-4)
