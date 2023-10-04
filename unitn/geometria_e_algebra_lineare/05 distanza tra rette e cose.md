@@ -21,4 +21,9 @@ Sono perpendicolari se il prodotto scalare è nullo
 $\iff \overrightarrow{PQ}\cdot \vec V=0,\quad\overrightarrow{PQ}\cdot\vec{V^1}=0$
 $\overrightarrow{PQ}\cdot\vec V=-1+s-t-1-3s-t+1-s-t$
 $\overrightarrow{PQ}\cdot\vec{V^1}=-1+s-t+3+9s+3t-1+s+t$
-$\beg
+$\begin{cases}-3t-3s-1=0\\3t+11s+1=0\end{cases}$
+$s=0, t=-\frac 1 3$
+Trovo i punti e calcolo la norma
+##### Modo 2
+
+
