@@ -32,3 +32,5 @@ Allora:
 - se l>1 si ha che $a_n\to+\infty$
 - se l<1 si ha che $a_n\to0$
 - se l=1 allora il criterio non fornisce informazioni
+### Criterio rapporto
+Suppo
