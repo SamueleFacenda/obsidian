@@ -33,4 +33,9 @@ Allora:
 - se l<1 si ha che $a_n\to0$
 - se l=1 allora il criterio non fornisce informazioni
 ### Criterio rapporto
-Suppo
+Supponiamo che sia $a_n>0$ definitivamente. Supponiamo che $\lim_{n\to+\infty}{\frac{a_n+1}{a_n}}=l\in\overline{\Bbb R}$ . Allora la conclusione è la stessa del criterio della radice
+### Criterio rapporto $\Rightarrow$ radice
+Supponiamo che sia $a_n>0$ definitivamente. Supponiamo che $\lim_{n\to+\infty}{\frac{a_n+1}{a_n}}=l\in\overline{\Bbb R}$
+Allora $\lim_{n\to+\infty}{\sqrt[n]{a_n}}=l$ (stesso l di prima)
+### Criterio De L'Hopital per successioni
+Supponiamo dh avere 2 successioni $a_n$ e $b_n$. Supponiamo che $b_n$ sia strettamente crescente con $b_n>0$ e che $\lim_{n\to+\infty}{b_n}
