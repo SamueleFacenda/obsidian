@@ -38,4 +38,8 @@ Supponiamo che sia $a_n>0$ definitivamente. Supponiamo che $\lim_{n\to+\infty}{\
 Supponiamo che sia $a_n>0$ definitivamente. Supponiamo che $\lim_{n\to+\infty}{\frac{a_n+1}{a_n}}=l\in\overline{\Bbb R}$
 Allora $\lim_{n\to+\infty}{\sqrt[n]{a_n}}=l$ (stesso l di prima)
 ### Criterio De L'Hopital per successioni
-Supponiamo dh avere 2 successioni $a_n$ e $b_n$. Supponiamo che $b_n$ sia strettamente crescente con $b_n>0$ e che $\lim_{n\to+\infty}{b_n}
+Supponiamo dh avere 2 successioni $a_n$ e $b_n$. Supponiamo che $b_n$ sia strettamente crescente con $b_n>0$ e che $\lim_{n\to+\infty}{b_n}=+\infty$ Allora 
+$$\lim_{n\to+\infty}{\frac{a_{n+1}-a_n}{b_{n+1}-b_n}}=\lim_{n\to+\infty}{\frac{a_n}{b_n}}$$
+### Dimostrazione criterio della radice
+caso 1. Supponiamo che $\sqrt[n]{a_n}\to l>1$. Supponiamo che $l\in\Bbb R$
+Per i risultati dei termini nella permanenza del segno io so che almeno definitivamente ho che $\sqrt[n]{a_n}\ge\frac{1+l}2$
