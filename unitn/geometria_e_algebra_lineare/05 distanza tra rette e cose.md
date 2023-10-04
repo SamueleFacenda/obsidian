@@ -42,4 +42,8 @@ Ho $\vec V^{II}$, vettore perpendicolare alle due rette. Se ho il vettore $\over
 $d(r,r^1)=||pr_{\vec{V^II}}(\overrightarrow{AB})||\quad A\in r,B\in r^1$
 $\vec{V^{II}}=\vec V\times\vec {V^1}$ (va bene un qualunque vettore parallelo a questo)
 $A(2,0,1)\in r, B=(1,-1,0)\in r^1$
-$\vec V\times\vec{V^1}=(1,1,-1)\times(1,-3,1)=(-2,-2,-4)
+$\vec V\times\vec{V^1}=(1,1,-1)\times(1,-3,1)=(-2,-2,-4)$
+$\vec{V^{II}}=(1,1,2)\parallel\vec V\times\vec {V^1}$
+$||pr_{(1,1,2)}((-1,-1,-1))=||\frac{-4}6(1,1,2)||=\frac23\sqrt6$
+
+
