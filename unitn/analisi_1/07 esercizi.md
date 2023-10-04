@@ -43,3 +43,6 @@ $$\lim_{n\to+\infty}{\frac{a_{n+1}-a_n}{b_{n+1}-b_n}}=\lim_{n\to+\infty}{\frac{a
 ### Dimostrazione criterio della radice
 caso 1. Supponiamo che $\sqrt[n]{a_n}\to l>1$. Supponiamo che $l\in\Bbb R$
 Per i risultati dei termini nella permanenza del segno io so che almeno definitivamente ho che $\sqrt[n]{a_n}\ge\frac{1+l}2$
+Ora almeno la potenza n-esima in entrambi i membri conservando la disuguaglianza per la stretta crescenza e ottengo $a_n\ge\left(\frac{1+l} 2\right)^n$
+caso 2. Supponiamo che $\sqrt[n]{a_n}\to l<1$. Supponiamo che $l\in\Bbb R$
+Per permanenza del segno definitivamente vale $\sqrt[n]{a_n}\le\frac{l+1}2$. 
