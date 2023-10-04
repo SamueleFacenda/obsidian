@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unitn/analisi_1/07 Successioni.md",
+                "file": "unitn/analisi_1/07 esercizi.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unitn/analisi_1/07 Successioni.md",
+                "file": "unitn/analisi_1/07 esercizi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unitn/analisi_1/07 Successioni.md",
+                "file": "unitn/analisi_1/07 esercizi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unitn/analisi_1/07 Successioni.md"
+                "file": "unitn/analisi_1/07 esercizi.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "1d9c4d04f4cad641",
   "lastOpenFiles": [
-    "unitn/geometria_e_algebra_lineare/03 Matrici.md",
     "unitn/analisi_1/07 Successioni.md",
+    "unitn/analisi_1/07 esercizi.md",
+    "unitn/geometria_e_algebra_lineare/03 Matrici.md",
     "unitn/geometria_e_algebra_lineare/Untitled.md",
     "unitn/geometria_e_algebra_lineare/02 Introduzione algebra lineare.md",
     "unitn/analisi_1/05 Funzioni.md",
@@ -201,7 +202,6 @@
     "scuola/italiano/Eugenio Montale.md",
     "scuola/italiano/Umberto Saba.md",
     "scuola/storia/Guerra fredda.md",
-    "scuola/italiano/Giovanni Verga.md",
     "altro/scout/Untitled",
     "altro/scout",
     "altro"
