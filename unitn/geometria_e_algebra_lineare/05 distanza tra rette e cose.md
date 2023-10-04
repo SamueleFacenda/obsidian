@@ -14,4 +14,11 @@ $r:\begin{cases}x=2+t\\y=t\\z=t-1\end{cases}(t\in\Bbb R)\quad r^1:\begin{cases}x
 $P=(2+t,t,1-t)\in r$
 $r^1=\begin{cases}x=1+s\\y=-1-3s\\z=s\end{cases}$
 $Q=(1+s,-1-3s,s)\in r^1$
-$\overrightarrow{PQ}=(-1+s-t,-1-3s-t,)
+$\overrightarrow{PQ}=(-1+s-t,-1-3s-t,-1+s+t)\bot r,r^1\iff$
+$\vec R=(1,1,-1)$  vettore direzione della prima retta r
+$\vec {V^1}=(1,-3,1)$ vettore direzione della seconda retta
+Sono perpendicolari se il prodotto scalare è nullo
+$\iff \overrightarrow{PQ}\cdot \vec V=0,\quad\overrightarrow{PQ}\cdot\vec{V^1}=0$
+$\overrightarrow{PQ}\cdot\vec V=-1+s-t-1-3s-t+1-s-t$
+$\overrightarrow{PQ}\cdot\vec{V^1}=-1+s-t+3+9s+3t-1+s+t$
+$\beg
