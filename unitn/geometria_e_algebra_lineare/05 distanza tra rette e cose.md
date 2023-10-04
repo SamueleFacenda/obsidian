@@ -25,5 +25,8 @@ $\begin{cases}-3t-3s-1=0\\3t+11s+1=0\end{cases}$
 $s=0, t=-\frac 1 3$
 Trovo i punti e calcolo la norma
 ##### Modo 2
-
+C'è un solo piano che contiene r$^1$ ed è parallelo ad r.
+$d(r,r^1)=d(d,\pi)=d(P_0,\pi)\quad\forall P_0\in r$
+Dobbiamo trovare il piano $\pi$ contenete r$^1$ e parallelo ad r (tecnica dei fasci di piani)
+$\lambda($ 
 
