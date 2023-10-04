@@ -48,4 +48,7 @@ caso 2. Supponiamo che $\sqrt[n]{a_n}\to l<1$. Supponiamo che $l\in\Bbb R$
 Per permanenza del segno definitivamente vale $\sqrt[n]{a_n}\le\frac{l+1}2$. elevo alla n
 $0\le a_n\le\left(\frac{l+1}2\right)^n$  che tende a 0 per i carabinieri
 
+## Numero di Nepero e
+$$\lim_{n\to+\infty}{\left(1+\frac 1 n\right)^n}=e$$
+
 
