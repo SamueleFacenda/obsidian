@@ -23,4 +23,15 @@ Il sistema ha una sola soluzione: x=(1,2,1)
 $Ax_{m\times n}=b_{m\times 1}\qquad (A\,b)$ <u>matrice completa</u>
 
 Es:
-$$(A\,b)=\begin{bmatrix}1&1&1&|&4\\2&2&5&|&11\\4&6&8&|&24\end{bmatrix}$$
+$$(A\,b)=\begin{bmatrix}1&1&1&|&4\\2&2&5&|&11\\4&6&8&|&24\end{bmatrix}
+\rightarrow IIriga-2\times Iriga, IIIriga-4\times Iriga
+\begin{bmatrix}1&1&1&4\\0&0&3&3\\0&2&4&8\end{bmatrix}=
+\begin{bmatrix}1&1&1&4\\0&2&4&8\\0&0&3&3\end{bmatrix}$$
+E ho una matrice triangolare alta
+Operazioni che abbiamo visto:
+- scambio di righe
+- sottrazione di una riga per un multiplo di un'altra
+- moltiplico una riga per una costante
+
+### Operazioni sulla matrice completa
+Sono di tre tipi
