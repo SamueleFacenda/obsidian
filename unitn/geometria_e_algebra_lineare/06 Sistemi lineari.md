@@ -106,5 +106,10 @@ Ogni matrice m x n A è equivalente per righe a una matrice a scalini (ridotta)
 Procedimento:
 ##### Caso 1
 La $1^a$ colonna non è tutta nulla: se $a_{1\,1}=0$ e $a_i1\ne0$ scambiamo le righe i e 1. Possiamo supporre $a_{1\,1}\ne0$ $p_1=a_{1\,1}\ne0$
-Con operazioni del tipo $E_{i\,1}(\frac{-a_{i\,1}}{a_{11}})$ si annullato tutti gli elementi sotto $p_1$ ($p_1$: primo pivot)
-Si ripete il procedimento sulla matrice ottenuta togliendo la p
+Con operazioni del tipo $E_{i\,1}(\frac{-a_{i\,1}}{a_{11}})$ si annullato tutti gli elementi sotto $p_1$ ($p_1$: pivot della prima riga)
+Si ripete il procedimento sulla matrice ottenuta togliendo la prima colonna (non considerando la prima colonna) e la prima riga (non considerando la prima riga)
+##### Caso 2
+La $1^a$ colonna è nulla, si ripete il procedimento sulla matrice ottenuta togliendo la prima colonna (non considerando la prima colonna)
+
+Procedo così in loop, ogni volta capendo il caso che ho davanti e procedendo di conseguenza.
+Con operazioni del tipo $D_i(\frac1{p_i})$ i pivot diventano uguali a 1. Con operazioni del terzo tipo (D) 
