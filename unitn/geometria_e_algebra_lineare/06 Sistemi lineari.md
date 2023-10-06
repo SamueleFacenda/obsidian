@@ -47,6 +47,15 @@ Uso sempre le operazioni elementari per trovare le soluzioni
 $$\begin{cases}1&1&1&4\\0&2&4&8\\0&0&3&3\end{cases}
 \rightarrow_{D_3(\frac13)}\begin{cases}
 1&1&1&4\\0&1&2&4\\0&0&1&1\end{cases}
-\rightarrow_{E_1\,3(-2)}
-
+\rightarrow_{E_1\,3(-1)\,E_{1\,2}(-2)}
+\begin{cases}
+1&1&0&3\\0&1&0&2\\0&0&1&1
+\end{cases}
+\rightarrow_{E_{1\,2}(-1)}
+\begin{cases}
+1&0&0&1\\0&1&0&2\\0&0&1&1
+\end{cases}
 $$
+
+Esercizio:
+$$\bagin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2
