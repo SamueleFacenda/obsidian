@@ -13,4 +13,8 @@ $$3^aeq-4\times1^aeq:\begin{cases}x_1+x_2+x_3=4\\
 3x_3=3\\
 2x_2+4x_3=8\end{cases}$$
 Riordino
-$$\begin{cases}
+$$\begin{cases}x_1+x_2+x_3=4\\
+\qquad\,2x_2+4x_3=8\\\qquad\qquad\quad3x_3=3\end{cases}$$
+Ho così un sistema in "forma triangolare". Capisco velocemente se ho una soluzione e lo risolvo facilmente.
+$\begin{cases}z_1=1\\x_2=2\\x_3=1\end{cases}$ 
+Il sistema ha una sola soluzione: x=(1,2,1)
