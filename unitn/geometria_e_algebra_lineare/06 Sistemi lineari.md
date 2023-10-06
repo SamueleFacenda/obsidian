@@ -35,9 +35,9 @@ Sono di tre tipi:
 3. Somma ad una riga di un'altra riga moltiplicata per $c\in\Bbb R$
 Queste sono le operazione elementari sulle righe di una matrice
 
-$(A\,b)\rightarrow_{op\,elementari} (A'\,b')$ equivalenza per righe
+$(A\,b)\rightarrow_{op\,elementari} (A'\,b')$ equivalente per righe a (A b)
 
 Ogni operazione elementare è reversibile:
 1. $S_{ij}$ (scambio delle righe i e j) $\Rightarrow$ $S^{-1}_{ij}=S_{ij}$
 2. $D_i(c)$ (molt. della riga i-esima per $c\in\Bbb R,c\ne0$) $\Rightarrow D_i(c)^{-1}=D_i(\frac1c)$ 
-3. 
+3. $E_{ij}(c)$ (somma alla riga i-esima la j-esima moltiplicata per $c\in\Bbb R$)$\Rightarrow E_{ij}(c)^{-1}=E_{ij}(-c)$
