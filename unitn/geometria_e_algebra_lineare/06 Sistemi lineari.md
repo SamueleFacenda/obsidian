@@ -95,7 +95,7 @@ $$
 $\begin{cases}x_1+x_2+3x_3=2\\2x_2-10x_3=-3\\0=-3\end{cases}$
 Non ci sono soluzioni
 ## Formalizzazione dell'algoritmo
-##### Matrice a scalini
+#### Matrice a scalini
 Una matrice A (m x n) è detta a scalini se il numero di zeri su una riga che precede il primo elemento non nullo cresce riga per riga.
 Sono detti pivot i primi scalari non nulli di ogni riga (angolo dello scalino)
 A è una matrice a scalini ridotta se i pivot sono uguali a 1 e sono gli unici elementi non nulli sulla colonna che contiene (una sola associata ad ogni matrice)
@@ -112,4 +112,7 @@ Si ripete il procedimento sulla matrice ottenuta togliendo la prima colonna (non
 La $1^a$ colonna è nulla, si ripete il procedimento sulla matrice ottenuta togliendo la prima colonna (non considerando la prima colonna)
 
 Procedo così in loop, ogni volta capendo il caso che ho davanti e procedendo di conseguenza.
-Con operazioni del tipo $D_i(\frac1{p_i})$ i pivot diventano uguali a 1. Con operazioni del terzo tipo (D) 
+Con operazioni del tipo $D_i(\frac1{p_i})$ i pivot diventano uguali a 1. Con operazioni del terzo tipo (D) anche gli elementi sopra ai pivot vengono resi uguali a zero.
+
+### Rango
+Il rango di una matrice (A) è il numero dei pivot di una (qualsiasi) matrice a scalini equivalente ad A. (il numero di righe non nulle)
