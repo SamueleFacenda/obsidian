@@ -118,4 +118,4 @@ Con operazioni del tipo $D_i(\frac1{p_i})$ i pivot diventano uguali a 1. Con ope
 Il rango di una matrice (A) è il numero dei pivot di una (qualsiasi) matrice a scalini equivalente ad A. (il numero di righe non nulle)
 
 r=rg(Ab) variabili dipendenti e n-r variabili libere
-Se l'ul
+Se l'ultimo pivot è sull'ultima colonna il sistema non è risolubile (impossibile)
