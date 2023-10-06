@@ -41,3 +41,12 @@ Ogni operazione elementare è reversibile:
 1. $S_{ij}$ (scambio delle righe i e j) $\Rightarrow$ $S^{-1}_{ij}=S_{ij}$
 2. $D_i(c)$ (molt. della riga i-esima per $c\in\Bbb R,c\ne0$) $\Rightarrow D_i(c)^{-1}=D_i(\frac1c)$ 
 3. $E_{ij}(c)$ (somma alla riga i-esima la j-esima moltiplicata per $c\in\Bbb R$)$\Rightarrow E_{ij}(c)^{-1}=E_{ij}(-c)$
+
+### Seconda parte del processo
+Uso sempre le operazioni elementari per trovare le soluzioni
+$$\begin{cases}1&1&1&4\\0&2&4&8\\0&0&3&3\end{cases}
+\rightarrow_{D_3(\frac13)}\begin{cases}
+1&1&1&4\\0&1&2&4\\0&0&1&1\end{cases}
+\rightarrow_{E_1\,3(-2)}
+
+$$
