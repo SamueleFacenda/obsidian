@@ -18,3 +18,9 @@ $$\begin{cases}x_1+x_2+x_3=4\\
 Ho così un sistema in "forma triangolare". Capisco velocemente se ho una soluzione e lo risolvo facilmente.
 $\begin{cases}z_1=1\\x_2=2\\x_3=1\end{cases}$ 
 Il sistema ha una sola soluzione: x=(1,2,1)
+
+#### Uso la notazione matriciale
+$Ax_{m\times n}=b_{m\times 1}\qquad (A\,b)$ <u>matrice completa</u>
+
+Es:
+$$(A\,b)=\begin{bmatrix}1&1&1&|&4\\2&2&5&|&11\\4&6&8&|&24\end{bmatrix}$$
