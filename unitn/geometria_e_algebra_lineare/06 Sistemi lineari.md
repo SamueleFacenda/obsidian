@@ -28,10 +28,9 @@ $$(A\,b)=\begin{bmatrix}1&1&1&|&4\\2&2&5&|&11\\4&6&8&|&24\end{bmatrix}
 \begin{bmatrix}1&1&1&4\\0&0&3&3\\0&2&4&8\end{bmatrix}=
 \begin{bmatrix}1&1&1&4\\0&2&4&8\\0&0&3&3\end{bmatrix}$$
 E ho una matrice triangolare alta
-Operazioni che abbiamo visto:
-- scambio di righe
-- sottrazione di una riga per un multiplo di un'altra
-- moltiplico una riga per una costante
-
 ### Operazioni sulla matrice completa
-Sono di tre tipi
+Sono di tre tipi:
+1. Scambio di due righe
+2. Moltiplicazione di una riga per $c\in\Bbb R,c\ne0$
+3. Somma ad una riga di un'altra riga moltiplicata per $c\in\Bbb R$
+Queste sono le operazione elementari sulle righe di una matrice
