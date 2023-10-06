@@ -72,10 +72,9 @@ $$(A\,b)_{3\times4}=
 $$
 Ho una matrice a scalini, diventa
 $\begin{cases}x_1+x_2+3x_3=2\\2x_2-10x_3=-3\end{cases}$
-Ha infinite soluzioni:
+Ha infinite soluzioni (trasformazione in forma parametrica):
 $\begin{cases}x_1=\frac72-8t\\x_2=-\frac32+5t\\x_3=t\end{cases}\;(t\in\Bbb R)$
 Infinite soluzioni dipendenti da un parametro: $\infty^1$
-
 ### Esempio 2
 $\begin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2+4x_3=-4\end{cases}$
 (cambia solo il termine noto della terza equazione)
@@ -90,4 +89,10 @@ $$(A\,b)_{3\times4}=
 1&1&3&2\\0&2&-10&-3\\0&0&0&-3
 \end{bmatrix}
 $$
-$\begin{cases}x_1+x_2+3x_3=2\\2x_2-10x_3=-3\end{cases}$
+$\begin{cases}x_1+x_2+3x_3=2\\2x_2-10x_3=-3\\0=-3\end{cases}$
+Non ci sono soluzioni
+
+## Formalizzazione dell'algoritmo
+##### Matrice a scalini
+Una matrice A (m x n) è detta a scalini se il numero di zeri su una riga che precede il primo elemento non nullo cresce riga per riga.
+
