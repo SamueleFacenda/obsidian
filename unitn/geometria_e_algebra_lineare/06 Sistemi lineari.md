@@ -45,14 +45,14 @@ Ogni operazione elementare è reversibile:
 ### Seconda parte del processo
 Uso sempre le operazioni elementari per trovare le soluzioni
 $$\begin{bmatrix}1&1&1&4\\0&2&4&8\\0&0&3&3\end{bmatrix}
-\underset{D_3(\frac13)}{\rightarrow}
+\underset{D_3(\frac13)}{\longrightarrow}
 \begin{bmatrix}
 1&1&1&4\\0&1&2&4\\0&0&1&1\end{bmatrix}
-\underset{E_1\,3(-1)\,E_{1\,2}(-2)}{\rightarrow}
+\underset{E_1\,3(-1)\,E_{1\,2}(-2)}{\longrightarrow}
 \begin{bmatrix}
 1&1&0&3\\0&1&0&2\\0&0&1&1
 \end{bmatrix}
-\underset{E_{1\,2}(-1)}{\rightarrow}
+\underset{E_{1\,2}(-1)}{\longrightarrow}
 \begin{bmatrix}
 1&0&0&1\\0&1&0&2\\0&0&1&1
 \end{bmatrix}
@@ -63,11 +63,11 @@ $\begin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2+4x_3=-1\end{cases}$
 $$\underset{3\times4}{(A\,b)}=
 \begin{bmatrix}
 1&1&3&2\\3&5&-1&3\\-2&-4&4&-1\end{bmatrix}
-\underset{E_{2\,1}(-3)\,E_{3\,1}(2)}{\rightarrow}
+\underset{E_{2\,1}(-3)\,E_{3\,1}(2)}{\longrightarrow}
 \begin{bmatrix}
 1&1&3&2\\0&2&-10&-3\\ 0&-2&10&3
 \end{bmatrix}
-\underset{E_{3\,2}(1)}{\rightarrow}
+\underset{E_{3\,2}(1)}{\longrightarrow}
 \begin{bmatrix}
 1&1&3&2\\0&2&-10&-3\\0&0&0&0
 \end{bmatrix}
@@ -88,7 +88,7 @@ $$\underset{3\times4}{(A\,b)}=
 \begin{bmatrix}
 1&1&3&2\\0&2&-10&-3\\ 0&-2&10&0
 \end{bmatrix}
-\underset{E_{3\,2}(1)}{\rightarrow}\begin{bmatrix}
+\underset{E_{3\,2}(1)}{\longrightarrow}\begin{bmatrix}
 1&1&3&2\\0&2&-10&-3\\0&0&0&-3
 \end{bmatrix}
 $$
@@ -102,3 +102,9 @@ A è una matrice a scalini ridotta se i pivot sono uguali a 1 e sono gli unici e
 
 #### Teorema
 Ogni matrice m x n A è equivalente per righe a una matrice a scalini (ridotta)
+
+Procedimento:
+##### Caso 1
+La $1^a$ colonna non è tutta nulla: se $a_{1\,1}=0$ e $a_i1\ne0$ scambiamo le righe i e 1. Possiamo supporre $a_{1\,1}\ne0$ $p_1=a_{1\,1}\ne0$
+Con operazioni del tipo $E_{i\,1}(\frac{-a_{i\,1}}{a_{11}})$ si annullato tutti gli elementi sotto $p_1$ ($p_1$: primo pivot)
+Si ripete il procedimento sulla matrice ottenuta togliendo la p
