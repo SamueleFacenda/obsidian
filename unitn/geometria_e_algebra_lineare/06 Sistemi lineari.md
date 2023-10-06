@@ -67,6 +67,11 @@ $$(A\,b)_{3\times4}=
 1&1&3&2\\0&2&-10&-3\\ 0&-2&10&3
 \end{bmatrix}
 \rightarrow_{E_{3\,2}(1)}\begin{bmatrix}
-1&1&3&2\\0&2&-10&-3\\
+1&1&3&2\\0&2&-10&-3\\0&0&0&0
 \end{bmatrix}
 $$
+Ho una matrice a scalini, diventa
+$\begin{cases}x_1+x_2+3x_3=2\\2x_2-10x_3=-3\end{cases}$
+Ha infinite soluzioni:
+$\begin{cases}x_1=\frac72-8t\\x_2=-\frac32+5t\\x_3=t\end{cases}\;(t\in\Bbb R)$
+Infinite soluzioni dipendenti da un parametro: $\infty^1$
