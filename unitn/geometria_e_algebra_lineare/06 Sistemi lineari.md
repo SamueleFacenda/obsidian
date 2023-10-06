@@ -20,7 +20,7 @@ $\begin{cases}z_1=1\\x_2=2\\x_3=1\end{cases}$
 Il sistema ha una sola soluzione: x=(1,2,1)
 
 #### Uso la notazione matriciale
-$Ax_{m\times n}=b_{m\times 1}\qquad (A\,b)$ <u>matrice completa</u>
+$\underset{m\times n}{Ax}=\underset{m\times 1}b\qquad (A\,b)$ <u>matrice completa</u>
 
 Es:
 $$(A\,b)=\begin{bmatrix}1&1&1&|&4\\2&2&5&|&11\\4&6&8&|&24\end{bmatrix}
@@ -35,7 +35,7 @@ Sono di tre tipi:
 3. Somma ad una riga di un'altra riga moltiplicata per $c\in\Bbb R$
 Queste sono le operazione elementari sulle righe di una matrice
 
-$(A\,b)\rightarrow_{op\,elementari} (A'\,b')$ equivalente per righe a (A b)
+$(A\,b)\underset{op\,elementari}{\rightarrow} (A'\,b')$ equivalente per righe a (A b)
 
 Ogni operazione elementare è reversibile:
 1. $S_{ij}$ (scambio delle righe i e j) $\Rightarrow$ $S^{-1}_{ij}=S_{ij}$
@@ -45,13 +45,14 @@ Ogni operazione elementare è reversibile:
 ### Seconda parte del processo
 Uso sempre le operazioni elementari per trovare le soluzioni
 $$\begin{bmatrix}1&1&1&4\\0&2&4&8\\0&0&3&3\end{bmatrix}
-\rightarrow_{D_3(\frac13)}\begin{bmatrix}
+\underset{D_3(\frac13)}{\rightarrow}
+\begin{bmatrix}
 1&1&1&4\\0&1&2&4\\0&0&1&1\end{bmatrix}
-\rightarrow_{E_1\,3(-1)\,E_{1\,2}(-2)}
+\underset{E_1\,3(-1)\,E_{1\,2}(-2)}{\rightarrow}
 \begin{bmatrix}
 1&1&0&3\\0&1&0&2\\0&0&1&1
 \end{bmatrix}
-\rightarrow_{E_{1\,2}(-1)}
+\underset{E_{1\,2}(-1)}{\rightarrow}
 \begin{bmatrix}
 1&0&0&1\\0&1&0&2\\0&0&1&1
 \end{bmatrix}
@@ -62,11 +63,12 @@ $\begin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2+4x_3=-1\end{cases}$
 $$\underset{3\times4}{(A\,b)}=
 \begin{bmatrix}
 1&1&3&2\\3&5&-1&3\\-2&-4&4&-1\end{bmatrix}
-\rightarrow_{E_{2\,1}(-3)\,E_{3\,1}(2)}
+\underset{E_{2\,1}(-3)\,E_{3\,1}(2)}{\rightarrow}
 \begin{bmatrix}
 1&1&3&2\\0&2&-10&-3\\ 0&-2&10&3
 \end{bmatrix}
-\rightarrow_{E_{3\,2}(1)}\begin{bmatrix}
+\underset{E_{3\,2}(1)}{\rightarrow}
+\begin{bmatrix}
 1&1&3&2\\0&2&-10&-3\\0&0&0&0
 \end{bmatrix}
 $$
@@ -82,7 +84,7 @@ $$\underset{3\times4}{(A\,b)}=
 \begin{bmatrix}
 1&1&3&2\\3&5&-1&3\\-2&-4&4&-4\end{bmatrix}
 
-\underset{E_{2\,1}(-3)\,E_{3\,1}(2)}{\rightarrow}
+\underset{E_{2\,1}(-3)\,E_{3\,1}(2)}{\longrightarrow}
 \begin{bmatrix}
 1&1&3&2\\0&2&-10&-3\\ 0&-2&10&0
 \end{bmatrix}
@@ -96,4 +98,7 @@ Non ci sono soluzioni
 ##### Matrice a scalini
 Una matrice A (m x n) è detta a scalini se il numero di zeri su una riga che precede il primo elemento non nullo cresce riga per riga.
 Sono detti pivot i primi scalari non nulli di ogni riga (angolo dello scalino)
-A è una matrice a scalini ridotta se i pivot sono uguali a 1 e sono gli unici elementi non nulli sulla colonna che contiene
+A è una matrice a scalini ridotta se i pivot sono uguali a 1 e sono gli unici elementi non nulli sulla colonna che contiene (una sola associata ad ogni matrice)
+
+#### Teorema
+Ogni matrice m x n A è equivalente per righe a una matrice a scalini (ridotta)
