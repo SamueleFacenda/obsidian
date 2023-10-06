@@ -44,18 +44,29 @@ Ogni operazione elementare è reversibile:
 
 ### Seconda parte del processo
 Uso sempre le operazioni elementari per trovare le soluzioni
-$$\begin{cases}1&1&1&4\\0&2&4&8\\0&0&3&3\end{cases}
-\rightarrow_{D_3(\frac13)}\begin{cases}
-1&1&1&4\\0&1&2&4\\0&0&1&1\end{cases}
+$$\begin{bmatrix}1&1&1&4\\0&2&4&8\\0&0&3&3\end{bmatrix}
+\rightarrow_{D_3(\frac13)}\begin{bmatrix}
+1&1&1&4\\0&1&2&4\\0&0&1&1\end{bmatrix}
 \rightarrow_{E_1\,3(-1)\,E_{1\,2}(-2)}
-\begin{cases}
+\begin{bmatrix}
 1&1&0&3\\0&1&0&2\\0&0&1&1
-\end{cases}
+\end{bmatrix}
 \rightarrow_{E_{1\,2}(-1)}
-\begin{cases}
+\begin{bmatrix}
 1&0&0&1\\0&1&0&2\\0&0&1&1
-\end{cases}
+\end{bmatrix}
 $$
 
 Esercizio:
-$$\bagin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2
+$\begin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2+4x_3=-1\end{cases}$
+$$(A\,b)_{3\times4}=
+\begin{bmatrix}
+1&1&3&2\\3&5&-1&3\\-2&-4&4&-1\end{bmatrix}
+\rightarrow_{E_{2\,1}(-3)\,E_{3\,1}(2)}
+\begin{bmatrix}
+1&1&3&2\\0&2&-10&-3\\ 0&-2&10&3
+\end{bmatrix}
+\rightarrow_{E_{3\,2}(1)}\begin{bmatrix}
+1&1&3&2\\0&2&-10&-3\\
+\end{bmatrix}
+$$
