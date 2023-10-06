@@ -57,7 +57,7 @@ $$\begin{bmatrix}1&1&1&4\\0&2&4&8\\0&0&3&3\end{bmatrix}
 \end{bmatrix}
 $$
 
-Esercizio:
+### Esempio 1
 $\begin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2+4x_3=-1\end{cases}$
 $$(A\,b)_{3\times4}=
 \begin{bmatrix}
@@ -75,3 +75,19 @@ $\begin{cases}x_1+x_2+3x_3=2\\2x_2-10x_3=-3\end{cases}$
 Ha infinite soluzioni:
 $\begin{cases}x_1=\frac72-8t\\x_2=-\frac32+5t\\x_3=t\end{cases}\;(t\in\Bbb R)$
 Infinite soluzioni dipendenti da un parametro: $\infty^1$
+
+### Esempio 2
+$\begin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2+4x_3=-4\end{cases}$
+(cambia solo il termine noto della terza equazione)
+$$(A\,b)_{3\times4}=
+\begin{bmatrix}
+1&1&3&2\\3&5&-1&3\\-2&-4&4&-4\end{bmatrix}
+\rightarrow_{E_{2\,1}(-3)\,E_{3\,1}(2)}
+\begin{bmatrix}
+1&1&3&2\\0&2&-10&-3\\ 0&-2&10&0
+\end{bmatrix}
+\rightarrow_{E_{3\,2}(1)}\begin{bmatrix}
+1&1&3&2\\0&2&-10&-3\\0&0&0&-3
+\end{bmatrix}
+$$
+$\begin{cases}x_1+x_2+3x_3=2\\2x_2-10x_3=-3\end{cases}$
