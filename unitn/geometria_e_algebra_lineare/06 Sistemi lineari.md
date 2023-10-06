@@ -59,7 +59,7 @@ $$
 
 ### Esempio 1
 $\begin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2+4x_3=-1\end{cases}$
-$$(A\,b)_{3\times4}=
+$$\underset{3\times4}{(A\,b)}=
 \begin{bmatrix}
 1&1&3&2\\3&5&-1&3\\-2&-4&4&-1\end{bmatrix}
 \rightarrow_{E_{2\,1}(-3)\,E_{3\,1}(2)}
@@ -78,21 +78,22 @@ Infinite soluzioni dipendenti da un parametro: $\infty^1$
 ### Esempio 2
 $\begin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2+4x_3=-4\end{cases}$
 (cambia solo il termine noto della terza equazione)
-$$(A\,b)_{3\times4}=
+$$\underset{3\times4}{(A\,b)}=
 \begin{bmatrix}
 1&1&3&2\\3&5&-1&3\\-2&-4&4&-4\end{bmatrix}
-\rightarrow_{E_{2\,1}(-3)\,E_{3\,1}(2)}
+
+\underset{E_{2\,1}(-3)\,E_{3\,1}(2)}{\rightarrow}
 \begin{bmatrix}
 1&1&3&2\\0&2&-10&-3\\ 0&-2&10&0
 \end{bmatrix}
-\rightarrow_{E_{3\,2}(1)}\begin{bmatrix}
+\underset{E_{3\,2}(1)}{\rightarrow}\begin{bmatrix}
 1&1&3&2\\0&2&-10&-3\\0&0&0&-3
 \end{bmatrix}
 $$
 $\begin{cases}x_1+x_2+3x_3=2\\2x_2-10x_3=-3\\0=-3\end{cases}$
 Non ci sono soluzioni
-
 ## Formalizzazione dell'algoritmo
 ##### Matrice a scalini
 Una matrice A (m x n) è detta a scalini se il numero di zeri su una riga che precede il primo elemento non nullo cresce riga per riga.
-
+Sono detti pivot i primi scalari non nulli di ogni riga (angolo dello scalino)
+A è una matrice a scalini ridotta se i pivot sono uguali a 1 e sono gli unici elementi non nulli sulla colonna che contiene
