@@ -23,10 +23,10 @@ Il sistema ha una sola soluzione: x=(1,2,1)
 $\underset{m\times n}{Ax}=\underset{m\times 1}b\qquad (A\,b)$ <u>matrice completa</u>
 
 Es:
-$$(A\,b)=\begin{bmatrix}1&1&1&|&4\\2&2&5&|&11\\4&6&8&|&24\end{bmatrix}
+$$(A\,b)=\left[\begin{array}{ccc|c}1&1&1&|&4\\2&2&5&|&11\\4&6&8&|&24\end{array}\right]
 \rightarrow IIriga-2\times Iriga, IIIriga-4\times Iriga
-\begin{bmatrix}1&1&1&4\\0&0&3&3\\0&2&4&8\end{bmatrix}=
-\begin{bmatrix}1&1&1&4\\0&2&4&8\\0&0&3&3\end{bmatrix}$$
+\left[\begin{array}{ccc|c}1&1&1&4\\0&0&3&3\\0&2&4&8\end{array}\right]=
+\left[\begin{array}{ccc|c}1&1&1&4\\0&2&4&8\\0&0&3&3\end{array}\right]$$
 E ho una matrice triangolare alta
 ### Operazioni sulla matrice completa
 Sono di tre tipi:
@@ -44,33 +44,33 @@ Ogni operazione elementare è reversibile:
 
 ### Seconda parte del processo
 Uso sempre le operazioni elementari per trovare le soluzioni
-$$\begin{bmatrix}1&1&1&4\\0&2&4&8\\0&0&3&3\end{bmatrix}
+$$\left[\begin{array}{ccc|c}1&1&1&4\\0&2&4&8\\0&0&3&3\end{array}\right]
 \underset{D_3(\frac13)}{\longrightarrow}
-\begin{bmatrix}
-1&1&1&4\\0&1&2&4\\0&0&1&1\end{bmatrix}
+\left[\begin{array}{ccc|c}
+1&1&1&4\\0&1&2&4\\0&0&1&1\end{array}\right]
 \underset{E_1\,3(-1)\,E_{1\,2}(-2)}{\longrightarrow}
-\begin{bmatrix}
+\left[\begin{array}{ccc|c}
 1&1&0&3\\0&1&0&2\\0&0&1&1
-\end{bmatrix}
+\end{array}\right]
 \underset{E_{1\,2}(-1)}{\longrightarrow}
-\begin{bmatrix}
+\left[\begin{array}{ccc|c}
 1&0&0&1\\0&1&0&2\\0&0&1&1
-\end{bmatrix}
+\end{array}\right]
 $$
 
 ### Esempio 1
 $\begin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2+4x_3=-1\end{cases}$
 $$\underset{3\times4}{(A\,b)}=
-\begin{bmatrix}
-1&1&3&2\\3&5&-1&3\\-2&-4&4&-1\end{bmatrix}
+\left[\begin{array}{ccc|c}
+1&1&3&2\\3&5&-1&3\\-2&-4&4&-1\end{array}\right]
 \underset{E_{2\,1}(-3)\,E_{3\,1}(2)}{\longrightarrow}
-\begin{bmatrix}
+\left[\begin{array}{ccc|c}
 1&1&3&2\\0&2&-10&-3\\ 0&-2&10&3
-\end{bmatrix}
+\end{array}\right]
 \underset{E_{3\,2}(1)}{\longrightarrow}
-\begin{bmatrix}
+\left[\begin{array}{ccc|c}
 1&1&3&2\\0&2&-10&-3\\0&0&0&0
-\end{bmatrix}
+\end{array}\right]
 $$
 Ho una matrice a scalini, diventa
 $\begin{cases}x_1+x_2+3x_3=2\\2x_2-10x_3=-3\end{cases}$
@@ -81,16 +81,16 @@ Infinite soluzioni dipendenti da un parametro: $\infty^1$
 $\begin{cases}x_1+x_2+3x_3=2\\3x_1+5x_2-x_3=3\\-2x_1-4x_2+4x_3=-4\end{cases}$
 (cambia solo il termine noto della terza equazione)
 $$\underset{3\times4}{(A\,b)}=
-\begin{bmatrix}
-1&1&3&2\\3&5&-1&3\\-2&-4&4&-4\end{bmatrix}
+\left[\begin{array}{ccc|c}
+1&1&3&2\\3&5&-1&3\\-2&-4&4&-4\end{array}\right]
 
 \underset{E_{2\,1}(-3)\,E_{3\,1}(2)}{\longrightarrow}
-\begin{bmatrix}
+\left[\begin{array}{ccc|c}
 1&1&3&2\\0&2&-10&-3\\ 0&-2&10&0
-\end{bmatrix}
-\underset{E_{3\,2}(1)}{\longrightarrow}\begin{bmatrix}
+\end{array}\right]
+\underset{E_{3\,2}(1)}{\longrightarrow}\left[\begin{array}{ccc|c}
 1&1&3&2\\0&2&-10&-3\\0&0&0&-3
-\end{bmatrix}
+\end{array}\right]
 $$
 $\begin{cases}x_1+x_2+3x_3=2\\2x_2-10x_3=-3\\0=-3\end{cases}$
 Non ci sono soluzioni
