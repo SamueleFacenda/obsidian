@@ -37,7 +37,7 @@ $\lim_{x\to 0}\frac{(1-\cos x)}{x^2}=\frac 1 2$
 $\lim_{x\to0}\frac{\tan x}x=1$
 $\lim_{x\to 0}\frac{\arctan x}x=1$
 $\lim_{x\to0}\frac{\arcsin x}x=1$
-$\lim_{x\to-\infty}(1+\frac 1 x)^2$
+$\lim_{x\to-\infty}(1+\frac 1 x)^x=e$
 ... lezione 9/10
 $\lim_{x\to0}\frac{a^x-1}x=\log a$
 $\lim_{x\to0^+}x\log x=0$
