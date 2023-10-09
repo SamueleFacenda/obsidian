@@ -29,3 +29,11 @@ $\lim_{x\to\_0}f(x)\quad x_0\in\Bbb R$
 #### Continuità
 Una funzione si dice continua in ogni punto $x_0\in\Bbb R$ se $\lim_{x\to x_0}f(x)=f(x_0)$
 Le funzioni elementari dove sono definite sono continue
+
+### Limiti notevoli
+$\lim_{x\to0}{\frac{\sin x}x}=1$
+$\lim_{x\to+\infty}(1+\frac1x)^x=e$
+$\lim_{x\to 0}\frac{(1-\cos x)}{x^2}=\frac 1 2$
+... lezione 9/10
+$\lim_{x\to0}\frac{a^x-1}x=\log a$
+$\lim_{x\to0^+}x\log x=0$
