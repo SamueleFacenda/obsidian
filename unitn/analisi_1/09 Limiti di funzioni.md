@@ -34,6 +34,8 @@ Le funzioni elementari dove sono definite sono continue
 $\lim_{x\to0}{\frac{\sin x}x}=1$
 $\lim_{x\to+\infty}(1+\frac1x)^x=e$
 $\lim_{x\to 0}\frac{(1-\cos x)}{x^2}=\frac 1 2$
+$\lim_{x\to0}\frac{\tan x}x=1$
+$\lim_{x\to 0}\frac{\arctan x}x=$
 ... lezione 9/10
 $\lim_{x\to0}\frac{a^x-1}x=\log a$
 $\lim_{x\to0^+}x\log x=0$
