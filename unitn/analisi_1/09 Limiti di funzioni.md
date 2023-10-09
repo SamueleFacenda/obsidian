@@ -13,5 +13,7 @@ Varianti di 1:
 definizioni speculari per i limiti a $-\infty$
 
 $\lim_{x\to\_0}f(x)\quad x_0\in\Bbb R$
-2. $+\infty$: $\forall M>0\,\exists\,\delta>0$ t.c. $f(x)\ge M \quad\forall x\in[x-\delta,x+\delta]\{x_0\}$
-   
+1. $\ell\in\Bbb R$: 
+2. $+\infty$: $\forall M>0\,\exists\,\delta>0$ t.c. $f(x)\ge M \quad\forall x\in[x_0-\delta,x_0+\delta]\backslash\{x_0\}$
+3. $-\infty$: $\forall M>0\,\exists\,\delta>0$ t.c. $f(x)\le M \quad\forall x\in[x_0-\delta,x_0+\delta]\backslash\{x_0\}$
+4.
