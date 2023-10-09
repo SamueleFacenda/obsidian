@@ -22,4 +22,10 @@ $\lim_{x\to\_0}f(x)\quad x_0\in\Bbb R$
 - teoremi di confronto a 2 e a 3
 - radici e rapporto (non si usano)
 - continuità
-- 
+- cambi di variabili
+- limiti notevoli
+- confronto ordini di infinito
+
+#### Continuità
+Una funzione si dice continua in ogni punto $x_0\in\Bbb R$ se $\lim_{x\to x_0}f(x)=f(x_0)$
+Le funzioni elementari 
