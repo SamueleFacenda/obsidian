@@ -11,3 +11,6 @@ Varianti di 1:
 - Si dice che $\lim_{x\to+\infty}{f(x)}=\ell^-\qquad \ell-\epsilon\le f(x)<\ell$ 
 
 definizioni speculari per i limiti a $-\infty$
+
+$\lim_{x\to\_0}f(x)\quad x_0\in\Bbb R$
+1. 
