@@ -6,4 +6,8 @@ possibili limiti di f(x)
 2. $+\infty$: $\forall M\in\Bbb R\,\exists\,K\in\Bbb R$ t.c. $f(x)\ge M \,\forall x\ge K$
 3. $-\infty$: $\forall M\in\Bbb R\,\exists\,K\in\Bbb R$ t.c. $f(x)\le M \,\forall x\ge K$
 4. non esiste: nessuna delle precedenti funziona
-Varianti di 1: Si dice che $\lim_{x\to+\infty}{f(x)}=\ell^+$ 
+Varianti di 1: 
+- Si dice che $\lim_{x\to+\infty}{f(x)}=\ell^+\qquad \ell<f(x)\le\ell+\epsilon$
+- Si dice che $\lim_{x\to+\infty}{f(x)}=\ell^-\qquad \ell-\epsilon\le f(x)<\ell$ 
+
+definizioni speculari per i limiti a $-\infty$
