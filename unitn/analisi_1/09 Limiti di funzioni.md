@@ -37,3 +37,8 @@ $\lim_{x\to 0}\frac{(1-\cos x)}{x^2}=\frac 1 2$
 ... lezione 9/10
 $\lim_{x\to0}\frac{a^x-1}x=\log a$
 $\lim_{x\to0^+}x\log x=0$
+
+### Cambio delle variabili
+Es. $\lim_{x\to0}\frac{\sin x^2}{x^2}=\left[\frac00\right]$
+Pongo $y=x^2. Quando $x\to0$ si ha che $y\to0$, quindi il limite diventa
+$\lim_{y\to0}\frac{}
