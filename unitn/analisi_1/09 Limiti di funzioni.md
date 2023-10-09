@@ -16,4 +16,10 @@ $\lim_{x\to\_0}f(x)\quad x_0\in\Bbb R$
 1. $\ell\in\Bbb R$: 
 2. $+\infty$: $\forall M>0\,\exists\,\delta>0$ t.c. $f(x)\ge M \quad\forall x\in[x_0-\delta,x_0+\delta]\backslash\{x_0\}$
 3. $-\infty$: $\forall M>0\,\exists\,\delta>0$ t.c. $f(x)\le M \quad\forall x\in[x_0-\delta,x_0+\delta]\backslash\{x_0\}$
-4.
+
+### Strumenti
+- teoremi algebrici
+- teoremi di confronto a 2 e a 3
+- radici e rapporto (non si usano)
+- continuità
+- 
