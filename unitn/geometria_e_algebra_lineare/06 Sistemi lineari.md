@@ -124,4 +124,9 @@ Se l'ultimo pivot è sull'ultima colonna il sistema non è risolubile (impossibi
 compatibile = risolvibile
 1. Ax=b è compatibile se e solo se rg(A b)=rg A
 2. Sia Ax=b un sistema compatibile. Allora la soluzione è unica se rg A=n (A m x n). Se rg A < n, ci sono infinite soluzioni dipendenti da n - rg A parametri ($\infty^{n-rg A})$
-3. 
+## Sistemi lineari omogenei
+Ax=0 (è compatibile)
+Sia Ax=0 e Ay=0
+A(x+y)=Ax+Ay=0+0=0
+A(kx)=k(Ax)=k0=0 ($k\in\Bbb R$)
+Cioè Sol(Ax=0)={$x\in\Bbb R^2|Ax}
