@@ -17,3 +17,4 @@ Data una successione, prendere una sua sottosuccessione vuol dire fare una scelt
 Teorema: Sia $a_n$ una successione e $a_{k_n}$ una sua sottosuccessione
 Supponiamo che $a_n\to\ell\in\overline{\Bbb R}$
 Allora $a_{k_n}\to\ell$ (lo stesso $\ell$)
+Attenzione: il teorema non dice che se $a_n$ non ha limite ogni sottosuccessione non ha limite.
