@@ -8,3 +8,5 @@ Boh
 
 $\lim_{x\to 0}\frac {\sin x}x$
 Osservazioni: La funzione è pari, posso fare il limite solo per $x\to0^+$. Supponiamo di sapere inoltre che $\forall x\in(0,\frac{\pi}2)$ vale $\sin x \le x \le \tan x$
+Dimostrazione completa nei pdf
+
