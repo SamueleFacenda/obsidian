@@ -129,4 +129,4 @@ Ax=0 (è compatibile)
 Sia Ax=0 e Ay=0
 A(x+y)=Ax+Ay=0+0=0
 A(kx)=k(Ax)=k0=0 ($k\in\Bbb R$)
-Cioè Sol(Ax=0)={$x\in\Bbb R^2|Ax}
+Cioè Sol(Ax=0)={$x\in\Bbb R^n|Ax=0$} è un sottospazio vettoriale di $\Bbb R^n$
