@@ -119,3 +119,8 @@ Il rango di una matrice (A) è il numero dei pivot di una (qualsiasi) matrice a 
 
 r=rg(Ab) variabili dipendenti e n-r variabili libere
 Se l'ultimo pivot è sull'ultima colonna il sistema non è risolubile (impossibile)
+
+## Teorema (Rouché-Capelli)
+compatibile = risolvibile
+1. Ax=b è compatibile se e solo se rg(A b)=rg A
+2. Sia Ax=b un sistema compatibile. Allora 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unitn/analisi_1/10 Altri limiti.md",
+                "file": "unitn/geometria_e_algebra_lineare/06 Sistemi lineari.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unitn/analisi_1/10 Altri limiti.md",
+                "file": "unitn/geometria_e_algebra_lineare/06 Sistemi lineari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unitn/analisi_1/10 Altri limiti.md",
+                "file": "unitn/geometria_e_algebra_lineare/06 Sistemi lineari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unitn/analisi_1/10 Altri limiti.md"
+                "file": "unitn/geometria_e_algebra_lineare/06 Sistemi lineari.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "1d9c4d04f4cad641",
   "lastOpenFiles": [
-    "unitn/analisi_1/09 Limiti di funzioni.md",
     "unitn/analisi_1/10 Altri limiti.md",
+    "unitn/analisi_1/09 Limiti di funzioni.md",
     "unitn/geometria_e_algebra_lineare/06 Sistemi lineari.md",
     "unitn/geometria_e_algebra_lineare/05 distanza tra rette e cose.md",
     "unitn/analisi_1/07 Successioni.md",
