@@ -13,3 +13,5 @@ Dimostrazione completa nei pdf
 ### Sottosuccessioni
 Idea base: come dimostrare che una successione non ha limite
 Data una successione, prendere una sua sottosuccessione vuol dire fare una scelta mirata di termini di una successione
+
+Teorema: Sia $a_n$ una successione e $a_{k_n}$ una sua sottosuccessione
