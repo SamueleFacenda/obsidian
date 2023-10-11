@@ -4,3 +4,5 @@ Conseguenza: $\lim_{x\to+\infty}\frac{[\log x]^a}{x^b}\quad\forall a>0\;b>0$ pot
 $\lim_{x\to0^+}x\log x=0$
 
 ### Criterio Funzioni $\rightarrow$ successioni
+Boh
+
