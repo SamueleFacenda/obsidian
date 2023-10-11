@@ -123,4 +123,5 @@ Se l'ultimo pivot è sull'ultima colonna il sistema non è risolubile (impossibi
 ## Teorema (Rouché-Capelli)
 compatibile = risolvibile
 1. Ax=b è compatibile se e solo se rg(A b)=rg A
-2. Sia Ax=b un sistema compatibile. Allora 
+2. Sia Ax=b un sistema compatibile. Allora la soluzione è unica se rg A=n (A m x n). Se rg A < n, ci sono infinite soluzioni dipendenti da n - rg A parametri ($\infty^{n-rg A})$
+3. 
