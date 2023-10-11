@@ -18,3 +18,8 @@ Teorema: Sia $a_n$ una successione e $a_{k_n}$ una sua sottosuccessione
 Supponiamo che $a_n\to\ell\in\overline{\Bbb R}$
 Allora $a_{k_n}\to\ell$ (lo stesso $\ell$)
 Attenzione: il teorema non dice che se $a_n$ non ha limite ogni sottosuccessione non ha limite.
+
+Teorema: sia $a_n$ ua successione debolmente crescente. Allora sono possibili solo 2 tipo di comportamento:
+- $a_n\to\ell\in\Bbb R$
+- $a_n$\to+\infty$
+In ogni caso il limite di $a_n$ vale $sup\{a_n:n\in\Bbb N\}$
