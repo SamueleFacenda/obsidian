@@ -15,3 +15,5 @@ Idea base: come dimostrare che una successione non ha limite
 Data una successione, prendere una sua sottosuccessione vuol dire fare una scelta mirata di termini di una successione
 
 Teorema: Sia $a_n$ una successione e $a_{k_n}$ una sua sottosuccessione
+Supponiamo che $a_n\to\ell\in\overline{\Bbb R}$
+Allora $a_{k_n}\to\ell$ (lo stesso $\ell$)
