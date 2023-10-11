@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unitn/analisi_1/09 Limiti di funzioni.md",
+                "file": "unitn/analisi_1/10 Confronti di infiniti.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unitn/analisi_1/09 Limiti di funzioni.md",
+                "file": "unitn/analisi_1/10 Confronti di infiniti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unitn/analisi_1/09 Limiti di funzioni.md",
+                "file": "unitn/analisi_1/10 Confronti di infiniti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unitn/analisi_1/09 Limiti di funzioni.md"
+                "file": "unitn/analisi_1/10 Confronti di infiniti.md"
               }
             }
           },
@@ -174,10 +174,11 @@
   },
   "active": "1d9c4d04f4cad641",
   "lastOpenFiles": [
+    "unitn/analisi_1/09 Limiti di funzioni.md",
+    "unitn/analisi_1/10 Confronti di infiniti.md",
     "unitn/geometria_e_algebra_lineare/06 Sistemi lineari.md",
     "unitn/geometria_e_algebra_lineare/05 distanza tra rette e cose.md",
     "unitn/analisi_1/07 Successioni.md",
-    "unitn/analisi_1/09 Limiti di funzioni.md",
     "unitn/analisi_1/02 principio di induzione.md",
     "unitn/analisi_1/06 Funzioni elementari.md",
     "unitn/analisi_1/07 esercizi.md",
@@ -202,7 +203,6 @@
     "scuola/storia/Prima guerra mondiale.md",
     "scuola/italiano/compiti.md",
     "scuola/italiano/Giuseppe Ungaretti.md",
-    "scuola/italiano/Eugenio Montale.md",
     "altro/scout/Untitled",
     "altro/scout",
     "altro"
