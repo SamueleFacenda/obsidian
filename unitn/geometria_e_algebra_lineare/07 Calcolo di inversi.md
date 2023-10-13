@@ -13,4 +13,5 @@ Sia $A\in M_{m,n}(\Bbb R)$ allora esiste $P\in M_m(\Bbb R)$ invertibile, tale ch
 Se m=n e S=rref(A) =$I_n$, allora la  matrice A è invertibile e $A^{-1}=P$
 Quindi se $rgA=n\Rightarrow A$  è invertibile.
 
-Teorema: se A è invertibile $\Rightarrow$ il sistema Ax=b ha un'unica soluzione
+Teorema: se A è invertibile $\implies$ il sistema Ax=b ha un'unica soluzione
+A è invertibile $\iff$ rgA=n
