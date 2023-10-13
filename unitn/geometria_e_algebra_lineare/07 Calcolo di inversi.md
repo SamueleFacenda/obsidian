@@ -15,3 +15,6 @@ Quindi se $rgA=n\Rightarrow A$  è invertibile.
 
 Teorema: se A è invertibile $\implies$ il sistema Ax=b ha un'unica soluzione
 A è invertibile $\iff$ rgA=n
+
+## Metodo per il calcolo dell'inversa
+$\underset{n\times2n}{(A\,I_n)}\to rref(A\,I_n)=$
