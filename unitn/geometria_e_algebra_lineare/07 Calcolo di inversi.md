@@ -19,3 +19,5 @@ A è invertibile $\iff$ rgA=n
 ## Metodo per il calcolo dell'inversa
 $\underset{n\times2n}{(A\,I_n)}\to rref(A\,I_n)=(I_n\,B)$
 $rref(A\,I_n)=(I_n\,B)=\underset{n\times n}P(A\,I_n)=\underset{n\times2n}{(PA\quad P)}=(I_n\;A^-1)$
+
+Def. 
