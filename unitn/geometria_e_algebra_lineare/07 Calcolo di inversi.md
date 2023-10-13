@@ -25,3 +25,5 @@ Def. uno spazio vettoriale V su un campo K è un gruppo commutativo (V,+)su cui 
 2. $k(v_1+v_2)=kv_1+kv_2\qquad\forall k\in\Bbb K,\forall v_1,v_2\in V$
 3. $(k_1k_2)v=k_1(k_2v)=k_2(k_1v)\qquad\forall k_1,k_2\in\Bbb K,\forall v\in B$
 4. $1v=v\qquad\forall v\in V$
+
+Def.
