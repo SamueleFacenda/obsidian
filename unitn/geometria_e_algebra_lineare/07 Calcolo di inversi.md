@@ -20,7 +20,7 @@ A è invertibile $\iff$ rgA=n
 $\underset{n\times2n}{(A\,I_n)}\to rref(A\,I_n)=(I_n\,B)$
 $rref(A\,I_n)=(I_n\,B)=\underset{n\times n}P(A\,I_n)=\underset{n\times2n}{(PA\quad P)}=(I_n\;A^-1)$
 
-Def. uno spazio vettoriale V su un campo K è un gruppo commutativo (V,+)su cui è definita una ,pòtiplicazione per valore $(k,v)\in\Bbb K\times V\to kv\in V$ tale che 
+Def. uno spazio vettoriale V su un campo K è un gruppo commutativo (V,+)su cui è definita una moltiplicazione per valore $(k,v)\in\Bbb K\times V\to kv\in V$ tale che 
 1. $(k_1+k_2)v=k_1v+k_2v\qquad\forall k_1,k_2\in\Bbb K,\forall v\in V$
 2. $k(v_1+v_2)=kv_1+kv_2\qquad\forall k\in\Bbb K,\forall v_1,v_2\in V$
 3. $(k_1k_2)v=k_1(k_2v)=k_2(k_1v)\qquad\forall k_1,k_2\in\Bbb K,\forall v\in B$
