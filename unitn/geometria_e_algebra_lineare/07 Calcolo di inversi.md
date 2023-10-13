@@ -9,4 +9,5 @@ inverse:
 3. $E_{ij}(c)^{-1}=E_{ij}(-c)$
 
 Proposizione: 
-Sia $A\in M_{m,n}(\Bbb R)
+Sia $A\in M_{m,n}(\Bbb R)$ allora esiste $P\in M_m(\Bbb R)$ invertibile, tale che $PA=S$ a scalini.
+Se m=n e S=rref(A) =$I_n$, allora la  matrice A è invertibile e $A^{-1}=P$
