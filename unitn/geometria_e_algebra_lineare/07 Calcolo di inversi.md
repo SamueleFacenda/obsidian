@@ -11,3 +11,6 @@ inverse:
 Proposizione: 
 Sia $A\in M_{m,n}(\Bbb R)$ allora esiste $P\in M_m(\Bbb R)$ invertibile, tale che $PA=S$ a scalini.
 Se m=n e S=rref(A) =$I_n$, allora la  matrice A è invertibile e $A^{-1}=P$
+Quindi se $rgA=n\Rightarrow A$  è invertibile.
+
+Teorema: se A è invertibile $\Rightarrow$ il sistema Ax=b ha un'unica soluzione
