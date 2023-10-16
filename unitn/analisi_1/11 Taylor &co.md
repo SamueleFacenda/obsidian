@@ -8,3 +8,6 @@ se esiste una funzione $\omega(x)$ tale che
 2. $\lim_{x\to x_o}\omega(x)=0$
 
 Def quasi equivalente: Supponiamo che $g(x)\ne 0$ in un intervallo centrato in $x_0$ tranne al più in $x_0$ stesso. Allora $\omega(x)=\frac{f(x)}{g(x)}$ quindi $\lim_{x\to x_0}\frac{f(x)}{g(x)}=0$ 
+
+### Proprietà algebriche di o-piccolo
+$f_1(x)+f_2(x)=o(g(x))\qquad x\to x_o\qquad(o(g)+o(g)=o(g))$
