@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/07 Calcolo di inversi.md",
+                "file": "unitn/analisi_1/11 Tylor &co.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/07 Calcolo di inversi.md",
+                "file": "unitn/analisi_1/11 Tylor &co.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/07 Calcolo di inversi.md",
+                "file": "unitn/analisi_1/11 Tylor &co.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unitn/geometria_e_algebra_lineare/07 Calcolo di inversi.md"
+                "file": "unitn/analisi_1/11 Tylor &co.md"
               }
             }
           },
@@ -174,10 +174,11 @@
   },
   "active": "1d9c4d04f4cad641",
   "lastOpenFiles": [
+    "unitn/geometria_e_algebra_lineare/07 Calcolo di inversi.md",
+    "unitn/analisi_1/11 Tylor &co.md",
     "unitn/geometria_e_algebra_lineare/06 Sistemi lineari.md",
     "unitn/geometria_e_algebra_lineare/05 distanza tra rette e cose.md",
     "unitn/geometria_e_algebra_lineare/03 Matrici.md",
-    "unitn/geometria_e_algebra_lineare/07 Calcolo di inversi.md",
     "unitn/analisi_1/10 Altri limiti.md",
     "unitn/analisi_1/09 Limiti di funzioni.md",
     "unitn/analisi_1/07 Successioni.md",
@@ -202,7 +203,6 @@
     "scuola/italiano/Pirandello.md",
     "scuola/storia/I 3 totalitarismi.md",
     "scuola/storia/Prima guerra mondiale.md",
-    "scuola/italiano/compiti.md",
     "altro/scout/Untitled",
     "altro/scout",
     "altro"
