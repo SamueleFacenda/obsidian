@@ -22,3 +22,14 @@ Supp. di sapere che $f(x)=o(g_1(x)+g_2(x))\qquad x\to x_0$
 $f(x)=o(g_1(x))+o(g_2(x))\qquad x\to x_0$
 Supp. di sapere che $f(x)=o(cg(x))\qquad x\to x_0$
 $f(x)=o(g(x))\qquad x\to x_0$
+
+## Sviluppi del primo ordine
+Tutto valido per $x\to0$
+$\sin x = x+o(x)$
+$\arctan x = x+o(x)$
+$\tan x = x+o(x)$
+$\arcsin x = x+o(x)$
+$\cos x=1+o(x)$
+$\cos x = 1 -\frac{x^2}2 +o(x^2)$
+$e^x=1+x+o(x)$
+$\log(1+x)=x+o(x)$
