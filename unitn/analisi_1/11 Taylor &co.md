@@ -11,3 +11,4 @@ Def quasi equivalente: Supponiamo che $g(x)\ne 0$ in un intervallo centrato in $
 
 ### Proprietà algebriche di o-piccolo
 $f_1(x)+f_2(x)=o(g(x))\qquad x\to x_o\qquad(o(g)+o(g)=o(g))$
+$f_1(x)-f_2(x)=o(g(x))\qquad x\to x_o\qquad (o(g)-o(g)=o(g))$
