@@ -14,3 +14,7 @@ $f_1(x)+f_2(x)=o(g(x))\qquad x\to x_o\qquad(o(g)+o(g)=o(g))$
 $f_1(x)-f_2(x)=o(g(x))\qquad x\to x_o\qquad (o(g)-o(g)=o(g))$
 $cf(x)=o(g(x))\qquad x\to x_o$
 $f_1(x)\cdot f_2(x)=o(g^2(x))\qquad x\to x_0$
+
+### Tansitività di o-piccolo
+Supp. $f(x)=o(g(x))\qquad x\to x_o\qquad\qquad g(x)=o(h(x))\qquad x\to x_0$
+$f(x)=o(h(x))\qquad \to x_0$
