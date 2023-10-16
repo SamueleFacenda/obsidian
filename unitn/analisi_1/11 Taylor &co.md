@@ -15,6 +15,10 @@ $f_1(x)-f_2(x)=o(g(x))\qquad x\to x_o\qquad (o(g)-o(g)=o(g))$
 $cf(x)=o(g(x))\qquad x\to x_o$
 $f_1(x)\cdot f_2(x)=o(g^2(x))\qquad x\to x_0$
 
-### Tansitività di o-piccolo
+### Transitività di o-piccolo
 Supp. $f(x)=o(g(x))\qquad x\to x_o\qquad\qquad g(x)=o(h(x))\qquad x\to x_0$
 $f(x)=o(h(x))\qquad \to x_0$
+Supp. di sapere che $f(x)=o(g_1(x)+g_2(x))\qquad x\to x_0$
+$f(x)=o(g_1(x))+o(g_2(x))\qquad x\to x_0$
+Supp. di sapere che $f(x)=o(cg(x))\qquad x\to x_0$
+$f(x)=o(g(x))\qquad x\to x_0$
