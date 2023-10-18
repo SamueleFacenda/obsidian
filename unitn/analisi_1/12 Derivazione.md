@@ -41,4 +41,9 @@ $(\frac fg)'=\frac{f'g-fg'}{g^2}$
 $(f(g))'=f'(g)+g'$
 
 ### Derivata funzione inversa
-Sia f una funzione 
+Sia f una funzione con g la sua inversa.
+$(f(g(x)))'=f'(g(x))\cdot g'(x)=(x)'=1$
+da cui
+$g'(x)=\frac1{f'(g(x))}$
+
+es: derivata dell'esponenzia e dell'inversa dell'esponenziale
