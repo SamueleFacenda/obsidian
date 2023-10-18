@@ -12,4 +12,8 @@ Significato geometrico della derivata: quando $h\to0$ si ha
 - il punto Q tende al punto P (i due punti $x_0$ e $x_0+h$)
 - la retta secante passante per P  e Q tende alla retta tangente al grafico di f in P
 
-Definizione: si dice che f è differenziabile in $x_0$ se esiste un numero reale 
+Definizione: si dice che f è differenziabile in $x_0$ se esiste un numero $\alpha\in\Bbb R$ tale che
+$f(x_0+h)=f(x_0)+\alpha h+o(h)\quad h\to0$
+
+Teorema: la funzione $f:\Bbb R\to\Bbb R$ è differenziabile in $x_0$ se e solo se f è derivabile in $x_0$. In tal caso $\alpha =f'(x_0)$
+
