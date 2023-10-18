@@ -46,4 +46,4 @@ $(f(g(x)))'=f'(g(x))\cdot g'(x)=(x)'=1$
 da cui
 $g'(x)=\frac1{f'(g(x))}$
 
-es: derivata dell'esponenzia e dell'inversa dell'esponenziale
+es: derivata dell'esponenziale e dell'inversa dell'esponenziale
