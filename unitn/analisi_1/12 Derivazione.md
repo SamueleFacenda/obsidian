@@ -19,3 +19,15 @@ Teorema: la funzione $f:\Bbb R\to\Bbb R$ è differenziabile in $x_0$ se e solo s
 
 Teorema: se f è derivabile in $x_0$ allora f è continua in $x_0$
 
+### Derivate di funzioni elementari
+- (costante)'=0
+- $(x^k)'=kx^{k-1}$
+- $(e^x)'=e^x$
+- $(a^x)'=a^x\log a$
+- $(\log x)'=\frac1x$
+- $(\sin x)'=\cos x$
+- $(\cos x)'=-\sin x$
+- $(\arcsin x)'=\frac1{\sqrt{1-x^2}}$
+- $(\arcos x)'=-\frac1{\sqrt{1-x^2}}$
+- $(\arctan x)'=\frac1{1+x^2}$
+- $()
