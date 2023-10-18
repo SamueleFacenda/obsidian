@@ -1,0 +1,1 @@
+Se il mio sistema ha infinite soluzioni, ma sto usando un sottospazio vettoriale con numeri di elementi finiti, non avrò più infinite soluzioni ma un numero di soluzioni uguale al numero di elementi del sottospazio. Es con $\Bbb K=\Bbb F_2=\{0,1\}$ (numeri binari). Se il mio sistema quadrato 2x2 avrà rango 2 il numero di soluzioni è $2^1=2$.
