@@ -17,3 +17,5 @@ $f(x_0+h)=f(x_0)+\alpha h+o(h)\quad h\to0$
 
 Teorema: la funzione $f:\Bbb R\to\Bbb R$ è differenziabile in $x_0$ se e solo se f è derivabile in $x_0$. In tal caso $\alpha =f'(x_0)$
 
+Teorema: se f è derivabile in $x_0$ allora f è continua in $x_0$
+
