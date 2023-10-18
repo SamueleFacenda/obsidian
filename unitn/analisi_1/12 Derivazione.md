@@ -11,3 +11,5 @@ $\dot f(x_0)$
 Significato geometrico della derivata: quando $h\to0$ si ha
 - il punto Q tende al punto P (i due punti $x_0$ e $x_0+h$)
 - la retta secante passante per P  e Q tende alla retta tangente al grafico di f in P
+
+Definizione: si dice che f è differenziabile in $x_0$ se esiste un numero reale 
