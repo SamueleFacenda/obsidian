@@ -28,6 +28,16 @@ Teorema: se f è derivabile in $x_0$ allora f è continua in $x_0$
 - $(\sin x)'=\cos x$
 - $(\cos x)'=-\sin x$
 - $(\arcsin x)'=\frac1{\sqrt{1-x^2}}$
-- $(\arcos x)'=-\frac1{\sqrt{1-x^2}}$
+- $(\arccos x)'=-\frac1{\sqrt{1-x^2}}$
 - $(\arctan x)'=\frac1{1+x^2}$
-- $()
+- $(x^\alpha)'=\alpha x^{\alpha -1}\quad \alpha\in\Bbb R\backslash[0]$
+- $(\tan x)'=\frac1{\cos^2x}=1+\tan^2x$
+
+$(f\pm g)'=f'\pm g'$
+$(cf)'=cf'\quad c\in\Bbb R$
+$(f\cdot g)'=f'g+fg'$
+$(\frac1f)'=-\frac{f'}{f^2}$
+$(\frac fg)'=\frac{f'g-fg'}{g^2}$
+$(f(g))'=f'(g)+g'$
+
+
