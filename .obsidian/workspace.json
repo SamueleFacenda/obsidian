@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unitn/analisi_1/11 Taylor &co.md",
+                "file": "unitn/analisi_1/09 Limiti di funzioni.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unitn/analisi_1/11 Taylor &co.md",
+                "file": "unitn/analisi_1/09 Limiti di funzioni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unitn/analisi_1/11 Taylor &co.md",
+                "file": "unitn/analisi_1/09 Limiti di funzioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unitn/analisi_1/11 Taylor &co.md"
+                "file": "unitn/analisi_1/09 Limiti di funzioni.md"
               }
             }
           },
@@ -174,9 +174,9 @@
   },
   "active": "f8d620af585d99b5",
   "lastOpenFiles": [
-    "unitn/analisi_1/09 Limiti di funzioni.md",
     "unitn/analisi_1/07 Successioni.md",
     "unitn/analisi_1/11 Taylor &co.md",
+    "unitn/analisi_1/09 Limiti di funzioni.md",
     "unitn/analisi_1/12 Derivazione.md",
     "unitn/analisi_1/10 Altri limiti.md",
     "unitn/analisi_1/07 esercizi.md",
