@@ -9,3 +9,7 @@ $\left\langle v_1,...,v_k\right\rangle=\left\{v=\sum_{i=1}^k c_iv_i|c_i\in \Bbb 
 Def. V spazio vettoriale in $\Bbb K$. $V_1$ insieme di vettori $B=\{v_1,...,v_n\}$ è una base di V se ogni vettore $v\in V$ si può scrivere in modo unico come combinazione lineare di $v_1,...,v_n$:
 $v=\sum_{i=1}^n x_iv_i$  con $x_i\in\Bbb K$
 $x_1,...,x_n$ sono le coordinate di v rispetto a B
+
+Oss. Se V ha  una base con n elementi $\implies n=dim(V)$   dimensione di V
+
+Es. $V=
