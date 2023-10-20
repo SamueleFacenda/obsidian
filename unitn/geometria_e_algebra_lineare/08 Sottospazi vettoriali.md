@@ -21,4 +21,9 @@ Def. Un insieme di vettori $v_1,...,v_m$ di V è detto insieme generatore o insi
 
 Oss. Ogni insieme contenente una base è un insieme generatore.
 
-Def. Un insieme di vettori  $v_1,...,v_
+Def. Un insieme di vettori  $v_1,...,v_k$ di V è linearmente indipendente (LI) se $a_1v_1+...+a_kv_k=0\iff a_1=...=a_k=0$
+L'insieme è detto linearmente dipendente se non è LI.
+
+Oss. Se $v_1,...,v_k$ sono dipendenti
+$\implies \exists \,a_1,...,a_k$ non tutti nulli tali che $a_1v_1+...+a_kv_k=0$ 
+Se $a_1\ne 0\implies a_1v_1=-a_2v_2-...-a_kv_k$
