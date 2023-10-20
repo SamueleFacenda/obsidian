@@ -26,4 +26,5 @@ L'insieme è detto linearmente dipendente se non è LI.
 
 Oss. Se $v_1,...,v_k$ sono dipendenti
 $\implies \exists \,a_1,...,a_k$ non tutti nulli tali che $a_1v_1+...+a_kv_k=0$ 
-Se $a_1\ne 0\implies a_1v_1=-a_2v_2-...-a_kv_k$
+Se $a_1\ne 0\implies a_1v_1=-a_2v_2-...-a_kv_k\quad v_1=-\frac{a_2}{a_1}v_2-...-\frac{a_k}{a_1}v_k$
+Sono dipendenti $\iff$ (almeno) uno dei vettori è combinazione lineare dei rimanenti
