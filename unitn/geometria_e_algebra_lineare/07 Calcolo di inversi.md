@@ -26,6 +26,7 @@ Def. uno spazio vettoriale V su un campo K è un gruppo commutativo (V,+)su cui 
 3. $(k_1k_2)v=k_1(k_2v)=k_2(k_1v)\qquad\forall k_1,k_2\in\Bbb K,\forall v\in B$
 4. $1v=v\qquad\forall v\in V$
 
+### Sottospazio vettoriale
 Def. Sia V uno spazio vettoriale su $\Bbb K$. Un sottoinsieme non vuoto W di V è detto sottospazio vettoriale di V se:
 - $w_1+w_2\in W\qquad\forall w_\,w_2\in W$
 - $\forall k\in\Bbb K,\forall w\in W,kw\in W$
