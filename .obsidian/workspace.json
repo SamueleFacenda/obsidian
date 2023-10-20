@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unitn/analisi_1/09 Limiti di funzioni.md",
+                "file": "unitn/analisi_1/11 Taylor &co.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unitn/analisi_1/09 Limiti di funzioni.md",
+                "file": "unitn/analisi_1/11 Taylor &co.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unitn/analisi_1/09 Limiti di funzioni.md",
+                "file": "unitn/analisi_1/11 Taylor &co.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unitn/analisi_1/09 Limiti di funzioni.md"
+                "file": "unitn/analisi_1/11 Taylor &co.md"
               }
             }
           },
@@ -172,10 +172,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8d620af585d99b5",
+  "active": "1d9c4d04f4cad641",
   "lastOpenFiles": [
-    "unitn/analisi_1/07 Successioni.md",
     "unitn/analisi_1/09 Limiti di funzioni.md",
+    "unitn/analisi_1/07 Successioni.md",
     "unitn/geometria_e_algebra_lineare/08 Sottospazi vettoriali.md",
     "unitn/geometria_e_algebra_lineare/07 Calcolo di inversi.md",
     "unitn/analisi_1/12 Derivazione.md",
