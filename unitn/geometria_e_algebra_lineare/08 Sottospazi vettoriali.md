@@ -28,3 +28,6 @@ Oss. Se $v_1,...,v_k$ sono dipendenti
 $\implies \exists \,a_1,...,a_k$ non tutti nulli tali che $a_1v_1+...+a_kv_k=0$ 
 Se $a_1\ne 0\implies a_1v_1=-a_2v_2-...-a_kv_k\quad v_1=-\frac{a_2}{a_1}v_2-...-\frac{a_k}{a_1}v_k$
 Sono dipendenti $\iff$ (almeno) uno dei vettori è combinazione lineare dei rimanenti
+
+Es. più o meno. Se ho n vettori in V, per capire se sono LI, faccio la loro combinazione lineare con $a_1,...,a_n$ e la pongo uguale a 0 (in V). Se sono vettori in $\Bbb R^n$ allora avrò un sistema lineare omogeneo con ogni colonna uguale al vettore i-esimo. So che esiste sempre la soluzione con tutte le a uguale a 0, essendo omogeneo. Per capire se sono indipendenti devo avere solo quella. Quindi se la nullità del sistema è maggiore di 0 avrò infinite soluzione e saprò che i vettori non sono LI. Serve quindi ridurre a scala la matrice e calcolarne il rango per sapere se sono LI o no.
+
