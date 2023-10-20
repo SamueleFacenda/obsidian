@@ -12,4 +12,8 @@ $x_1,...,x_n$ sono le coordinate di v rispetto a B
 
 Oss. Se V ha  una base con n elementi $\implies n=dim(V)$   dimensione di V
 
-Es. $V=
+Es. $V=\Bbb R^n$
+$a=(a_1,...,a_n)\in\Bbb R^n$
+$a=\underset{e_1}{a_1(1,0,...,0)}+...+\underset{e_n}{a_n(0,...,0,1)}$
+$\xi=\{e_1,...,e_n\}$  base canonica di $\Bbb R^n$
+ 
