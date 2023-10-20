@@ -16,4 +16,9 @@ Es. $V=\Bbb R^n$
 $a=(a_1,...,a_n)\in\Bbb R^n$
 $a=\underset{e_1}{a_1(1,0,...,0)}+...+\underset{e_n}{a_n(0,...,0,1)}$
 $\xi=\{e_1,...,e_n\}$  base canonica di $\Bbb R^n$
- 
+
+Def. Un insieme di vettori $v_1,...,v_m$ di V è detto insieme generatore o insieme di generatori di V se ogni elemento di V è combinazione lineare di $v_1,...,v_n$. (come la base, ma non deve essere unica). Cioè $V=\langle v_1,...,v_m\rangle$
+
+Oss. Ogni insieme contenente una base è un insieme generatore.
+
+Def. Un insieme di vettori  $v_1,...,v_
