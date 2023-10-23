@@ -8,4 +8,7 @@ Supponiamo che:
 - siano derivabili per un po' di volte, g(x) sia diversa da 0 in un intorno di $x_0$
 - il limite sia una formula indeterminate del tipo $\frac00\quad\frac{\pm\infty}{\pm\infty}$
 - esiste il limite $\lim_{x\to x_0}{\frac{f'(x)}{g'(x)}}=\ell\in\overline{\Bbb R}$
-  Allora $\lim_{x\to x_0}\frac{f(x)}{g}
+  Allora $\lim_{x\to x_0}\frac{f(x)}{g(x)}=\ell$
+  Oss. non server se:
+  - la formula indeterminante non è di quei tipi.
+  - il limite non esiste
