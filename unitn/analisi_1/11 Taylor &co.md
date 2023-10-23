@@ -45,4 +45,7 @@ $$=\sum_{k=0}^{n}\frac{f^{(k)}(0)}{k!}x^k$$
 Oss. Posso sostituire ad f(x) il polinomio $P_n(x)$ in un intorno piccolo di $x_0=0$ e commetto un errore di tipo $o(x^n$).
 Il tutto è utile spesso nei limiti di funzioni con $x\to0$
 
-Le i
+Le ipotesi sotto le quali vale la formula di Taylor, sono che f deve essere definita almeno in un intervallo che contiene 0 e che sia derivabile almeno n volte in 0. Anzi più precisamente
+- derivabile almeno n-1 volte in tutto l'intervallo
+- che abbia derivate n-esime in $x_0=0$
+Notazioni: la formula di Taylor si dice anche formula di Taylor con resto di Peano
