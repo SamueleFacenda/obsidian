@@ -42,3 +42,7 @@ $$f(x)=P_n(x)+o(x^n)\qquad per\,x\to 0$$
 inoltre $P_n(x)$ è dato dalla seguente formula:
 $$P_n(x)=f(0)+\frac{f'(0)}{1!}x+\frac{f''(0)}{2!}x^2+...+\frac{f^{(n)}(0)}{n!}x^n$$
 $$=\sum_{k=0}^{n}\frac{f^{(k)}(0)}{k!}x^k$$
+Oss. Posso sostituire ad f(x) il polinomio $P_n(x)$ in un intorno piccolo di $x_0=0$ e commetto un errore di tipo $o(x^n$).
+Il tutto è utile spesso nei limiti di funzioni con $x\to0$
+
+Le i
