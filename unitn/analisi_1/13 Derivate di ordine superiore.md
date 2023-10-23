@@ -9,6 +9,6 @@ Supponiamo che:
 - il limite sia una formula indeterminate del tipo $\frac00\quad\frac{\pm\infty}{\pm\infty}$
 - esiste il limite $\lim_{x\to x_0}{\frac{f'(x)}{g'(x)}}=\ell\in\overline{\Bbb R}$
   Allora $\lim_{x\to x_0}\frac{f(x)}{g(x)}=\ell$
-  Oss. non server se:
+  Oss. non serve se:
   - la formula indeterminante non è di quei tipi.
   - il limite non esiste
