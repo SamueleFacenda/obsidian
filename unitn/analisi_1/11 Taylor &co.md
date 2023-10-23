@@ -58,4 +58,5 @@ $\sinh x=x+\frac{x^3}{3!}+\frac{x^5}{5!}+\frac{x^7}{7!}...$
 $\cosh x=1+\frac{x^2}{2!}+\frac{x^4}{4!}+\frac{x^6}{6!}...$
 $\log{(1+x)}=x-\frac{x^2}2+\frac{x^3}3-\frac{x^4}4...$
 $\arctan x=x-\frac{x^5}3+\frac{x^5}5-\frac{x^7}7$
-	$(i+x)^\alpha =1+\alpha x+\frac{\alpha(\alpha-1)}{2!}x^2+\frac{\alpha(\alpha-1)(\alpha-2)}{3!}x^3...$      posso usare $
+$(i+x)^\alpha =1+\alpha x+\frac{\alpha(\alpha-1)}{2!}x^2+\frac{\alpha(\alpha-1)(\alpha-2)}{3!}x^3...$      posso usare il binomio di newton con alpha sull'indice al posto della frazione
+per $\alpha=-1: 1-x+x^2-x^3+x^4...$
