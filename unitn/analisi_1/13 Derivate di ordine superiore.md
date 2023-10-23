@@ -1,0 +1,1 @@
+$f:A\to\Bbb R\quad A\subseteq\Bbb R$ sia derivabile, sotto opportune ipotesi definisco la funzione derivata di f come $A\ni x\to f'(x)\in\Bbb R$ allora posso definire la sua derivata, $f''(x)\quad f^{(2)}(x) \frac{d^2f}{dx^2}\quad f$ 
