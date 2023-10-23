@@ -33,3 +33,7 @@ $\cos x=1+o(x)$
 $\cos x = 1 -\frac{x^2}2 +o(x^2)$
 $e^x=1+x+o(x)$
 $\log(1+x)=x+o(x)$
+
+# Formula di Taylor
+Caso in cui $x_0=0$
+Sia f una funzione e sia 
