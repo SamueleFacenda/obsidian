@@ -36,4 +36,9 @@ $\log(1+x)=x+o(x)$
 
 # Formula di Taylor
 Caso in cui $x_0=0$
-Sia f una funzione e sia 
+Sia f una funzione e sia $n\in\Bbb N$.
+Sotto opportune ipotesi esiste un unico polinomio $P_n(x)$ di grado $\le n$ tale che
+$$f(x)=P_n(x)+o(x^n)\qquad per\,x\to 0$$
+inoltre $P_n(x)$ è dato dalla seguente formula:
+$$P_n(x)=f(0)+\frac{f'(0)}{1!}x+\frac{f''(0)}{2!}x^2+...+\frac{f^{(n)}(0)}{n!}x^n$$
+$$=\sum_{k=0}^{n}\frac{f^{(k)}(0)}{k!}x^k$$
