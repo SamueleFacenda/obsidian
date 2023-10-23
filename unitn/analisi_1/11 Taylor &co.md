@@ -49,3 +49,5 @@ Le ipotesi sotto le quali vale la formula di Taylor, sono che f deve essere defi
 - derivabile almeno n-1 volte in tutto l'intervallo
 - che abbia derivate n-esime in $x_0=0$
 Notazioni: la formula di Taylor si dice anche formula di Taylor con resto di Peano
+
+### Sviluppi di Taylor funzioni elementari
