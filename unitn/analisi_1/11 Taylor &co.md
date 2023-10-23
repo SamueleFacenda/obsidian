@@ -51,3 +51,8 @@ Le ipotesi sotto le quali vale la formula di Taylor, sono che f deve essere defi
 Notazioni: la formula di Taylor si dice anche formula di Taylor con resto di Peano
 
 ### Sviluppi di Taylor funzioni elementari
+$e^x=1+x+\frac{x^2}{2!}+\frac{x^3}{3!}...$
+$\sin x=x-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}...$
+$\cos x=1-\frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}...$
+$\sinh x=x+\frac{x^3}{3!}+\frac{x^5}{5!}+\frac{x^7}{7!}...$
+$\cosh x=1+\frac{x^2}{2!}+\frac{x^4}{4!}+\frac{x^6}{6!}...$
