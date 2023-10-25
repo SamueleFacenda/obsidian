@@ -56,4 +56,6 @@ V con base $B=\{v_1,\dots,v_n\}\quad v\in V,\quad v=\sum_{i=1}^nx_iv_i$
 $(X_1,\dots,x_n)=T_B(v)$ n-upla delle coordinate di v rispetto a B
 $v=(x_1,\dots,x_n)_B$
 
+#### Basi di $\Bbb R^n$
+Proposizione 1: Siano $v_1,\dots,v_m\in\Bbb R^n$ con m>n. Allora $v_1,\dots,v_m$ sono LD.
 
