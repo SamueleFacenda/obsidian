@@ -36,4 +36,9 @@ Teorema: Un insieme $B=\{v_1,...,v_n\}$ è una base di V $\iff$ B è un insieme 
 
 In una matrice a scalini le prime r(rango) righe sono LI. Quindi l'insieme $\{S_1,\dots,S_r\}$ è base dello spazio delle righe di $S_i: \langle S_1,\dots,S_m\rangle\subseteq\Bbb R^n$
 Il rango è quindi la dimensione del sottospazio generato dalle righe fino ad r.
-$\implies S_1,\dots,S_m\in\langle A_1,\dots,A_m\rangle$
+$\implies S_1,\dots,S_m\in\langle A_1,\dots,A_m\rangle$      (A è la matrice)
+e $A_1,\dots,A_m\in\langle S_1,\dots,S_m\rangle$
+$\implies$ A e S hanno lo stesso spazio delle righe
+$\implies rgA=dim\langle A_1,\dots,A_m\rangle$
+
+$rg(A^T)=dim\langle A^1,$ 
