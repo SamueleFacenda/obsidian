@@ -49,4 +49,5 @@ $Ax=0\Rightarrow x_1A^1,\dots,x_nA^n=0$  le soluzioni sono una combinazione line
 Le relazioni di dipendenza lineare tra le colonne di A sono le stesse di quelle delle colonne di S.
 Oss. Le colonne di S contenenti i pivot sono linearmente indipendenti e formano una base di $\langle S^1,\dots,S^n\rangle\in\Bbb R^m$
 
+V spazio vettoriale. V si dice finitamente generato se V ha un insieme di generatori.
 
