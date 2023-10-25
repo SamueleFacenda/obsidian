@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unitn/analisi_1/11 Taylor &co.md",
+                "file": "unitn/analisi_1/14 Funzioni iperboliche.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unitn/analisi_1/11 Taylor &co.md",
+                "file": "unitn/analisi_1/14 Funzioni iperboliche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unitn/analisi_1/11 Taylor &co.md",
+                "file": "unitn/analisi_1/14 Funzioni iperboliche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unitn/analisi_1/11 Taylor &co.md"
+                "file": "unitn/analisi_1/14 Funzioni iperboliche.md"
               }
             }
           },
@@ -174,11 +174,12 @@
   },
   "active": "1d9c4d04f4cad641",
   "lastOpenFiles": [
+    "unitn/analisi_1/11 Taylor &co.md",
+    "unitn/analisi_1/14 Funzioni iperboliche.md",
     "unitn/analisi_1/13 Derivate di ordine superiore.md",
     "unitn/geometria_e_algebra_lineare/08 Sottospazi vettoriali.md",
     "unitn/geometria_e_algebra_lineare/07 Calcolo di inversi.md",
     "unitn/analisi_1/01 Polinomi.md",
-    "unitn/analisi_1/11 Taylor &co.md",
     "unitn/analisi_1/09 Limiti di funzioni.md",
     "unitn/analisi_1/07 Successioni.md",
     "unitn/analisi_1/12 Derivazione.md",
@@ -202,7 +203,6 @@
     "scuola/italiano/Realismo.md",
     "scuola/storia/Il Dopoguerra.md",
     "scuola/italiano/Decadentismo.md",
-    "scuola/sistemi/Coso di gruppo.md",
     "altro/scout/Untitled",
     "altro/scout",
     "altro"
