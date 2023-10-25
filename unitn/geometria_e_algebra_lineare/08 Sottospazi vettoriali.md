@@ -58,4 +58,6 @@ $v=(x_1,\dots,x_n)_B$
 
 #### Basi di $\Bbb R^n$
 Proposizione 1: Siano $v_1,\dots,v_m\in\Bbb R^n$ con m>n. Allora $v_1,\dots,v_m$ sono LD.
+Proposizione 2: n vettori $v_1,\dots,v_n$ di $\Bbb R^n$, LI, formano una base di $\Bbb R^n$
+
 
