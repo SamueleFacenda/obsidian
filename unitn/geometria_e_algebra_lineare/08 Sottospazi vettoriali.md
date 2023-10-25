@@ -34,4 +34,6 @@ Es. più o meno. Se ho n vettori in V, per capire se sono LI, faccio la loro com
 Teorema: Un insieme $B=\{v_1,...,v_n\}$ è una base di V $\iff$ B è un insieme generatore, linearmente indipendente. 
 
 
-In una matrice le prime r
+In una matrice a scalini le prime r(rango) righe sono LI. Quindi l'insieme $\{S_1,\dots,S_r\}$ è base dello spazio delle righe di $S_i: \langle S_1,\dots,S_m\rangle\subseteq\Bbb R^n$
+Il rango è quindi la dimensione del sottospazio generato dalle righe fino ad r.
+$\implies S_1,\dots,S_m\in\langle A_1,\dots,A_m\rangle$
