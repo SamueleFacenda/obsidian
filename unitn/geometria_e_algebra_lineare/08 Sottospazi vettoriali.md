@@ -46,5 +46,7 @@ Teorema: $rg A=rg(A^T)$
 Quindi $rg A=dim\langle A^1,\dots,A^n\rangle$
 
 $Ax=0\Rightarrow x_1A^1,\dots,x_nA^n=0$  le soluzioni sono una combinazione lineare delle x con le colonne
-Le relazioni di dipendenza lineare delle colonne di A sono le stesse di quelle delle colonne di S
+Le relazioni di dipendenza lineare tra le colonne di A sono le stesse di quelle delle colonne di S.
+Oss. Le colonne di S contenenti i pivot sono linearmente indipendenti e formano una base di $\langle S^1,\dots,S^n\rangle\in\Bbb R^m$
+
 
