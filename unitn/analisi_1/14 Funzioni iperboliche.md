@@ -7,3 +7,6 @@ $\sinh x=\frac{e^x-e^{-x}}2$
 
 ### Proprietà
 $e^x=\cosh x + \sinh x$
+$\cosh^2 x=\frac14(e^{2x}+e^{-2x}+2)$
+$\sinh^2x=\frac14(e^{2x}+e^{-2x}-2)$
+$\cosh^2x-\sinh^2x=1 \;\forall x\in\Bbb R$
