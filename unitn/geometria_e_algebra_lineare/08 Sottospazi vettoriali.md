@@ -51,3 +51,7 @@ Oss. Le colonne di S contenenti i pivot sono linearmente indipendenti e formano 
 
 V spazio vettoriale. V si dice finitamente generato se V ha un insieme di generatori.
 
+### Basi
+V con base $B=\{v_1,\dots,v_n\}\quad v\in V,\quad v=\sum_{i=1}^nx_iv_i$
+$(X_1,\dots,x_n)=T_B(v)$ n-upla delle coordinate di v rispetto a 
+
