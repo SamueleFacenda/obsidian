@@ -41,4 +41,10 @@ e $A_1,\dots,A_m\in\langle S_1,\dots,S_m\rangle$
 $\implies$ A e S hanno lo stesso spazio delle righe
 $\implies rgA=dim\langle A_1,\dots,A_m\rangle$
 
-$rg(A^T)=dim\langle A^1,$ 
+$rg(A^T)=dim\langle A^1,\dots,A^n\rangle$   spazio delle colonne di A $\subseteq \Bbb R^m$
+Teorema: $rg A=rg(A^T)$
+Quindi $rg A=dim\langle A^1,\dots,A^n\rangle$
+
+$Ax=0\Rightarrow x_1A^1,\dots,x_nA^n=0$  le soluzioni sono una combinazione lineare delle x con le colonne
+Le relazioni di dipendenza lineare delle colonne di A sono le stesse di quelle delle colonne di S
+
