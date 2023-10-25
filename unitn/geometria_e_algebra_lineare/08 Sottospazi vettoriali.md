@@ -53,5 +53,7 @@ V spazio vettoriale. V si dice finitamente generato se V ha un insieme di genera
 
 ### Basi
 V con base $B=\{v_1,\dots,v_n\}\quad v\in V,\quad v=\sum_{i=1}^nx_iv_i$
-$(X_1,\dots,x_n)=T_B(v)$ n-upla delle coordinate di v rispetto a 
+$(X_1,\dots,x_n)=T_B(v)$ n-upla delle coordinate di v rispetto a B
+$v=(x_1,\dots,x_n)_B$
+
 
