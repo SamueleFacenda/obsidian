@@ -12,3 +12,5 @@ Allora esiste almeno un punto $c\in (a,b)$ tale che f(c)=0
 Oss.
 - la continuità è fondamentale
 - è fondamentale avere a che fare con numeri reali
+
+Questo è valido anche traslato verticalmente (e.g. esiste un $\lambda$ se f(a)<)
