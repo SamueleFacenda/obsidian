@@ -22,3 +22,8 @@ Supponiamo che $f'(x_0)>0$. Allora esiste $\delta>0$ tale che:
 - $f(x)>f(x_0)\qquad \forall x\in(x_0,x_0+\delta]$
 - $f(x)<f(x_0)\qquad \forall x\in[x_0-\delta,x_0)$
 E idem per <0
+
+## Punti stazionari
+Dove la derivata è 0
+Possibilità:
+- minimo locale/relativo ()
