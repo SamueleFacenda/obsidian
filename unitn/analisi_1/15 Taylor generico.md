@@ -13,4 +13,4 @@ Oss.
 - la continuità è fondamentale
 - è fondamentale avere a che fare con numeri reali
 
-Questo è valido anche traslato verticalmente (e.g. esiste un $\lambda$ se f(a)<)
+Questo è valido anche traslato verticalmente (e.g. esiste un $\lambda$ se f(a)<$\lambda$<f(b))
