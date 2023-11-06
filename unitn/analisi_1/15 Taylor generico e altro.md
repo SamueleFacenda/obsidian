@@ -30,4 +30,4 @@ Possibilità:
 - massimo locale/relativo (maggiore prima minore dopo)
 - flesso a tangente orizzontale ascendente (maggiore prima e dopo)
 - flesso a tangente orizzontale decrescente (minore prima e dopo)
-- 
+- segni non definiti
