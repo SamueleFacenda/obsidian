@@ -13,4 +13,7 @@ Oss.
 - la continuità è fondamentale
 - è fondamentale avere a che fare con numeri reali
 
-Questo è valido anche traslato verticalmente (e.g. esiste un $\lambda$ se f(a)<$\lambda$<f(b))
+Questo è valido anche traslato verticalmente (e.g. esiste un $\lambda$ se f(a)<$\lambda$<f(b)) 
+
+## Studio locale di funzioni
+Capire come è fatto il grafico di una funzione nelle vicinanze di un dato punto $x_0$
