@@ -26,4 +26,8 @@ E idem per <0
 ## Punti stazionari
 Dove la derivata è 0
 Possibilità:
-- minimo locale/relativo ()
+- minimo locale/relativo (minore prima maggiore dopo)
+- massimo locale/relativo (maggiore prima minore dopo)
+- flesso a tangente orizzontale ascendente (maggiore prima e dopo)
+- flesso a tangente orizzontale decrescente (minore prima e dopo)
+- 
