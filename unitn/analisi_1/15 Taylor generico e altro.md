@@ -31,3 +31,5 @@ Possibilità:
 - flesso a tangente orizzontale ascendente (maggiore prima e dopo)
 - flesso a tangente orizzontale decrescente (minore prima e dopo)
 - segni non definiti
+
+Per capire la configurazione uso il criterio delle derivate successive
