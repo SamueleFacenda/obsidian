@@ -43,3 +43,7 @@ Così capisco che analizzando il segno della derivata k-esima e nei casi $h\in(0
 Nelle immediate vicinanze di un punto stazionario la funzione f si comporta come il primo termine non nullo e costante del suo sviluppo di Taylor.
 without sacrificing its appearance.
 
+
+
+## Teorema di Weierstrass
+Sia $f:[a,b]\to\Bbb R$ continua
