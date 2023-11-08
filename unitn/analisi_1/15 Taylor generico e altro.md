@@ -35,4 +35,5 @@ Possibilità:
 Per capire la configurazione uso il criterio delle derivate successive
 Prendo la derivata k-esima (quella che in $x_0$ non è più zero), analizzo il suo valore in $x_0$ per capire la situazione in cui mi trovo (k pari: val >0 minimo, val <0 massimo. k dispari: val>0 flesso ascendente, val<0 flesso discendente)
 
-Con Taylor trovo che $$
+Con Taylor trovo che $$\frac{f^{(k)}(x_0)}{k!}=\frac{f(x_0+h)-f(x_0)}{h^k}$$
+Visto che sto studiando il segno il k! non mi importa più di tanto 
