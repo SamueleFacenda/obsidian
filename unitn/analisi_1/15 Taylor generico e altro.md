@@ -54,4 +54,3 @@ Allora $max\{f(x):x\in[a,b]\}$ e $min\{f(x):x\in[a,b]\}$ esistono sempre
 - punti stazionari interni
 - punti singolari interni
 - punti del bordo
-- 
