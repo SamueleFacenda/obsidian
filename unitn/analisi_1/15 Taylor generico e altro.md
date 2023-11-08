@@ -47,3 +47,4 @@ without sacrificing its appearance.
 
 ## Teorema di Weierstrass
 Sia $f:[a,b]\to\Bbb R$ continua
+Allora $max\{f(x):x\in[a,b]\}$ e $min\{f(x):x\in[a,b]\}$ esistono sempre
