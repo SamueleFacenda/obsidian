@@ -57,3 +57,9 @@ Allora $max\{f(x):x\in[a,b]\}$ e $min\{f(x):x\in[a,b]\}$ esistono sempre
 f continua e derivabile in un intervallo chiuso e limitato (\[a,b\])
 f(a)=f(b)
 Esiste almeno in valore $c\in(a,b)$ per cui f'(c)=0
+
+## Teorema di Cauchy
+Siano $f:[a,b]\to\Bbb R,\; g:[a,b]\to\Bbb R$, continue e derivabili in (a,b)
+Allora esiste almeno un punto $c\in(a,b)$ tale che $(f(b)-f(a))g'(c)=(g(b)-g(a))f'(c)$
+Inoltre se $g'(x)\ne0\quad \forall x\in(a,b)$
+ho $\frac{f(b)-f(a)}{g(b)-g(a)}=\frac{f'(c)}{g'()}
