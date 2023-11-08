@@ -63,3 +63,7 @@ Siano $f:[a,b]\to\Bbb R,\; g:[a,b]\to\Bbb R$, continue e derivabili in (a,b)
 Allora esiste almeno un punto $c\in(a,b)$ tale che $(f(b)-f(a))g'(c)=(g(b)-g(a))f'(c)$
 Inoltre se $g'(x)\ne0\quad \forall x\in(a,b)$
 ho $\frac{f(b)-f(a)}{g(b)-g(a)}=\frac{f'(c)}{g'(c)}$
+
+## Teorema di Lagrage
+Sempre la funzione definita, continua e derivabile in a,b
+Allora esiste almeno un punto $c\in(a,b)$ tale che $f(b)-f(a)=(b-a)f'(c)$
