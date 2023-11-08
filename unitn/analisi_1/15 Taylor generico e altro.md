@@ -37,5 +37,7 @@ Prendo la derivata k-esima (quella che in $x_0$ non è più zero), analizzo il s
 
 Con Taylor trovo che $$\frac{f^{(k)}(x_0)}{k!}=\frac{f(x_0+h)-f(x_0)}{h^k}\qquad h\to0$$
 Visto che sto studiando il segno il k! non mi importa più di tanto 
-Così capisco che analizzando il segno della derivata k-esima e nei casi $h\in(0,\delta]$ e $h\in[-\delta,0)$ (h prima e dopo $x_0$) trovo che la f è maggiore/minore prima/dopo $x_0$.
+Così capisco che analizzando il segno della derivata k-esima e nei casi $h\in(0,\delta]$ e $h\in[-\delta,0)$ (h prima e dopo $x_0$) trovo che la il valore della funzione è maggiore/minore prima/dopo $x_0$.
 
+### Traduzione del criterio
+Nelle immediate vicinanze di un punto stazionario la funzione f si comporta come il primo termine non nullo e costante del suo sviluppo di Taylor.
