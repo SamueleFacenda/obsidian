@@ -43,8 +43,6 @@ Così capisco che analizzando il segno della derivata k-esima e nei casi $h\in(0
 Nelle immediate vicinanze di un punto stazionario la funzione f si comporta come il primo termine non nullo e costante del suo sviluppo di Taylor.
 without sacrificing its appearance.
 
-
-
 ## Teorema di Weierstrass
 Sia $f:[a,b]\to\Bbb R$ continua
 Allora $max\{f(x):x\in[a,b]\}$ e $min\{f(x):x\in[a,b]\}$ esistono sempre
@@ -54,3 +52,8 @@ Allora $max\{f(x):x\in[a,b]\}$ e $min\{f(x):x\in[a,b]\}$ esistono sempre
 - punti stazionari interni
 - punti singolari interni
 - punti del bordo
+
+## Teorema di Rolle
+f continua e derivabile in un intervallo chiuso e limitato (\[a,b\])
+f(a)=f(b)
+Esiste almeno in valore $c\in(a,b)$ per cui f'(c)=0
