@@ -31,4 +31,9 @@ Porto fuori i 2 dalle due ultime righe
 $$-4det\begin{bmatrix}1&0&2&1\\0&2&2&-1\\0&0&1&1\\0&1&7&3\end{bmatrix}
 =-4det\begin{bmatrix}2&2&-1\\0&1&1\\1&7&3\end{bmatrix}=+4det\begin{bmatrix}1&7&3\\0&1&1\\2&2&-1\end{bmatrix}
 =4det\begin{bmatrix}1&7&3\\0&1&1\\0&-12&-7\end{bmatrix}$$
+Se l'elemento in alto a sinistra è 1 e la colonna è zero a parte lui, posso fare il determinante del suo complemento algebrico e baste.
 $$=4det\begin{bmatrix}1&1\\0&5\end{bmatrix}=4\cdot 5=20$$
+
+## Teorema di Binet
+
+$$det(AB)=(detA)(detB)$$
