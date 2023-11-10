@@ -15,4 +15,6 @@ Il determinante di una matrice a scalini è il prodotto degli elementi sulla dia
 - se A ha due righe uguali $\implies detA = 0$
 - se A ha una riga nulla $\implies detA=0$
 - se A è una matrice $n\times n\;e\;k\in\Bbb K,\; det(Ak)=k^ndetA$
-- 
+
+inoltre $det (EA)=(det E)(det A) \;\forall \text{ matrice elementare }E$
+$\implies det(E_k,\dots,E_1A)=(detE_k)\dots()
