@@ -17,4 +17,8 @@ Il determinante di una matrice a scalini è il prodotto degli elementi sulla dia
 - se A è una matrice $n\times n\;e\;k\in\Bbb K,\; det(Ak)=k^ndetA$
 
 inoltre $det (EA)=(det E)(det A) \;\forall \text{ matrice elementare }E$
-$\implies det(E_k,\dots,E_1A)=(detE_k)\dots()
+$\implies det(E_k,\dots,E_1A)=(detE_k)\dots(detE_1)(det A)$
+Se $S=E_k\dots E_1A$
+$\implies det S=(det E_1)\dots(detE_k)(detA)$
+
+- $det A\ne0 \iff rgA=n$
