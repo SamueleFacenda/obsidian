@@ -12,4 +12,7 @@ Il determinante di una matrice a scalini è il prodotto degli elementi sulla dia
 - se B è ottenuta da A scambiando due righe $\implies det B = -det A$
 - se B è ottenuta da A moltiplicando una riga di A per $c\in\Bbb K$ allora $det A = c\times det A$
 - Se B è ottenuta da A sommando a una riga di A un'altra riga moltiplicata per c, allora $det B = det A$
-- se A ha due righe uguali
+- se A ha due righe uguali $\implies detA = 0$
+- se A ha una riga nulla $\implies detA=0$
+- se A è una matrice $n\times n\;e\;k\in\Bbb K,\; det(Ak)=k^ndetA$
+- 
