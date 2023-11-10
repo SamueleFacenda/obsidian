@@ -26,5 +26,9 @@ $\implies det S=(det E_1)\dots(detE_k)(detA)$
 Es.
 $$det\begin{bmatrix}-3&1&1&0\\-1&2&0&-2\\0&0&2&2\\2&0&4&2\end{bmatrix}=
 2\cdot 2\cdot det\begin{bmatrix}-3&1&1&0\\-1&2&0&-2\\0&0&1&1\\1&0&2&1\end{bmatrix}
-=-4det\begin{bmatrix}-3&1&1&0\\-1&2&0&-2\\0&0&1&1\\1&0&2&1\end{bmatrix}$$
+=-4det\begin{bmatrix}1&0&2&1\\-1&2&0&-2\\0&0&1&1\\-3&1&1&0\end{bmatrix}=$$
 Porto fuori i 2 dalle due ultime righe
+$$-4det\begin{bmatrix}1&0&2&1\\0&2&2&-1\\0&0&1&1\\0&1&7&3\end{bmatrix}
+=-4det\begin{bmatrix}2&2&-1\\0&1&1\\1&7&3\end{bmatrix}=+4det\begin{bmatrix}1&7&3\\0&1&1\\2&2&-1\end{bmatrix}
+=4det\begin{bmatrix}1&7&3\\0&1&1\\0&-12&-7\end{bmatrix}$$
+$$=4det\begin{bmatrix}1&1\\0&5\end{bmatrix}=4\cdot 5=20$$
