@@ -22,3 +22,9 @@ Se $S=E_k\dots E_1A$
 $\implies det S=(det E_1)\dots(detE_k)(detA)$
 
 - $det A\ne0 \iff rgA=n$
+
+Es.
+$$det\begin{bmatrix}-3&1&1&0\\-1&2&0&-2\\0&0&2&2\\2&0&4&2\end{bmatrix}=
+2\cdot 2\cdot det\begin{bmatrix}-3&1&1&0\\-1&2&0&-2\\0&0&1&1\\1&0&2&1\end{bmatrix}
+=-4det\begin{bmatrix}-3&1&1&0\\-1&2&0&-2\\0&0&1&1\\1&0&2&1\end{bmatrix}$$
+Porto fuori i 2 dalle due ultime righe
