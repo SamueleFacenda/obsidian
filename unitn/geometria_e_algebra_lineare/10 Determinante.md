@@ -37,3 +37,9 @@ $$=4det\begin{bmatrix}1&1\\0&5\end{bmatrix}=4\cdot 5=20$$
 ## Teorema di Binet
 
 $$det(AB)=(detA)(detB)$$
+corollario: $det(A^{-1})=\frac1{det A}$
+
+Teorema: $det(A^T)=det A$
+Posso usare righe al posto di colonne e viceversa, valgono quindi tutte le proprietà precedenti anche per le colonne
+
+Teorema (sviluppi di Laplace)
