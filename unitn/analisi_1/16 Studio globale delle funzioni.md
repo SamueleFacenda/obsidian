@@ -5,3 +5,4 @@
 	- punti di max/min
 	- convessità
 	- liepziganità?
+4. derivata e monotonia
