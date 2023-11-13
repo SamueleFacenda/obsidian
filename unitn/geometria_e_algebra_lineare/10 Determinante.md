@@ -43,3 +43,4 @@ Teorema: $det(A^T)=det A$
 Posso usare righe al posto di colonne e viceversa, valgono quindi tutte le proprietà precedenti anche per le colonne
 
 Teorema (sviluppi di Laplace)
+$$det A=\sum_{i=1}^n a_{ij}a_{ij}'=\sum_{j=1}^n a_{ji}a_{ji}'$$ con prima j e poi i fissato
