@@ -69,4 +69,9 @@ Sempre la funzione definita, continua e derivabile in a,b
 Allora esiste almeno un punto $c\in(a,b)$ tale che $f(b)-f(a)=(b-a)f'(c)$
 
 ## Teorema monotonia 2
-Se f è continua e derivabile in a-b. Se f è debolmente crescente f'(x)>=0 e viceversa, strettamente se f'(x)>0 (non viceversa). Idem per la decrescenza.
+Se f è continua e derivabile in a-b. Se f è debolmente crescente f'(x)>=0 e viceversa, strettamente se f'(x)>0 (non viceversa, vedi [[#Teorema di monotonia 3]]). Idem per la decrescenza.
+
+## Teorema di monotonia 3
+$f'(x)\ge 0\;\forall\, x\in (a,b)$
+Inoltre f'(x) si annulli solo sporadicamente, ossia solo in punti isolati tra loro.
+Allora f è strettamente crescente
