@@ -17,7 +17,7 @@ Questo è valido anche traslato verticalmente (e.g. esiste un $\lambda$ se f(a)<
 
 ## Studio locale di funzioni
 Capire come è fatto il grafico di una funzione nelle vicinanze di un dato punto $x_0$
-#### Teorema monodromia 1
+#### Teorema monotonia 1
 Supponiamo che $f'(x_0)>0$. Allora esiste $\delta>0$ tale che:
 - $f(x)>f(x_0)\qquad \forall x\in(x_0,x_0+\delta]$
 - $f(x)<f(x_0)\qquad \forall x\in[x_0-\delta,x_0)$
@@ -67,3 +67,6 @@ ho $\frac{f(b)-f(a)}{g(b)-g(a)}=\frac{f'(c)}{g'(c)}$
 ## Teorema di Lagrage
 Sempre la funzione definita, continua e derivabile in a,b
 Allora esiste almeno un punto $c\in(a,b)$ tale che $f(b)-f(a)=(b-a)f'(c)$
+
+## Teorema monotonia 2
+Se f è continua e derivabile in a-b. Se f è debolmente crescente/decrescente f'(x)>0/<0 e viceversa. 
