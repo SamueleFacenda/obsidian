@@ -44,3 +44,7 @@ Posso usare righe al posto di colonne e viceversa, valgono quindi tutte le propr
 
 Teorema (sviluppi di Laplace)
 $$det A=\sum_{i=1}^n a_{ij}a_{ij}'=\sum_{j=1}^n a_{ji}a_{ji}'$$ con prima j e poi i fissato
+
+### Regola di Cramer
+Ax=b con A mxn invertibile
+Sia $a_
