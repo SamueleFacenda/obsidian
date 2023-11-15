@@ -20,4 +20,6 @@ supponendo che f''(x) esista per ogni $x\in I$, allora si ha che:
 - f è convessa in I $\implies\quad f''(x)\ge 0\,\forall x\in I$
 - $f''(x)>0\quad\forall x\in I\implies$ f è strettamente convessa in I
 - $f''(x)\ge 0\quad\forall x\in I\implies$ f è convessa in I
-  
+
+### Asintoti
+Un
