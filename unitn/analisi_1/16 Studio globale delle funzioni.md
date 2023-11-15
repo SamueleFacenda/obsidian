@@ -36,3 +36,6 @@ Non esistono sempre ma possono essere infiniti.
 ##### Obliqui
 una retta y=mx+n è asintoto obliquo di f per $+\infty$ se il limite per $+\infty$ di f(x)-mx-n=0, idem per $-\infty$
 m è uguale al limite di f(x)/x, n è uguale al limite di f(x)-mx.
+
+## + Weierstrass
+Se f da R in R continua, se i limiti a più e meno infiniti sono più infinito, esiste per forza un minimo (e idem all'opposto).
