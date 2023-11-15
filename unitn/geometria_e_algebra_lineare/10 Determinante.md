@@ -47,4 +47,4 @@ $$det A=\sum_{i=1}^n a_{ij}a_{ij}'=\sum_{j=1}^n a_{ji}a_{ji}'$$ con prima j e po
 
 ### Regola di Cramer
 Ax=b con A mxn invertibile
-Sia $a_
+Sia $A_j(b)$ ottenuta da A sostituendo b alla j-esima riga colonna
