@@ -33,3 +33,6 @@ Una retta x=a è asintoto verticale per f se succede almeno una di queste 4 poss
 4. il limite per $a^-$ è $-\infty$
 Non esistono sempre ma possono essere infiniti.
 
+##### Obliqui
+una retta y=mx+n è asintoto obliquo di f per $+\infty$ se il limite per $+\infty$ di f(x)-mx-n=0, idem per $-\infty$
+m è uguale al limite di f(x)/x, n è uguale al limite di f(x)-mx.
