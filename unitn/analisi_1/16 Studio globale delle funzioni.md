@@ -22,4 +22,14 @@ supponendo che f''(x) esista per ogni $x\in I$, allora si ha che:
 - $f''(x)\ge 0\quad\forall x\in I\implies$ f è convessa in I
 
 ### Asintoti
-Un
+##### Orizzontali
+Una retta y=a si dice asintoto orizzontale di una funzione f se è è il suo limite a $+\infty$, idem per $-\infty$. Non sempre esistono e sono al massimo 2.
+
+##### Verticali
+Una retta x=a è asintoto verticale per f se succede almeno una di queste 4 possibilità:
+1. il limite per $a^+$ è $+\infty$
+2. il limite per $a^-$ è $+\infty$
+3. il limite per $a^+$ è $-\infty$
+4. il limite per $a^-$ è $-\infty$
+Non esistono sempre ma possono essere infiniti.
+
