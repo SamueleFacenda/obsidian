@@ -78,4 +78,4 @@ Allora f è strettamente crescente
 
 ## Resto di Lagrange
 Sempre f da \[a,b\] in R, ha la derivata n-esima, è continua, e  esiste la derivata n+1-esima per ogni x in (a,b).
-$$resto: \frac{f^{(n+1)}(\xi)}{(n+1)!}(\beta-\alpha)^{n+1}$$
+$$resto: \frac{f^{(n+1)}(\xi)}{(n+1)!}(\beta-\alpha)^{n+1} \qquad\xi\in(\alpha$$
