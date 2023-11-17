@@ -9,7 +9,8 @@ Inoltre, se la matrice è invertibile, la funzione sarà invertibile.
 
 Perché chiamiamo le funzioni (e non solo) lineare. In inglese line è retta. Una funzione da $\Bbb R^2$ a $\Bbb R^2$, se la applichiamo a una retta, rimarrà una retta. Idem nello spazio.
 
-## Funzioni bilineari
+## Funzioni lineari
 $V,V'$ spazi vettoriali su $\Bbb K$
 Una funzione $T:V\to V'$ è detta lineare con la stessa definizione di sopra.
-V' è il codominio di T, che è diverso dall'immagine di T(Im(T)), che è l'insieme 
+V' è il codominio di T, che è diverso dall'immagine di T(Im(T)), che è l'insieme degli elementi realmente presenti nei risultati della funzione da V.
+
