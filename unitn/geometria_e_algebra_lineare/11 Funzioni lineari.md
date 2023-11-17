@@ -14,3 +14,7 @@ $V,V'$ spazi vettoriali su $\Bbb K$
 Una funzione $T:V\to V'$ è detta lineare con la stessa definizione di sopra.
 V' è il codominio di T, che è diverso dall'immagine di T(Im(T)), che è l'insieme degli elementi realmente presenti nei risultati della funzione da V.
 
+Def.
+Sempre T da V a V' lineare.
+Il nucleo di T è N(T) (oppure kerT, kernel di T):
+$N(T)=\{v\in V|T(v)=0\}$
