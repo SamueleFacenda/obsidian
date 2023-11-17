@@ -75,3 +75,7 @@ Se f è continua e derivabile in a-b. Se f è debolmente crescente f'(x)>=0 e vi
 $f'(x)\ge 0\;\forall\, x\in (a,b)$
 Inoltre f'(x) si annulli solo sporadicamente, ossia solo in punti isolati tra loro.
 Allora f è strettamente crescente
+
+## Resto di Lagrange
+Sempre f da \[a,b\] in R, ha la derivata n-esima, è continua, e  esiste la derivata n+1-esima per ogni x in (a,b).
+$$\frac{f^{(n+1)}(\xi)}{(n+1)!}(\beta-\alpha)^{n+1}$$
