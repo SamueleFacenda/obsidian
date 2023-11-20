@@ -21,4 +21,4 @@ Faccio le due sommatorie di Rieman, divido in sottointervalli e sommo le arree d
 
 Teorema: l'integrale superiore è sempre maggiore o uguale di quello inferiore.
 
-Def: si dice che f è integrabile secondo Riem
+Def: si dice che f è integrabile secondo Rieman nell'intervallo \[a,b\] se l'integrale superiore coincide con quello inferiore. Se questo accade, allora definisco l'integrale in \[a,b\] come l'integrale superiore.
