@@ -6,5 +6,11 @@ integrali:
 
 ## Notazione
 1. zona di integrazione: intervallo $[a,b]\in\Bbb R$, quindi un insieme limitato
-2. funzione integrazione: $f:[a,b]\to\Bbb R$ limitata, ossia esiste $M\in\Bbb R$ t.c. $|f(x)|\le M \forall x \in [a,b]$
-3. $
+2. funzione integrale: $f:[a,b]\to\Bbb R$ limitata, ossia esiste $M\in\Bbb R$ t.c. $|f(x)|\le M \forall x \in [a,b]$
+$$\int_a^bf(x)\,dx$$
+
+Notazione estesa: per definizione si pone
+$\int_a^af(x)\,dx=0$
+$\int_b^af(x)\,dx=-\int_a^bf(x)\,dx$
+
+
