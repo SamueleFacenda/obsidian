@@ -42,4 +42,10 @@ $\int_a^bf(x)\,dx=\int_a^cf(x)\,dx+\int_c^bf(x)\,dx$
 oss: vale la stessa formula anche con c all'esterno dell'intervallo \[a,b\]
 
 ### Criterio di integrabilità
-Una funzione $f:[a,b]\to\Bbb R$ è integrabile secondo Rieman in \[a,b\] se e solo se $\forall\epsilon >0$ esistono due funzioni semplici $\varphi$ e $\psi$ 
+Una funzione $f:[a,b]\to\Bbb R$ è integrabile secondo Rieman in \[a,b\] se e solo se $\forall\epsilon >0$ esistono due funzioni semplici $\varphi$ e $\psi$ in \[a,b\] tali che:
+1. $\varphi(x)\le f(x)\le \psi(x)\qquad \forall x\in[a,b]$
+2. $\int_a^b\psi(x)-\varphi(x)\le\epsilon$
+
+Inoltre posso supporre $\varphi$ e $\psi$ abbiano le stesse suddivisioni di \[a,b\]
+
+   
