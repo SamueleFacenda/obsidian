@@ -35,4 +35,8 @@ Teorema: sia ha che la funzione è integrabile nei seguenti casi:
 ### Proprietà degli integrali
 
 $\int_a^bf(x)+g(x)\,dx=\int_a^bf(x)\,dx+\int_a^bg(x)\,dx$
-$\int_a^b\lambda f(x)\,dx=\lambda\in_a^bf
+$\int_a^b\lambda f(x)\,dx=\lambda\int_a^bf(x)\, dx$
+(applicazione lineare)
+
+$\int_a^bf(x)\,dx=\int_a^cf(x)\,dx+\int_c^bf(x)\,dx$
+oss: vale la stessa formula anche con c all'esterno dell'intervallo \[a,b\]
