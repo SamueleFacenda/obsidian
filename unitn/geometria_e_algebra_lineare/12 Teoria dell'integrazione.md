@@ -53,3 +53,6 @@ oss: non è unica
 ### Tecnica di calcolo degli integrali
 Sia F una qualunque primitiva di f in \[a,b\]. Allora per ogni intervallo $[c,d]\subseteq[a,b]$ si ha che 
 $$\int_c^df(x)\,dx=F(d)-F(c)=[F(x)]_c^d$$
+### Teorema fondamentale del calcolo integrale
+La funzione integrale è una primitiva di f in \[a,b\] ossia
+$$\Phi'(x)=f(x)\qquad \forall\, x\in[a,b]$$
