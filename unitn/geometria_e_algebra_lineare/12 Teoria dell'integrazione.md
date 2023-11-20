@@ -30,3 +30,9 @@ Teorema: sia ha che la funzione è integrabile nei seguenti casi:
 2. se la funzione è continua
 3. se la funzione è continua a tratti, ossia continua ovunque tranne un insieme finito di punti
 
+## Calcoli
+
+### Proprietà degli integrali
+
+$\int_a^bf(x)+g(x)\,dx=\int_a^bf(x)\,dx+\int_a^bg(x)\,dx$
+$\int_a^b\lambda f(x)\,dx=\lambda\in_a^bf
