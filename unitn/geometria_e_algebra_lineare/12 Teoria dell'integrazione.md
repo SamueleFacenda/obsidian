@@ -47,4 +47,9 @@ Inoltre posso supporre $\varphi$ e $\psi$ abbiano le stesse suddivisioni di \[a,
 
 ## Calcoli
 Def: sia $f:[a,b]\to\Bbb R$ continua
-Si dice che $F:[a,b]\to\Bbb R$ è una primitiva di f se $F'(x)=f(x)\forall
+Si dice che $F:[a,b]\to\Bbb R$ è una primitiva di f se $F'(x)=f(x)\forall x\in[a,b]$
+oss: non è unica
+
+### Tecnica di calcolo degli integrali
+Sia F una qualunque primitiva di f in \[a,b\]. Allora per ogni intervallo $[c,d]\subseteq[a,b]$ si ha che 
+$$\int_c^df(x)\,dx=F(d)-F(c)=[F(x)]_c^d$$
