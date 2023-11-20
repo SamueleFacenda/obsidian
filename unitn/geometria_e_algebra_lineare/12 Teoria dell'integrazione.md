@@ -29,9 +29,6 @@ Teorema: sia ha che la funzione è integrabile nei seguenti casi:
 1. se la funzione è monotona
 2. se la funzione è continua
 3. se la funzione è continua a tratti, ossia continua ovunque tranne un insieme finito di punti
-
-## Calcoli
-
 ### Proprietà degli integrali
 
 $\int_a^bf(x)+g(x)\,dx=\int_a^bf(x)\,dx+\int_a^bg(x)\,dx$
@@ -48,4 +45,6 @@ Una funzione $f:[a,b]\to\Bbb R$ è integrabile secondo Rieman in \[a,b\] se e so
 
 Inoltre posso supporre $\varphi$ e $\psi$ abbiano le stesse suddivisioni di \[a,b\]
 
-   
+## Calcoli
+Def: sia $f:[a,b]\to\Bbb R$ continua
+Si dice che $F:[a,b]\to\Bbb R$ è una primitiva di f se $F'(x)=f(x)\forall
