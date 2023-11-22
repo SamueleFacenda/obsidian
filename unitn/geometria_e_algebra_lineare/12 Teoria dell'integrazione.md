@@ -56,3 +56,11 @@ $$\int_c^df(x)\,dx=F(d)-F(c)=[F(x)]_c^d$$
 ### Teorema fondamentale del calcolo integrale
 La funzione integrale è una primitiva di f in \[a,b\] ossia
 $$\Phi'(x)=f(x)\qquad \forall\, x\in[a,b]$$
+
+## Come si calcolano
+tecniche:
+- primitive elementari
+- integrazione per sostituzione
+- integrazione per parti
+- integrazione funzioni razionali
+- sostituzioni razionalizzate
