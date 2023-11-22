@@ -89,3 +89,4 @@ Considero la primitiva di H: $H'(x)=(F(G(x)))'=F'(G(x))\cdot G'(x)=f(G(x))g(x)$ 
 $$\int_a^bH'(x)\,dx=\int_a^bf(G(x))\cdot g(x)\,dx$$
 Ora
 $$[H(x)]_a^b=[F(G(x))]_a^b=F(G(b))-G(G(a))=[F(x)]_{G(a)}^{G(b)}$$
+$$\int_a^bf(G(x))\cdot g(x)\,dx=\int_{G(a)}^{G(b)}f(x)\,dx$$
