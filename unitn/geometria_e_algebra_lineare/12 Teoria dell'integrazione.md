@@ -64,3 +64,10 @@ tecniche:
 - integrazione per parti
 - integrazione funzioni razionali
 - sostituzioni razionalizzate
+
+### Primitive elementari
+$\int 1\,dx=x$
+$\int e^x\,dx=e^x$
+$\int \cos x\,dx=\sin x$
+$\int \sin x\,dx=-\cos x$
+$\int x^k\,dx
