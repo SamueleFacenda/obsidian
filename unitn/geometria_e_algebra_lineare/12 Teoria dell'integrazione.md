@@ -83,3 +83,9 @@ Non metto $c$ perché è inutile, per il calcolo esplicito non mi serve, per det
 ### Tecnica di integrazione per sostituzione
 o del cambiamento della variabile
 
+$$\int_a^bH'(x)\,dx=[H(x)]_a^b$$
+Usiamo questa formula ponendo $H(x)=F(G(x))$ in cui F(x) è primitiva di f(x) e G(x) è primitiva di g(x).
+Considero la primitiva di H: $H'(x)=(F(G(x)))'=F'(G(x))\cdot G'(x)=f(G(x))g(x)$ quindi
+$$\int_a^bH'(x)\,dx=\int_a^bf(G(x))\cdot g(x)\,dx$$
+Ora
+$$[H(x)]_a^b=[F(G(x))]_a^b=F(G(b))-G(G(a))=[F(x)]_{G(a)}^{G(b)}$$
