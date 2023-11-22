@@ -70,4 +70,9 @@ $\int 1\,dx=x$
 $\int e^x\,dx=e^x$
 $\int \cos x\,dx=\sin x$
 $\int \sin x\,dx=-\cos x$
-$\int x^k\,dx
+$\int x^k\,dx=\frac 1 {k+1}x^{k+1}$
+$\int \cosh x\,dx=\sinh x$
+$\int \sinh x\,dx=-\cosh x$
+$\int a^x\,dx=\frac1{\log a}a^x$
+$\int \frac1{1+x^2}\,dx=\arctan x$
+$\int \frac1x\,dx=\log x$   solo per x>0
