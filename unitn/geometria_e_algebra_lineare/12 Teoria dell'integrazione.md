@@ -80,3 +80,6 @@ $\int \frac1x\,dx=\log x$   solo per x>0
 
 Non metto $c$ perché è inutile, per il calcolo esplicito non mi serve, per determinare l'insieme delle primitive non è sempre sufficiente.
 
+### Tecnica di integrazione per sostituzione
+o del cambiamento della variabile
+
