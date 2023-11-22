@@ -76,3 +76,7 @@ $\int \sinh x\,dx=-\cosh x$
 $\int a^x\,dx=\frac1{\log a}a^x$
 $\int \frac1{1+x^2}\,dx=\arctan x$
 $\int \frac1x\,dx=\log x$   solo per x>0
+
+
+Non metto $c$ perché è inutile, per il calcolo esplicito non mi serve, per determinare l'insieme delle primitive non è sempre sufficiente.
+
