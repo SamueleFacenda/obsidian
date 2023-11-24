@@ -18,3 +18,5 @@ Def.
 Sempre T da V a V' lineare.
 Il nucleo di T è N(T) (oppure kerT, kernel di T):
 $N(T)=\{v\in V|T(v)=0\}$
+
+T è iniettiva $\iff$ T è suriettiva, e quindi invertibile.
