@@ -25,3 +25,5 @@ T è iniettiva $\iff$ T è suriettiva, e quindi invertibile.
 V,B B' basi, $B=\{v_1,\dots,v_n\},B'=\{v_1',\dots,v_n'\}$
 La matrice $P=[p_ij]$ le cui colonne sono date dalle coordinate dei vettori $v_j$ rispetto a $B'$ è detta matrice di transizione da B a B'.
 Quindi $v_j=\sum_{i=1}^np_{ij}v_j'\qquad\forall\,j=1,\dots,n$
+
+Le matrici di transizione sono una l'inversa dell'altra
