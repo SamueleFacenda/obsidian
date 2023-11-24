@@ -20,3 +20,7 @@ Il nucleo di T è N(T) (oppure kerT, kernel di T):
 $N(T)=\{v\in V|T(v)=0\}$
 
 T è iniettiva $\iff$ T è suriettiva, e quindi invertibile.
+
+### Cambiamenti di base
+V,B B' basi, $B={v_1,\dots,v_n}
+La matrice $P=[p_ij]$ le cui colonne sono date dalle coordinate dei vettori $v_j$ rispetto a $B'$ è detta matrice di transizione
