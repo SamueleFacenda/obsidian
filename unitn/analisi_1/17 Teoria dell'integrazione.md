@@ -103,4 +103,4 @@ Procedure per determinare le primitive di una funzione razionale:
 - integrazione finale
 
 ### 1. Divisione
-Il grado del polinomio al numeratore deve essere maggiore o uguale di quello al denominatore, quindi posso dividire.
+Il grado del polinomio al numeratore deve essere maggiore o uguale di quello al denominatore, quindi posso dividere.
