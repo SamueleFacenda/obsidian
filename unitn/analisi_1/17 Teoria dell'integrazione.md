@@ -94,3 +94,13 @@ $$\int_a^bf(G(x))\cdot g(x)\,dx=\int_{G(a)}^{G(b)}f(x)\,dx$$
 ### Tecnica dell'integrazione per parti
 
 $$\int_a^b F(x)g(x)\, dx=[F(x)G(x)]_a^b-\int_a^b f(x)G(x)\, dx$$
+## Integrazione di funzioni razionali
+Funzione razionale $=\frac{polinomio}{polinomio}=\frac{P(x)}{Q(x)}$
+Procedure per determinare le primitive di una funzione razionale:
+- divisione
+- fattorizzazione
+- sistema lineare algebrico
+- integrazione finale
+
+### 1. Divisione
+Il grado del polinomio al numeratore deve essere maggiore o uguale di quello al denominatore, quindi posso dividire.
