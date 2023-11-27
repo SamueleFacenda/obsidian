@@ -109,4 +109,6 @@ Il grado del polinomio al numeratore deve essere maggiore o uguale di quello al 
 Scompongo il denominatore in fattori elementari
 
 ### 3. Sistema lineare
-caso semplice
+
+Scrivo la frazione come somma di polinomi con al numeratore un fattore del numeratore. Per trovare i denominatori pongo come incognite i numeratori e risolvo il sistema.
+metodo dell'A e B
