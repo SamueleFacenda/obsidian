@@ -104,3 +104,6 @@ Procedure per determinare le primitive di una funzione razionale:
 
 ### 1. Divisione
 Il grado del polinomio al numeratore deve essere maggiore o uguale di quello al denominatore, quindi posso dividere.
+
+### 2. Fattorizzazione
+Scompongo il denominatore in fattori elementari
