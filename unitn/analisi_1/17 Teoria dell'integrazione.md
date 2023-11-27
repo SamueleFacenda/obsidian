@@ -122,4 +122,5 @@ faccio la somma con incognite senza molteplicità e aggiungo un termine con al n
 Se ho $\int\frac{Ax+b}{x^2+C}\,dx$ faccio $A\int\frac x{x^+C}\,dx+B\int\frac1{x^2+C}\,dx$
 $=\frac A2\log(x^2+C)+\frac B{\sqrt C}\arctan({\frac x{\sqrt C}})$
 Uso l'arcotangente per ricondurmi sotto a $f(x)^2+1$, se sopra ho una costante
-Qualunque Ax+B può diventare sopra la derivata di quello sotto, tipo f'(x)+C, divido in due integrali, il primo con il logaritmo e il secod
+Qualunque Ax+B può diventare sopra la derivata di quello sotto, tipo f'(x)+C, divido in due integrali, il primo con il logaritmo e il secondo con l'arcotangente.
+
