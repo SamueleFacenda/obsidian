@@ -102,13 +102,14 @@ Procedure per determinare le primitive di una funzione razionale:
 - sistema lineare algebrico
 - integrazione finale
 
-### 1. Divisione
+#### 1. Divisione
 Il grado del polinomio al numeratore deve essere maggiore o uguale di quello al denominatore, quindi posso dividere.
 
-### 2. Fattorizzazione
+#### 2. Fattorizzazione
 Scompongo il denominatore in fattori elementari
 
-### 3. Sistema lineare
-
+#### 3. Sistema lineare
 Scrivo la frazione come somma di polinomi con al numeratore un fattore del numeratore. Per trovare i denominatori pongo come incognite i numeratori e risolvo il sistema.
-metodo dell'A e B
+metodo dell'A e B ,cioè.
+Se il denominatore ha grado >1: $\frac{Ax+B}{x^2+1}$, uso più incognite
+
