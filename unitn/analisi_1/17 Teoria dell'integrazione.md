@@ -114,3 +114,7 @@ Se il denominatore ha grado >1: $\frac{Ax+B}{x^2+1}$, uso più incognite (un num
 
 Se ho la molteplicità:
 faccio la somma con incognite senza molteplicità e aggiungo un termine con al numeratore il prodotto di tutti i termini con molteplicità ridotta di uno, derivata. Al numeratore sempre un numero di incognite con grado ridotto di uno rispetto al numeratore
+#### 4. Integrazione
+- $\frac{A}{x-\alpha}\Rightarrow A\log|x-\alpha|$
+- $\frac d{dx}(\cos E)\Rightarrow \cos E$
+- $\frac {Ax+B}{ax^2+bx+c}\qquad \Delta >0$
