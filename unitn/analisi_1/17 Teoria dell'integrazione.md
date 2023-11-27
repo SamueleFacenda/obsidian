@@ -107,3 +107,6 @@ Il grado del polinomio al numeratore deve essere maggiore o uguale di quello al 
 
 ### 2. Fattorizzazione
 Scompongo il denominatore in fattori elementari
+
+### 3. Sistema lineare
+caso semplice
