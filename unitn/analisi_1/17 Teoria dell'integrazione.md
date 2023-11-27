@@ -116,5 +116,8 @@ Se ho la molteplicità:
 faccio la somma con incognite senza molteplicità e aggiungo un termine con al numeratore il prodotto di tutti i termini con molteplicità ridotta di uno, derivata. Al numeratore sempre un numero di incognite con grado ridotto di uno rispetto al numeratore
 #### 4. Integrazione
 - $\frac{A}{x-\alpha}\Rightarrow A\log|x-\alpha|$
-- $\frac d{dx}(\cos E)\Rightarrow \cos E$
+- $\frac d{dx}(\cos E)=\frac{f'(x)}{f(x)}\Rightarrow \cos E$
 - $\frac {Ax+B}{ax^2+bx+c}\qquad \Delta >0$
+
+Se ho $\int\frac{Ax+b}{x^2+C}\,dx$ faccio $A\int\frac x{x^+C}\,dx+B\int\frac1{x^2+C}\,dx$
+$=\frac A2\log(x^2+C)+\
