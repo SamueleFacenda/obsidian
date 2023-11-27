@@ -113,3 +113,5 @@ Scrivo la frazione come somma di polinomi con al numeratore un fattore del numer
 metodo dell'A e B ,cioè.
 Se il denominatore ha grado >1: $\frac{Ax+B}{x^2+1}$, uso più incognite
 
+Se ho la molteplicità:
+faccio la somma con incognite senz a
