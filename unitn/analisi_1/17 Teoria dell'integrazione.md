@@ -124,3 +124,5 @@ $=\frac A2\log(x^2+C)+\frac B{\sqrt C}\arctan({\frac x{\sqrt C}})$
 Uso l'arcotangente per ricondurmi sotto a $f(x)^2+1$, se sopra ho una costante
 Qualunque Ax+B può diventare sopra la derivata di quello sotto, tipo f'(x)+C, divido in due integrali, il primo con il logaritmo e il secondo con l'arcotangente.
 
+Trovare la formula generale per $\int\frac {Ax+B}{x^2+bx+c}\,dx$
+
