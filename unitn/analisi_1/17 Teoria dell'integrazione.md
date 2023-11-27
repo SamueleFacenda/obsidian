@@ -111,7 +111,7 @@ Scompongo il denominatore in fattori elementari
 #### 3. Sistema lineare
 Scrivo la frazione come somma di polinomi con al numeratore un fattore del numeratore. Per trovare i denominatori pongo come incognite i numeratori e risolvo il sistema.
 metodo dell'A e B ,cioè.
-Se il denominatore ha grado >1: $\frac{Ax+B}{x^2+1}$, uso più incognite
+Se il denominatore ha grado >1: $\frac{Ax+B}{x^2+1}$, uso più incognite (un numero uguale al grado del numeratore)
 
 Se ho la molteplicità:
 faccio la somma con incognite senza molteplicità e aggiungo un termine con al numeratore la somma di tutti i termini con molteplicità ridotta di uno, derivata. Al numeratore sempre un numero di incognite con grado ridotto di uno rispetto al numeratore
