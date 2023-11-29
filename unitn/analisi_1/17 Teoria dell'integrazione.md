@@ -131,3 +131,8 @@ Trovare la formula generale per $\int\frac {Ax+B}{x^2+bx+c}\,dx$
 - radici n-esime di cose di 1° grado
 - radici quadrate di cose di 2° grado
 - sostituzioni trigonometriche
+
+#### Formule parametriche per sinx e cosx
+$$\sin x=\frac{2t}{1+t^2}\qquad
+\cos x=\frac{1-t^2}{1+t^2}\qquad
+t=\tan{\frac x 2}$$
