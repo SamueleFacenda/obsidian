@@ -27,3 +27,4 @@ La matrice $P=[p_ij]$ le cui colonne sono date dalle coordinate dei vettori $v_j
 Quindi $v_j=\sum_{i=1}^np_{ij}v_j'\qquad\forall\,j=1,\dots,n$
 
 Le matrici di transizione sono una l'inversa dell'altra
+
