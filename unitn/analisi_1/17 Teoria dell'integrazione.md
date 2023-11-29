@@ -126,3 +126,8 @@ Qualunque Ax+B può diventare sopra la derivata di quello sotto, tipo f'(x)+C, d
 
 Trovare la formula generale per $\int\frac {Ax+B}{x^2+bx+c}\,dx$
 
+### Sostituzioni razionalizzanti
+- funzioni razionali $e^x$
+- radici n-esime di cose di 1° grado
+- radici quadrate di cose di 2° grado
+- sostituzioni trigonometriche
