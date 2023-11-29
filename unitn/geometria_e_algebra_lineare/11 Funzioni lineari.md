@@ -28,3 +28,5 @@ Quindi $v_j=\sum_{i=1}^np_{ij}v_j'\qquad\forall\,j=1,\dots,n$
 
 Le matrici di transizione sono una l'inversa dell'altra
 
+Teorema, con t funzione lineare da V a V, B e B' basi di v,
+Se $A=M_B(T)\;\; e \;\; A'=M_{B'}(T)$ allora $A'=PAP^{-1}$
