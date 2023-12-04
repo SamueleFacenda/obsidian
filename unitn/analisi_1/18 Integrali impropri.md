@@ -24,3 +24,6 @@ tecniche:
 tecniche:
 - assoluta integrabilità
 - integrazione per parti
+
+### Criterio del confronto
+So che la mia funzione, essendo positive, o diverge a $+\infty$ o converge a $\ell>0$. Supponiamo che $0\le f(x)\le g(x)$ per ogni $x\in I$ zona di integrazione, allora posso confrontarle a $+\infty$.
