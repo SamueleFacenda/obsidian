@@ -10,3 +10,17 @@ $$\int_a^b f(x)\, dx=\lim_{\varepsilon \to 0^+}\int_{a+\varepsilon}^b f(x)\,dx$$
 idem con b infinita
 ## Integrali impropri poli-problema
 Riduco tutto a una somma di integrali mono-problema
+
+## Tecniche plus
+Non sempre riusciamo a trovare una primitiva e quindi a determinare la convergenza o divergenza di un integrale.
+### Con f(x)>0
+tecniche:
+- confronto
+- confronto asintotico:
+  - casi standandard
+  - casi limite
+
+### Con segno qualunque
+tecniche:
+- assoluta integrabilità
+- integrazione per parti
