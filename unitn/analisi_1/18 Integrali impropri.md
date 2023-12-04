@@ -1,0 +1,1 @@
+Un integrale è improprio se, o la zona di integrazione non è limitata, o la funzione integranda non è limitata.
