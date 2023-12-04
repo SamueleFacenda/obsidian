@@ -27,3 +27,8 @@ tecniche:
 
 ### Criterio del confronto
 So che la mia funzione, essendo positive, o diverge a $+\infty$ o converge a $\ell>0$. Supponiamo che $0\le f(x)\le g(x)$ per ogni $x\in I$ zona di integrazione, allora posso confrontarle a $+\infty$.
+
+### Criterio del confronto asintotico
+Integrale di f(x) e integrale di g(x) in I. Supponiamo che $f(x)\le 0$ e g(x)>0 su tutto I e
+$\lim_{x\to x_0}\frac{f(x)}{g(x)}=\ell \ne 0 \ne +\infty$
+allora i 2 integrali hanno lo stesso comportamento, ossia il primo converge se anche il secondo converge.
