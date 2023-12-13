@@ -35,3 +35,6 @@ Se $A=M_B(T)\;\; e \;\; A'=M_{B'}(T)$ allora $A'=PAP^{-1}$
 def. $A\in M_n(\Bbb K)$. Uno scalare $\lambda\in\Bbb K$ è detto autovalore di A se esiste $x\in\Bbb K^n$, non nullo, tale che $Ax=\lambda x$
 (x è detto autovettore di A con autovalore $\lambda$)
 def. sia $T:V\to V$ endomorfismo. Uno scalare $\lambda \in\Bbb K$ è autovalore di T se $\exists v \in V,v\ne 0$ tale che $T(v)=\lambda v$ (v è autovettore di T con autovalore $\lambda$)
+
+## Base ortonormale
+Def. sia $U\subset\Bbb R^n$ sottospazio, Una base $B=\{u_1,\dots,u_n\}$ è detta base ortonormale (ON) se 
