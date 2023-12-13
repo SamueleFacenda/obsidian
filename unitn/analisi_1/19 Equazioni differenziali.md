@@ -37,3 +37,16 @@ Se è finito allora si dice che muore al tempo T, con due casi:
 - se $\lim_{t\to T^-}u(t)=+\infty$ allora si dice che ha un blow-up al tempo t
 - negli altri casi la soluzione esce dalla zona in cui il membro di destra dell'EDO è definito, si dice che a un
 BREAK-DOWN
+
+## Lineari omogenee
+Sono nella forma $a_n(t)u^{(n)}+\dots+a_0(t)u = 0$
+
+Teorema generale: l'insieme delle soluzioni di una EDO lineare ed omogenea di grado n è uno spazio vettoriale di dimensioni n.
+La soluzione generale si scrive come combinazione lineare nella forma:
+$u(t)=c_1u_1(t)+\dots+c_nu_n(t)\qquad c_1,c_2,\dots,c_n\in\Bbb R$
+
+Per le EDO lineari omogenee l'intervallo massimale di esistenza è il più grande intervallo che contiene il tempo iniziale
+$t_0$ e dove sono definiti tutti i coefficienti $a_j(t)$
+Trovo il polinomio associato, trovo le radici, le mie u sono $e^{x_it}$ con $x_i$ radici del polinomio
+Se una radice ha molteplicità due, sarà $(c_1+c_2t)e^{x_it}$
+
