@@ -42,4 +42,4 @@ $$ u_i\cdot u_j=\begin{cases}
 0\qquad se\; i\ne j\\
 1\qquad se\;i=j
 \end{cases}$$
-A uno a uno sono ortogonali
+A uno a uno sono ortogonali e hanno norma 1.
