@@ -38,3 +38,8 @@ def. sia $T:V\to V$ endomorfismo. Uno scalare $\lambda \in\Bbb K$ è autovalore 
 
 ## Base ortonormale
 Def. sia $U\subset\Bbb R^n$ sottospazio, Una base $B=\{u_1,\dots,u_n\}$ è detta base ortonormale (ON) se 
+$$ u_i\cdot u_j=\begin{cases}
+0\qquad se\; i\ne j\\
+1\qquad se\;i=j
+\end{cases}$$
+A uno a uno sono ortogonali
