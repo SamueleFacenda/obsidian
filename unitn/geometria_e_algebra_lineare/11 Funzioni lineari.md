@@ -51,3 +51,4 @@ Enunciato: se A è una matrice reale, simmetrica, allora A è diagonalizzabile e
 Quindi se A è simmetrica allora ha n autovalori reali.
 
 $A^TAx=A^Tb$  è un'equazione normale di y
+ 
