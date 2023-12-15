@@ -49,3 +49,5 @@ A uno a uno sono ortogonali e hanno norma 1(si normalizzano dividendoli per la l
 spettro: insieme degli autovalori
 Enunciato: se A è una matrice reale, simmetrica, allora A è diagonalizzabile e esiste una base ortonormale di $\Bbb R^n$ formata da autovettori di A.
 Quindi se A è simmetrica allora ha n autovalori reali.
+
+$A^TAx=A^Tb$  è un'equazione normale di y
