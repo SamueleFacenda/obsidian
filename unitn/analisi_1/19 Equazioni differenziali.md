@@ -58,4 +58,4 @@ Dobbiamo trovare $\bar u(t)$, con questi metodi:
 
 ### indovino
 Trovo la soluzione omogenea associata (senza contare il termine noto)
-Cerco una soluzione specifica ponendo 
+Cerco una soluzione specifica ponendo $\bar u(t)=\lambda \bar u(t)$ (il secondo è quello che avevo all'inizio), derivo e sostituisco nell'equazione, se ho fatto le cose bene ottengo un'equazione con solo lambda incognita facile da risolvere, così ho una soluzione da aggiungere a quelle trovate all'inizio.
