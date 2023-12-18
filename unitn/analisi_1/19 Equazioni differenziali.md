@@ -59,3 +59,4 @@ Dobbiamo trovare $\bar u(t)$, con questi metodi:
 ### indovino
 Trovo la soluzione omogenea associata (senza contare il termine noto)
 Cerco una soluzione specifica ponendo $\bar u(t)=\lambda \bar u(t)$ (il secondo è quello che avevo all'inizio), derivo e sostituisco nell'equazione, se ho fatto le cose bene ottengo un'equazione con solo lambda incognita facile da risolvere, così ho una soluzione da sommare a quelle trovate all'inizio.
+Se il termine forzante (noto) è parte della soluzione dell'equazione omogenea non posso cercare la soluzione dello stesso tipo. In questi casi la soluzione particolare va cercata come $\lambda t \bar u(t)$
