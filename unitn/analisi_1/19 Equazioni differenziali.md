@@ -61,4 +61,5 @@ Trovo la soluzione omogenea associata (senza contare il termine noto)
 Cerco una soluzione specifica ponendo $\bar u(t)=\lambda \bar u(t)$ (il secondo è quello che avevo all'inizio), derivo e sostituisco nell'equazione, se ho fatto le cose bene ottengo un'equazione con solo lambda incognita facile da risolvere, così ho una soluzione da sommare a quelle trovate all'inizio.
 Se il termine forzante (noto) è parte della soluzione dell'equazione omogenea non posso cercare la soluzione dello stesso tipo. In questi casi la soluzione particolare va cercata come $\lambda t \bar u(t)$
 
-Se ho un $\sin x$ ad esempio la mia guess sarà nella forma $\lambda\sin x+\mu\cos x$, trovo poi due equazioni, una per seno e una per il coseno (in questo esempio la prima uguale a )
+Se ho un $\sin (\alpha x)$ ad esempio la mia guess sarà nella forma $\lambda\sin (\alpha x)+\mu\cos (\alpha x)$, trovo poi due equazioni, una per seno e una per il coseno (in questo esempio la prima uguale a 1, la seconda a 0). Se $\alpha$ è soluzione del polinomio, aggiungo una $t^m$ al seno e al coseno, dove m è la molteplicità della soluzione in $\alpha$ .
+
