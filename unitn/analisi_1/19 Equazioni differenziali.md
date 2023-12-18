@@ -53,5 +53,9 @@ Se una radice ha molteplicità due, sarà $(c_1+c_2t)e^{x_it}$
 ## Lineari non omogenee
 $u(t)=c_1u_1(t)+\dots+c_u(t)u_n(t)+\bar u(T)$
 Dobbiamo trovare $\bar u(t)$, con questi metodi:
-- indovino in base alla forma del 
+- indovino in base alla forma del termine noto
 - variazione delle costanti (Lagrange)
+
+### indovino
+Trovo la soluzione omogenea associata (senza contare il termine noto)
+Cerco una soluzione specifica ponendo 
