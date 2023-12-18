@@ -11,7 +11,7 @@ Oss. anche l'insieme di definizione di u è tra le incognite del problema, L'ins
 Def. Si dice ORDINE di una EDO il massimo ordine di derivazione
 che compare nella relazione.
 
-In termini (molto) astratti, una EDO di ordine k è una relazine della forma
+In termini (molto) astratti, una EDO di ordine k è una relazione della forma
 $\Phi (u^{(k)},u^{(k-1)},\dots,u'(t),u(t),t)$
 
 Def. Una EDO si dice autonoma se la variabile indipendente t compare solo come argomento dei u e sue derivate.
@@ -50,3 +50,8 @@ $t_0$ e dove sono definiti tutti i coefficienti $a_j(t)$
 Trovo il polinomio associato, trovo le radici, le mie u sono $e^{x_it}$ con $x_i$ radici del polinomio
 Se una radice ha molteplicità due, sarà $(c_1+c_2t)e^{x_it}$
 
+## Lineari non omogenee
+$u(t)=c_1u_1(t)+\dots+c_u(t)u_n(t)+\bar u(T)$
+Dobbiamo trovare $\bar u(t)$, con questi metodi:
+- indovino in base alla forma del 
+- variazione delle costanti (Lagrange)
