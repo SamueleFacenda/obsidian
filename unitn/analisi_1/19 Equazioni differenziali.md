@@ -63,3 +63,6 @@ Se il termine forzante (noto) è parte della soluzione dell'equazione omogenea n
 
 Se ho un $\sin (\alpha x)$ ad esempio la mia guess sarà nella forma $\lambda\sin (\alpha x)+\mu\cos (\alpha x)$, trovo poi due equazioni, una per seno e una per il coseno (in questo esempio la prima uguale a 1, la seconda a 0). Se $\alpha$ è soluzione del polinomio, aggiungo una $t^m$ al seno e al coseno, dove m è la molteplicità della soluzione in $\alpha$ .
 
+### Variazioni delle costanti
+recuperare parte lezione 18/12/2023
+
