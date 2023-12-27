@@ -45,8 +45,7 @@ Teorema generale: l'insieme delle soluzioni di una EDO lineare ed omogenea di gr
 La soluzione generale si scrive come combinazione lineare nella forma:
 $u(t)=c_1u_1(t)+\dots+c_nu_n(t)\qquad c_1,c_2,\dots,c_n\in\Bbb R$
 
-Per le EDO lineari omogenee l'intervallo massimale di esistenza è il più grande intervallo che contiene il tempo iniziale
-$t_0$ e dove sono definiti tutti i coefficienti $a_j(t)$
+Per le EDO lineari omogenee l'intervallo massimale di esistenza è il più grande intervallo che contiene il tempo iniziale $t_0$ e dove sono definiti tutti i coefficienti $a_j(t)$
 Trovo il polinomio associato, trovo le radici, le mie u sono $e^{x_it}$ con $x_i$ radici del polinomio
 Se una radice ha molteplicità due, sarà $(c_1+c_2t)e^{x_it}$
 
