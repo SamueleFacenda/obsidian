@@ -57,6 +57,6 @@ $\cos x=1-\frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}...$
 $\sinh x=x+\frac{x^3}{3!}+\frac{x^5}{5!}+\frac{x^7}{7!}...$
 $\cosh x=1+\frac{x^2}{2!}+\frac{x^4}{4!}+\frac{x^6}{6!}...$
 $\log{(1+x)}=x-\frac{x^2}2+\frac{x^3}3-\frac{x^4}4...$
-$\arctan x=x-\frac{x^5}3+\frac{x^5}5-\frac{x^7}7$
+$\arctan x=x-\frac{x^3}3+\frac{x^5}5-\frac{x^7}7$
 $(1+x)^\alpha =1+\alpha x+\frac{\alpha(\alpha-1)}{2!}x^2+\frac{\alpha(\alpha-1)(\alpha-2)}{3!}x^3\dots$    posso usare ${\alpha \choose i}$ al posto della frazione i-esima (occhio al fattoriale)
 per $\alpha=-1: 1-x+x^2-x^3+x^4\dots$
