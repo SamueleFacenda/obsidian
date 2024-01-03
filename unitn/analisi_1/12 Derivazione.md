@@ -23,7 +23,7 @@ Teorema: se f è derivabile in $x_0$ allora f è continua in $x_0$
 - (costante)'=0
 - $(x^k)'=kx^{k-1}$
 - $(e^x)'=e^x$
-- $(a^x)'=a^x\log a$
+- $(a^x)'=a^x\ln a$
 - $(\log x)'=\frac1x$
 - $(\sin x)'=\cos x$
 - $(\cos x)'=-\sin x$
