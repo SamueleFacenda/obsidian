@@ -38,7 +38,7 @@ $(cf)'=cf'\quad c\in\Bbb R$
 $(f\cdot g)'=f'g+fg'$
 $(\frac1f)'=-\frac{f'}{f^2}$
 $(\frac fg)'=\frac{f'g-fg'}{g^2}$
-$(f(g))'=f'(g)+g'$
+$(f(g))'=f'(g)g'$
 
 ### Derivata funzione inversa
 Sia f una funzione con g la sua inversa.
