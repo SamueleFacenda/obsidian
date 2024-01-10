@@ -45,5 +45,5 @@ $\lim_{x\to0^+}x\log x=0$
 
 ### Cambio delle variabili
 Es. $\lim_{x\to0}\frac{\sin x^2}{x^2}=\left[\frac00\right]$
-Pongo $y=x^2. Quando $x\to0$ si ha che $y\to0$, quindi il limite diventa
+Pongo $y=x^2$. Quando $x\to0$ si ha che $y\to0$, quindi il limite diventa
 $\lim_{y\to0}\frac{\sin y}y=1$ (limite notevole)
