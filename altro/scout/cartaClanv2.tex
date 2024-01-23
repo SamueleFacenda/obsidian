@@ -1,0 +1,210 @@
+\documentclass[12pt]{report}
+\usepackage[a6paper, margin=1cm]{geometry}
+\usepackage{graphicx}
+\usepackage{eso-pic}
+\usepackage{lmodern}
+\usepackage{titlesec}
+
+% language settings
+\usepackage[T1]{fontenc}
+\usepackage[italian]{babel}
+\usepackage{hyphenat}
+\hyphenation{mate-mati-ca recu-perare}
+
+% font
+\usepackage{newcent}
+
+% big image command
+\newcommand\BackgroundPic{%
+\put(0,-50){
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=\paperwidth,height=\paperheight,%
+keepaspectratio]{cover.png}%
+\vfill
+}}}
+
+% paragraphs settings
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{2mm}
+
+% no pagenums
+\pagenumbering{gobble}
+
+\titleformat{\chapter}[display]{\centering\huge\bfseries}{\chaptertitlename~\thechapter}{5cm}{}{}% see titlesec manual
+\titlespacing*{\chapter}{0pt}{0pt}{\baselineskip}%
+
+\begin{document}
+	\AddToShipoutPicture*{\BackgroundPic}
+	
+	\begin{titlepage}
+		\centering
+		\vfill
+		\Huge
+		CARTA DI CLAN\\
+		\vskip1cm
+		\large Clan Dyapason Trento 12
+		
+		\vfill
+	\end{titlepage}
+	
+	
+	Noi come Clan sappiamo di essere diversi da un semplice gruppo di amici, 
+	dalle tante comunità di cui ognuno di noi fa parte. Ciò che ci differenzia 
+	sono i valori in cui crediamo e su cui basiamo le nostre azioni, espressi 
+	nella Legge e nella Promessa: fare del nostro meglio, sognare insieme e 
+	puntare in alto verso un obiettivo comune, vivere il servizio, la strada e 
+	tutti i momenti di comunità sempre accompagnati dalla fede. 
+
+	La Carta di Clan è specchio della comunità e contiene i nostri sogni, i 
+	nostri obiettivi e gli impegni che ci poniamo per raggiungerli. È strumento 
+	di verifica del percorso del singolo e della comunità, con cui confrontarsi 
+	per i Punti della Strada. 
+
+	Vogliamo che questa Carta di Clan sia periodicamente riletta e verificata, 
+	aperta a modifiche, soprattutto quando emergono nuovi obiettivi e necessità 
+	o si vivono esperienze significative.
+
+	
+	\chapter*{Comunità}
+	
+		\section*{divisione del lavoro}
+		\begin{itemize}
+			\item Mettiamo a disposizione le nostre competenze per gli 
+			obiettivi e i bisogni del clan.
+			\item Ci suddividiamo i compiti con carichi di lavoro simili, 
+			tenendo conto delle nostre capacità ed esperienze, ma 
+			mettendoci in gioco per apprendere nuove competenze.
+			\item Coinvolgiamo nell'organizzazione delle attività 
+			anche i novizi, guidandoli nella scoperta di tradizioni 
+			e modus operandi del clan.
+			\item Creiamo pattuglie con un numero adeguato di persone, 
+			chiarendo il compito di ciascuna e a cui non devono
+			necessariamente partecipare tutti.
+		\end{itemize}
+		
+		\section*{organizzazione delle riunioni}
+		\begin{itemize}
+			\item Sappiamo che la riunione è uno dei principali mezzi a 
+			disposizione del clan, e che in quanto tale la sua importanza 
+			non va sottovalutata.
+			\item Comunichiamo le assenze e i ritardi il prima possibile, 
+			così da permettere al clan di svolgere al meglio le attività. 
+			\item Ogni membro è consapevole della sua importanza all'interno 
+			della comunità e pertanto si impegna ad essere presente 
+			il più possibile.
+			\item Al fine di evitare di impiegare inutili risorse ci
+			organizziamo tra di noi per i trasporti.
+		\end{itemize}
+		
+		\section*{partecipazione}
+		\begin{itemize}
+			\item A riunione siamo presenti focalizzandoci sugli obiettivi
+			posti, organizzando gli incontri successivi in base alle 
+			necessità del clan e mettendo in primo piano gli impegni prossimi.
+			\item Siamo disponibili ad assumerci impegni responsabilmente, 
+			prestando attenzione alle tempistiche.
+			\item Fissiamo le riunioni tenendo conto degli impegni di tutti, 
+			aggiornando il quaderno di clan e comunicando sempre agli assenti 
+			le decisione prese.
+			\item Trattiamo tematiche che possano coinvolgere attivamente tutto 
+			il clan, proponendo attività che si diversifichino tra loro.
+			\item Vogliamo che la vita di clan non sia vissuta con pesantezza e 
+			non che vada ad aggiungersi ai problemi di tutti i giorni.
+		\end{itemize}
+		
+		\section*{condividere la quotidianità}
+		\begin{itemize}
+			\item Sappiamo di poterci fidare gli uni degli altri e vogliamo 
+			creare legami autentici.
+			\item Ci impegniamo a utilizzare il servizio di clan come mezzo per 
+			rafforzare la comunità.
+			\item Proviamo a conoscerci anche al di fuori dell’ambiente scout, 
+			per consolidare i nostri legami.
+		\end{itemize}
+		
+		\section*{correzione fraterna}
+		\begin{itemize}
+			\item Quando necessario adottiamo la correzione fraterna come 
+			strumento per migliorare noi stessi e la comunità, 
+			ma senza l'aspettativa di un riscontro immediato.
+			\item Per questo ci impegniamo ad essere il più trasparenti
+			possibile.
+		\end{itemize}
+		
+		\section*{fede}
+		\begin{itemize}
+			\item Il momento della fede non è necessariamente di preghiera,
+			ma viene vissuto dal clan in maniera differente e come un’occasione 
+			di confronto.
+			\item Riconosciamo  che vivere la fede singolarmente è molto più 
+			complicato rispetto a quando la viviamo con la comunità. 
+			\item Dovremmo dedicarci più tempo anche nella nostra quotidianità.
+			\item Interpretiamo la fede come un filo conduttore, 
+			che unisce tutta la nostra quotidianità e che pone le basi delle 
+			nostre scelte e azioni.
+		\end{itemize}
+	
+	\chapter*{Strada}
+		
+		% https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/suggerimenti-di-scrittura/punteggiatura-e-grammatica.html#:~:text=Usa%20il%20punto%20e%20virgola,anche%20per%20gli%20elenchi%20puntati.&text=Questa%20%C3%A8%20la%20frase%20che%20introduce%20il%20tuo%20elenco.
+		\section*{per noi la strada è:}
+		\begin{itemize}
+			\item scoprire la bellezza del territorio e della natura, 
+			pertanto cerchiamo di avere una nuova destinazione ad ogni uscita;
+			\item vivere un momento di crescita personale superando gli 
+			ostacoli con serenità e leggerezza, condividendo la fatica con la 
+			comunità;
+			\item un’occasione per confrontarci tra di noi scoprendo l'altro 
+			rafforzando i nostri legami;
+			\item espressione di libertà attraverso l'essenzialità;
+			\item affidarsi agli altri nell'aiuto reciproco, riconoscendo i 
+			propri limiti e facendo attenzione a quelli degli altri, cercando 
+			di stare uniti nel cammino.
+		\end{itemize}
+		
+		\section*{fede}
+		\begin{itemize}
+			\item Il clan vede Dio come parte della natura che ci circonda e di 
+			cui facciamo parte.
+			\item Viviamo la fede sulla strada, condividendo la stessa fatica 
+			anche se in maniera differente.
+			\item Vediamo la fede come un percorso di continua scoperta, 
+			ponendoci sempre domande e non avendo la convinzione di essere 
+			arrivati alla fine del nostro cammino.
+		\end{itemize}
+		
+		\section*{ambiente}
+		Prestiamo attenzione ad essere essenziali nell'organizzazione delle 
+		uscite al fine di avere un impatto ambientale minimo (e.g. cibo di 
+		stagione, trasporti ecologici, raccolta rifiuti, 
+		evitare gli sprechi...).
+	
+	\chapter*{Servizio}
+		\begin{itemize}
+			\item Pensiamo che partire da un servizio comunitario, 
+			guidandosi reciprocamente, possa aiutarci a viverlo singolarmente 
+			con spontaneità.
+			\item Riconosciamo il valore del servizio per scoprire nuove 
+			realtà, affrontando con coraggio nuove sfide che ci introducano a 
+			nuovi interessi.
+			\item Riconosciamo la soddisfazione e la gioia che questo gesto può 
+			portare, vivendo il Servizio anche come occasione di incontro.
+			\item Dedichiamo parte del nostro tempo al servizio non facendolo 
+			passare in secondo piano.
+			\item La nostra comunità vive la fede come amore e rispetto verso 
+			gli altri, nella condivisione e nel servizio.
+			\item Costruiamo la nostra fede sulla condivisione dei valori dello 
+			scoutismo, sentendo una fede più profonda durante il servizio. 
+		\end{itemize}
+		
+		% bottom text
+		\vspace*{\fill}
+		\begin{flushright}
+			% \large
+			\itshape
+			Firmata al Sorasass il 24 settembre 2023
+		\end{flushright}
+
+\end{document}
