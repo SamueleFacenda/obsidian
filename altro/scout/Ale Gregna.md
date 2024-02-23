@@ -58,4 +58,12 @@ Inoltre oltre che per il trattato internazionale il diritto alla richiesta di as
 
 La procedura corretta è quindi:
 - richiesta asilo
-- se hai un reddito di danno 
+- se hai un reddito di danno il visto o altre cose
+- se non hai un reddito ti garantiscono
+	- un tetto
+	- vitto e alloggio
+	- pochi €uro al giorno
+	- vestiti
+>Nota fuori campo: il Libano ad esempio non ha aderito alle convenzioni di Ginevra (come altri stati che hanno fatto guerre(?) e cose strane tipo il Vietnam)
+
+È comunque sempre molto delicata la questione dei trattati internazionali, di come vengano fatti rispettare. In Europa c'è la corte europea dei diritti dell'uomo che giudica gli stati, il che ci permette di avere un sistema molto forte per far rispettare questi trattati. 
