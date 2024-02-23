@@ -81,4 +81,6 @@ Oltre allo status di rifugiato (di guerra) vengono considerati anche le protezio
 - violenza generalizzata nel paese
 Questa protezione viene data anche abbastanza velocemente in alcuni casi generici diffusi (es. sei uscito dall'Ucraina dopo la data tot.).
 Il termine varia, in italia è protezione sussidiaria, in generale sono le protezioni speciali. Viene data maggiormente a chi dimostra di integrarsi, impara la lingua, paga un affitto etc. ma è debole.
-Questi certificati, di protezione sussidiaria e di rifugiato, hanno valenza di 5 anni. Gli permette di esse
+Questi certificati, di protezione sussidiaria e di rifugiato, hanno valenza di 5 anni. Gli permette di essere quasi cittadini italiani (tranne il voto), ottengono anche una specie di passaporto e permette di ottenere una cittadinanza anche più velocemente. Per i rifugiati appunti bastano 5 anni (invece di 10) di residenza ininterrotta e non serve l'esame di lingua.
+
+Non esiste un altro modo per entrare in italia, non c'è un permesso per cercare lavoro, ci sono dei casi se il lavoro c'è già, ma è l'unico. 
