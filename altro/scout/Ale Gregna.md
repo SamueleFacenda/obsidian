@@ -6,7 +6,7 @@ i nostri interessi:
 - è una scelta venire a Trento? accoglienza in Italia
 - cosa può fare un richiedente asilo nella sua situa
 - il sistema di accoglienza in Trentino
-- Italia come ponte?
+- Italia come ponte per altri stati?
 
 ### Lessico
 è facile sbagliare i termini, creare delle categorie e essere inappropriati.
@@ -46,4 +46,9 @@ Gli stranieri sono semplicemente quelli con origini diverse da quelle italiane (
 Un extracomunitario cos'è? Di che comunità si parla? Di quella europea. È un termine abbastanza giovane nato soprattutto per riferisti ad esempio ai turisti più stranieri ma che viene inteso con un'accezione più negativa. Comunque è soltanto un individuo non cittadino europeo.
 
 ### Richiedente asilo
-Chi è un richiedente asilo? Non un francese, non un europeo, ma uno dal resto del mondo (extracomunitario). Non bisogna dimentica
+Chi è un richiedente asilo? Non un francese, non un europeo, ma uno dal resto del mondo (extracomunitario). Non bisogna dimenticarsi che il diritto che si applica a uno statunitense, a un'australiano, è lo stesso che si applica a un congolese, un pakistano, ... La differenza è soprattutto nel passaporto, alcuni valgono quanto uno straccio, quindi una domanda interessante può essere: che passaporto hai?
+Che cos'è secondo noi?
+- aspetta delle carte speciali?
+- uno che vuole farsi una vita nel nostro paese?
+Ci sono degli accordi per cui i lavoratori (un tot prestabilito) attraverso delle trafile (decreto flussi) ottengono il permesso di lavorare da noi.
+Invece un richiedente asilo prima di tutto richiede asilo (sì). Qualunque si il suo status, se arriva in Italia e richei
