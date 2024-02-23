@@ -33,4 +33,9 @@ i nostri interessi:
 Sapere il termine giusto per descrivere una persona può servire per ragioni lavorative ma di per sé non è interessante, non è come sentono, non è rappresentativo di una persona (che di interessante ha molto altro).
 Anche per chi lavora talvolta è difficile distinguere queste categorie, come i migranti economici ad esempio, sono una categoria più inventata dalla stampa ma non è un vero status. Comunque sono quelli che vengono in (quasi sempre) Europa per lavorare e mandare a casa il guadagno. 
 Idem clandestino, sarebbe colui che si da alla macchia, si nasconde perché non potrebbe essere trovato. Ma non esiste, hanno provato a introdurre il reato ma sarebbe stato ingiusto (non sarebbe stata un'intenzione dolosa), quindi ha senso solo distinguere solo tra ingressi regolari e irregolari. Ad esempio chi ha un permesso di soggiorno può iscriversi all'anagrafe, avere un'assistenza sanitaria, mentre che è irregolare no. In ogni caso non si parla di clandestinità.
-Altra distinzione tra immigrato e migrante, che è soltanto 
+Altra distinzione tra immigrato e migrante, che è soltanto il riferimento per chi lo dice. Comunque cos'è un migrante:
+- uno che si sposta da uno stato all'altro?
+- uno che si sposta e baste? 
+- uno che ha avuto una vita in un posto e poi va a piantare radici in un altro?
+È semplicemente uno che si sposta da un posto all'altro, i motivi (scelta, necessità, scelta, interesse ...) non sono influenti per lo status di migrante. 
+Sono invece di nostro maggiore interesse i migranti forzati, quelli che sono stati costretti a spostarti dal luogo in cui vivevano. Chi non lo è lo può essere per questioni di famiglia, per nomadia digitale (scelta di vita) o molto altro. Comunque anche se uno nel suo paese non aveva minacce dirette, problemi di sicurezz
