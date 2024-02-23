@@ -85,3 +85,5 @@ Questi certificati, di protezione sussidiaria e di rifugiato, hanno valenza di 5
 
 Non esiste un altro modo per entrare in italia, non c'è un permesso per cercare lavoro, ci sono dei casi se il lavoro c'è già, ma è l'unico. 
 Si può fare ricorso alla scelta della commissione territoriale solo una volta. 
+
+Comunque, i progetti di accoglienza non accolgono una cippa, un tetto e dei soldi non ti integrano, non ti fanno lavorare e non ti insegnano una lingua. I progetti di accoglienza sono molto limitati, a tempo e con un tetto di guadagno massimo (6000€ annui massimi). 
