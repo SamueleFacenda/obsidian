@@ -84,3 +84,4 @@ Il termine varia, in italia è protezione sussidiaria, in generale sono le prote
 Questi certificati, di protezione sussidiaria e di rifugiato, hanno valenza di 5 anni. Gli permette di essere quasi cittadini italiani (tranne il voto), ottengono anche una specie di passaporto e permette di ottenere una cittadinanza anche più velocemente. Per i rifugiati appunti bastano 5 anni (invece di 10) di residenza ininterrotta e non serve l'esame di lingua.
 
 Non esiste un altro modo per entrare in italia, non c'è un permesso per cercare lavoro, ci sono dei casi se il lavoro c'è già, ma è l'unico. 
+Si può fare ricorso alla scelta della commissione territoriale solo una volta. 
