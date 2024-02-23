@@ -73,4 +73,12 @@ Un richiedente asilo ha diritto alla residenza, da cui discendono vari diritti s
 #### Valutazione delle richieste di asilo
 Ci sono delle commissioni concentrate sull'applicazione delle norme (amministrative) composte da un viceprefetto, tre rappresentanti della prefettura e un rappresentante dell'agenzia non ho capito dei rifugiati. Prendono una decisione sulla credibilità del richiedente secondo vari criteri, come la coerenza, il grado di dettagli, la probabilità o veridicità di alcuni elementi.
 Un grande problema è questo appunto, riuscire a spiegarsi in boh 15 minuti con un traduttore, e far sì che il racconto sia credibile. 
-È il sistema fatto male o è un'intenzione? Anche il fatto che il sistema sia fatto male è un'intn
+È il sistema fatto male o è un'intenzione? Anche il fatto che il sistema sia fatto male è un'intenzione più alta, la mancanza di fondi e materiali dice molto. 
+
+Oltre allo status di rifugiato (di guerra) vengono considerati anche le protezioni sussidiari:
+- pena di morte
+- rischio di subire tortura
+- violenza generalizzata nel paese
+Questa protezione viene data anche abbastanza velocemente in alcuni casi generici diffusi (es. sei uscito dall'Ucraina dopo la data tot.).
+Il termine varia, in italia è protezione sussidiaria, in generale sono le protezioni speciali. Viene data maggiormente a chi dimostra di integrarsi, impara la lingua, paga un affitto etc. ma è debole.
+Questi certificati, di protezione sussidiaria e di rifugiato, hanno valenza di 5 anni. Gli permette di esse
