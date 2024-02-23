@@ -67,3 +67,7 @@ La procedura corretta è quindi:
 >Nota fuori campo: il Libano ad esempio non ha aderito alle convenzioni di Ginevra (come altri stati che hanno fatto guerre(?) e cose strane tipo il Vietnam)
 
 È comunque sempre molto delicata la questione dei trattati internazionali, di come vengano fatti rispettare. In Europa c'è la corte europea dei diritti dell'uomo che giudica gli stati, il che ci permette di avere un sistema molto forte per far rispettare questi trattati. 
+Il bello della corte Europea dei diritti dell'uomo è che può essere interpellata dai singoli (es. come appello dopo aver fatto ricorso alla cassazione) e permette quindi di condannare gli stati più facilmente.
+
+Un richiedente asilo ha diritto alla residenza, da cui discendono vari diritti secondari come l'assistenza sociale, l'istruzione (obbligatoria), 
+#### Valutazione delle richieste di asilo
