@@ -69,5 +69,8 @@ La procedura corretta è quindi:
 È comunque sempre molto delicata la questione dei trattati internazionali, di come vengano fatti rispettare. In Europa c'è la corte europea dei diritti dell'uomo che giudica gli stati, il che ci permette di avere un sistema molto forte per far rispettare questi trattati. 
 Il bello della corte Europea dei diritti dell'uomo è che può essere interpellata dai singoli (es. come appello dopo aver fatto ricorso alla cassazione) e permette quindi di condannare gli stati più facilmente.
 
-Un richiedente asilo ha diritto alla residenza, da cui discendono vari diritti secondari come l'assistenza sociale, l'istruzione (obbligatoria), 
+Un richiedente asilo ha diritto alla residenza, da cui discendono vari diritti secondari come l'assistenza sociale, l'istruzione (obbligatoria), avere un medico di base, accedere a un centro per l'impiego etc.
 #### Valutazione delle richieste di asilo
+Ci sono delle commissioni concentrate sull'applicazione delle norme (amministrative) composte da un viceprefetto, tre rappresentanti della prefettura e un rappresentante dell'agenzia non ho capito dei rifugiati. Prendono una decisione sulla credibilità del richiedente secondo vari criteri, come la coerenza, il grado di dettagli, la probabilità o veridicità di alcuni elementi.
+Un grande problema è questo appunto, riuscire a spiegarsi in boh 15 minuti con un traduttore, e far sì che il racconto sia credibile. 
+È il sistema fatto male o è un'intenzione? Anche il fatto che il sistema sia fatto male è un'intn
