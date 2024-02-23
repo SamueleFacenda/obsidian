@@ -40,4 +40,10 @@ Altra distinzione tra immigrato e migrante, che è soltanto il riferimento per c
 È semplicemente uno che si sposta da un posto all'altro, i motivi (scelta, necessità, scelta, interesse ...) non sono influenti per lo status di migrante. 
 Sono invece di nostro maggiore interesse i migranti forzati, quelli che sono stati costretti a spostarti dal luogo in cui vivevano. Chi non lo è lo può essere per questioni di famiglia, per nomadia digitale (scelta di vita) o molto altro. Comunque anche se uno nel suo paese non aveva minacce dirette, problemi di sicurezza, ma soltanto difficoltà a vivere (impossibilità a mandare avanti una famiglia, avere una vita felice ...) è comunque migrante forzato. Chi glielo fa fare di attraversare otto paesi diversi, essere torturato e rischiare la vita se non aveva un rischio fisico? Hanno comunque motivi validi.
 Uno sfollato anche è uno che è costretto a lasciare il suo paese, come ad esempio gli ucraini, solitamente perché non ha più un posto dove stare, ma questo termina si usa soprattutto per gli spostamenti interni (sfollati interni), che però differiscono. 
-Il profugo è simile, però può essere che avesse ancora un posto dove vivere. Comunque questi ultimi termini sono molto generici e no
+Il profugo è simile, però può essere che avesse ancora un posto dove vivere. Comunque questi ultimi termini sono molto generici e non esistenti nel nostro ordinamento.
+Il rifugiato di guerra anche non è previsto nel nostro ordinamento.
+Gli stranieri sono semplicemente quelli con origini diverse da quelle italiane (nel nostro caso).
+Un extracomunitario cos'è? Di che comunità si parla? Di quella europea. È un termine abbastanza giovane nato soprattutto per riferisti ad esempio ai turisti più stranieri ma che viene inteso con un'accezione più negativa. Comunque è soltanto un individuo non cittadino europeo.
+
+### Richiedente asilo
+Chi è un richiedente asilo? Non un francese, non un europeo, ma uno dal resto del mondo (extracomunitario). Non bisogna dimentica
