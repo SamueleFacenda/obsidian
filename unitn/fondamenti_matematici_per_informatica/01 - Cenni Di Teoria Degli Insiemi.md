@@ -14,3 +14,5 @@ $X\subset Y$ oppure $Y\supset X$ se $(\forall x: x\in X \implies x \in Y)$
 Allora si dice che X è un sottoinsieme di Y.
 
 Inoltre se $X\subset Y$ e $X\ne Y$ si dice che X è un sottoinsieme proprio di Y e si scrive $X\subsetneq Y$.
+### Assioma 1.6 Di separazione
+Sia X un insieme. Supponiamo che a ogni $x\in X$ sia associata un'affermazione $P(x)$. Allora $\{x|x\in X, P(x)\;vera\}=\{x\in X|P(x)\}$ è un insieme. 
