@@ -10,4 +10,7 @@ Dati due insiemi A e B, vale: $A=B \iff (\forall x:x\in A\iff x\in B)$
 Oss. $\exists!$ (esiste unico) l'insieme $\varnothing$ privo di elementi.
 ### Definizione 1.5
 Siano X e Y due insiemi. Scriveremo:
-$X\
+$X\subset Y$ oppure $Y\supset X$ se $(\forall x: x\in X \implies x \in Y)$
+Allora si dice che X è un sottoinsieme di Y.
+
+Inoltre se $X\subset Y$ e $X\ne Y$ si dice che X è un sottoinsieme proprio di Y e si scrive $X\subsetneq Y$.
