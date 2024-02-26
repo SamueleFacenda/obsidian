@@ -3,3 +3,4 @@ FMI sigla, il vecchio nome è `matematica discreta 2`, gli esami vecchi sono tut
 I teoremi da sapere per l'esame sono quelli del 2016-17 sul sito di Pignatelli.
 ### Argomenti
 - aritmetica modulare
+- grafi semplici
