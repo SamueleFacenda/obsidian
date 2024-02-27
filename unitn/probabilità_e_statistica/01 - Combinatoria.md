@@ -31,4 +31,8 @@ Regola generale:
 A insieme di n elementi di m tipi diversi. ($m\le n$)
 Ciascun tipo $i\in\{i,dots,m\}$ è presente $k_i$ volte.
 Quindi gli anagrammi di A sono $$\frac{n!}{\prod_{i=1}^mk_i!}$$
+### Disposizioni
+Se del mio insieme A volessi mettere in fila $k\le n$ elementi, in quanti modi potrei fare?
+$$\frac{n!}{(n-k)!}=\binom{n}{k}$$
+
 
