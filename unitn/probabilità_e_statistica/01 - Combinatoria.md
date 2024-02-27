@@ -23,4 +23,6 @@ $A_1, A_2,\dots,A_n$ insiemi
 $$\#(\bigcup_{i=1}^nA_i)=\sum_{i=1}^n\#A_i-\sum_{i<j}^n\#(A_i\cap A_j)+\sum_{izjzk}^n\#(A_i\cap A_j\cap A_n)+\dots+(-1)^{n+1}\#(\bigcap_{i=1}^nA_i)$$
 
 ### Permutazioni e anagrammi
-Permutazioni
+A insieme di n elementi
+Permutazioni: modi di disporre in file gli elementi di A
+Faccio il fattoriale per trovare il numero di permutazioni.
