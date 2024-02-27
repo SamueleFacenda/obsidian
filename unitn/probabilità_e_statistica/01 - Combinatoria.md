@@ -26,3 +26,9 @@ $$\#(\bigcup_{i=1}^nA_i)=\sum_{i=1}^n\#A_i-\sum_{i<j}^n\#(A_i\cap A_j)+\sum_{izj
 A insieme di n elementi
 Permutazioni: modi di disporre in file gli elementi di A
 Faccio il fattoriale per trovare il numero di permutazioni.
+
+Regola generale:
+A insieme di n elementi di m tipi diversi. ($m\le n$)
+Ciascun tipo $i\in\{i,dots,m\}$ è presente $k_i$ volte.
+Quindi gli anagrammi di A sono $$\frac{n!}{\prod_{i=1}^mk_i!}$$
+
