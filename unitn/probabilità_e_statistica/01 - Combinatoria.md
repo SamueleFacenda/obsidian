@@ -14,3 +14,6 @@ A, B insiemi
 Allora $\#(A\times B)=\#A \cdot \#B$
 
 Proposizione: $\{A_i\}_{i=1}^n$  famiglia finita di insiemi, $\#(A_1\times A_2 \times\dots\times A_n)=\prod_{i=1}^n \#A_i$ 
+#### 3° principio
+A, B insiemi
+$\implies \#(A\cup B)=\#A+\#B-\#(A\cap B)$
