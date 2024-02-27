@@ -17,3 +17,10 @@ Proposizione: $\{A_i\}_{i=1}^n$  famiglia finita di insiemi, $\#(A_1\times A_2 \
 #### 3° principio
 A, B insiemi
 $\implies \#(A\cup B)=\#A+\#B-\#(A\cap B)$
+
+Generalizzazione
+$A_1, A_2,\dots,A_n$ insiemi
+$$\#(\bigcup_{i=1}^nA_i)=\sum_{i=1}^n\#A_i-\sum_{i<j}^n\#(A_i\cap A_j)+\sum_{izjzk}^n\#(A_i\cap A_j\cap A_n)+\dots+(-1)^{n+1}\#(\bigcap_{i=1}^nA_i)$$
+
+### Permutazioni e anagrammi
+Permutazioni
