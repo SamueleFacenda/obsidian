@@ -5,3 +5,6 @@ dell precision 5470
 dell precision 5480
 dell xps 14
 HP ZBook Firefly G10 14
+
+thinkbook poca batteria
+dell perfetti ma costano troppo
