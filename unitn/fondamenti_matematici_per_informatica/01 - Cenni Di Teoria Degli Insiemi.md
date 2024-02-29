@@ -28,3 +28,5 @@ Siano X e Y due insiemi, definiamo:
 Con (x,y) si intende una coppia ordinata, x e y sono i suoi componenti, è un concetto primitivo.
 Il complementare è la differenza tra X e Y se Y è completamente contenuto in X. Si dice $Y^c=\mathscr C_x(Y)=X\setminus Y$
 
+### Unione e intersezione arbitraria
+Supponiamo di avere un insieme non vuoto I. 
