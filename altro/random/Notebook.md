@@ -7,6 +7,7 @@ dell xps 14
 HP ZBook Firefly G10 14
 surface studio 2
 acer swift X 14
+rog zephyrus g14
 
 thinkbook poca batteria
 dell perfetti ma costano troppo
