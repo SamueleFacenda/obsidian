@@ -41,4 +41,3 @@ $\binom{n}{k}=\binom{n}{n-k}$
 $\binom{n}{n}=\binom{n}{0}=1$
 $\sum_{k=0}^n\binom{n}{k}=2^n$
 $\binom{n}{k}+\binom{n}{k+1}=\binom{n+1}{k+1}$
-
