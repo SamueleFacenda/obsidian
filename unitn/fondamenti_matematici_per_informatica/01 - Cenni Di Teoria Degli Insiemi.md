@@ -41,3 +41,5 @@ Se f è una funzione, allora si indica $f:X\to Y$,  X è il dominio e Y il codom
 Siano X e Y due insiemi non vuoti. Una funzione f (come legge) da X in Y , che indichiamo con $f_{(legge)}:X\to Y$, è una legge (intesa come concetto primitivo) che ad ogni elemento x di X associa un unico elemento y di Y
 
 Def. Dati X e Y due insiemi eventualmente vuoti, indichiamo con $Y^X$ l'insieme  di tutte le funzioni (di tipo relazione) da X in Y.
+
+Oss. Dato un insieme A, esiste l'insieme delle parti di A, che indicheremo con $\Theta(A)$ oppure $2^A$ i cui elementi sono tutti e soli i sottoinsiemi che si possono estrarre da A. 
