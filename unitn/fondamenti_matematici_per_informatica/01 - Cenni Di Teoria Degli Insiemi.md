@@ -29,4 +29,5 @@ Con (x,y) si intende una coppia ordinata, x e y sono i suoi componenti, è un co
 Il complementare è la differenza tra X e Y se Y è completamente contenuto in X. Si dice $Y^c=\mathscr C_x(Y)=X\setminus Y$
 
 ### Unione e intersezione arbitraria
-Supponiamo di avere un insieme non vuoto I. 
+Supponiamo di avere un insieme non vuoto I e, $\forall i\in I$, un insieme $X_i$. Indichiamo questi dati con $\{X_i\}\in I$
+Definiamo l'unione $$\bigcup_{i\in I} X_i:=\{x\in X_i\text{per qualche }i\in I$$
