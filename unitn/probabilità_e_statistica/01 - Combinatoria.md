@@ -36,3 +36,6 @@ Se del mio insieme A volessi mettere in fila $k\le n$ elementi, in quanti modi p
 $$\frac{n!}{(n-k)!}=\binom{n}{k}$$
 Queste si chiamano anche permutazioni incomplete (e il calcolo coefficiente binomiale).
 
+$\binom{n}{k}=\binom{n}{n-k}$
+$\sum
+$\binom{n}{n}=\binom{n}{0}=1$
