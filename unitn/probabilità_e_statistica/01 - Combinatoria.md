@@ -34,5 +34,6 @@ Quindi gli anagrammi di A sono $$\frac{n!}{\prod_{i=1}^mk_i!}$$
 ### Disposizioni
 Se del mio insieme A volessi mettere in fila $k\le n$ elementi, in quanti modi potrei fare?
 $$\frac{n!}{(n-k)!}=\binom{n}{k}$$
+Queste si chiamano anche permutazioni incomplete.
 
 
