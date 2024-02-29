@@ -26,9 +26,12 @@ Siano X e Y due insiemi, definiamo:
 - $X\times Y=\{(x,y)|x\in X,y\in Y\}\rightarrow$ prodotto cartesiano
 
 Con (x,y) si intende una coppia ordinata, x e y sono i suoi componenti, è un concetto primitivo.
-Il complementare è la differenza tra X e Y se Y è completamente contenuto in X. Si dice $Y^c=\mathscr C_x(Y)=X\setminus Y$
+Il complementare è la differenza tra X e Y se Y è completamente contenuto in X. Si dice $Y^c=\mathcal C_x(Y)=X\setminus Y$
 
 ### Unione e intersezione arbitraria
 Supponiamo di avere un insieme non vuoto I e, $\forall i\in I$, un insieme $X_i$. Indichiamo questi dati con $\{X_i\}\in I$
 Definiamo l'unione $$\bigcup_{i\in I} X_i:=\{x|x\in X_i\text{ per qualche }i\in I\}=\{x|\exists i\in I,x\in X_i\}$$
-Ugualmente $$\bigcap_{i\in I}X_i:=\{x|\forall i\}$$
+Ugualmente l'intersezione $$\bigcap_{i\in I}X_i:=\{x|x\in X_i,\forall i\in I\}$$
+## Relazioni e funzioni
+Def. 1.9 Siano X e Y due insieme. Un sottoinsieme $\mathcal R$ di $X\times Y$ si dice relazione tra X e Y. Dati $x\in X$ e $y\in Y$, diciamo che $x\mathcal R y$ (legge, x è in R-relazione con y) se $(x,y)\in\mathcal R$.
+
