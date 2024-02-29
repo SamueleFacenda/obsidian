@@ -20,6 +20,11 @@ Sia X un insieme. Supponiamo che a ogni $x\in X$ sia associata un'affermazione $
 ## Operazioni tra insiemi
 
 Siano X e Y due insiemi, definiamo:
-- $X\cup Y = \{x|x\in X\;o\; x\in Y\}$
-- $X\cap Y=\{x|x\in X\; e \; x\in Y\}$
-- $X\setminus Y=\{x|x\in X\; e \; x\notin Y\}$
+- $X\cup Y = \{x|x\in X\;o\; x\in Y\}\rightarrow$ unione
+- $X\cap Y=\{x|x\in X\; e \; x\in Y\}\rightarrow$ intersezione
+- $X\setminus Y=\{x|x\in X\; e \; x\notin Y\}\rightarrow$ differenza
+- $X\times Y=\{(x,y)|x\in X,y\in Y\}\rightarrow$ prodotto cartesiano
+
+Con (x,y) si intende una coppia ordinata, x e y sono i suoi componenti, è un concetto primitivo.
+Il complementare è la differenza tra X e Y se Y è completamente contenuto in X. Si dice $Y^c=\mathscr C_x(Y)=X\setminus Y$
+
