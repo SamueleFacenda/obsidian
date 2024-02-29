@@ -16,3 +16,10 @@ Allora si dice che X è un sottoinsieme di Y.
 Inoltre se $X\subset Y$ e $X\ne Y$ si dice che X è un sottoinsieme proprio di Y e si scrive $X\subsetneq Y$.
 ### Assioma 1.6 Di separazione
 Sia X un insieme. Supponiamo che a ogni $x\in X$ sia associata un'affermazione $P(x)$. Allora $\{x|x\in X, P(x)\;vera\}=\{x\in X|P(x)\}$ è un insieme. 
+
+## Operazioni tra insiemi
+
+Siano X e Y due insiemi, definiamo:
+- $X\cup Y = \{x|x\in X\;o\; x\in Y\}$
+- $X\cap Y=\{x|x\in X\; e \; x\in Y\}$
+- $X\setminus Y=\{x|x\in X\; e \; x\notin Y\}$
