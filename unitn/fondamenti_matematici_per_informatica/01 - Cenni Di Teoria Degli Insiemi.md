@@ -50,4 +50,7 @@ Def. Siano X, Y e Z tre insiemi e siano $f:X\to Y$ e $g:Y\to Z$ due funzioni. De
 $$g\circ f:X\to Z\; t.c\; (g\circ f)(x):=g(f(x))$$
 "f composta g"
 
-Def. Sia $f:X\to Y$ una funzione. Dato il sottoinsieme A di X, definiamo l'immagine di A tramite f come $f(A):=\{f(x)\in Y|x\in A\}$  "f di A".  
+Def. Sia $f:X\to Y$ una funzione. Dato il sottoinsieme A di X, definiamo l'immagine di A tramite f come $f(A):=\{f(x)\in Y|x\in A\}$  "f di A". 
+Similmente la controimmagine (B sottoinsieme di Y): $f^{-1}(B):=\{x\in X|f(x)\in B\}$
+
+La controimmagine di un singoletto ({y}) si indica come $f^{-1}(y)$ e si chiama fibra di f sopra y.
