@@ -39,3 +39,5 @@ Def. 1.10 Siano X e Y due insiemi e sia f una relazione tra X e Y, cioè $f\subs
 Se f è una funzione, allora si indica $f:X\to Y$,  X è il dominio e Y il codominio.
 ### Funzione come Legge
 Siano X e Y due insiemi non vuoti. Una funzione f (come legge) da X in Y , che indichiamo con $f_{(legge)}:X\to Y$, è una legge (intesa come concetto primitivo) che ad ogni elemento x di X associa un unico elemento y di Y
+
+Def. Dati X e Y due insiemi eventualmente vuoti, indichiamo con $Y^X$ l'insieme  di tutte le funzioni (di tipo relazione) da X in Y.
