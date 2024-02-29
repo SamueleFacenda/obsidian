@@ -42,4 +42,7 @@ Siano X e Y due insiemi non vuoti. Una funzione f (come legge) da X in Y , che i
 
 Def. Dati X e Y due insiemi eventualmente vuoti, indichiamo con $Y^X$ l'insieme  di tutte le funzioni (di tipo relazione) da X in Y.
 
-Oss. Dato un insieme A, esiste l'insieme delle parti di A, che indicheremo con $\Theta(A)$ oppure $2^A$ i cui elementi sono tutti e soli i sottoinsiemi che si possono estrarre da A. 
+Oss. Dato un insieme A, esiste l'insieme delle parti di A, che indicheremo con $\mathcal O(A)$ oppure $2^A$ i cui elementi sono tutti e soli i sottoinsiemi che si possono estrarre da A. 
+
+Oss. Siano X e Y due insieme eventualmente vuoti. Allora vale
+$$Y^X=\{f\in2^{X\times Y}|\forall x\in X,\exists!y\in Y\, t.c.\, (x,y)\in f\}$$
