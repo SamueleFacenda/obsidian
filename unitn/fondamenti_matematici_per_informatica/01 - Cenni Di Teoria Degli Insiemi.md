@@ -38,4 +38,4 @@ Def. 1.9 Siano X e Y due insieme. Un sottoinsieme $\mathcal R$ di $X\times Y$ si
 Def. 1.10 Siano X e Y due insiemi e sia f una relazione tra X e Y, cioè $f\subset X\times Y$. Diciamo che f è una funzione (o applicazione o mappa) da X in Y se $$\forall x\in X, \exists!y\in Y\;t.c.\;(x,y)\in f$$
 Se f è una funzione, allora si indica $f:X\to Y$,  X è il dominio e Y il codominio.
 ### Funzione come Legge
-SIa X e Y due insiemi
+Siano X e Y due insiemi non vuoti. Una funzione f (come legge) da X in Y , che indichiamo con $f_{(legge)}:X\to Y$, è una legge (intesa come concetto primitivo) che ad ogni elemento x di X associa un unico elemento y di Y
