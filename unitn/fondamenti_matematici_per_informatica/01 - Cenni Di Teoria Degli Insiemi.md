@@ -30,4 +30,5 @@ Il complementare è la differenza tra X e Y se Y è completamente contenuto in X
 
 ### Unione e intersezione arbitraria
 Supponiamo di avere un insieme non vuoto I e, $\forall i\in I$, un insieme $X_i$. Indichiamo questi dati con $\{X_i\}\in I$
-Definiamo l'unione $$\bigcup_{i\in I} X_i:=\{x\in X_i\text{per qualche }i\in I$$
+Definiamo l'unione $$\bigcup_{i\in I} X_i:=\{x|x\in X_i\text{ per qualche }i\in I\}=\{x|\exists i\in I,x\in X_i\}$$
+Ugualmente $$\bigcap_{i\in I}X_i:=\{x|\forall i\}$$
