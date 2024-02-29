@@ -46,3 +46,8 @@ Oss. Dato un insieme A, esiste l'insieme delle parti di A, che indicheremo con $
 
 Oss. Siano X e Y due insieme eventualmente vuoti. Allora vale
 $$Y^X=\{f\in2^{X\times Y}|\forall x\in X,\exists!y\in Y\, t.c.\, (x,y)\in f\}$$
+Def. Siano X, Y e Z tre insiemi e siano $f:X\to Y$ e $g:Y\to Z$ due funzioni. Definiamo la composizione di f e g come la seguente:
+$$g\circ f:X\to Z\; t.c\; (g\circ f)(x):=g(f(x))$$
+"f composta g"
+
+Def. Sia $f:X\to Y$ una funzione. Dato il sottoinsieme A di X, definiamo l'immagine di A tramite f come $f(A):=\{f(x)\in Y|x\in A\}$  "f di A".  
