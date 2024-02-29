@@ -35,3 +35,4 @@ Ugualmente l'intersezione $$\bigcap_{i\in I}X_i:=\{x|x\in X_i,\forall i\in I\}$$
 ## Relazioni e funzioni
 Def. 1.9 Siano X e Y due insieme. Un sottoinsieme $\mathcal R$ di $X\times Y$ si dice relazione tra X e Y. Dati $x\in X$ e $y\in Y$, diciamo che $x\mathcal R y$ (legge, x è in R-relazione con y) se $(x,y)\in\mathcal R$.
 
+Def. 1.10 Siano X e Y due insiemi e sia f una relazione tra X e Y, cioè $f\subset X\times Y$. Diciamo che f è una funzione (o applicazione o mappa) da X in Y se $$\forall x\in X, \exists!y\in Y\;t.c.\;(x,y)\in f$$
