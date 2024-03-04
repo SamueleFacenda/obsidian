@@ -57,4 +57,7 @@ Similmente la controimmagine (B sottoinsieme di Y): $f^{-1}(B):=\{x\in X|f(x)\in
 
 La controimmagine di un singoletto ({y}) si indica come $f^{-1}(y)$ e si chiama fibra di f sopra y.
 
-Siano X e Y due insiemi non vuoti. Consideriamo una fun
+Siano X e Y due insiemi non vuoti. Consideriamo una funzione $f:X\to Y$. (osserviamo che in realtà una funzione è una tripla dominio + codominio + legge).
+Diciamo che:
+1. f è iniettiva se $\forall x_1, x_2\in X\; t.c.\; x_1\ne x_2,allora\;f(x_1)\ne f(x_2)$
+2. f è surgettiva (o suriettiva) se $f(x)=Y$
