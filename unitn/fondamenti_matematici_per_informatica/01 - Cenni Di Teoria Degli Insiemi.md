@@ -64,3 +64,6 @@ Diciamo che:
 3. f è bigettiva (o biettiva) se è al contempo iniettiva e suriettiva (è una bigezione)
 
 Def. Sia $f:X\to Y$ una funzione tra insiemi non vuoti. Diciamo che f è invertibile se $\exists g:Y\to X$ t.c. $g\circ f=id_X$ e $f\circ g=id_Y$. In questo caso $g$ si dice inversa.
+no no
+no si
+si si
