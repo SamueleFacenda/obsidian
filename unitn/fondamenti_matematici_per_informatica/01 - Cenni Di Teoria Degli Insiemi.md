@@ -62,3 +62,5 @@ Diciamo che:
 1. f è iniettiva se $\forall x_1, x_2\in X\; t.c.\; x_1\ne x_2,allora\;f(x_1)\ne f(x_2)$
 2. f è surgettiva (o suriettiva) se $f(X)=Y$ ovvero $\forall y\in Y\exists x\in X\; t.c.\; f(x)=y$
 3. f è bigettiva (o biiettiva) se è al contempo ineittiva e suriettiva
+
+Def. Sia $f:X\to Y$ una funzione tra insiemi non vuoti. Diciamo che f è invertibile se $\exists g:Y\to X$ t.c. $g\circ f=
