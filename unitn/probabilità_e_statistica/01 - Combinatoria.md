@@ -46,3 +46,7 @@ $\binom{n}{k}+\binom{n}{k+1}=\binom{n+1}{k+1}$
 Def. Un esperimento si dice casuale o aleatorio se con i dati a nostra disposizione il risultato è incerto.
 - i risultati a due a due incompatibili prendono il nome di esiti. 
 - vengono rappresentati come elementi di $\Omega$ (spazio campionatorio, spazio degli esiti, popolazione)
+
+## Algebra e $\sigma-algebra$
+
+Def: $\mathscr F \subset \mathcal P(\Omega)$ $\sigma-algebra$
