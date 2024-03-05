@@ -58,6 +58,15 @@ Def: $\mathscr F\subseteq \mathcal P(\Omega)$ algebra se:
 - $A,B \in\mathscr F\implies A\cup B\in\mathscr F$
 
 Def: $\mathscr F \subset \mathcal P(\Omega)$ $\sigma-algebra$
+- $\Omega\in \mathscr F$
+- $A\in \mathscr F\implies A^c \in \mathscr F$
+- $A_1,A_2,\dots=(A_i)^\infty_{i=1}\in\mathscr F\implies\bigcup_{i=1}^\infty A_i\in\mathscr F$
+
+### Proprietà
+$\varnothing\in\mathscr F$
 
 
 $\mathscr F_1,\mathscr F_2\; (\sigma -)algebre\implies \mathscr F_1 \cap\mathscr F_2 \;(\sigma -)algebra$
+
+Def: Gli elementi di $\mathscr F$ si dicono eventi. I singoletti di $\mathscr F$ si dicono eventi elementari.
+L'evento E si verifica se l'esito dell'esperimento aleatorio sta in E.
