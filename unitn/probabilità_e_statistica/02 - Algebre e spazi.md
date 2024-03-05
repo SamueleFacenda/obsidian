@@ -42,4 +42,4 @@ Def. $(\Omega,\mathscr F,\Bbb P)$ si dice spazio di probabilità
 
 Notazione: $\Bbb P(a)=\Bbb P(\{a\})$
 
-## Proprietà della 
+## Proprietà della Probabilità
