@@ -68,10 +68,14 @@ Def: $\mathscr F \subset \mathcal P(\Omega)$ $\sigma-algebra$
 - idem per l'intersezione di n insiemi $\in\mathscr F$
 - idem per l'unione di n insiemi $\in\mathscr F$
 - $A,B\in \mathscr F\implies A\setminus B\in\mathscr F$
-- A,B\in\mathscr F\implies A\triangle B\in\mathscr F$
-
+- $A,B\in\mathscr F\implies A\triangle B\in\mathscr F$
+($\triangle$ è la differenza simmetrica: unione meno intersezione)
 
 $\mathscr F_1,\mathscr F_2\; (\sigma -)algebre\implies \mathscr F_1 \cap\mathscr F_2 \;(\sigma -)algebra$
 
 Def: Gli elementi di $\mathscr F$ si dicono eventi. I singoletti di $\mathscr F$ si dicono eventi elementari.
 L'evento E si verifica se l'esito dell'esperimento aleatorio sta in E.
+
+Def: $\mathscr G\subseteq\mathcal P(\Omega)$ famiglia di sottoinsiemi
+La $\sigma-algebra\;generata$ da $\mathscr G$ è la più piccola $\sigma-algebra$ generata da $\mathscr G$
+$\sigma(\mathscr G)=\cap\{\mathscr F|\mathscr F \;contiene\; \mathscr G\}$
