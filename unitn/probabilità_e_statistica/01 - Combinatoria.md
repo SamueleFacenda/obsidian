@@ -63,7 +63,12 @@ Def: $\mathscr F \subset \mathcal P(\Omega)$ $\sigma-algebra$
 - $A_1,A_2,\dots=(A_i)^\infty_{i=1}\in\mathscr F\implies\bigcup_{i=1}^\infty A_i\in\mathscr F$
 
 ### Proprietà
-$\varnothing\in\mathscr F$
+- $\varnothing\in\mathscr F$
+- $A,B\in\mathscr F\implies A\cap B\in \mathscr F$  perché $A\cap B=(A^c\cup B^c)^c$
+- idem per l'intersezione di n insiemi $\in\mathscr F$
+- idem per l'unione di n insiemi $\in\mathscr F$
+- $A,B\in \mathscr F\implies A\setminus B\in\mathscr F$
+- A,B\in\mathscr F\implies A\triangle B\in\mathscr F$
 
 
 $\mathscr F_1,\mathscr F_2\; (\sigma -)algebre\implies \mathscr F_1 \cap\mathscr F_2 \;(\sigma -)algebra$
