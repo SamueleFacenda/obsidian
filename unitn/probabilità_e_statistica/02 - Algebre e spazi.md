@@ -47,3 +47,4 @@ Notazione: $\Bbb P(a)=\Bbb P(\{a\})$
 $\Bbb P(\varnothing)$
 $E\in\mathscr F\implies \Bbb P(E^c)=1-\Bbb P(E)$
 E,F eventi con $E\subset F\implies \Bbb P(E)\le \Bbb P(F)$
+$\Bbb P(E\cup F)=\Bbb P(E)+\Bbb P(F)-\Bbb P(E\cap F)$
