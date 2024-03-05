@@ -34,6 +34,8 @@ $\sigma(\mathscr G)=\cap\{\mathscr F|\mathscr F \;contiene\; \mathscr G\}$
 ## Spazi di Probabilità
 Def: La coppia $(\Omega,\mathscr F)$ è detto spazio probabilizzabile
 Def: Su $(\Omega,\mathscr F)$ sia $\Bbb P:\mathscr F\to\Bbb R$ si dice misura se
-- uno
-- due
-- $(E_i)_{i=1}^\infty$ famiglia numerabile di eventi a 
+- $\forall E\in\mathscr F\qquad\Bbb P(E)\ge 0$
+- $\Bbb P(\Omega)=1$
+- $(E_i)_{i=1}^\infty$ famiglia numerabile di eventi a due a due disgiunti $\implies \Bbb P(\bigcup_{i=1}^\infty E_i)=\sum_{i=1}^n\Bbb P(E_i)$
+
+Def. $(\Omega,\mathscr F,Bbb P)$ si dice spazio di probabilità
