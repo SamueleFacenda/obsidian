@@ -43,3 +43,6 @@ Def. $(\Omega,\mathscr F,\Bbb P)$ si dice spazio di probabilità
 Notazione: $\Bbb P(a)=\Bbb P(\{a\})$
 
 ## Proprietà della Probabilità
+
+$\Bbb P(\varnothing)$
+$E\in\mathscr F\implies \Bbb P(E^c)=1-\Bbb P(E)$
