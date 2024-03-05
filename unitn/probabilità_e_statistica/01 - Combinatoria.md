@@ -49,4 +49,15 @@ Def. Un esperimento si dice casuale o aleatorio se con i dati a nostra disposizi
 
 ## Algebra e $\sigma-algebra$
 
+$\mathcal P(\Omega)=$ insieme della parti di omega, insieme di tutti i sottoinsiemi
+$\#\mathcal P(\Omega)=2^{\#\Omega}$
+
+Def: $\mathscr F\subseteq \mathcal P(\Omega)$ algebra se:
+- $\Omega\in \mathscr F$
+- $A\in \mathscr F\implies A^c \in \mathscr F$
+- $A,B \in\mathscr F\implies A\cup B\in\mathscr F$
+
 Def: $\mathscr F \subset \mathcal P(\Omega)$ $\sigma-algebra$
+
+
+$\mathscr F_1,\mathscr F_2\; (\sigma -)algebre\implies \mathscr F_1 \cap\mathscr F_2 \;(\sigma -)algebra$
