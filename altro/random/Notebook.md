@@ -10,4 +10,5 @@ acer swift X 14
 rog zephyrus g14
 
 thinkbook poca batteria
-dell perfetti ma costano troppo
+dell perfetti, costano un botto
+msi no batteria
