@@ -67,3 +67,9 @@ Def. Sia $f:X\to Y$ una funzione tra insiemi non vuoti. Diciamo che f è inverti
 no no
 no si
 si si
+
+## Teorema di ricorsione
+- X insieme non vuoto
+- $h:\Bbb N \times X\to X$ funzione
+- $c\in X$
+Tesi: $\exists!f:\Bbb N\to X$ t.c. $f(0):=c$ , $f(succ(n))=h(n, f(n))\forall n\in \Bbb N$
