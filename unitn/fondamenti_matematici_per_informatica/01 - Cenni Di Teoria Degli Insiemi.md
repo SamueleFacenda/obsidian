@@ -73,3 +73,6 @@ si si
 - $h:\Bbb N \times X\to X$ funzione
 - $c\in X$
 Tesi: $\exists!f:\Bbb N\to X$ t.c. $f(0):=c$ , $f(succ(n))=h(n, f(n))\forall n\in \Bbb N$
+
+### Ordinamento parziale e totale
+Sia X un inseme non vuoto e R una relazione riflessiva su X, cioè $R\subset X
