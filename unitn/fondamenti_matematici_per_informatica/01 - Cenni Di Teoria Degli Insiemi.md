@@ -75,4 +75,8 @@ si si
 Tesi: $\exists!f:\Bbb N\to X$ t.c. $f(0):=c$ , $f(succ(n))=h(n, f(n))\forall n\in \Bbb N$
 
 ### Ordinamento parziale e totale
-Sia X un inseme non vuoto e R una relazione riflessiva su X, cioè $R\subset X
+Sia X un inseme non vuoto e R una relazione binaria su X, cioè $R\subset X\times X$, diciamo che $\le$ è un ordinamento parziale di X se
+1. $x\le x\forall x\in X$ (riflessiva)
+2. $\forall x,y\in X, (x\le y)\, \, (y\le x) \implies x=y$ (antisimmetrica)
+3. $\forall x,y, z\in X, x\le y, y\le z\implies x\le y$ (transitiva)
+Se in più vale $\forall x, y\in X, x\le y$ oppure $y\le x$ (tricotomia) allora si parla di ordinamento totale.
