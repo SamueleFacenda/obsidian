@@ -11,3 +11,6 @@ In generale: $\Bbb P(E|F)\ne\Bbb P(F|E)$
 
 Sia $(\Omega, \mathscr F, \Bbb P)$ uno spazio di probabilità, $E,F\in\mathscr F$ di probabilità non nulla. Allora
 $$\Bbb P(E|F)=\frac{\Bbb P(F|E)\Bbb P(E)}{\Bbb P(F)}$$
+Corollario. $(E_i)_{i\in I}$ partizione di $\Omega$ $\Bbb P(E_i)\ne 0$
+$\forall E,F\in\mathscr F$
+$$\Bbb P(E|F)=\frac{\Bbb P(F|E)\Bbb P(E)}{\sum_{i\in I}\Bbb P(F|E_i)\Bbb P(E_i)}$$
