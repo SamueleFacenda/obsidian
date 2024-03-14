@@ -89,3 +89,6 @@ Inoltre $I_0=\varnothing$
 Def. Dato un insieme X, diciamo che X è FINITO se $\exists n\in \Bbb N$ t.c. $X\sim I_n$. Se X non è finito allora si dice infinito.
 
 Teorema. (Lemma dei cassetti)
+Siano X e Y due insiemi e siano $n,m\in\Bbb N$ t.c. $X\sim I_n$ e $Y\sim I_m$, n<m.
+Allora $\nexists$ una funzione iniettiva $f:Y\to X$.
+
