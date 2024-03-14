@@ -82,3 +82,10 @@ Sia X un inseme non vuoto e R una relazione binaria su X, cioè $R\subset X\time
 Se in più vale $\forall x, y\in X, x\le y$ oppure $y\le x$ (tricotomia) allora si parla di ordinamento totale.
 
 Teorema: principio di induzione "shiftato" di prima forma.
+
+### Insiemi finiti e loro cardinalità
+Per ogni $n\in\Bbb N \setminus \{0\}$, indichiamo con $I_n:=\{0,1,\dots,n-1\}$
+Inoltre $I_0=\varnothing$
+Def. Dato un insieme X, diciamo che X è FINITO se $\exists n\in \Bbb N$ t.c. $X\sim I_n$. Se X non è finito allora si dice infinito.
+
+Teorema. (Lemma dei cassetti)
