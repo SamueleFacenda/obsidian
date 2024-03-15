@@ -68,3 +68,18 @@ Non si può lamentare dell'Italia perché gli ha dato tutto:
 - posto letto
 - cibo
 Non gli mancava quasi niente, solo i soldi.
+In Camerun non c'è la guerra--> in libia c'è--> la commissione non ha tenuto conto che partiva dalla libia, ma dal camerun= non c'è la guerra--> risultato negativo.
+In libia aveva un appartamento
+Mettiamo Dio davanti a tutto--> dopo tutto questo casino abbiamo i documenti (dopo il ricorso)
+
+
+Senza documenti sei clandestino.
+Non è facile vivere qua senza documenti, a Trento senza docuemtni non ti assumono al sud no perché puoi lavorare nei campi.
+
+Ognuno vuole restare dove c'è la sua famiglia.
+
+Gli piace l'italia perché gli piace il calcio, voleva andare a san siro a vedere l'inter ma non c'è ancora andato.
+
+Qualcuno o qualcosa con cui sei arrabbiato per questo viaggio?
+arrabbiato è una parola grossa, magari 
+per mandarlo via hanno distrutto un paese
