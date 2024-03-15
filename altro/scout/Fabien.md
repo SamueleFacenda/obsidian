@@ -39,7 +39,7 @@ hanno viaggiato insieme, non mangiavano se non c'erano tutti
 un ragazzo è in germania--> gli chiede di andare
 
 
-qUANDO andò a monaco, il tempo di andare in stazione fu bloccato all'ingresso per chiedere i documenti. Lui aveva solo un foglio, ma non era un documento allora fu riaccompagnato.
+Quando andò a monaco, il tempo di andare in stazione fu bloccato all'ingresso per chiedere i documenti. Lui aveva solo un foglio, ma non era un documento allora fu riaccompagnato.
 
 
 La ligua ufficiale--> francese
@@ -53,4 +53,18 @@ Adesso collabora con il centro di salute mentale in collaborazione con il comune
 
 Con il centro della salute mentale--> persone con problemi mentali--> aiutarli ad avere una migliore autonomia--> insere nel mondo del lavoro.
 
-Fabien è in Italia dal 2011, ma non ha ancora la cittadinanza Italiana perché richiede molti documenti 
+Fabien è in Italia dal 2011, ma non ha ancora la cittadinanza Italiana perché richiede molti documenti. Deve andare a prendere in documenti, andare all'ambasciata--> tempi stretti con il lavoro 1 mese a casa.
+
+Rimane in contatto con la sua famiglia in Camerun. Una volta che è stato molto difficile per lui: ha fatto difficoltà a riconoscere la sorella crescituta. Tecnologia si è evoluta, ma al tempo non aveva i soldi per pagare a loro i cellulari.
+
+Dio gli ha permesso di aiutare i suoi fratelli:
+- Il più piccolo si è laureato--> falegname in turchia
+- uno si è laureato e ha avuto la fortuna di arrivare in francia
+
+Non c'è il supporto ai migrati, se arrivi ed hai le forze di integranti.
+In Africa è facile prendere la cittadinanza di un altro paese. In libia gli hanno proposto la cittadinanza, ma doveva fare il servizio civile.
+Non si può lamentare dell'Italia perché gli ha dato tutto:
+- scuola gratis--> corso di lingua 
+- posto letto
+- cibo
+Non gli mancava quasi niente, solo i soldi.
