@@ -33,4 +33,24 @@ Quando ha dovuto mettere le impronte gli hanno chiesto se fumasse. A lampedua so
 
 
 tRA migranti poveri ci siamo aiutati molto. in libia ci sono stati ragazzi che per me sono stati angeli. Quei dure ragazzi mi hanno sostenuto tanto,lavoravano lì da anni, conoscevano la ligua...
-Dio mi ha mandato quelle due pers
+Dio mi ha mandato quelle due persone, sono state 
+Le persone si aiutano oltre alle identità--> lui cristiano con due musulmani
+hanno viaggiato insieme, non mangiavano se non c'erano tutti
+un ragazzo è in germania--> gli chiede di andare
+
+
+qUANDO andò a monaco, il tempo di andare in stazione fu bloccato all'ingresso per chiedere i documenti. Lui aveva solo un foglio, ma non era un documento allora fu riaccompagnato.
+
+
+La ligua ufficiale--> francese
+
+Appena arrivi in un posto devi imparare la lingua--> sei tu che devi integrarti.
+
+Sei una persona religiosa? NOn so se posso definirmi tale, ma ci credo.
+
+
+Adesso collabora con il centro di salute mentale in collaborazione con il comune di trento. Fa assistenza a persone disabili, anziani soli--> accompagnamenti al caf, in ospedale, andare a casa e fare delle attività.
+
+Con il centro della salute mentale--> persone con problemi mentali--> aiutarli ad avere una migliore autonomia--> insere nel mondo del lavoro.
+
+Fabien è in Italia dal 2011, ma non ha ancora la cittadinanza Italiana perché richiede molti documenti 
