@@ -117,3 +117,9 @@ per far arrivare il figlio--> casa con i metri quadri giusti (cosa che gli manca
 
 ha 3 figli, si è sposato nel 2019--> 2 figli: il 23 la figlia compie 1 anno e l'altro 4 anni.
 Loro e la moglie sono in camerun. Loro possono venire, ma deve dare delle garanzie (casa).
+
+viaggiava per lavoro, si spostava con il relatore per andare ad alcuni convegni.
+
+se lascia trento lascia l'italia. 
+ha studiato (ma non troppo)--> voleva aiutare i fratelli, era per far studiare loro--> solo lavorando poteva farlo, c'è riuscito. La sua maturità del camerun, non è riconsociuto--> ha fatto il serale (medie 3 anni in 1). 
+studaire è la miglior cosa che può capitare a qualcuno. se lui non ha studiato dovevano farlo i suoi fratelli-->  mi sono sacrificato per i miei fratelli.
