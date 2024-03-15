@@ -89,6 +89,19 @@ Tutto il mondo è paese.
 
 Bisogna conoscere ogni persona e la propria storia.
 Ha fatto assistenza da una persona che non lo voleva per il colore della pelle--> ha mandato qualcun altro. Adesso la stessa persona lo invita a casa per bere un caffé.
- Tutti si devono abbituare.
+ Tutti si devono abituare.
 Secondo te cosa vuol dire integrarsi?
 L'integrazione è accettare il posto in cui sei finito, la cultura e le regole del posto. Non puoi voler integrarsi e imporre le tue regole. 
+Sei arrivato, ti hanno accolto--> accettare la cultura, conoscere la lingua, vivere come vivono le persone.
+Imparare a vivere le persone di quel posto.
+
+Se sei arrivato e sei rimasto c'è qualcosa che ti piace.  Trento--> montagne come in Camerun.
+
+Le persone che accolgono --> oltre le sue aspettative.
+L'unica cosa che gli è dispiaciuto è il negativo--> lavorava per il comune, ma non contavano.
+
+in africa ha lavorato molto con le mani, qui nel sociale (anche in un dormitorio).
+Ogni persona ha la sua storia, come ti comporti determina il tuo futuro.
+Le porte che si aprono sono le persone. Devi conquistare il cuore delle persone per aprire le porte.
+
+
