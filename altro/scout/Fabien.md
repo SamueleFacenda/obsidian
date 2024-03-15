@@ -81,5 +81,14 @@ Ognuno vuole restare dove c'è la sua famiglia.
 Gli piace l'italia perché gli piace il calcio, voleva andare a san siro a vedere l'inter ma non c'è ancora andato.
 
 Qualcuno o qualcosa con cui sei arrabbiato per questo viaggio?
-arrabbiato è una parola grossa, magari 
-per mandarlo via hanno distrutto un paese
+arrabbiato è una parola grossa, magari dispiaciuto
+per mandarlo (ghe) via hanno distrutto un paese, si poteva risolvere in un altro modo-> bastava utilizzare l'intelligenza. Costruire un paese ci vogliono anni. Ancora adesso non c'è la pace, c'è un paese diviso.
+
+Anche tu devi dare delle garanzie per farti accogliere dalle persone. Tutte delle persone hanno delle storie, delle ferite. CI sono persone che ci accolgono facilmente, alcuni ti salutano altri fanno finta.
+Tutto il mondo è paese.
+
+Bisogna conoscere ogni persona e la propria storia.
+Ha fatto assistenza da una persona che non lo voleva per il colore della pelle--> ha mandato qualcun altro. Adesso la stessa persona lo invita a casa per bere un caffé.
+ Tutti si devono abbituare.
+Secondo te cosa vuol dire integrarsi?
+L'integrazione è accettare il posto in cui sei finito, la cultura e le regole del posto. Non puoi voler integrarsi e imporre le tue regole. 
