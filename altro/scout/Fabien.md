@@ -11,7 +11,7 @@ In Libia fece 1 mese di strada sotto il sole e sulla sabbia bollente. Camminavan
 Raggiunsero Tripoli dove incontrò il fratello del suo amico e per fortuna non mentiva, trovò un lavoro.
 Nel 2011 iniziò la rivoluzione nel Bengali. La Nato bombardò il paese. 
 Fabien fu costretto a lasciare il paese perché diventava sempre più pericoloso rimanere. 
-Andò in Marocco per vedere la vita, ma si accorse che la Libia fosse un paese più sviluppato e con gli stipendi migliori per la manodopa.
+Andò in Marocco per vedere la vita, ma si accorse che la Libia fosse un paese più sviluppato e con gli stipendi migliori per la manodopera.
 Quando fu accolto dalla guardia costiera italiana parlava arabo (penò di essere in marocco, capì di essere in Italia dopo aver visto la bandiera).
 Da Lampedusa arrivò a Trento.
 Cercò di viaggiare per l'Europa, ma senza documenti è complicato.
@@ -19,4 +19,18 @@ Fu beccato in Austria, Norvegia e fu rimandato in Italia. Andò in Belgio, ma to
 A Fabien piace viaggiare perché
 Quando arrivano i migranti in Italia, c'è una procedura che determina se le persona rimane o no. In Africa non esiste, in Libia lavorava senza documenti. 
 Quando richiese l'asilo politico, arrivò l'ora della commissione ed ebbe un esito negati (doveva lasciare l'Italia). Dopo l'esito negativo arrabbiò perché voleva lavorare, ha fatto ricorso e per fortuna ed ebbe 1 anno di permesso. Da quel momento è in regola.
-Ogni persona ha la sua esperienza, per qualcuno può essere più complicato m
+Ogni persona ha la sua esperienza, per qualcuno può essere più complicato ma per altre person.
+L'immigrazione non è nato oggi. Le persone vanno e vengono. Fabien è partito, altri sono arrivati. 
+Una persona che viaggia ha la mente aperta. Le nuove culture ti pongono delle domande.
+Arrivi in un paese con più libertà e in altri meno, conosci molte cose. 
+Quello che credi giusto può essere anche sbagliato, ma dipende dal posto che sei.
+In italia--> domenica libera
+alcuni paesi--> venerdì solo in moschea, non hai libertà
+
+
+Durante le 3 settimane al centro di accoglienza sono liberi, ma chi ha dei sintomi di malattia c'è la croce rossa e ti portano a farti delle visite. 
+Quando ha dovuto mettere le impronte gli hanno chiesto se fumasse. A lampedua sono molto attrezzati--> solo se presenti alcuni sintomi.
+
+
+tRA migranti poveri ci siamo aiutati molto. in libia ci sono stati ragazzi che per me sono stati angeli. Quei dure ragazzi mi hanno sostenuto tanto,lavoravano lì da anni, conoscevano la ligua...
+Dio mi ha mandato quelle due pers
