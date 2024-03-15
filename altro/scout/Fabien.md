@@ -104,4 +104,16 @@ in africa ha lavorato molto con le mani, qui nel sociale (anche in un dormitorio
 Ogni persona ha la sua storia, come ti comporti determina il tuo futuro.
 Le porte che si aprono sono le persone. Devi conquistare il cuore delle persone per aprire le porte.
 
+Quando era in africa vedeva in televisione--> persone credono alla televisione
+in italia devi lavorare per guadagnarsi da vivere--> le persone non ci credono perché credono alla tv.
+se dici alle persone il contrario di quello che vedono--> cerchi problemi (non vuoi che veniamo?)
+Il cambiamento si vede
+L'immigrazione non si fermerà, sia per le persone che partono che arrivano.
 
+Vorrebbe portare suo figlio qua, non sa se riesce a tronare a vivere in camerun.
+è straniero sia qui che in camerun perché è da più di 20 che non vive lì.(è PARTITO a 18 anni)
+
+per far arrivare il figlio--> casa con i metri quadri giusti (cosa che gli manca+ lavoro)
+
+ha 3 figli, si è sposato nel 2019--> 2 figli: il 23 la figlia compie 1 anno e l'altro 4 anni.
+Loro e la moglie sono in camerun. Loro possono venire, ma deve dare delle garanzie (casa).
