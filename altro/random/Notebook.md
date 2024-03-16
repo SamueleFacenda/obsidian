@@ -9,6 +9,7 @@
 | dell xps 14          | Ultra 7 155H    | 32/64          | rtx 4050  | 69.5    | 3th                 | 2200  |
 | zbook firefly g10 14 | i7-1355U        | 32/64          | A500      | 51      |                     | 1761  |
 | surface studio 2     | i7-13700H       | 32/64          | 4060      | 58      | 2th A surface       | 3220  |
+| acer swift x 14      | i7-13700H       | 16             | 4050      | 76      | hdmi A usbc         | 1700  |
 https://www.dell.com/en-us per dell usa (in italia mancano configurazioni)
 
 acer swift X 14
