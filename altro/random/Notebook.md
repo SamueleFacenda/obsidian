@@ -5,8 +5,8 @@
 | zenbook 14 pro oled | i7-13700H       | 16 espandibile | rtx 4060  | 76      | usbc th hdmi A  | 2k    |
 | dell precision 5480 | i9-13900H       | 64             | ada 3000  | 72      |                 | 3670  |
 | dell precision 5490 | Ultra 9 185H    | 64             | ada 3000  | 72      |                 | 3979  |
-https://www.dell.com/en-us per dell usa
-dell precision 5470
+| dell precision 3490 | Ultra 7 165H    | 32             | ada 500   | 72      |                 |       |
+https://www.dell.com/en-us per dell usa (in italia mancano configurazioni)
 dell precision 5480
 dell xps 14
 HP ZBook Firefly G10 14
