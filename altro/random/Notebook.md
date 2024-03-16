@@ -1,6 +1,6 @@
-| model          | cpu      | ram   | gpu  | ratio | battery | ports |
-| -------------- | -------- | ----- | ---- | ----- | ------- | ----- |
-| thinkpad p14 s | i7-1360P | 32/64 | A500 | 16:10 |         |       |
+| model          | cpu      | ram   | gpu  | ratio | battery | ports           |
+| -------------- | -------- | ----- | ---- | ----- | ------- | --------------- |
+| thinkpad p14 s | i7-1360P | 32/64 | A500 | 16:10 | 52.5    | 2A 2th hdmi eth |
 thinkpad p14s
 thinkpad z?
 zenpad 14 pro oled
