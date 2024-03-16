@@ -1,3 +1,6 @@
+| model          | cpu      | ram   | gpu  | ratio | battery | ports |
+| -------------- | -------- | ----- | ---- | ----- | ------- | ----- |
+| thinkpad p14 s | i7-1360P | 32/64 | A500 | 16:10 |         |       |
 thinkpad p14s
 thinkpad z?
 zenpad 14 pro oled
