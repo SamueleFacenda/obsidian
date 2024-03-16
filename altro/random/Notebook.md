@@ -7,7 +7,7 @@
 | dell precision 5490  | Ultra 9 185H    | 64             | ada 3000  | 72      |                     | 3979  |
 | dell precision 3490  | Ultra 7 165H    | 32/64          | ada 500   | 54      | A hdmi eth usbc 2th | 2376  |
 | dell xps 14          | Ultra 7 155H    | 32/64          | rtx 4050  | 69.5    | 3th                 | 2200  |
-| zbook firefly g10 14 |                 |                |           |         |                     |       |
+| zbook firefly g10 14 | i7-1355U        | 32/64          | A500      | 51      |                     | 1761  |
 https://www.dell.com/en-us per dell usa (in italia mancano configurazioni)
 HP ZBook Firefly G10 14
 surface studio 2
