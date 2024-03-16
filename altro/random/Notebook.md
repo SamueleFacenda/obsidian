@@ -10,12 +10,5 @@
 | zbook firefly g10 14 | i7-1355U        | 32/64          | A500      | 51      |                     | 1761  |
 | surface studio 2     | i7-13700H       | 32/64          | 4060      | 58      | 2th A surface       | 3220  |
 | acer swift x 14      | i7-13700H       | 16             | 4050      | 76      | hdmi A usbc         | 1700  |
-| rog zephyrus g14     | Ryzen 9 8945HS  | 32             | 4070      |         |                     |       |
+| rog zephyrus g14     | Ryzen 9 8945HS  | 32             | 4070      | 73      | 2A 2usbc hdmi       | 2600  |
 https://www.dell.com/en-us per dell usa (in italia mancano configurazioni)
-
-acer swift X 14
-rog zephyrus g14
-
-thinkbook poca batteria
-dell perfetti, costano un botto
-msi no batteria
