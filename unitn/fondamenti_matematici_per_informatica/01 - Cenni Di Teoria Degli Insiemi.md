@@ -95,3 +95,5 @@ Allora $\nexists$ una funzione iniettiva $f:Y\to X$.
 
 Prop 4.4. Sia X un insieme finito e sia Y un suo sottoinsieme. Allora Y è finito e $|Y|\le|X|$.
 
+### Buon ordinamento
+Sia X un insieme e $\le$ un ordinamento (parziale) su X. Scegliamo un sottoinsieme A di X e sia $z\in A$. Si dice che z è minimo di A (in $(X,\le)$) se $z\le x\forall x\in A$. In questo 
