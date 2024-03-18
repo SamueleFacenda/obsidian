@@ -109,4 +109,4 @@ Allora $P(n)\text{ è vera }\forall n\in\Bbb N$.
 
 ### La divisione euclidea
 Teorema (esistenza e unicità del quoziente e del resto della divisione euclidea).
-Siano $n,m\in\Bb
+Siano $n,m\in\Bbb Z\;t.c.\;m\ne0$. Allora $\exists!q,r\in\Bbb Z\;t.c. n=qm+r, 0\le r< |m|$. Si dice che q è il quoziente della divisione di n per m e r è il resto. Inoltre $q,r\in \Bbb N$ se $n,m\in\Bbb N$.
