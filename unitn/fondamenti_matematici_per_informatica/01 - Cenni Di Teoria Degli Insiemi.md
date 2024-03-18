@@ -104,5 +104,9 @@ Def 7.3. Sia X un insieme e sia $\le$ un ordinamento totale su X. Se ogni sottoi
 ## Principio di ricorsione di $2^a$ forma
 Sia $\{P(n)\}_{n\in\Bbb N}$ una famiglia di proposizioni indicizzata su $\Bbb N$. Supponiamo che valgano le seguenti proprietà:
 1. (base induzione) P(0) è vera
-2. (passo induttivo) $\forall n>0, (P(k)\text{ vera } \forall k\in\Bbb N, 0\le k<n)\implies P(N)\;vera\;$
+2. (passo induttivo) $\forall n>0, (P(k)\text{ vera } \forall k\in\Bbb N, 0\le k<n)\implies P(n)\;vera\;$
 Allora $P(n)\text{ è vera }\forall n\in\Bbb N$.
+
+### La divisione euclidea
+Teorema (esistenza e unicità del quoziente e del resto della divisione euclidea).
+Siano $n,m\in\Bb
