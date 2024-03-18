@@ -99,4 +99,4 @@ Prop 4.4. Sia X un insieme finito e sia Y un suo sottoinsieme. Allora Y è finit
 Def. Sia X un insieme e $\le$ un ordinamento (parziale) su X. Scegliamo un sottoinsieme A di X e sia $z\in A$. Si dice che z è minimo di A (in $(X,\le)$) se $z\le x\forall x\in A$. In questo scriveremo $z=min(A)$
 Oss. Se un minimo esiste allora è unico.
 
-Def 7.3. Sia X un insieme e sia $\le$ un ordinamento totale su X. Se ogni sottoinsieme non vuoto A di X allora A ammette il minimo. 
+Def 7.3. Sia X un insieme e sia $\le$ un ordinamento totale su X. Se ogni sottoinsieme non vuoto A di X allora A ammette il minimo, si dice che $(X,\le)$ è ben ordinato.
