@@ -100,3 +100,6 @@ Def. Sia X un insieme e $\le$ un ordinamento (parziale) su X. Scegliamo un sotto
 Oss. Se un minimo esiste allora è unico.
 
 Def 7.3. Sia X un insieme e sia $\le$ un ordinamento totale su X. Se ogni sottoinsieme non vuoto A di X allora A ammette il minimo, si dice che $(X,\le)$ è ben ordinato.
+
+## Principio di ricorsione di $2^a$ forma
+Sia $\{P(n)\}_{}
