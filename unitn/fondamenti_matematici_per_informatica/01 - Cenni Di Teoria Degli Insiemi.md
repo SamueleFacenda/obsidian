@@ -92,3 +92,6 @@ Teorema. (Lemma dei cassetti)
 Siano X e Y due insiemi e siano $n,m\in\Bbb N$ t.c. $X\sim I_n$ e $Y\sim I_m$, n<m.
 Allora $\nexists$ una funzione iniettiva $f:Y\to X$.
 
+
+Prop 4.4. Sia X un insieme finito e sia Y un suo sottoinsieme. Allora Y è finito e $|Y|\le|X|$.
+
