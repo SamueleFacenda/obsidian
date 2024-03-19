@@ -7,4 +7,4 @@ $\sigma(X):=\{X^{-1}(B)|\in\mathcal B(\Bbb R)\}\subset\mathscr F$
 
 Teorema. $x:(\Bbb R,\mathcal B(\Bbb R))\to(\Bbb R,\mathcal B(\Bbb R))$ una funzione continua o monotona $\implies$ x variabile aleatoria.
 Teorema. $x:\Omega\to\tilde\Omega\qquad(\Omega,\mathscr F)$ spazio probabilità
-Allora $\tilde{\mathscr F}=\{}
+Allora $\tilde{\mathscr F}=\{\tilde E\subseteq\tilde\Omega|x^{-1}(\tilde E)\in\mathscr F\}\,\sigma algebra$
