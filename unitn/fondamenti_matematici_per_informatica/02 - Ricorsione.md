@@ -44,5 +44,7 @@ Siano $n,m\in\Bbb Z\;t.c.\;m\ne0$. Allora $\exists!q,r\in\Bbb Z\;t.c. n=qm+r, 0\
 ## Naturali in base $b\ge2$
 Sia $b\in\Bbb N$. Diciamo che un numero $n\in\Bbb N$ è rappresentabile in base b se
 $$\exists k\in\Bbb N\;e\; \varepsilon_0\varepsilon_1,\dots,\varepsilon_k\in I_b\; t.c.\; n=\varepsilon_0b^0+\varepsilon_1b^1+\dots+\varepsilon_kb^k=\sum_{i=0}^k\varepsilon_ib^i$$
+Posso usare una successione con $i\in\Bbb N$ sempre e avrà $\varepsilon_i=0$ definitivamente.
+
 Teorema 8.4(scrittura dei naturali in base arbitraria $\ge2$ ).
 Sia $b\in\Bbb N\;t..\;b\ge2$. Allora ogni numero naturale $n\in\Bbb N$ si può rappresentare in base b in modo unico.
