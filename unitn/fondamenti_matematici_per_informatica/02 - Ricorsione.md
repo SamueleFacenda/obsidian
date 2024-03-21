@@ -43,4 +43,6 @@ Siano $n,m\in\Bbb Z\;t.c.\;m\ne0$. Allora $\exists!q,r\in\Bbb Z\;t.c. n=qm+r, 0\
 
 ## Naturali in base $b\ge2$
 Sia $b\in\Bbb N$. Diciamo che un numero $n\in\Bbb N$ è rappresentabile in base b se
-$$\exists k\in\Bbb N\;e\; \mathcal E_0,\mathcal E_1,\dots,\mathcal E_k\in I_b$ t.c. $n=\mathcal E_0b^0+\mathcal E_1b^1+\dots+\mathcal E_kb^k=\sum_{i=0}^k\mathcal E_ib^i$$
+$$\exists k\in\Bbb N\;e\; \varepsilon_0\varepsilon_1,\dots,\varepsilon_k\in I_b\; t.c.\; n=\varepsilon_0b^0+\varepsilon_1b^1+\dots+\varepsilon_kb^k=\sum_{i=0}^k\varepsilon_ib^i$$
+Teorema 8.4(scrittura dei naturali in base arbitraria $\ge2$ ).
+Sia $b\in\Bbb N\;t..\;b\ge2$. Allora ogni numero naturale $n\in\Bbb N$ si può rappresentare in base b in modo unico.
