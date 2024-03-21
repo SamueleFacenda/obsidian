@@ -42,4 +42,6 @@ Teorema (esistenza e unicità del quoziente e del resto della divisione euclidea
 Siano $n,m\in\Bbb Z\;t.c.\;m\ne0$. Allora $\exists!q,r\in\Bbb Z\;t.c. n=qm+r, 0\le r< |m|$. Si dice che q è il quoziente della divisione di n per m e r è il resto. Inoltre $q,r\in \Bbb N$ se $n,m\in\Bbb N$.
 
 ## Naturali in base $b\ge2$
-Sia $b\in\Bbb N$. Diciamo che un nume
+Sia $b\in\Bbb N$. Diciamo che un numero $n\in\Bbb N$ è rappresentabile in base b se
+- $\exists k\in\Bbb N\;e\; \mathcal E_0,\mathcal E_1,\dots,\mathcal E_k\in I_b$ t.c. $n=\mathcal E_0b^0+\mathcal E_1b^1+\dots+\mathcal E_kb^k=\sum_{i=0}^k\mathcal E_ib^i$
+- 
