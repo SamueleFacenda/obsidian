@@ -13,3 +13,5 @@
 | acer swift x 14      | i7-13700H       | 16             | 4050      | 76      | hdmi A usbc         | 1700  |         |
 | rog zephyrus g14     | Ryzen 9 8945HS  | 32             | 4070      | 73      | 2A 2usbc hdmi       | 2600  |         |
 https://www.dell.com/en-us per dell usa (in italia mancano configurazioni)
+
+https://www.dell.com/it-it/shop/workstation-con-certificazione-e-ottimizzazione-da-parte-di-isv/nuovo-precision-5480-workstation/spd/precision-14-5480-laptop/xctop5480emea_vp 5480 configurabile
