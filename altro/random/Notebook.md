@@ -15,6 +15,5 @@
 https://www.dell.com/en-us per dell usa (in italia mancano configurazioni)
 
 https://www.dell.com/it-it/shop/workstation-con-certificazione-e-ottimizzazione-da-parte-di-isv/nuovo-precision-5480-workstation/spd/precision-14-5480-laptop/xctop5480emea_vp 5480 configurabile
-https://www.dell.com/it-it/shop/workstation-con-certificazione-e-ottimizzazione-da-parte-di-isv/nuovo-precision-5480-workstation/spd/precision-14-5490-laptop/xctop5490emea_vp 5490 configurabile
+https://www.dell.com/it-it/shop/workstation-con-certificazione-e-ottimizzazione-da-parte-di-isv/nuovo-precision-5490-workstation/spd/precision-14-5490-laptop/xctop5490emea_vp 5490 configurabile
 zenbook pro 14 oled UX6404VI
-Test modifica
