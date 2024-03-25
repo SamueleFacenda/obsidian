@@ -31,4 +31,7 @@ Prop 9.6. con le stesse premesse, se esiste un MCD tra n e m allora è unico. Ov
 Notaz. Se $\exists$ MCD tra n e m non entrambi nulli, allora è ! e lo indicheremo con (n,m).
 
 ### Lemma utile
-Siano $n,m,c\in\Bbb Z$ t.c. $c\mid n,c\mid m$. Scegliamo arbitrariamente $x,y\in\Bbb Z$. Allora $c\mid(xn+ym)$. 
+Siano $n,m,c\in\Bbb Z$ t.c. $c\mid n,c\mid m$. Scegliamo arbitrariamente $x,y\in\Bbb Z$. Allora $c\mid(xn+ym)$.
+
+Teorema 9.8.
+Siano $n,m\in \Bbb Z$ non entrambi nulli. Allora $\exists!$ MCD tra n e m.
