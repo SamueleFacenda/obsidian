@@ -37,14 +37,3 @@ Sia $\{P(n)\}_{n\in\Bbb N}$ una famiglia di proposizioni indicizzata su $\Bbb N$
 2. (passo induttivo) $\forall n>0, (P(k)\text{ vera } \forall k\in\Bbb N, 0\le k<n)\implies P(n)\;vera\;$
 Allora $P(n)\text{ è vera }\forall n\in\Bbb N$.
 
-### La divisione euclidea
-Teorema (esistenza e unicità del quoziente e del resto della divisione euclidea).
-Siano $n,m\in\Bbb Z\;t.c.\;m\ne0$. Allora $\exists!q,r\in\Bbb Z\;t.c. n=qm+r, 0\le r< |m|$. Si dice che q è il quoziente della divisione di n per m e r è il resto. Inoltre $q,r\in \Bbb N$ se $n,m\in\Bbb N$.
-
-## Naturali in base $b\ge2$
-Sia $b\in\Bbb N$. Diciamo che un numero $n\in\Bbb N$ è rappresentabile in base b se
-$$\exists k\in\Bbb N\;e\; \varepsilon_0\varepsilon_1,\dots,\varepsilon_k\in I_b\; t.c.\; n=\varepsilon_0b^0+\varepsilon_1b^1+\dots+\varepsilon_kb^k=\sum_{i=0}^k\varepsilon_ib^i$$
-Posso usare una successione con $i\in\Bbb N$ sempre e avrà $\varepsilon_i=0$ definitivamente.
-
-Teorema 8.4(scrittura dei naturali in base arbitraria $\ge2$ ).
-Sia $b\in\Bbb N\;t..\;b\ge2$. Allora ogni numero naturale $n\in\Bbb N$ si può rappresentare in base b in modo unico.
