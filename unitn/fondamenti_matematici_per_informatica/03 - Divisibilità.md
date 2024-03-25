@@ -21,3 +21,8 @@ Proprietà:
 Prop 9.3. Siano $n,m,q\in \Bbb Z$. Allora valgono:
 - $n\mid m,m\mid q\implies n\mid q$
 - $n\mid m,m\mid m\implies n=m\;oppure\;n=-m$
+
+## Massimo comune divisore (gcd)
+Siano $n,m\in\Bbb Z$ non entrambi nulli. Si dice che $d\in\Bbb N$ è un Massimo Comun Divisore, in breve MCD, di/tra n e m se ha le seguenti proprietà:
+- $d\mid n$ e $d\mid m$.
+- 
