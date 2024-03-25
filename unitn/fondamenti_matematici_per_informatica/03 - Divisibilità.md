@@ -24,5 +24,7 @@ Prop 9.3. Siano $n,m,q\in \Bbb Z$. Allora valgono:
 
 ## Massimo comune divisore (gcd)
 Siano $n,m\in\Bbb Z$ non entrambi nulli. Si dice che $d\in\Bbb N$ è un Massimo Comun Divisore, in breve MCD, di/tra n e m se ha le seguenti proprietà:
+- $d>0$
 - $d\mid n$ e $d\mid m$.
-- 
+- Se $c\in\Bbb Z\;t.c.\;c\mid n$ e $c\mid m$, allora $c\mid d$.
+Prop 9.6. con le stesse premesse, se esiste un MCD tra n e m allora è unico. Ovvero se $\exists d,d'\in N\;t.c.$ valgono le proprietà sopra per entrambi, allora $d=d'$.
