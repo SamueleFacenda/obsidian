@@ -38,3 +38,6 @@ Siano $n,m\in \Bbb Z$ non entrambi nulli. Allora $\exists!$ MCD tra n e m.
 
 Corollario 9.8.
 Siano $n,m\in\Bbb Z$ non entrambi nulli. Allora $(n,m)=xn+ym$ per qualche $x,y\in\Bbb Z$.
+
+$(n,m)=(|n|,|m|)=max\{c\in\Bbb Z|c\mid n\;e\;c\mid m\}$
+$(n,0)=n$
