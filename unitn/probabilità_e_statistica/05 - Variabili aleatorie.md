@@ -18,4 +18,7 @@ Prop. Se X è una variabile aleatoria discreta e $Y=aX+b\quad a\ne 0,b\in\Bbb R$
 
 
 ### Bernulliane
-X v.a. discreta si dice bernulliana di parametro p con $p\in[0,1]$ se $PMF\quad \varphi_x(x)=\
+X v.a. discreta si dice bernulliana di parametro p con $p\in[0,1]$ se 
+$$PMF\quad \varphi_x(x)=\begin{cases}p\quad x>1\\1-p\quad x=0\\0\quad altrimenti\end{cases}$$
+oppure
+$$CDF\qquad F_x(x)=\begin{cases}0\quad x<0\\1-p\quad 0\le x<1\\1\quad 1\le x\end{cases}$$
