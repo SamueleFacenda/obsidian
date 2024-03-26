@@ -17,3 +17,5 @@ Prop. Se X è una variabile aleatoria discreta e $Y=aX+b\quad a\ne 0,b\in\Bbb R$
 - $a>0\quad F_Y(y)=1-F_X(\frac{y-b}a)+\varphi_X(\frac{y-b}a)$
 
 
+### Bernulliane
+X v.a. discreta si dice bernulliana di parametro p con $p\in[0,1]$ se $PMF\quad \varphi_x(x)=\
