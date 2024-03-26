@@ -41,3 +41,4 @@ Siano $n,m\in\Bbb Z$ non entrambi nulli. Allora $(n,m)=xn+ym$ per qualche $x,y\i
 
 $(n,m)=(|n|,|m|)=max\{c\in\Bbb Z|c\mid n\;e\;c\mid m\}$
 $(n,0)=n$
+se $d:=(n,m)\implies (\frac nd,\frac md)=1$
