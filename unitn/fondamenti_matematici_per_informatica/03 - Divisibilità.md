@@ -44,7 +44,7 @@ $(n,0)=n$
 se $d:=(n,m)\implies (\frac nd,\frac md)=1$
 
 ## Algoritmo di Euclide
-Siano $m,z\in \Bbb Z$ non entrambi nulli. Vogliamo calcolare $(m,n)$ utilizzando la prop 9.13 e anche $(n,0)=|n|\forall n\in \Bbb Z\setminus\{0\}$. Poiché $(n,m)=(m,n)$, possiamo sempre supporre che $m\ge n> 0$. 
+Siano $m,n\in \Bbb Z$ non entrambi nulli. Vogliamo calcolare $(m,n)$ utilizzando la prop 9.13 e anche $(n,0)=|n|\forall n\in \Bbb Z\setminus\{0\}$. Poiché $(n,m)=(m,n)$, possiamo sempre supporre che $m\ge n> 0$. 
 
 algoritmo:
 $m=q_1\cdot n+r_1$
@@ -57,4 +57,4 @@ $(n,m)=r_{n-1}$
 
 sostituzione a ritroso:
 Riscrivo tutte le uguaglianze nella forma $r_n=r_{n-2}-q_n\cdot r_{n-1}$.
-Poi sostituisco gli $r_{n-1}$ con usando l'uguaglianza sopra ($r_{n-1}=\dots$), mantenendo sempre le moltiplicazioni esplicite (non faccio i conti), e procedo fino alla prima uguaglianza.
+Poi sostituisco gli $r_{n-1}$ con usando l'uguaglianza sopra ($r_{n-1}=\dots$), mantenendo sempre le moltiplicazioni esplicite (non faccio i conti), e procedo fino alla prima uguaglianza, fino ad ottenere $x\cdot m+y\cdot n=(m,n)$.
