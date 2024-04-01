@@ -44,4 +44,15 @@ $(n,0)=n$
 se $d:=(n,m)\implies (\frac nd,\frac md)=1$
 
 ## Algoritmo di Euclide
-Siano $m,z\in \Bbb Z$ non entrambi nulli. Vogliamo calcolare $(m,n)$ utilizzando la prop 9.13 e anche $(n,0)=|n|\forall n\in \Bbb Z\setminus\{0\}$. Poiché $(n,m)=(m,n)$, possiamo sempre supporre che $n\ge m> 0$. 
+Siano $m,z\in \Bbb Z$ non entrambi nulli. Vogliamo calcolare $(m,n)$ utilizzando la prop 9.13 e anche $(n,0)=|n|\forall n\in \Bbb Z\setminus\{0\}$. Poiché $(n,m)=(m,n)$, possiamo sempre supporre che $m\ge n> 0$. 
+
+algoritmo:
+$m=q_1\cdot n+r_1$
+$n=q_2\cdot r_1+r_2$
+$r_1=q_3\cdot r_2+r_3$
+$r_2=q_4\cdot r_3+r_4$
+$\dots$
+$r_{n-2}=q_n+r_{n-1}+0$
+$(n,m)=r_{n-1}$
+
+sostituzione a ritroso:
