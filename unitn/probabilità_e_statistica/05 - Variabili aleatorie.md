@@ -23,3 +23,6 @@ $$PMF\quad \varphi_x(x)=\begin{cases}p\quad x>1\\1-p\quad x=0\\0\quad altrimenti
 oppure
 $$CDF\qquad F_x(x)=\begin{cases}0\quad x<0\\1-p\quad 0\le x<1\\1\quad 1\le x\end{cases}$$
 ## Vettori aleatori (discreti)
+Se ho due variabili aleatorie X e Y su $(\Omega, \mathscr F, \Bbb P)$
+Si chiama coppia di v.a. o v.a. doppia o vettore aleatorio di dimensione 2 la funzione 
+$$V:\Omega\to\Bbb R^2\quad V(\omega)=(X(\omega),Y(\omega))$$
