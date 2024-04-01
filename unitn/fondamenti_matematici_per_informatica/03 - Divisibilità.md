@@ -44,4 +44,4 @@ $(n,0)=n$
 se $d:=(n,m)\implies (\frac nd,\frac md)=1$
 
 ## Algoritmo di Euclide
-Siano $m,z\in \Bbb Z$ non entrambi nulli. Vogliamo calcolare $(m,n)$ utilizzando la 
+Siano $m,z\in \Bbb Z$ non entrambi nulli. Vogliamo calcolare $(m,n)$ utilizzando la prop 9.13 e anche $(n,0)=|n|\forall n\in \Bbb Z\setminus\{0\}$. Poiché $(n,m)=(m,n)$, possiamo sempre supporre che $n\ge m> 0$. 
