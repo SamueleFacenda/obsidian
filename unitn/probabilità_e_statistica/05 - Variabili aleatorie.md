@@ -44,6 +44,8 @@ $\Omega=\{0,1\}^{\Bbb N\setminus\{0\}}\qquad \mathscr F=\{\text{"cilindri"}\}$
 $C=\{\omega=(\omega_1,\omega_2,\dots)|\forall i=1,2,\dots,n\quad\omega_i=v_i\in\{0,1\}\}$    (cilindri)
 $\Bbb P(C)=p^{\sum v_i}(1-p)^{1-\sum v_i}$
 
+## Geometriche
+Def. X è v.a. geometrica 
 
 
 
