@@ -33,3 +33,17 @@ $$\varphi_{x,y}(x,y)=\varphi_x(x)\varphi_y(y)$$
 ## Binomiali
 Def. X v.a. discreta è una binomiale di parametri $n\in\Bbb N\setminus\{0\}$ e $p\in [0,1]$ se è la somma di n v.a. di Bernulli indipendenti di parametro p. Scriviamo $X\sim bin(n,p)$
 $\varphi_s(x)=\binom nx p^n (1-p)^{n-x}$
+
+#### Binomiali in $\Bbb R$
+$\varphi_x(y)=d\,binom(y,n,p)\qquad F_x(y)=p\,binom(y,n,p)$
+d: densità, p: ripartizione.
+
+## Schema di Bernulli
+Ripetizioni (potenzialmente) infinite di Bernulli.
+$\Omega=\{0,1\}^{\Bbb N\setminus\{0\}}\qquad \mathscr F=\{\text{"cilindri"}\}$
+$C=\{\omega=(\omega_1,\omega_2,\dots)|\forall i=1,2,\dots,n\quad\omega_i=v_i\in\{0,1\}\}$    (cilindri)
+$\Bbb P(C)=p^{\sum v_i}(1-p)^{1-\sum v_i}$
+
+
+
+
