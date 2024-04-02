@@ -32,3 +32,4 @@ $$\varphi_{x,y}(x,y)=\varphi_x(x)\varphi_y(y)$$
 
 ## Binomiali
 Def. X v.a. discreta è una binomiale di parametri $n\in\Bbb N\setminus\{0\}$ e $p\in [0,1]$ se è la somma di n v.a. di Bernulli indipendenti di parametro p. Scriviamo $X\sim bin(n,p)$
+$\varphi_s(x)=\binom nx p^n (1-p)^{n-x}$
