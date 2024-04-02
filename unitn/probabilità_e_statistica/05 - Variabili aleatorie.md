@@ -45,7 +45,9 @@ $C=\{\omega=(\omega_1,\omega_2,\dots)|\forall i=1,2,\dots,n\quad\omega_i=v_i\in\
 $\Bbb P(C)=p^{\sum v_i}(1-p)^{1-\sum v_i}$
 
 ## Geometriche
-Def. X è v.a. geometrica 
+Def. X è v.a. geometrica di parametro p se conta il numero di fallimenti prima di ottenere un successo in uno schema di Bernulli.
+$X\sim geom(p)$
+
 
 
 
