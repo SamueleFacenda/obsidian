@@ -31,4 +31,4 @@ $$V:\Omega\to\Bbb R^2\quad V(\omega)=(X(\omega),Y(\omega))$$
 $$\varphi_{x,y}(x,y)=\varphi_x(x)\varphi_y(y)$$
 
 ## Binomiali
-De. X v.a. discreta è una binomiale di parametri $n\in\Bbb N\setminus\{0\}$ e $p\in [0,1]$ se è la somma di n v.a. di Bernulli indipendenti di parametro p. Scriviamo $X\sim bin(n,p)$
+Def. X v.a. discreta è una binomiale di parametri $n\in\Bbb N\setminus\{0\}$ e $p\in [0,1]$ se è la somma di n v.a. di Bernulli indipendenti di parametro p. Scriviamo $X\sim bin(n,p)$
