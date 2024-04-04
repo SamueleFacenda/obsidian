@@ -63,3 +63,4 @@ Poi sostituisco gli $r_{n-1}$ con usando l'uguaglianza sopra ($r_{n-1}=\dots$), 
 Dati $n,m\in\Bbb Z$ e $M\in\Bbb Z\,t.c.\, M\ge 0$, diciamo che M è un minimo comune multiplo tra n e m se
 - $n|M$ e $m|M$
 - Se $c\in\Bbb Z$ è t.c. $n|c$ e $m|c$, allora $M|c$
+Usiamo $[n,m]$ per indicare il MCM di n e m.
