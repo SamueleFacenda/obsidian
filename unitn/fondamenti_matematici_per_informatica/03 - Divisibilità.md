@@ -67,3 +67,4 @@ Usiamo $[n,m]$ per indicare il MCM di n e m.
 $[n,m]=\frac{n\cdot m}{(n,m)}$
 
 ## Teorema fondamenta dell'aritmetica
+10.5 Ogni numero naturale $n\ge 2$ può essere fattorizzato in numeri primi, ovvero $n=p_1\cdot p_2\dots p_a$ per qualche numero primo $p_1,p_2\dots p_a$ eventualmente ripetuti, e tale insieme di numeri primi è unico (si dice che tali primi sono unici a meno di ordinamento). 
