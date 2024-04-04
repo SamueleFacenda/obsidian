@@ -52,3 +52,5 @@ $X\sim geom(p)$
 ### Binomiali negative
 X v.a. binomiale negativa di parametri $n\in\Bbb N$ e $p\in[0,1]$ se conta il numeri di insuccessi precedenti all'n-esimo successi di uno schema di Bernulli.
 Notazione: $X\sim NB(n,p)$
+
+Chiamiamo valore atteso o speranza o media di una v.a. discreta X il baricentro della sua distribuzione.
