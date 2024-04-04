@@ -58,3 +58,8 @@ $(n,m)=r_{n-1}$
 sostituzione a ritroso:
 Riscrivo tutte le uguaglianze nella forma $r_n=r_{n-2}-q_n\cdot r_{n-1}$.
 Poi sostituisco gli $r_{n-1}$ con usando l'uguaglianza sopra ($r_{n-1}=\dots$), mantenendo sempre le moltiplicazioni esplicite (non faccio i conti), e procedo fino alla prima uguaglianza, fino ad ottenere $x\cdot m+y\cdot n=(m,n)$.
+
+## Minimo comune multiplo
+Dati $n,m\in\Bbb Z$ e $M\in\Bbb Z\,t.c.\, M\ge 0$, diciamo che M è un minimo comune multiplo tra n e m se
+- $n|M$ e $m|M$
+- Se $c\in\Bbb Z$ è t.c. $n|c$ e $m|c$, allora $M|c$
