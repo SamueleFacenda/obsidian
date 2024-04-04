@@ -65,3 +65,5 @@ Dati $n,m\in\Bbb Z$ e $M\in\Bbb Z\,t.c.\, M\ge 0$, diciamo che M è un minimo co
 - Se $c\in\Bbb Z$ è t.c. $n|c$ e $m|c$, allora $M|c$
 Usiamo $[n,m]$ per indicare il MCM di n e m.
 $[n,m]=\frac{n\cdot m}{(n,m)}$
+
+## Teorema fondamenta dell'aritmetica
