@@ -13,3 +13,6 @@ Sia $x\in X$. Definiamo la classe di equivalenza di X rispetto alla relazione di
 $$[x]_{\mathcal R}:= \{y\in X|y\mathcal R x\}$$
 L'insieme quoziente $X/\mathcal R$ di X modulo $\mathcal R$ è definito come segue:
 $$X/\mathcal R:=\{[x]_{\mathcal R}\in2^X|x\in X\}$$
+La classe di congruenza di $\sim n$ (modulo n) viene indicata con $[x]_n$
+L'insieme quoziente si indica come $\Bbb Z/n\Bbb Z$.
+
