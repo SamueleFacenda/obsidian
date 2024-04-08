@@ -11,3 +11,5 @@ Sia X un insieme non vuoto e sia R una relazione binaria su X cioè $\mathcal R\
 
 Sia $x\in X$. Definiamo la classe di equivalenza di X rispetto alla relazione di equivalenza R su X o equivalentemente classi di R equivalenza di x in X come segue:
 $$[x]_{\mathcal R}:= \{y\in X|y\mathcal R x\}$$
+L'insieme quoziente $X/\mathcal R$ di X modulo $\mathcal R$ è definito come segue:
+$$X/\mathcal R:=\{[x]_{\mathcal R}\in2^X|x\in X\}$$
