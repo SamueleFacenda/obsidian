@@ -10,4 +10,4 @@ Sia X un insieme non vuoto e sia R una relazione binaria su X cioè $\mathcal R\
 - transitiva
 
 Sia $x\in X$. Definiamo la classe di equivalenza di X rispetto alla relazione di equivalenza R su X o equivalentemente classi di R equivalenza di x in X come segue:
-$$[x]_{\mathcal R}:= \{$$
+$$[x]_{\mathcal R}:= \{y\in X|y\mathcal R x\}$$
