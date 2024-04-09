@@ -55,3 +55,6 @@ X v.a. binomiale negativa di parametri $n\in\Bbb N$ e $p\in[0,1]$ se conta il nu
 Notazione: $X\sim NB(n,p)$
 
 Chiamiamo valore atteso o speranza o media di una v.a. discreta X il baricentro della sua distribuzione.
+
+X v.a. discreta è di Poissan di parametro $\lambda>0$ se ha densità discreta
+$\varphi_X(k)=\begin{cases}\frac{\lambda^k}{k!}e^{-\lambda}\qquad k\in\Bbb N\\0\qquad altrimenti\end{cases}$
