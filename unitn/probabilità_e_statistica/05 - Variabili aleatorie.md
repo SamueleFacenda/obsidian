@@ -50,11 +50,12 @@ $X\sim geom(p)$
 
 $\varphi_X(k)=(1-p)^kp$
 
-### Binomiali negative
+## Binomiali negative
 X v.a. binomiale negativa di parametri $n\in\Bbb N$ e $p\in[0,1]$ se conta il numeri di insuccessi precedenti all'n-esimo successi di uno schema di Bernulli.
 Notazione: $X\sim NB(n,p)$
 
 Chiamiamo valore atteso o speranza o media di una v.a. discreta X il baricentro della sua distribuzione.
 
+## Poissan
 X v.a. discreta è di Poissan di parametro $\lambda>0$ se ha densità discreta
 $\varphi_X(k)=\begin{cases}\frac{\lambda^k}{k!}e^{-\lambda}\qquad k\in\Bbb N\\0\qquad altrimenti\end{cases}$
