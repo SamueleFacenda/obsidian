@@ -48,6 +48,7 @@ $\Bbb P(C)=p^{\sum v_i}(1-p)^{1-\sum v_i}$
 Def. X è v.a. geometrica di parametro p se conta il numero di fallimenti prima di ottenere un successo in uno schema di Bernulli.
 $X\sim geom(p)$
 
+$\varphi_X(k)=(1-p)^kp$
 
 ### Binomiali negative
 X v.a. binomiale negativa di parametri $n\in\Bbb N$ e $p\in[0,1]$ se conta il numeri di insuccessi precedenti all'n-esimo successi di uno schema di Bernulli.
