@@ -16,3 +16,5 @@ $$X/\mathcal R:=\{[x]_{\mathcal R}\in2^X|x\in X\}$$
 La classe di congruenza di $\sim n$ (modulo n) viene indicata con $[x]_n$
 L'insieme quoziente si indica come $\Bbb Z/n\Bbb Z$.
 
+
+## Teorema cinese del resto
