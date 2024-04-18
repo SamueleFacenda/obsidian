@@ -19,3 +19,5 @@ L'insieme quoziente si indica come $\Bbb Z/n\Bbb Z$.
 
 ## Teorema cinese del resto
 Siano $n,m>0$ e $a,b\in\Bbb Z$. Consideriamo $\begin{cases}x\equiv a\pmod n\\x\equiv b\pmod m \end{cases}$ 
+Sia S l'insieme delle soluzioni, ovvero $S:=\{x\in\Bbb Z|x\equiv a\pmod n,x\equiv b\pmod n\}$.
+Allora il sistema di congruenze è compatibile ovvero $S\ne\varnothing$ $\iff (n,m)|a-b$
