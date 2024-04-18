@@ -63,5 +63,8 @@ $\varphi_X(k)=\begin{cases}\frac{\lambda^k}{k!}e^{-\lambda}\qquad k\in\Bbb N\\0\
 
 # Media e Varianza
 
-La media di una variabile aleatoria (o valore atteso) è lineare. 
-La varianza è invariata per traslazione ma $Var[aX]=a^2Var[x]$
+La media di una variabile aleatoria (o valore atteso o speranza) è lineare. 
+La varianza è invariata per traslazione ma $\mbox{Var}[aX]=a^2\mbox{Var}[X]$.
+La varianza è la media dei quadrati degli scarti dalla media.
+
+$Var[X+Y]=Var[X]+Var[y]$
