@@ -68,3 +68,5 @@ La varianza è invariata per traslazione ma $\mbox{Var}[aX]=a^2\mbox{Var}[X]$.
 La varianza è la media dei quadrati degli scarti dalla media.
 
 $Var[X+Y]=Var[X]+Var[y]$
+
+Chiamiamo deviazione standard di una v.a. X $\sigma_X=\sqrt{p(1-p)}$
