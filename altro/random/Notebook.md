@@ -3,7 +3,7 @@
 | -------------------- | --------------- | -------------- | --------- | ------- | ------------------- | ----- | ------- |
 | thinkpad p14 s       | i7-1360P        | 32/64          | A500      | 52.5    | 2A 2th hdmi eth     | 2050  |         |
 | thinkpad z13         | Ryzen 7pro 784U | 32/64          | integrata | 51.5    | 2 usbc              | 1900  | no      |
-| zenbook 14 pro oled  | i9-13900H       | 16 espandibile | rtx 4060  | 76      | usbc th hdmi A      | 2k    |         |
+| zenbook 14 pro oled  | i9-13900H       | 16 espandibile | rtx 4060  | 76      | usbc th hdmi A      | 2k    | preso   |
 | dell precision 5480  | i9-13900H       | 64             | ada 3000  | 72      |                     | 3670  |         |
 | dell precision 5490  | Ultra 9 185H    | 64             | ada 3000  | 72      |                     | 3979  |         |
 | dell precision 3490  | Ultra 7 165H    | 32/64          | ada 500   | 54      | A hdmi eth usbc 2th | 2376  |         |

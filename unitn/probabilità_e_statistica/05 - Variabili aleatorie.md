@@ -32,7 +32,7 @@ $$\varphi_{x,y}(x,y)=\varphi_x(x)\varphi_y(y)$$
 
 ## Binomiali
 Def. X v.a. discreta è una binomiale di parametri $n\in\Bbb N\setminus\{0\}$ e $p\in [0,1]$ se è la somma di n v.a. di Bernulli indipendenti di parametro p. Scriviamo $X\sim bin(n,p)$
-$\varphi_s(x)=\binom nx p^n (1-p)^{n-x}$
+$\varphi_s(x)=\binom nx p^x (1-p)^{n-x}$
 
 #### Binomiali in $\Bbb R$
 $\varphi_x(y)=d\,binom(y,n,p)\qquad F_x(y)=p\,binom(y,n,p)$
@@ -48,9 +48,25 @@ $\Bbb P(C)=p^{\sum v_i}(1-p)^{1-\sum v_i}$
 Def. X è v.a. geometrica di parametro p se conta il numero di fallimenti prima di ottenere un successo in uno schema di Bernulli.
 $X\sim geom(p)$
 
+$\varphi_X(k)=(1-p)^kp$
 
-### Binomiali negative
+## Binomiali negative
 X v.a. binomiale negativa di parametri $n\in\Bbb N$ e $p\in[0,1]$ se conta il numeri di insuccessi precedenti all'n-esimo successi di uno schema di Bernulli.
 Notazione: $X\sim NB(n,p)$
 
 Chiamiamo valore atteso o speranza o media di una v.a. discreta X il baricentro della sua distribuzione.
+
+## Poissan
+X v.a. discreta è di Poissan di parametro $\lambda>0$ se ha densità discreta
+$\varphi_X(k)=\begin{cases}\frac{\lambda^k}{k!}e^{-\lambda}\qquad k\in\Bbb N\\0\qquad altrimenti\end{cases}$
+
+
+# Media e Varianza
+
+La media di una variabile aleatoria (o valore atteso o speranza) è lineare. 
+La varianza è invariata per traslazione ma $\mbox{Var}[aX]=a^2\mbox{Var}[X]$.
+La varianza è la media dei quadrati degli scarti dalla media.
+
+$Var[X+Y]=Var[X]+Var[y]$
+
+Chiamiamo deviazione standard di una v.a. X $\sigma_X=\sqrt{p(1-p)}$
