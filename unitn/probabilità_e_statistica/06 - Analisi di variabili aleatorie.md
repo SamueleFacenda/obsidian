@@ -21,4 +21,7 @@ Se $Cov[X,Y]=0$ diciamo che X e Y sono scorrelate.
 
 $Var[X+Y]=Var[X]+Var[Y]+2Cov[X,Y]$
 $Cov[aX+bY,Z]=aCov[X,Z]+bCov[Y,Z]$
-$Cov
+
+
+Def. $\vec X=(X_1,\dots,X_n)$ vettore aleatorio chiamiamo matrice di covarianza la matrice
+$$\Sigma_{ij}=Cov[X_i,X_j]\qquad i,j=1,\dots,n$$
