@@ -59,3 +59,6 @@ Chiamiamo valore atteso o speranza o media di una v.a. discreta X il baricentro 
 ## Poissan
 X v.a. discreta è di Poissan di parametro $\lambda>0$ se ha densità discreta
 $\varphi_X(k)=\begin{cases}\frac{\lambda^k}{k!}e^{-\lambda}\qquad k\in\Bbb N\\0\qquad altrimenti\end{cases}$
+
+### Variabili aleatorie assolutamente continue
+X v.a. è continua se $F_X$ è continua. 
