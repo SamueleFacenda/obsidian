@@ -25,3 +25,6 @@ $Cov[aX+bY,Z]=aCov[X,Z]+bCov[Y,Z]$
 
 Def. $\vec X=(X_1,\dots,X_n)$ vettore aleatorio chiamiamo matrice di covarianza la matrice
 $$\Sigma_{ij}=Cov[X_i,X_j]\qquad i,j=1,\dots,n$$
+
+Def. Chiamiamo correlazione di X,Y il numero 
+$$\rho (X,Y)=corr[X,Y]=\frac{Cov[X,Y]}{\sqrt{Var[X]Var[Y]}}$$
