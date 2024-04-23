@@ -18,3 +18,7 @@ $$\Bbb P(|x-\Bbb E[x]| \ge a)\le \frac{Var[x]}{a^2}$$
 X,Y v.a. Chiamiamo covarianza di X e Y il numero 
 $$Cov[X,Y]=\Bbb E[(X-\Bbb E[X])(Y-\Bbb E[Y])]$$
 Se $Cov[X,Y]=0$ diciamo che X e Y sono scorrelate.
+
+$Var[X+Y]=Var[X]+Var[Y]+2Cov[X,Y]$
+$Cov[aX+bY,Z]=aCov[X,Z]+bCov[Y,Z]$
+$Cov
