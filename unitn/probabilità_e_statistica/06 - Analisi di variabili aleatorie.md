@@ -28,3 +28,5 @@ $$\Sigma_{ij}=Cov[X_i,X_j]\qquad i,j=1,\dots,n$$
 
 Def. Chiamiamo correlazione di X,Y il numero 
 $$\rho (X,Y)=corr[X,Y]=\frac{Cov[X,Y]}{\sqrt{Var[X]Var[Y]}}$$
+$\rho (X,Y)=1\implies X=aY+b\quad a>0$
+$\rho (X,Y)=-1\implies X=aY+b\quad a<0$
