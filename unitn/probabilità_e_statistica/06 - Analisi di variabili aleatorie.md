@@ -14,3 +14,7 @@ Chiamiamo deviazione standard di una v.a. X $\sigma_X=\sqrt{p(1-p)}$
 X v.a., $Var[x]<+\infty$ 
 Allora $\forall a>0$
 $$\Bbb P(|x-\Bbb E[x]| \ge a)\le \frac{Var[x]}{a^2}$$
+### Covarianza e Correlazione
+X,Y v.a. Chiamiamo covarianza di X e Y il numero 
+$$Cov[X,Y]=\Bbb E[(X-\Bbb E[X])(Y-\Bbb E[Y])]$$
+Se $Cov[X,Y]=0$ diciamo che X e Y sono scorrelate.
