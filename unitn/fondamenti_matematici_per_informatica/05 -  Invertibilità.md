@@ -9,3 +9,5 @@ Definiamo la funzione $\phi :\Bbb n\setminus\{0\} \to\Bbb N$ detta $\phi$ di Eul
 $$\phi(n):=|\{a\in\Bbb Z| 1\le a\le n,(a,n)=1\}|$$
 
 - $\phi$ è moltiplicativa sulle coppie coprimi.
+- $n=p_1\cdot p_2\dots p_n\implies \phi(n)=(p_1-1)\cdot(p_2-1)\dots(p_n-1)$
+- 
