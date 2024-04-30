@@ -41,4 +41,9 @@ Teo. X v.a. cont. $Y=g(x)$. Allora $\Bbb E[Y]=\int_{-\infty}^{+\infty}g(x)f_x(x)
 Inoltre
 - $\Bbb E[aX+Y+b]=a\Bbb E[X]+\Bbb E[Y]+b\qquad\forall a,b\in\Bbb R$
 - $X\ge 0\implies\Bbb E[X]\ge 0,\quad\Bbb E[X]=0\iff x\equiv 0$
-- 
+
+
+### Varianza continua
+$$Var[X]:=\Bbb E[(X-\Bbb E[X])^2]=\Bbb E[X]-(\Bbb E[X])^2$$
+Le proprietà sono le medesime della varianza di v.a. discrete.
+
