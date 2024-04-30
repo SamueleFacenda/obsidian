@@ -30,3 +30,15 @@ Def. Chiamiamo correlazione di X,Y il numero
 $$\rho (X,Y)=corr[X,Y]=\frac{Cov[X,Y]}{\sqrt{Var[X]Var[Y]}}$$
 $\rho (X,Y)=1\implies X=aY+b\quad a>0$
 $\rho (X,Y)=-1\implies X=aY+b\quad a<0$
+
+### Speranza di v.a. continue
+Chiamiamo valore atteso oppure speranza oppure media di X v.a. continua il numero 
+$$\Bbb E[X]=\int_{-\infty}^{+\infty}xf_x(x)\, dx$$
+Se l'integrale non esiste o vale $\pm\infty$ la speranza non è definita.
+
+Teo. X v.a. cont. $Y=g(x)$. Allora $\Bbb E[Y]=\int_{-\infty}^{+\infty}g(x)f_x(x)\,dx$
+
+Inoltre
+- $\Bbb E[aX+Y+b]=a\Bbb E[X]+\Bbb E[Y]+b\qquad\forall a,b\in\Bbb R$
+- $X\ge 0\implies\Bbb E[X]\ge 0,\quad\Bbb E[X]=0\iff x\equiv 0$
+- 
