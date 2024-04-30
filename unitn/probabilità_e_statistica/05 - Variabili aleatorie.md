@@ -62,3 +62,10 @@ $\varphi_X(k)=\begin{cases}\frac{\lambda^k}{k!}e^{-\lambda}\qquad k\in\Bbb N\\0\
 
 ### Variabili aleatorie assolutamente continue
 X v.a. è continua se $F_X$ è continua. 
+
+### Esponenziali
+vedi dispense
+
+### Variabili uniformi
+$a<b\in\Bbb R$ chiamiamo uniforme su $[a,b]$ una v.a. X continua con dpf
+$$f_X(x)=\begin{cases}\frac{1}{b-a}\qquad x\in[a,b]\\0\qquad altrimenti\end{cases}$$

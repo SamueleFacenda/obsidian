@@ -46,4 +46,3 @@ Inoltre
 ### Varianza continua
 $$Var[X]:=\Bbb E[(X-\Bbb E[X])^2]=\Bbb E[X]-(\Bbb E[X])^2$$
 Le proprietà sono le medesime della varianza di v.a. discrete.
-
