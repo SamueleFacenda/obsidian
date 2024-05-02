@@ -5,4 +5,4 @@
 | panasonic lumix tz200d    | x          | 15x  | 1"     | 700   | 11x7x5 |
 | panasonic lumix lx15      | -          | 3x   | 1"     | 500   | 10x6x4 |
 | ricoh gr iiix             | -          | no   | APS-C  | 1000  | 11x6x4 |
-|                           |            |      |        |       |        |
+| canon powershot g7 x ii   | -          | 4.2  | 1"     | 800   | 11x6x4 |
