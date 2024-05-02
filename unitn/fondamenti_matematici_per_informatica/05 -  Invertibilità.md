@@ -18,3 +18,7 @@ Dati $\alpha,\beta\in(\Bbb Z/_{n\Bbb Z})^*$, valgono:
 - $(\alpha\beta)^{-1}=\alpha^{-1}\beta^{-1}$
 - $(\alpha^{-1})^{-1}=\alpha$
 - $\alpha^{-1}\in(\Bbb Z/_{n\Bbb Z})^*$
+
+### Teorema di Fermat-Eulero
+$\alpha\in(\Bbb Z/_{n\Bbb Z})^*, n>0$
+$$\alpha^{\phi(n)}=[1]_n$$
