@@ -10,4 +10,11 @@ $$\phi(n):=|\{a\in\Bbb Z| 1\le a\le n,(a,n)=1\}|$$
 
 - $\phi$ è moltiplicativa sulle coppie coprimi.
 - $n=p_1\cdot p_2\dots p_n\implies \phi(n)=$ calcolo a catena
-- 
+
+
+lemma 13.4
+Dati $\alpha,\beta\in(\Bbb Z/_{n\Bbb Z})^*$, valgono:
+- $\alpha\beta\in(\Bbb Z/_{n\Bbb Z})^*$
+- $(\alpha\beta)^{-1}=\alpha^{-1}\beta^{-1}$
+- $(\alpha^{-1})^{-1}=\alpha$
+- $\alpha^{-1}\in(\Bbb Z/_{n\Bbb Z})^*$
