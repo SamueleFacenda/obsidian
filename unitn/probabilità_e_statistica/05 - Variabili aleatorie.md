@@ -69,3 +69,5 @@ vedi dispense
 ### Variabili uniformi
 $a<b\in\Bbb R$ chiamiamo uniforme su $[a,b]$ una v.a. X continua con dpf
 $$f_X(x)=\begin{cases}\frac{1}{b-a}\qquad x\in[a,b]\\0\qquad altrimenti\end{cases}$$
+$\Bbb E[X]=\frac{a+b}2$
+$Var[X]=\frac{(b-a)^2}{12}$
