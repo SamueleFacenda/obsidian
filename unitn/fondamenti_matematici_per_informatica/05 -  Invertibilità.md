@@ -22,3 +22,6 @@ Dati $\alpha,\beta\in(\Bbb Z/_{n\Bbb Z})^*$, valgono:
 ### Teorema di Fermat-Eulero
 $\alpha\in(\Bbb Z/_{n\Bbb Z})^*, n>0$
 $$\alpha^{\phi(n)}=[1]_n$$
+Piccolo teorema di Fermat:
+p primo e $a\in\Bbb Z\,t.c.\,p\nmid a$ 
+$$a^{p-1}\equiv1\pmod n$$
