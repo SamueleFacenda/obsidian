@@ -9,3 +9,4 @@ $$P_c^{-1}=P_d$$
 
 ### Potenze modulari veloci
 Metodo uno: invece del rappresentante canonico della base posso usare il suo opposto (negativo), se è più piccolo.
+Metodo due: 
