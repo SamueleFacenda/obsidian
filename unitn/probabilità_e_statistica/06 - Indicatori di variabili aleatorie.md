@@ -52,3 +52,4 @@ Le proprietà sono le medesime della varianza di v.a. discrete.
 
 Def. $(X_n)_{n\in\Bbb N}$ converge in media quadratica a X se $$\lim_{n\to\infty}\Bbb E[|X_n-X|^2]=0$$
 Diciamo che X converge in legge o in distribuzione o debolmente a X se $$\lim_{n\to\infty}F_{X_n}(x)=F_X(x)\forall x\in\Bbb R$$
+Notaz. $$X_n\overset{d}{\underset{n\to+\infty}{\to}}X\qquad X_n\overset{\mathscr L}{\underset{n\to+\infty}{\to}}X$$
