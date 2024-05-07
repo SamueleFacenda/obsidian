@@ -49,3 +49,5 @@ Le proprietà sono le medesime della varianza di v.a. discrete.
 
 
 ### Teoremi limite
+
+Def. $(X_n)_{n\in\Bbb N}$ converge in media quadratica a X se $$\lim_{n\to\infty}\Bbb E[|X_n-X|^2]=0$$
