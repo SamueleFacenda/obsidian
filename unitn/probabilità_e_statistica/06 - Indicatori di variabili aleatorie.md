@@ -53,3 +53,7 @@ Le proprietà sono le medesime della varianza di v.a. discrete.
 Def. $(X_n)_{n\in\Bbb N}$ converge in media quadratica a X se $$\lim_{n\to\infty}\Bbb E[|X_n-X|^2]=0$$
 Diciamo che X converge in legge o in distribuzione o debolmente a X se $$\lim_{n\to\infty}F_{X_n}(x)=F_X(x)\forall x\in\Bbb R$$
 Notaz. $$X_n\overset{d}{\underset{n\to+\infty}{\to}}X\qquad X_n\overset{\mathscr L}{\underset{n\to+\infty}{\to}}X$$
+
+Teorema centrale del limite (CLT)
+$(X_n)_{n\in\Bbb N}$ v.a. ind. $\Bbb E[X_n]=\mu\quad Val[X_n]=\sigma^2\quad S_n=\sum_{i=1}^nX_i$ Allora
+$$\frac{S_n-\mu n}{\sigma\sqrt n}\overset{d}{\underset{n\to\infty}{\to}}\mathcal N(0,1)$$
