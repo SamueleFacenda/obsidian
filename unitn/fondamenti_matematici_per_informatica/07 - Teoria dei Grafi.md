@@ -27,4 +27,4 @@ allora G' si dice sottografo di G indotto da V' e si indica con $G'=G[V']$
 
 ### Morfismi e isomorfismi
 Siano $G=(V,E)$ e $G'=(V',E')$ due grafi.
-Una funzione $f:V\to V'$ che sia iniettiva si dice morfismo da G in G'   
+Una funzione $f:V\to V'$ che sia iniettiva si dice morfismo da G in G' se   
