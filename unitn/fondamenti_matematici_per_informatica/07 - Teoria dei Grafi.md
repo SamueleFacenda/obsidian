@@ -28,3 +28,10 @@ allora G' si dice sottografo di G indotto da V' e si indica con $G'=G[V']$
 ### Morfismi e isomorfismi
 Siano $G=(V,E)$ e $G'=(V',E')$ due grafi.
 Una funzione $f:V\to V'$ che sia iniettiva si dice morfismo da G in G' se $\forall e=\{v_1,v_2\}\in E\implies f(e)=\{f(v_1),f(v_2)\}\in E'$
+
+Una funzione $F:V(G)\to V(G')$ è un isomorfismo da G a G' se valgono:
+1. f è una bigez
+2. f è un morfismo da G in G'
+3. $f^{-1}:V(G')\to V(G)$ è un morfismo da G' in G
+
+Se esiste un isomorfismo da G in G' allora si dice G è isomorfo a G' e si scrive $G\cong G'$. 
