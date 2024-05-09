@@ -5,3 +5,6 @@ $|\binom V2=\binom {|V|}2=\frac{|V||!}{2!(|V|-2)!}$
 ### Grafo semplice
 Un grafo (semplice, non orientato) G è una coppia $G=(V,E)$ dove V è un insieme non vuoto detto insieme dei vertici di G e E è un sottoinsieme (eventualmente vuoto) di $\binom V2$ detto insieme dei lati di G.
 Si indicano con $V(G)$ e $E(G)$.
+
+### Grafi notevoli
+1. Per ogni $n\in\Bbb N$, definiamo il cammino $P_n$ di lunghezza n. 
