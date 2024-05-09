@@ -12,17 +12,15 @@ Si indicano con $V(G)$ e $E(G)$.
    - $E(P_n):=\varnothing se\,n=0$
    - $E(P_n):=\{\{i,i+1\}\in\binom {V(P_n)}2|i\in\{0,1,\dots,n-1\}\}$
 2. Per ogni $n\ge 3$, il ciclo $C_n$ di lunghezza n detto anche n-ciclo
-   - $V(P_n):=\{0,1,\dots,n\}$
-   - $E(P_n):=\{\{i,i+1\}\in\binom {V(P_n)}2|i\in\{0,1,\dots,n-1\}\}\cup \{\{1,n\}\}$
+   - $V(C_n):=\{0,1,\dots,n\}$
+   - $E(C_n):=\{\{i,i+1\}\in\binom {V(C_n)}2|i\in\{0,1,\dots,n-1\}\}\cup \{\{1,n\}\}$
+3. Per ogni $n\ge 1$, il grafo completo su n vertici, denotato con $K_n$
+   - $V(K_n):=\{0,1,\dots,n\}$
+   - $E(K_n):=\binom{V(K_n)}{2}$
 
-``` dot
-graph {
-    a -- b;
-    b -- c;
-    a -- c;
-    d -- c;
-    e -- c;
-    e -- a;
-}
-```
-
+Def.
+Siano $G=(V,E)$ e $G'=(V',E')$ due grafi. Diciamo che G' è un sottografo di G (in simboli $G'<G$) se
+$$V'\subset V,E'\subset E$$
+Se G' è un sottografo di G e vale 
+$$E'=\{e\in E|e=\{v_1,v_2\},v_1\in V,v_2\in V'\}$$
+allora G' si dice sottografo di G indotto da V' e si indica con $G'=G[V']$
