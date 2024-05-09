@@ -8,3 +8,7 @@ Si indicano con $V(G)$ e $E(G)$.
 
 ### Grafi notevoli
 1. Per ogni $n\in\Bbb N$, definiamo il cammino $P_n$ di lunghezza n. 
+   - $V(P_n):=\{0,1,\dots,n\}$
+   - $E(P_n):=\varnothing se\,n=0$
+   - $E(P_n):=\{\{i,i+1\}\in\binom {V(P_n)}2|i\in\{0,1,\dots,n-1\}\}$
+ 
