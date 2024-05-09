@@ -4,5 +4,5 @@ Conosciamo solo una parte dell'informazione non tutta (e.g. capire l'altezza med
 
 ### Oggetti
 
-Popolazione di riferimento: l'insieme delle unità statistiche.
-Unità statistica: un'entità su cui vengono effettuate delle misurazioni.
+Popolazione di riferimento $\Omega$: l'insieme delle unità statistiche.
+Unità statistica $\omega_i$: un'entità su cui vengono effettuate delle misurazioni.
