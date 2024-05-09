@@ -9,3 +9,7 @@ Unità statistica $\omega_i$: un'entità su cui vengono effettuate delle misuraz
 Variabile statistica (ma la chiamiamo aleatoria): funzione di misura che mappa $\Omega$.
 Campione: subset rappresentativo estratto in un certo modo.
 Campione statistico: se a priori conosco la probabilità di ogni unità statistica a far parte del mio campione.
+- campionamento casuale semplice
+   - con reinserimento
+   - senza reinserimento (non li facciamo)
+- campionamento a stadi
