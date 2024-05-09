@@ -13,3 +13,5 @@ Campione statistico: se a priori conosco la probabilità di ogni unità statisti
    - con reinserimento
    - senza reinserimento (non li facciamo)
 - campionamento a stadi
+
+Chiamo $X_1, X_2, \dots,X_n$ le variabili aleatorie che mi descrivono il valore dell'n-esima misura (e non n-esima unità).
