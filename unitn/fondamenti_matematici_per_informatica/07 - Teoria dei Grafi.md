@@ -24,10 +24,7 @@ $$V'\subset V,E'\subset E$$
 Se G' è un sottografo di G e vale 
 $$E'=\{e\in E|e=\{v_1,v_2\},v_1\in V,v_2\in V'\}$$
 allora G' si dice sottografo di G indotto da V' e si indica con $G'=G[V']$
-```dot
-graph {
-	1 -- { 2 3 };
-	4;
-}
-```
 
+### Morfismi e isomorfismi
+Siano $G=(V,E)$ e $G'=(V',E')$ due grafi.
+Una funzione $f:V\to V'$ che sia iniettiva si dice morfismo da G in G'   
