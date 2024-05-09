@@ -14,4 +14,15 @@ Si indicano con $V(G)$ e $E(G)$.
 2. Per ogni $n\ge 3$, il ciclo $C_n$ di lunghezza n detto anche n-ciclo
    - $V(P_n):=\{0,1,\dots,n\}$
    - $E(P_n):=\{\{i,i+1\}\in\binom {V(P_n)}2|i\in\{0,1,\dots,n-1\}\}\cup \{\{1,n\}\}$
-   
+
+``` dot
+graph {
+    a -- b;
+    b -- c;
+    a -- c;
+    d -- c;
+    e -- c;
+    e -- a;
+}
+```
+
