@@ -60,13 +60,14 @@ Chiamiamo valore atteso o speranza o media di una v.a. discreta X il baricentro 
 X v.a. discreta è di Poissan di parametro $\lambda>0$ se ha densità discreta
 $\varphi_X(k)=\begin{cases}\frac{\lambda^k}{k!}e^{-\lambda}\qquad k\in\Bbb N\\0\qquad altrimenti\end{cases}$
 
+### Variabili aleatorie assolutamente continue
+X v.a. è continua se $F_X$ è continua. 
 
-# Media e Varianza
+### Esponenziali
+vedi dispense
 
-La media di una variabile aleatoria (o valore atteso o speranza) è lineare. 
-La varianza è invariata per traslazione ma $\mbox{Var}[aX]=a^2\mbox{Var}[X]$.
-La varianza è la media dei quadrati degli scarti dalla media.
-
-$Var[X+Y]=Var[X]+Var[y]$
-
-Chiamiamo deviazione standard di una v.a. X $\sigma_X=\sqrt{p(1-p)}$
+### Variabili uniformi
+$a<b\in\Bbb R$ chiamiamo uniforme su $[a,b]$ una v.a. X continua con dpf
+$$f_X(x)=\begin{cases}\frac{1}{b-a}\qquad x\in[a,b]\\0\qquad altrimenti\end{cases}$$
+$\Bbb E[X]=\frac{a+b}2$
+$Var[X]=\frac{(b-a)^2}{12}$
