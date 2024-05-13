@@ -45,3 +45,5 @@ Sia $G=(V,E)$ un grafo. Una successione finita ordinata $(V_0,V_1,\dots,V_n)$ di
 
 ### Congiungibilità
 Sia $G=(V,E)$ un grafo e siano $v,w\in V$. Diciamo che v è congiungibile a w per passeggiate (oppure per cammino) se $\exists$ una passeggiata $(V_0,V_1,\dots,V_n)$ in G (rispettivamente un cammino in G) t.c. $V_0=v, V_n=w$
+
+Siano $G=(V,E)$ e $v,w\in V$ come in precedenza. Allora v è congiungibile a w in G per passeggiate se e soltanto se lo è per cammini.
