@@ -62,3 +62,5 @@ $\exists P_0\in\mathcal P\,t.c.\,\ell(P_0)=m$
 Dati $G=(V,E)$ un grafo e $v,w\in V$, diciamo che v è congiungibile con w in G se lo è per passeggiate o equivalentemente per cammini in G.
 
 Chiamo ~ la relazione di equivalenza che mi dice se due vertici sono congiungibili.
+
+I sottogruppi indotti su G dalle ~classi, ovvero $\{G[V_i]\}_{i\in I}$ si dicono componenti connesse di G.
