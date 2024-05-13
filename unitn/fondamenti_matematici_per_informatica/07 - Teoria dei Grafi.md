@@ -42,3 +42,6 @@ Sia $G=(V,E)$ un grafo. Una successione finita ordinata $(V_0,V_1,\dots,V_n)$ di
 - Passeggiata in G se n=0 oppure se $n\ge 1$ e $\{V_i,V_{i+1}\}\in E\,\forall i\in\{0,1,\dots,n-1\}$
 - Cammino in G se è passeggiata in G e $V_i\ne V_j\,\forall i,j\in\{0,1,\dots,n\}$
 - Ciclo in G se è una passeggiata in G, $n\ge 3$, $V_0=V_n$ e $(V_0,V_1,\dots,V_{n-1})$ è un cammino in G.
+
+### Congiungibilità
+Sia $G=(V,E)$ un grafo e siano $v,w\in V$. Diciamo che v è congiungibile a w per passeggiate (oppure per cammino) se $\exists$ una passeggiata $(V_0,V_1,\dots,V_n)$ in G (rispettivamente un cammino in G) t.c. $V_0=v, V_n=w$
