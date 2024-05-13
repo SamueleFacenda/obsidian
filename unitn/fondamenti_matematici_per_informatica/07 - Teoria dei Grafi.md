@@ -52,3 +52,4 @@ Siano $G=(V,E)$ e $v,w\in V$ come in precedenza. Allora v è congiungibile a w i
 lunghezza: $\ell (P):=n$
 
 Definiamo $\mathcal P:=\{P|P\text{ è una passeggiata in G che parte da v e arriva in w}\}$
+$\mathcal A:=\{n\in\Bbb N|\exists P\in\mathcal P,\ell(P)=n\}$
