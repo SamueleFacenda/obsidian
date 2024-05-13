@@ -64,3 +64,5 @@ Dati $G=(V,E)$ un grafo e $v,w\in V$, diciamo che v è congiungibile con w in G 
 Chiamo ~ la relazione di equivalenza che mi dice se due vertici sono congiungibili.
 
 I sottogruppi indotti su G dalle ~classi, ovvero $\{G[V_i]\}_{i\in I}$ si dicono componenti connesse di G.
+
+Un grafo di dice connesso se possiede una sola componente connessa.b
