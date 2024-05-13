@@ -58,3 +58,5 @@ $\implies \mathcal P\ne\varnothing$
 $\implies \mathcal A\ne \varnothing$
 $\implies \exists! min(\mathcal A)=:m$
 $\exists P_0\in\mathcal P\,t.c.\,\ell(P_0)=m$
+
+Dati $G=(V,E)$ un grafo e $v,w\in V$, diciamo che v è congiungibile con w in G se lo è per passeggiate o equivalmente per cammini in G.
