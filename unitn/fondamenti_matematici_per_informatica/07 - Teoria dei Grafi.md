@@ -53,3 +53,8 @@ lunghezza: $\ell (P):=n$
 
 Definiamo $\mathcal P:=\{P|P\text{ è una passeggiata in G che parte da v e arriva in w}\}$
 $\mathcal A:=\{n\in\Bbb N|\exists P\in\mathcal P,\ell(P)=n\}$
+
+$\implies \mathcal P\ne\varnothing$
+$\implies \mathcal A\ne \varnothing$
+$\implies \exists! min(\mathcal A)=:m$
+$\exists P_0\in\mathcal P\,t.c.\,\ell(P_0)=m$
