@@ -33,3 +33,4 @@ Allora lo stimatore $T_n$ è consistente in MQ.
 - Minimi Quadrati
 - Metodo dei Momenti
 - Massima Verosimiglianza
+
