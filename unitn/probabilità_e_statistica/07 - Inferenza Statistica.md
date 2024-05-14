@@ -22,3 +22,4 @@ Stimatore ($T(X_1,X_2,\dots,X_n$)) su n variabili aleatorie. La stima si calcola
 Per osservare il comportamento dello stimatore osservo il suo
 Errore Quadratico Medio
 $MSE(T,\theta)=\Bbb E[(T-\theta)^2]=Var(T)+(\Bbb E(T)-\theta)^2$
+$B(T,\theta)=\Bbb E[T]-\theta$  _distorsione_
