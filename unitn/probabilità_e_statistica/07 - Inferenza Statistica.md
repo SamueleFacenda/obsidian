@@ -28,3 +28,8 @@ T è uno stimatore di $\theta$ asintoticamente non distorto se $\lim_{n\to\infty
 
 La successione $\{T_n\}_{n=1}^{+\infty}$ converge in media quadratica a $\theta$ se $\lim_{n\to\infty} MSE(T_n;\theta)=0$
 Allora lo stimatore $T_n$ è consistente in MQ.
+
+## Tecniche per la ricerca degli stimatori
+- Minimi Quadrati
+- Metodo dei Momenti
+- Massima Verosimiglianza
