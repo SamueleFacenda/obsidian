@@ -15,3 +15,5 @@ Campione statistico: se a priori conosco la probabilità di ogni unità statisti
 - campionamento a stadi
 
 Chiamo $X_1, X_2, \dots,X_n$ le variabili aleatorie che mi descrivono il valore dell'n-esima misura (e non n-esima unità).
+
+Modello statistico (parametrizzato) $\mathcal F=\{f(x;\theta):\theta\in\Theta\}$
