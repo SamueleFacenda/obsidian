@@ -25,5 +25,6 @@ $MSE(T,\theta)=\Bbb E[(T-\theta)^2]=Var(T)+(\Bbb E(T)-\theta)^2$
 $B(T,\theta)=\Bbb E[T]-\theta$  _distorsione_
 
 T è uno stimatore di $\theta$ asintoticamente non distorto se $\lim_{n\to\infty}B(T)=\lim_{n\to\infty}B(T(X_1,X_2,\dots,X_n))=0$
-La successione $\{T_n\}_{n=1}^{+\infty}$ converge in media quadratica a $\theta$ se $\lim{n\to\infty} MSE(T_n;\theta)=0$
+
+La successione $\{T_n\}_{n=1}^{+\infty}$ converge in media quadratica a $\theta$ se $\lim_{n\to\infty} MSE(T_n;\theta)=0$
 Allora lo stimatore $T_n$ è consistente in MQ.
