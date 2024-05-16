@@ -74,3 +74,6 @@ Se G è finito, allora possiede un numero finito di lati.
 
 Sia G un grafo finito e sia $v\in V$ un suo vertice. Definiamo il grado di v in G ponendo
 $$deg_G(V):=\{e\in E|v\in e\}=\text{il numero di lati che escono dal vertice v}$$
+
+#### Lemma delle strette di mano
+In un grafo finito il numero di vertici di grado dispari è sempre pari.
