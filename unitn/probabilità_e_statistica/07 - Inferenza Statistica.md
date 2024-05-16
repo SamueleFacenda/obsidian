@@ -34,3 +34,4 @@ Allora lo stimatore $T_n$ è consistente in MQ.
 - Metodo dei Momenti
 - Massima Verosimiglianza
 
+
