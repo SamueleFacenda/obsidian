@@ -81,3 +81,5 @@ In un grafo finito il numero di vertici di grado dispari è sempre pari.
 ### Score
 
 Sia $G=(V,E)$ un grafo finito. Definiamo lo score di G, denotandolo con $score (G)$, come la successione dei gradi dei suoi vertici, vista a meno di riordinamento.
+
+Un grafo G si dive 2-connesso se possiede almeno 3 vertici e $\forall v\in V(G), G-v$ è connesso.
