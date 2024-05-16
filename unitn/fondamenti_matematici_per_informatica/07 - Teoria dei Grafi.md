@@ -68,3 +68,10 @@ I sottogruppi indotti su G dalle ~classi, ovvero $\{G[V_i]\}_{i\in I}$ si dicono
 Un grafo di dice connesso se possiede una sola componente connessa. Ovvero se $\forall v,w\in V(G)\,v \sim w$
 
 ### Grado di un vertice
+
+Un grafo è detto finito se V è finito, cioè ha un numero finito di vertici. 
+Se G è finito, allora possiede un numero finito di lati.
+
+Sia G un grafo finito e sia $v\in V$ un suo vertice. Definiamo il grado di v in G ponendo
+$$deg_G(V):=\{e\in E|v\in e\}=\text{il numero di lati che escono dal vertice v}$$
+
