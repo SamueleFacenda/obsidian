@@ -77,3 +77,7 @@ $$deg_G(V):=\{e\in E|v\in e\}=\text{il numero di lati che escono dal vertice v}$
 
 #### Lemma delle strette di mano
 In un grafo finito il numero di vertici di grado dispari è sempre pari.
+
+### Score
+
+Sia $G=(V,E)$ un grafo finito. Definiamo lo score di G, denotandolo con $score (G)$, come la successione dei gradi dei suoi vertici, vista a meno di riordinamento.
