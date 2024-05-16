@@ -35,3 +35,7 @@ Allora lo stimatore $T_n$ è consistente in MQ.
 - Massima Verosimiglianza
 
 
+### Standardizzazione
+$$Z=\frac{X-\Bbb E[X]}{\sqrt{Var(X)}}$$
+
+### Stime intervallari (intervalli di confidenza)
