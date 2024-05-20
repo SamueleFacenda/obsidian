@@ -9,6 +9,7 @@ Siano G e G' due grafi isomorfi (finiti), allora:
 ```dot
 graph {
 	graph [splines=line]
+	f -- g
 	a -- b
 	a -- g
 	a -- f
@@ -20,6 +21,5 @@ graph {
 	d -- e
 	e -- g
 	e -- f
-	f -- g
 }
 ```
