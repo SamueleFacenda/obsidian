@@ -1,0 +1,5 @@
+{
+  "dotPath": "neato",
+  "renderer": "dot",
+  "imageFormat": "png"
+}
