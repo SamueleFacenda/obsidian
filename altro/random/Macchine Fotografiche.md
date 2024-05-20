@@ -13,7 +13,7 @@
 | name                      | viewfinder | zoom | sensor | price | size   |
 | ------------------------- | ---------- | ---- | ------ | ----- | ------ |
 | sony cybershot rx 100 vii | x          | 4x   | 1"     | 1200  | 10x6x4 |
-| sony cybershot rx 100 v   | x          | 4x   | 1"     | 1200  | 10x6x4 |
+| sony cybershot rx 100 v   | x          | 4x   | 1"     | 600   | 10x6x4 |
 | panasonic lumix lx10      | -          | 3x   | 1"     | 500   | 10x6x4 |
 | ricoh gr iiix             | -          | no   | APS-C  | 1000  | 11x6x4 |
 | canon powershot g7 x ii   | -          | 4.2  | 1"     | 800   | 11x6x4 |
