@@ -9,6 +9,13 @@ Siano G e G' due grafi isomorfi (finiti), allora:
 ```dot
 graph {
 	graph [splines=line]
+	g [pos="0,0!"]
+	a [pos="-1,-1.73!"]
+	b [pos="1,-1.73!"]
+	c [pos="2,0!"]
+	d [pos="1,1.73!"]
+	e [pos="0-1,1.73!"]
+	f [pos="-2,0!"]
 	f -- g
 	a -- b
 	a -- g
