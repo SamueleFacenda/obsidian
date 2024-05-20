@@ -5,3 +5,20 @@ Siano G e G' due grafi isomorfi (finiti), allora:
 - G e G' hanno lo stesso numero di componenti connesse.
 - G è 2-connesso $\iff$ G' è 2-connesso
 - G è hamiltoniano $\iff$ G' è hamiltoniano
+
+```dot
+graph {
+	a -- b
+	a -- g
+	a -- f
+	b -- g
+	b -- c
+	c -- g
+	c -- d
+	d -- g
+	d -- e
+	e -- g
+	e -- f
+	f -- g
+}
+```
