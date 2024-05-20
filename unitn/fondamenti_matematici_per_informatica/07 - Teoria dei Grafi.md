@@ -85,3 +85,6 @@ Sia $G=(V,E)$ un grafo finito. Definiamo lo score di G, denotandolo con $score (
 Un grafo G si dive 2-connesso se possiede almeno 3 vertici e $\forall v\in V(G), G-v$ è connesso.
 
 Un ciclo Hamiltoniano è un ciclo di G se tale ciclo percorre tutti i vertici di G.
+
+Un vertice $v\in V$ si dice foglia di G se $\deg _G(v)=1$
+Un grafo 2-connesso non ha foglie.
