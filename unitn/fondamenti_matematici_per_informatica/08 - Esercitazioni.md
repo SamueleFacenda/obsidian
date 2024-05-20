@@ -22,3 +22,13 @@ graph {
 	e -- f
 }
 ```
+```dot
+graph {
+	a -- {e,c,g}
+	b -- {f,d,g}
+	c -- {e,g}
+	d -- {f,g}
+	e -- g
+	f -- g
+}
+```
