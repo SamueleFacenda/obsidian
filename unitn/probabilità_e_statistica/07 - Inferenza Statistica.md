@@ -43,3 +43,4 @@ Non si parla di probabilità ma di confidenza.
 
 Variabile Chi quadrato con un grado di libertà.
 La somma di n chi quadrati con un grado di libertà è un chi quadrato con n gradi di libertà.
+
