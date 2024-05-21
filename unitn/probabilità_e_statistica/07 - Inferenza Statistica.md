@@ -44,3 +44,6 @@ Non si parla di probabilità ma di confidenza.
 Variabile Chi quadrato con un grado di libertà.
 La somma di n chi quadrati con un grado di libertà è un chi quadrato con n gradi di libertà.
 
+### Varianza Campionaria
+È lo stimatore per il chi quadro. 
+$$S^2=\frac1{n-1}\sum_{i=1}^n(X_i-\bar X)^2$$
