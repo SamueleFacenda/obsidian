@@ -39,4 +39,5 @@ Allora lo stimatore $T_n$ è consistente in MQ.
 $$Z=\frac{X-\Bbb E[X]}{\sqrt{Var(X)}}$$
 
 ### Stime intervallari (intervalli di confidenza)
-Non si parla di probabilità ma di confidenza.1
+Non si parla di probabilità ma di confidenza.
+
