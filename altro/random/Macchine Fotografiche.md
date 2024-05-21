@@ -18,3 +18,7 @@
 | ricoh gr iiix             | -          | no   | APS-C  | 1000  | 11x6x4 |
 | canon powershot g7 x ii   | -          | 4.2  | 1"     | 800   | 11x6x4 |
 | canon powershot g9x ii    | -          | 3    | 1"     | 700   | 10x6x3 |
+## m43
+| name            | viewfinder | zoom | sensor | price | size |
+| --------------- | ---------- | ---- | ------ | ----- | ---- |
+| om systems om-5 | -          | -    | m43    | 1200  | meh  |
