@@ -61,4 +61,5 @@ $H_0:\theta\in\Theta_0\subseteq \Theta$
 $H_1:\theta\in\Theta_1\subseteq \Theta$
 $H_n$ sono ipotesi. 
 
-Avendo un sistema di ipotesi 
+Avendo un sistema di ipotesi individuo un test statistico $T:(X_1,\dots,X_n)\to\Theta$
+Individuo una partizione una partizione di $\Theta$, direttamente da $\Theta_0$ e $\Theta_1$
