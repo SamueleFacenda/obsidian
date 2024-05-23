@@ -21,4 +21,5 @@
 | name                 | viewfinder | zoom | sensor | price | size    |
 | -------------------- | ---------- | ---- | ------ | ----- | ------- |
 | om systems OM-5      | x          | N/A  | m43    | 1200  | 13x9x5+ |
-| panosonic lumix gf10 | -          | N/A  | m43    | 700   |         |
+| panosonic lumix gf10 | -          | N/A  | m43    | 700   | 11x6x3  |
+| olympus pen e-p7     | -          | N/A  | m43    | 700   | 12x7x4  |
