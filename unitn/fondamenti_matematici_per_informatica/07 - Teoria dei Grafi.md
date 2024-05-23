@@ -100,9 +100,13 @@ graph {
 	V1
 	V2
 	Vn
-	q1 -- w1-- w2  -- wm -- q2
+	q1 -- w1-- w2 
+	wm -- q2
+	w2 -- wm [style="dotted"]
 	q3 -- q4
 	q5 -- q6
 }
 ```
+
+
 
