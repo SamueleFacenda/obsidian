@@ -97,9 +97,19 @@ Lemma 19.1. Sia $n\in\Bbb N\setminus\{0\}$ e sia $d=(d_1,\dots,d_n)\in\Bbb N^n$ 
 - Supponiamo che d contenga un numero pari positivo di componenti uguali a 1, ovvero $d=(\overbrace{0,\dots,0}^n,\overbrace{1,1,\dots,1}^{2k+2},\overbrace{2,\dots,2}^m)$, esiste un grafo con questo score. 
 ```dot
 graph {
-	V1
-	V2
-	Vn
+	V1 [label=<V<SUB>1</SUB>>]
+	V2 [label=<V<SUB>2</SUB>>]
+	Vn [label=<V<SUB>n</SUB>>]
+	q1 [label=<q<SUB>1</SUB>>]
+	w1 [label=<w<SUB>1</SUB>>]
+	w2 [label=<w<SUB>2</SUB>>]
+	wm [label=<w<SUB>m</SUB>>]
+	q2 [label=<q<SUB>2</SUB>>]
+	q3 [label=<q<SUB>3</SUB>>]
+	q4 [label=<q<SUB>4</SUB>>]
+	q5 [label=<q<SUB>5</SUB>>]
+	q6 [label=<q<SUB>6</SUB>>]
+	
 	q1 -- w1-- w2 
 	wm -- q2
 	w2 -- wm [style="dotted"]
