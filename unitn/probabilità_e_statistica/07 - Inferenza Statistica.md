@@ -56,7 +56,7 @@ $\alpha = \Bbb P(\text{Errore del primo tipo})$
 Un test statistico tale che $\lim_{n\to\infty} \beta=0$ è detto consistente. 
 $1-\beta$ è detta potenza del test.
 
-#### Test con tecnica di Vald (Massima Verosimiglianza)
+#### Test con tecnica di Wald (Massima Verosimiglianza)
 
 $X\sim m(x;\theta)\;\theta\in\Theta$
 $H_0:\theta\in\Theta_0\subseteq \Theta$
