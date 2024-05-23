@@ -118,5 +118,7 @@ graph {
 }
 ```
 
+Teorema
+Sia $n\in\Bbb N\setminus\{0,1\}$ e sia $d=(d_1,\dots,d_n)\in\Bbb N^n\text{ t.c. }d_1\le d_2\le\dots\le d_n\le n-1$.
 
 
