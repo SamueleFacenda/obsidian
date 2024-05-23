@@ -70,3 +70,4 @@ $\beta=\Bbb P(\text{Accettare }H_0|H_1 \text{è vera}) = \Bbb P(\text{Errore del
 
 L'$\alpha$ osservato si dice p-valore (p-value).
 
+$\alpha_{oss}=2P(T>|t_{oss}|\;|H_0\text{ è vera})$
