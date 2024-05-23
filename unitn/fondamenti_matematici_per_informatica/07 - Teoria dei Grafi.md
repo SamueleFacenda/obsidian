@@ -120,5 +120,9 @@ graph {
 
 Teorema
 Sia $n\in\Bbb N\setminus\{0,1\}$ e sia $d=(d_1,\dots,d_n)\in\Bbb N^n\text{ t.c. }d_1\le d_2\le\dots\le d_n\le n-1$.
+Definiamo il vettore $d':=(d'_1,\dots,d'_{n-1})\in\Bbb N^{n-1}$ ponendo
+$$d'_i:=\begin{cases}d_i\; se\; i<n-d_n \\ d_i-1\;se\; i\ge n-d_n \end{cases}$$
+$\forall i\in \{1,\dots,n-1\}$.
+Allora d è lo score di un grafo $\iff$ lo è d'.
 
 
