@@ -49,5 +49,16 @@ La somma di n chi quadrati con un grado di libertà è un chi quadrato con n gra
 $$S^2=\frac1{n-1}\sum_{i=1}^n(X_i-\bar X)^2$$
 t di Student
 
+### Test
+
 Un test statistico tale che $\lim_{n\to\infty} \beta=0$ è detto consistente. 
 $1-\beta$ è detta potenza del test.
+
+#### Test con tecnica di Vald (Massima Verosimiglianza)
+
+$X\sim m(x;\theta)\;\theta\in\Theta$
+$H_0:\theta\in\Theta_0\subseteq \Theta$
+$H_1:\theta\in\Theta_1\subseteq \Theta$
+$H_n$ sono ipotesi. 
+
+Avendo un sistema di ipotesi 
