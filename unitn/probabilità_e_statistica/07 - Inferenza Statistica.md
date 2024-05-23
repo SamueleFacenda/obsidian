@@ -65,3 +65,5 @@ $H_n$ sono ipotesi (che theta appartenga al subset di Theta).
 
 Avendo un sistema di ipotesi individuo un test statistico $T:(X_1,\dots,X_n)\to\Theta$
 Individuo una partizione di $\Theta$, direttamente da $\Theta_0$ e $\Theta_1$
+$\alpha = \Bbb P(\text{Accettare }H_1|H_0 \text{è vera}) = \Bbb P(\text{Errore del primo tipo})$
+$\beta=\Bbb P(\text{Accettare }H_0|H_1 \text{è vera}) = \Bbb P(\text{Errore del secondo tipo})$
