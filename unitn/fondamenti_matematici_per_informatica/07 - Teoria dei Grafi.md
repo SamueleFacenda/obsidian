@@ -125,4 +125,9 @@ $$d'_i:=\begin{cases}d_i\; se\; i<n-d_n \\ d_i-1\;se\; i\ge n-d_n \end{cases}$$
 $\forall i\in \{1,\dots,n-1\}$.
 Allora d è lo score di un grafo $\iff$ lo è d'.
 
+##### Visualizzazione geometrica
+$$\begin{align} d=&(d_1,d_2,\dots,d_{n-d_n-1}&,&d_{n-d_n},&\dots,&d_{n-1}&,d_n)\\
+d':=&(d_1,d_2,\dots,d_{n-d_n-1}&,&d_{n-d_n}-1,&\dots,&d_{n-1}-1)&
 
+\end{align}$$
+Cancello l'ultimo e vado a sinistra $d_n$ volte.
