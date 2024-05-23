@@ -93,4 +93,16 @@ Un grafo 2-connesso non ha foglie.
 Lemma 19.1. Sia $n\in\Bbb N\setminus\{0\}$ e sia $d=(d_1,\dots,d_n)\in\Bbb N^n$ t.c. $d_1\le d_2\le\dots\le 2$. Valgono:
 - Se $d=(0,\dots,0,2)$ oppure $d=(0,\dots,0,2,2)$ allora d non è lo score di un grafo.
 - Se $d=(0,\dots,0)$ allora il grafo G con n vertici isolati ha d come score.
-- Se $\exists m\ge 3$ t.c. $n\ge m\ge 3$ e $d=(0,\dots,0,2,2,\dots,2)$
+- Se $\exists m\ge 3$ t.c. $n\ge m\ge 3$ e $d=(\overbrace{0,\dots,0}^{n-m},\overbrace{2,2,\dots,2}^m)$ allora è uno score di un grafo (ciclo semplice degli m).
+- Supponiamo che d contenga un numero pari positivo di componenti uguali a 1, ovvero $d=(\overbrace{0,\dots,0}^n,\overbrace{1,1,\dots,1}^{2k+2},\overbrace{2,\dots,2}^m)$, esiste un grafo con questo score. 
+```dot
+graph {
+	V1
+	V2
+	Vn
+	q1 -- w1-- w2  -- wm -- q2
+	q3 -- q4
+	q5 -- q6
+}
+```
+
