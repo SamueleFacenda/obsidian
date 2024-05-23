@@ -88,3 +88,9 @@ Un ciclo Hamiltoniano è un ciclo di G se tale ciclo percorre tutti i vertici di
 
 Un vertice $v\in V$ si dice foglia di G se $\deg _G(v)=1$
 Un grafo 2-connesso non ha foglie.
+
+### Teorema dello score
+Lemma 19.1. Sia $n\in\Bbb N\setminus\{0\}$ e sia $d=(d_1,\dots,d_n)\in\Bbb N^n$ t.c. $d_1\le d_2\le\dots\le 2$. Valgono:
+- Se $d=(0,\dots,0,2)$ oppure $d=(0,\dots,0,2,2)$ allora d non è lo score di un grafo.
+- Se $d=(0,\dots,0)$ allora il grafo G con n vertici isolati ha d come score.
+- Se $\exists m\ge 3$ t.c. $n\ge m\ge 3$ e $d=(0,\dots,0,2,2,\dots,2)$
