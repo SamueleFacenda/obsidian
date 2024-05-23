@@ -7,7 +7,6 @@
 | panasonic lumix tz200d   | x          | 15x  | 1"     | 800   | 11x7x5  |
 | canon powershot g1 x iii | x          | 3x   | APS-C  | 800   | 12x8x5  |
 | panosonic lumix lx100 ii | x          | 3x   | m43    | 950   | 12x7x6  |
-| om system OM-5           | x          | N/A  | m43    | 1200  | 13x9x5+ |
 
 ## Piccole
 | name                      | viewfinder | zoom | sensor | price | size   |
