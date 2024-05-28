@@ -10,3 +10,6 @@ $R^2$ coefficiente di determinazione.
 $$(Y|X=x)\sim N(\alpha+\beta x,\sigma^2)$$
 Ipotesi di Omoschedasticità (che tutte le x abbiano stessa varianza).
 
+$$(Y|X=x)=\alpha +\beta x + \epsilon\qquad \epsilon\sim N(0,\sigma^2)$$
+(modello segnale + rumore)
+
