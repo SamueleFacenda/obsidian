@@ -36,8 +36,8 @@ graph {
 
 ### Ostruzioni allo score
 1. L'ultimo grado deve essere $\le n-1$.
-2. Boh
-3. L
+2. Quella con componenti di grado n-1.
+3. L = numero di entrate di grado $\ge$ 2 diverse dalle ultime due. Se $L \le d_n + d_{n-1} - n$ allora non è lo score di un grafo.
 4. Lemma delle strette di mano
 
 ### Ostruzioni alla connessione
