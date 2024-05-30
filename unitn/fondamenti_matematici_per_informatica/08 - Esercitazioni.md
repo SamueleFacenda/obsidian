@@ -32,3 +32,9 @@ graph {
 	f -- g
 }
 ```
+
+### Ostruzioni alla connessione
+
+Sia G un grafo, un sottografo T di G è un albero di copertura di G se valgono le seguenti condizioni:
+- T è un albero
+- V(T)=V(G)
