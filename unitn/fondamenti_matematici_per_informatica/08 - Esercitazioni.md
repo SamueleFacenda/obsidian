@@ -50,3 +50,6 @@ Oss. Se G ammette un albero di copertura allora è connesso.
 Theo. Ogni grafo finito e connesso ammette almeno un  albero di copertura
 
 ##### Lemma di Forzatura alla sconnessione
+Siano $n\in\Bbb N\setminus\{0\}$ e $d=(d_0,d_1,\dots,d_n)\in\Bbb N^n$, se vale 
+$$\frac 12 \sum_{i=1}^nd_i < n-1$$
+Allora tutti gli eventuali grafi con score d sono sconnessi.
