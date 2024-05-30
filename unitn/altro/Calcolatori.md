@@ -31,6 +31,10 @@ O full/empty ascending/descending
 Con "!" r viene modificato di conseguenza. Per after before si intende che la prima cella viene saltata o no.
 La lista di registri si scrive con: \<r0 -r7> ad esempio
 
+## Intel x86
+
+
+
 ## Processore
 
 Aluop, i due bit dell'alu. 0 per la somma (sd e ld), 1 per la sottrazione (beq), 10 per funz7 (operazioni tipo R)
