@@ -34,6 +34,12 @@ graph {
 }
 ```
 
+### Ostruzioni allo score
+1. L'ultimo grado deve essere $\le n-1$.
+2. Boh
+3. L
+4. Lemma delle strette di mano
+
 ### Ostruzioni alla connessione
 
 Sia G un grafo, un sottografo T di G è un albero di copertura di G se valgono le seguenti condizioni:
@@ -41,3 +47,4 @@ Sia G un grafo, un sottografo T di G è un albero di copertura di G se valgono l
 - V(T)=V(G)
 
 Oss. Se G ammette un albero di copertura allora è connesso.
+Theo. Ogni grafo finito e connesso ammette almeno un  albero di copertura
