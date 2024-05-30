@@ -32,6 +32,24 @@ Con "!" r viene modificato di conseguenza. Per after before si intende che la pr
 La lista di registri si scrive con: \<r0 -r7> ad esempio
 
 ## Intel x86
+Registri:
+- r{a-d}x
+- rsi rdi (source and destination index)
+- rbp rsp (base and stack pointers)
+- r{8-15}
+Con eax accedo a 32 bit a rax (e al posto della r), senza lettera prima sono a 16 bit.
+rip registro special (return instruction pointer).
+\+ flags
+
+### Convenzioni di chiamata
+6 argomenti: rdi rsi rdx rdx r8 r9
+2 ritorno: rax rdx
+
+### Sintassi
+Principalmente istruzioni a 2 operandi, il secondo è la destinazione.
+Costanti con dollaro.
+Posso accedere direttamente in memoria con `<displ> (<base reg>, <index reg>, <scale>)`
+Displacement è un immediato sommato all'indirizzo.
 
 
 
