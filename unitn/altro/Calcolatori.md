@@ -15,6 +15,7 @@ pre: \[rb, \#i, \<shift>]  (lo shift è lsl \#n)
 post:\[rb] ,\#i
 Ovviamente il post indexed fa sempre la writeback.
 
+Solo sull'ultimo argomento delle istruzioni.
 ### Misc
 Tutte le operazioni ammettono un prefisso condizionale
 Le flags sono aggiornate solo da specifiche operazioni come la cmp
