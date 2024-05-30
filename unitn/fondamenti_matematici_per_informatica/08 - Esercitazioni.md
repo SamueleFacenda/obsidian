@@ -48,3 +48,5 @@ Sia G un grafo, un sottografo T di G è un albero di copertura di G se valgono l
 
 Oss. Se G ammette un albero di copertura allora è connesso.
 Theo. Ogni grafo finito e connesso ammette almeno un  albero di copertura
+
+##### Lemma di Forzatura alla sconnessione
