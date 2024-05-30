@@ -19,3 +19,14 @@ Solo sull'ultimo argomento delle istruzioni.
 ### Misc
 Tutte le operazioni ammettono un prefisso condizionale
 Le flags sono aggiornate solo da specifiche operazioni come la cmp
+
+### Load - Store multiple
+ldm\<mode> r \[!], registers
+mode:
+- increment after
+- increment before
+- decrement after
+- decrement before
+Con "!" r viene modificato di conseguenza. Per after before si intende che la prima cella viene saltata o no.
+La lista di registri si scrive con: \<r0 -r7> ad esempio
+
