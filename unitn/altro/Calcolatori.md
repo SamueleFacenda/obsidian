@@ -27,6 +27,7 @@ mode:
 - increment before
 - decrement after
 - decrement before
+O full/empty ascending/descending
 Con "!" r viene modificato di conseguenza. Per after before si intende che la prima cella viene saltata o no.
 La lista di registri si scrive con: \<r0 -r7> ad esempio
 
