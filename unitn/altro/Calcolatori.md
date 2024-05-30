@@ -52,7 +52,7 @@ Posso accedere direttamente in memoria con `<displ> (<base reg>, <index reg>, <s
 Displacement è un immediato sommato all'indirizzo.
 Il carattere finale delle istruzioni è l'opcode: b : 8bit, w : 16bit, l : 32bit, q : 64bit
 
-
+pushq e popq aggiungono e tolgono dallo stack modificando rsp direttamente.
 ## Processore
 
 Aluop, i due bit dell'alu. 0 per la somma (sd e ld), 1 per la sottrazione (beq), 10 per funz7 (operazioni tipo R)
