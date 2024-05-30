@@ -50,7 +50,7 @@ Principalmente istruzioni a 2 operandi, il secondo è la destinazione.
 Costanti con dollaro.
 Posso accedere direttamente in memoria con `<displ> (<base reg>, <index reg>, <scale>)`
 Displacement è un immediato sommato all'indirizzo.
-
+Il carattere finale delle istruzioni è l'opcode: b : 8bit, w : 16bit, l : 32bit, q : 64bit
 
 
 ## Processore
