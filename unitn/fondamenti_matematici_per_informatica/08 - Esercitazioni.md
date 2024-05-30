@@ -53,3 +53,8 @@ Theo. Ogni grafo finito e connesso ammette almeno un  albero di copertura
 Siano $n\in\Bbb N\setminus\{0\}$ e $d=(d_0,d_1,\dots,d_n)\in\Bbb N^n$, se vale 
 $$\frac 12 \sum_{i=1}^nd_i < n-1$$
 Allora tutti gli eventuali grafi con score d sono sconnessi.
+
+##### Lemma di Forzatura alla connessione
+Siano $n\in\Bbb N\setminus\{0\}$ e $d=(d_0,d_1,\dots,d_n)\in\Bbb N^n$, con $d_1\le\dots\le d_n$. Se vale
+$$d_1 + d_n \ge n_1$$
+allora tutti i grafi con score d sono connessi.
