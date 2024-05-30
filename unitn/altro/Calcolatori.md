@@ -42,7 +42,7 @@ rip registro special (return instruction pointer).
 \+ flags
 
 ### Convenzioni di chiamata
-6 argomenti: rdi rsi rdx rdx r8 r9
+6 argomenti: rdi rsi rdx rcx r8 r9
 2 ritorno: rax rdx
 
 ### Sintassi
