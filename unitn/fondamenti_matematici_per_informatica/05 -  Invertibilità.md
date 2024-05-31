@@ -9,6 +9,7 @@ Definiamo la funzione $\phi :\Bbb n\setminus\{0\} \to\Bbb N$ detta $\phi$ di Eul
 $$\phi(n):=|\{a\in\Bbb Z| 1\le a\le n,(a,n)=1\}|$$
 
 - $\phi$ è moltiplicativa sulle coppie coprimi.
+- $\phi(n^a)=n?{a-1}*(n-1)$ 
 - $n=p_1\cdot p_2\dots p_n\implies \phi(n)=$ calcolo a catena
 
 
