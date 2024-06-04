@@ -56,3 +56,4 @@ pushq e popq aggiungono e tolgono dallo stack modificando rsp direttamente.
 ## Processore
 
 Aluop, i due bit dell'alu. 0 per la somma (sd e ld), 1 per la sottrazione (beq), 10 per funz7 (operazioni tipo R)
+
