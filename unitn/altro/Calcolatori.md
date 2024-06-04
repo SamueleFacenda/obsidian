@@ -18,7 +18,7 @@ Ovviamente il post indexed fa sempre la writeback.
 Solo sull'ultimo argomento delle istruzioni.
 ### Misc
 Tutte le operazioni ammettono un prefisso condizionale
-Le flags sono aggiornate solo da specifiche operazioni come la cmp
+Le flags sono aggiornate solo da specifiche operazioni come la cmp o quelle aritmetico logiche con suffisso s
 
 ### Load - Store multiple
 ldm\<mode> r \[!], registers
