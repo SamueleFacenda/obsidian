@@ -18,7 +18,7 @@ Ovviamente il post indexed fa sempre la writeback.
 Solo sull'ultimo argomento delle istruzioni.
 ### Misc
 Tutte le operazioni ammettono un prefisso condizionale
-Le flags sono aggiornate solo da specifiche operazioni come la cmp o quelle aritmetico logiche con 
+Le flags sono aggiornate solo da specifiche operazioni come la cmp o quelle aritmetico logiche con ls s postfissa
 
 ### Load - Store multiple
 ldm\<mode> r \[!], registers
@@ -29,7 +29,7 @@ mode:
 - decrement before
 O full/empty ascending/descending
 Con "!" r viene modificato di conseguenza. Per after before si intende che la prima cella viene saltata o no.
-La lista di registri si scrive con: \<r0 -r7> ad esempio
+La lista di registri si scrive con: \{r0, lr\} ad esempio
 
 ## Intel x86
 Registri:
