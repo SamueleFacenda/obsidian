@@ -8,4 +8,4 @@ Solitamente però c'è un Intermediate Abstract Language: $MI$ con linguaggio $L
 
 ### Gestione della memoria
 Allocazione dinamica con stack o heap.
-
+Dynamic chain: insieme di collegamenti tra record dinamici.
