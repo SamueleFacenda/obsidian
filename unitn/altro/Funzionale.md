@@ -1,0 +1,1 @@
+nome $\ne$ oggetto denotabile
