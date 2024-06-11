@@ -18,3 +18,4 @@ Posso avere blocchi di dimensione fissa o variabile. É importante evitare la fr
 
 >Cmd: a syntactic entity whose evaluation does not necessarily return a value but can have a side effect
 
+binding policy $\ne$ scoping policy
