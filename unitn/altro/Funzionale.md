@@ -12,3 +12,7 @@ Dynamic chain: insieme di collegamenti tra record dinamici.
 
 Heap: ho una linked list di blocchi liberi, inizialmente lineare di blocco in blocco. Quando alloco tolgo blocchi dall'inizio, quando dealloco riaggiungo blocchi in cima. Ogni blocco punta a un altro blocco.
 Posso avere blocchi di dimensione fissa o variabile. É importante evitare la frammentazione interna (elemento piccolo con blocco più grande) e quella esterna (lo spazio disponibile c'è ma non è contiguo).
+
+### Espressioni e comandi
+>Expr: Syntactic entities whose evaluation either produces a value or does not terminate (undefined expression)
+
