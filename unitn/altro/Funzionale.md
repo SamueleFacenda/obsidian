@@ -9,3 +9,6 @@ Solitamente però c'è un Intermediate Abstract Language: $MI$ con linguaggio $L
 ### Gestione della memoria
 Allocazione dinamica con stack o heap.
 Dynamic chain: insieme di collegamenti tra record dinamici.
+
+Heap: ho una linked list di blocchi liberi, inizialmente lineare di blocco in blocco. Quando alloco tolgo blocchi dall'inizio, quando dealloco riaggiungo blocchi in cima. Ogni blocco punta a un altro blocco.
+Posso avere blocchi di dimensione fissa o variabile. É importante evitare la frammentazione interna (elemento piccolo con blocco più grande) e quella esterna (lo spazio disponibile c'è ma non è contiguo).
