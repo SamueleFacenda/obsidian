@@ -16,3 +16,5 @@ Posso avere blocchi di dimensione fissa o variabile. É importante evitare la fr
 ### Espressioni e comandi
 >Expr: Syntactic entities whose evaluation either produces a value or does not terminate (undefined expression)
 
+>Cmd: a syntactic entity whose evaluation does not necessarily return a value but can have a side effect
+
