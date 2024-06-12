@@ -8,3 +8,5 @@ Densità, ripartizione, valore atteso e varianza di:
 Trasformazioni lineari e non di variabili aleatorie
 Metodo dei momenti&co.
 Trasformazione della normale
+
+Valore atteso e varianza,trasformazioni e momenti secondi.
