@@ -13,3 +13,4 @@ Trasformazione della normale
 Valore atteso e varianza,trasformazioni e momenti secondi.
 Riproducibilità (normale, poisson, binomiale ...)
 Proprietà di poisson (prob della somma condizionata).
+Teorema delle trasformazioni non lineari
