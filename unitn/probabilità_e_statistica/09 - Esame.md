@@ -9,7 +9,7 @@ Densità, ripartizione, valore atteso e varianza di:
 
 Trasformazioni lineari e non di variabili aleatorie
 Metodo dei momenti&co.
-Trasformazione della normale
+Trasformazione della normale (standardizzazione)
 
 Valore atteso e varianza,trasformazioni e momenti secondi
 Riproducibilità (normale, poisson, binomiale ...)
