@@ -21,7 +21,7 @@ Stimatore ($T(X_1,X_2,\dots,X_n$)) su n variabili aleatorie. La stima si calcola
 
 Per osservare il comportamento dello stimatore osservo il suo
 Errore Quadratico Medio
-$MSE(T,\theta)=\Bbb E[(T-\theta)^2]=Var(T)+(\Bbb E(T)-\theta)^2$
+$MSE(T,\theta)=\Bbb E[(T-\theta)^2]=Var(T)+(\Bbb E(T)-\theta)^2$   (varianza + distorsione^2)
 $B(T,\theta)=\Bbb E[T]-\theta$  _distorsione_
 
 T è uno stimatore di $\theta$ asintoticamente non distorto se $\lim_{n\to\infty}B(T)=\lim_{n\to\infty}B(T(X_1,X_2,\dots,X_n))=0$
