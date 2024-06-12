@@ -20,3 +20,5 @@ Minimo di variabili esponenziali
 Teorema centrale del limite
 Disuguaglianza di Markov
 Disuguaglianza di Cebicev
+
+Distorsione stimatore
