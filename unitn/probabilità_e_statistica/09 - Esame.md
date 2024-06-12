@@ -5,6 +5,7 @@ Densità, ripartizione, valore atteso e varianza di:
 - poisson
 - binomiale negativa
 - esponenziale
+- ipergeometrica
 
 Trasformazioni lineari e non di variabili aleatorie
 Metodo dei momenti&co.
