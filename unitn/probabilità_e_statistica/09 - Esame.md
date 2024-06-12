@@ -4,6 +4,7 @@ Densità, ripartizione, valore atteso e varianza di:
 - geometrica
 - poisson
 - binomiale negativa
+- esponenziale
 
 Trasformazioni lineari e non di variabili aleatorie
 Metodo dei momenti&co.
