@@ -16,6 +16,7 @@ Riproducibilità (normale, poisson, binomiale ...)
 Proprietà di poisson (prob della somma condizionata)
 Teorema delle trasformazioni non lineari
 Minimo di variabili esponenziali
+serie geometrica
 
 Teorema centrale del limite
 Disuguaglianza di Markov
