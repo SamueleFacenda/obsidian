@@ -25,3 +25,8 @@ Disuguaglianza di Cebicev
 
 Distorsione stimatore
 pag 135 dispensa agostinelli
+
+$\Bbb Var(T)=\Bbb E(T^2)−\Bbb E^2(T)$
+$\Bbb Var(\bar X_n)=\frac{\sigma^2}{n}$
+$\sigma^2=\Bbb E[X^2_i]-\mu^2$
+
