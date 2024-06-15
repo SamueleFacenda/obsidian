@@ -18,6 +18,7 @@ Teorema delle trasformazioni non lineari
 Minimo di variabili esponenziali
 serie geometrica
 
+covarianza
 Teorema centrale del limite
 Disuguaglianza di Markov
 Disuguaglianza di Cebicev
