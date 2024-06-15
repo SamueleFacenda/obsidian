@@ -23,3 +23,4 @@ Disuguaglianza di Markov
 Disuguaglianza di Cebicev
 
 Distorsione stimatore
+pag 135 dispensa agostinelli
