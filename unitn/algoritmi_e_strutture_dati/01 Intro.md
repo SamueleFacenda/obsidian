@@ -5,3 +5,4 @@ Unico esame orale finale😵
 
 Esame: codice su carta scritto, uno per semestre. Progetti bonus di laboratorio. Metà del voto è orale.
 Esame scritto open-book (tutto quello che vuoi cartaceo).
+3 punti bonus per semestre di laboratorio.
