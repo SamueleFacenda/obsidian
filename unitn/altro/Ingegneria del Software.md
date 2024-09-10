@@ -8,3 +8,4 @@ Diverse tecniche di svilippo:
 
 Progetto per il comune informatici vs ingegneri, webapp per il comune
 
+## Comune di Trento
