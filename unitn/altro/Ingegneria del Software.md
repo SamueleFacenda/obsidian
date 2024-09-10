@@ -12,3 +12,4 @@ Progetto per il comune informatici vs ingegneri, webapp per il comune
 Consiglio comunale e giunta comunale, 24 strutture e 70 progetti. Servizi di staff, comunità/cittadino e tecnici.
 Stanno facendo il porting da software vecchi a java. Ci sono tutti i servizi al cittadino
 Servizio di innovazione e transizione digitale.
+Molti dati del comune, uso di infrastrutture e stradali, mobilità
