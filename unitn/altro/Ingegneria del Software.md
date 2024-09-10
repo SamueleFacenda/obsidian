@@ -7,3 +7,4 @@ Diverse tecniche di svilippo:
 - basata sul prodotto: sviluppo un prodotto da inserire nel mercato
 
 Progetto per il comune informatici vs ingegneri, webapp per il comune
+
