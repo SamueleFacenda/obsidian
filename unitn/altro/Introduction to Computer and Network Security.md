@@ -4,3 +4,4 @@ Access control soprattutto, basi di crittografia
 Esame scritto su carta a domande aperte
 
 Confidentiality, integrity and availability
+NIST: standardization organization
