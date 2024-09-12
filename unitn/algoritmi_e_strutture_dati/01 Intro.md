@@ -9,4 +9,4 @@ Esame scritto open-book (tutto quello che vuoi cartaceo).
 Niente scadenza per i voti (wow)
 
 ### Come descrivere algoritmi
-Pseudo-codice
+Pseudo-codice                   
