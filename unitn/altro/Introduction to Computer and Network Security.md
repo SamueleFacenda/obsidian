@@ -8,5 +8,5 @@ NIST: standardization organization
 Solite cose CIA, esempi di attacchi etc...
 
 - security policy (set of rules)
-- security mechanism ()
-- security service
+- security mechanism
+- security service (made of mechanisms)
