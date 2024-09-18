@@ -10,5 +10,4 @@ minmax, maxmin, implicante
 Matrice con variabili un po' sulle righe e un po' sulle colonne
 
 Trovare gli implicanti primi (che non siano contenuti ad altri implicanti)
-Implicante: se è vero anche l'output è primo.
-Gli implicanti primi non hanno uni adiacenti nella mappa di Karnaugh.
+Implicante: se è vero anche l'output è uno.
