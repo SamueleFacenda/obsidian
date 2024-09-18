@@ -8,3 +8,7 @@ minmax, maxmin, implicante
 
 ### Mappa di Karnaugh
 Matrice con variabili un po' sulle righe e un po' sulle colonne
+
+Trovare gli implicanti primi (che non si sovrappongano ad altri implicanti)
+Implicante: se è vero anche l'output è primo.
+Gli implicanti primi non hanno uni adiacenti nella mappa di Karnaugh.
