@@ -10,3 +10,7 @@ Niente scadenza per i voti (wow)
 
 ### Come descrivere algoritmi
 Pseudo-codice
+
+## Matematica
+
+Tutte le funzioni polinomiali hanno limite superiore $\le cn^k$, dove k è il grado massimo e c una costante intera. 
