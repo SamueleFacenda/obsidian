@@ -1,3 +1,3 @@
 ## Algebra relazionale
-- select: $\sigma_{<cond>AND<cond>}$ 
+- select: $\sigma_{<cond>AND<cond>}(Table)$ 
 - 
