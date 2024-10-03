@@ -25,3 +25,6 @@ circuiti:
 
 ### Latch D
 Controllo e valore d. Quando il controllo è uno il valore d esce (trasparente), quando c è 0 l'output è l'ultimo valore di d prima che c diventasse 0 (memorizzato). C è il controllo o clock.
+
+#### Flip Flop edge triggered
+Due latch D a cascata, quello dopo con clock invertito. Quando il clock è a uno il primo setta il suo stato, il secondo mantiene lo stato precedente. Quando diventa zero il secondo diventa trasparente e il primo mantiene l'input precedente: l'output è il valore memorizzato.
