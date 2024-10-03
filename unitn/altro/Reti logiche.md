@@ -19,6 +19,6 @@ Per ridurre la complessità divido in rete combinatoria e memoria.
 La rete combinatoria prende in input degli ingressi e lo stato della memoria 
 e da in output lo stato futuro della memoria e gli output.
 
-cicruiti:
+circuiti:
 - asincroni: lo stato può cambiare in qualsiasi istante
 - sincroni: segnale di sincronizzazione per la memoria: clock
