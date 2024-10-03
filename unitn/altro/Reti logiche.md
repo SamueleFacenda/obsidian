@@ -22,3 +22,6 @@ e da in output lo stato futuro della memoria e gli output.
 circuiti:
 - asincroni: lo stato può cambiare in qualsiasi istante
 - sincroni: segnale di sincronizzazione per la memoria: clock
+
+### Latch D
+Controllo e valore d. Quando il controllo è uno il valore d esce (trasparente), quando c è 0 l'output è l'ultimo valore di d prima che c diventasse 0 (memorizzato). C è il controllo o clock.
