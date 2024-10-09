@@ -31,3 +31,4 @@ Due latch D a cascata, quello dopo con clock invertito. Quando il clock è a uno
 
 ## Diagramma degli stati
 transizione: da uno stato al successivo
+Per ogni stato disegno le transizione come delle frecce.
