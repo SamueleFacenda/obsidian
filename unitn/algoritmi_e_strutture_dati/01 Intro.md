@@ -16,3 +16,5 @@ Pseudo-codice
 Tutte le funzioni polinomiali hanno limite superiore $\le cn^k$, dove k è il grado massimo e c una costante intera. 
 
 Dualità: $f(n)=O(g(n))\iff g(n)=\Omega(f(n))$
+
+## Analisi ammortizzata
