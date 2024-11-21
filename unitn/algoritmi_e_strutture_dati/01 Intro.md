@@ -27,3 +27,7 @@ xxxxxxxxx
 xxxx
 xx
 x
+
+$$
+\sum_i^{\log n}i \log {(n-i+1)}
+$$
