@@ -29,5 +29,5 @@ xx
 x
 
 $$
-\sum_i^{\log n}i \log {(n-i+1)}
+\sum_{i=0}^{\log n}2^i \log {(n-i)}
 $$
