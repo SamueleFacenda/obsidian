@@ -21,3 +21,9 @@ Dualità: $f(n)=O(g(n))\iff g(n)=\Omega(f(n))$
 ### Metodo dell'aggregazione
 Calcolo T(n) n volte nel caso pessimo, sommo tutto e divido per n.
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx
+xxxxxxxxx
+xxxx
+xx
+x
