@@ -18,3 +18,6 @@ Tutte le funzioni polinomiali hanno limite superiore $\le cn^k$, dove k è il gr
 Dualità: $f(n)=O(g(n))\iff g(n)=\Omega(f(n))$
 
 ## Analisi ammortizzata
+### Metodo dell'aggregazione
+Calcolo n T(n) nel caso pessimo.
+
