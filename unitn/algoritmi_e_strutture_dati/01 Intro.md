@@ -19,5 +19,5 @@ Dualità: $f(n)=O(g(n))\iff g(n)=\Omega(f(n))$
 
 ## Analisi ammortizzata
 ### Metodo dell'aggregazione
-Calcolo n T(n) nel caso pessimo.
+Calcolo T(n) n volte nel caso pessimo, sommo tutto e divido per n.
 
