@@ -183,5 +183,6 @@ p(int) // parent of node at index
 l(int)
 r(int)
 maxHeapRestore(Item[ ] A, int i, int dim)
+heapBuild(Item[], int size)
 
 ```
