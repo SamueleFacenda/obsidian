@@ -12,7 +12,7 @@ Passo induttivo solido dell'induzione di seconda forma (sostituzione)
 ### Ricorrenze lineari con partizione bilanciata
 $a\ge 1,b\ge 2\in \Bbb N, c>0,\beta\ge0\in\Bbb R$
 $$
-T(n)=\begin{cases}at(n/b)+cn^\beta\qquad n>1\\ d\qquad\qquad\qquad\quad\; n\le 1 \end{cases}
+T(n)=\begin{cases}aT(n/b)+cn^\beta\qquad n>1\\ d\qquad\qquad\qquad\quad\; n\le 1 \end{cases}
 $$
 $\alpha=\log_ba$
 $$T(n)=\begin{cases}
@@ -25,7 +25,7 @@ $$
 ### Ricorrenze lineari con partizione bilanciata estesa
 $a\ge 1,b\ge 2\in \Bbb N, f(n)$ asintoticamente positiva
 $$
-T(n)=\begin{cases}at(n/b)+f(n)\qquad n>1\\ d\qquad\qquad\qquad\quad\;\;\ n\le 1 \end{cases}
+T(n)=\begin{cases}aT(n/b)+f(n)\qquad n>1\\ d\qquad\qquad\qquad\quad\;\;\ n\le 1 \end{cases}
 $$
 $\alpha=\log_ba$
 - $\exists\epsilon >0: f(n)=O(n^{\alpha-\epsilon})\implies T(n)=\Theta(n^\alpha)$
