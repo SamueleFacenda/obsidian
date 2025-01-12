@@ -69,6 +69,7 @@ bool hasCycle(GRAPH)
 STACK topSort(GRAPH) // padri in cima
 int[] scc(GRAPH)
 distance(GRAPH,NODE, int[] &distance)
+GRAPH transpose(GRAPH)
 ```
 ## Data Structures
 ### Sequence
