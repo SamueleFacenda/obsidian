@@ -150,3 +150,14 @@ TREE predecessorNode(TREE)
 TREE min()
 TREE max()
 ```
+### Graph
+```
+Graph()
+SET V() // vertexes
+int size() 
+SET adj(NODE) // vicini del nodo
+insertNode(NODE)
+insertEdge(NODE, NODE)
+deleteNode(NODE)
+deleteEdge(NODE, NODE)
+```
