@@ -1,3 +1,8 @@
+# Calcolo dei costi
+- $O(n)$ limite superiore
+- $\Theta(n)$ crescita esatta
+- $\Omega(n)$ limite inferiore
+# Pseudocodice
 ## Syntax
 ```
 a=b
