@@ -68,8 +68,35 @@ int binarySearch(int[] S, int, int, int)
 ```
 ## Data Structures
 ### Sequence
+Sequenza ordinata di Item
 ```
 SEQUENCE s;
 bool isEmpty()
-
+bool finished(POS)
+POS head()
+POS tail()
+POS next(pos)
+POS prev(pos)
+POS insert(POS, Item)
+POS remove(POS)
+Item read(POS)
+write(POS, Item)
+```
+### Set
+Insieme non ordinato di Item
+```
+int size()
+bool contains(Item)
+insert(Item)
+remove(Item)
+SET union(SET, SET)
+SET intersection(SET, SET)
+SET difference(SET, SET)
+```
+### Dictionary
+Mappa di oggetti e chiavi
+```
+Item lookup(Item k) // restituisce nil se non esiste
+insert(Item k, Item v)
+remove(Item k)
 ```
