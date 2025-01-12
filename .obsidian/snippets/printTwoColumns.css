@@ -10,7 +10,7 @@
     }
 
     /* Content broken up in columns */
-    .columns .markdown-preview-view {
+    .columns.markdown-preview-view {
         column-count: 2;
         column-rule: 1px solid #EEE;
         column-gap: 2em;
