@@ -100,3 +100,17 @@ Item lookup(Item k) // restituisce nil se non esiste
 insert(Item k, Item v)
 remove(Item k)
 ```
+### Stack
+```
+bool isEmpty()
+push(Item)
+Item pop()
+Item top()
+```
+### Queue
+```
+bool isEmpty()
+enqueue(Item)
+Item dequeue()
+Item top()
+```
