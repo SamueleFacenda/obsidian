@@ -2,6 +2,14 @@
 - $O(n)$ limite superiore
 - $\Theta(n)$ crescita esatta
 - $\Omega(n)$ limite inferiore
+### Analisi per livelli
+Livello, dimensione, costo chiamata, n. chiamate, costo livello
+Sommatoria di tutti i costi
+### Sostituzione
+Caso base: di solito si dimostra che $T(1)\le g(1)$  per $O(g(n))$. 
+Ipotesi induttiva $\forall k<n: T(k) \,\,\,(\le|\ge)\,\, cg(k)$
+Passo induttivo solido dell'induzione di seconda forma (sostituzione)
+
 # Pseudocodice
 ## Syntax
 ```
