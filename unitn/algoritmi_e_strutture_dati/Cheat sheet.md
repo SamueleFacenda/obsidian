@@ -65,7 +65,7 @@ int min(int[] S, int n)
 int lookup(int[] S, int v)
 int binarySearch(int[] S, int, int, int)
 int count(TREE) // number of elements
-
+bool hasCycle(GRAPH)
 ```
 ## Data Structures
 ### Sequence
