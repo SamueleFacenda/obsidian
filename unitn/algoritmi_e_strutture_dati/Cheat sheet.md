@@ -167,3 +167,12 @@ deleteEdge(NODE, NODE)
 ```
 ### Hash
 Haskmap, estende dictionary
+### Priority Queue
+```
+PRIORITYQUEUE PriorityQueue(int n)
+bool isEmpty()
+ITEM min()
+ITEM deleteMin()
+PRIORITYITEM insert(Item, int p)
+decrease(PRIORITYITEM, int p)
+```
