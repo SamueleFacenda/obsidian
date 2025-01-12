@@ -13,7 +13,7 @@ Sommatoria di tutti i costi
 ### Sostituzione
 Caso base: di solito si dimostra che $T(1)\le g(1)$  per $O(g(n))$. 
 Ipotesi induttiva $\forall k<n: T(k) \,\,\,(\le|\ge)\,\, cg(k)$
-Passo induttivo solido dell'induzione di seconda forma (sostituzione)
+Passo induttivo solito dell'induzione di seconda forma (sostituzione)
 ### Ricorrenze lineari con partizione bilanciata
 $a\ge 1,b\ge 2\in \Bbb N, c>0,\beta\ge0\in\Bbb R$
 $$
