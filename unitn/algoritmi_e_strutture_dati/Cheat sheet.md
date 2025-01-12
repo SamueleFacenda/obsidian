@@ -67,6 +67,7 @@ int binarySearch(int[] S, int, int, int)
 int count(TREE) // number of elements
 bool hasCycle(GRAPH)
 STACK topSort(GRAPH) // padri in cima
+int[] scc(GRAPH)
 ```
 ## Data Structures
 ### Sequence
