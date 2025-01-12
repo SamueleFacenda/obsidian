@@ -163,3 +163,5 @@ insertEdge(NODE, NODE)
 deleteNode(NODE)
 deleteEdge(NODE, NODE)
 ```
+### Hash
+Haskmap, estende dictionary
