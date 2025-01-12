@@ -70,6 +70,7 @@ STACK topSort(GRAPH) // padri in cima
 int[] scc(GRAPH)
 distance(GRAPH,NODE, int[] &distance)
 GRAPH transpose(GRAPH)
+heapSort(Item[ ] A, int n)
 ```
 ## Data Structures
 ### Sequence
