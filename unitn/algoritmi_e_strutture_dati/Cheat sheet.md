@@ -12,8 +12,18 @@ Passo induttivo solido dell'induzione di seconda forma (sostituzione)
 ### Ricorrenze lineari con partizione bilanciata
 $a\ge 1,b\ge 2\in \Bbb N, c>0,\beta\ge0\in\Bbb R$
 $$
-T(n)=\
+T(n)=\begin{cases}at(n/b)+cn^\beta\qquad n>1\\ d\qquad\qquad\qquad\quad\; n\le 1 \end{cases}
 $$
+$\alpha=\log_ba$
+$$T(n)=\begin{cases}
+\Theta(n^\alpha)\qquad\quad\ \alpha>\beta\\
+\Theta(n^\alpha\log n)\quad \alpha=\beta\\
+\Theta(n^\beta)\qquad\quad\ \alpha<\beta
+\end{cases}
+$$
+
+
+
 # Pseudocodice
 ## Syntax
 ```
