@@ -1,3 +1,8 @@
+---
+cssclasses:
+  - columns
+---
+
 # Calcolo dei costi
 - $O(n)$ limite superiore
 - $\Theta(n)$ crescita esatta
