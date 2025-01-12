@@ -68,6 +68,7 @@ int count(TREE) // number of elements
 bool hasCycle(GRAPH)
 STACK topSort(GRAPH) // padri in cima
 int[] scc(GRAPH)
+distance(GRAPH,NODE, int[] &distance)
 ```
 ## Data Structures
 ### Sequence
