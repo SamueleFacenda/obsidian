@@ -188,3 +188,9 @@ maxHeapRestore(Item[ ] A, int i, int dim)
 heapBuild(Item[], int size)
 
 ```
+### Merge Find Set
+```
+MFSET Mfset(int size)
+int find(int)
+int merge(int, int)
+```
