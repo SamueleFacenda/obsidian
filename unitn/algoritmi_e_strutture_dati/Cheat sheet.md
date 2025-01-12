@@ -64,6 +64,7 @@ nil // null
 int min(int[] S, int n)
 int lookup(int[] S, int v)
 int binarySearch(int[] S, int, int, int)
+int count(TREE) // number of elements
 
 ```
 ## Data Structures
@@ -114,3 +115,31 @@ enqueue(Item)
 Item dequeue()
 Item top()
 ```
+### Tree
+```
+Tree(Item)
+Item read()
+write(Item)
+TREE parent(Item) // nil se è radice
+```
+#### Binary Tree
+Estende TREE
+```
+TREE left()
+TREE right()
+insertLeft(TREE) 
+insertRight(TREE)
+deleteLeft()
+deleteRight()
+```
+#### Generic Tree
+Estende Tree
+```
+TREE leftmostChild()
+TREE rightSibling() // fratello a destra di me
+insertChild(TREE) // inserisce come primo figlio
+insertSibling(TREE t) // prossimo fratello di questo nodo
+deleteChild() // primo figlio
+deleteSibling() // prossimo fratello
+```
+#### Binary Search Tree
