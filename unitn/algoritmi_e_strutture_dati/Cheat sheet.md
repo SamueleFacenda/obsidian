@@ -31,6 +31,11 @@ $\alpha=\log_ba$
 - $\exists\epsilon >0: f(n)=O(n^{\alpha-\epsilon})\implies T(n)=\Theta(n^\alpha)$
 - $f(n)=\Theta(n^\alpha)\implies T(n)=\Theta(f(n)\log n)$
 - $\exists\epsilon>0:f(n)=\Omega(n^{\alpha+\epsilon})\land\exists c:0<c<1,\exists m\ge 0: af(n/b)\ge cf(n),\forall n\ge m \implies T(n)=\Theta(f(n))$
+### Ricorrenze lineari di ordine costante
+$a_1,a_2,\dots,a_h \in\Bbb N \ge 0, h> 0, c>0,\beta\ge0\in\Bbb R$
+$$T(n)=\begin{cases}
+
+\end{cases}$$
 
 
 
