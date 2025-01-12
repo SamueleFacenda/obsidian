@@ -172,7 +172,7 @@ deleteNode(NODE)
 deleteEdge(NODE, NODE)
 ```
 ### Hash
-Haskmap, estende dictionary
+Hashmap, estende dictionary
 ### Priority Queue
 ```
 PRIORITYQUEUE PriorityQueue(int n)
