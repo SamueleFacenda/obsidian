@@ -143,3 +143,10 @@ deleteChild() // primo figlio
 deleteSibling() // prossimo fratello
 ```
 #### Binary Search Tree
+Estende binary tree, dictionary
+```
+TREE successorNode(TREE)
+TREE predecessorNode(TREE)
+TREE min()
+TREE max()
+```
