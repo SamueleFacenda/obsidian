@@ -66,3 +66,10 @@ int lookup(int[] S, int v)
 int binarySearch(int[] S, int, int, int)
 
 ```
+## Data Structures
+### Sequence
+```
+SEQUENCE s;
+bool isEmpty()
+
+```
