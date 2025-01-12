@@ -176,3 +176,12 @@ ITEM deleteMin()
 PRIORITYITEM insert(Item, int p)
 decrease(PRIORITYITEM, int p)
 ```
+### Heap
+```
+root()
+p(int) // parent of node at index
+l(int)
+r(int)
+maxHeapRestore(Item[ ] A, int i, int dim)
+
+```
