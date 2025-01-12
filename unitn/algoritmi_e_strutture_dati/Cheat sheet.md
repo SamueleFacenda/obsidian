@@ -34,10 +34,14 @@ $\alpha=\log_ba$
 ### Ricorrenze lineari di ordine costante
 $a_1,a_2,\dots,a_h \in\Bbb N \ge 0, h> 0, c>0,\beta\ge0\in\Bbb R$
 $$T(n)=\begin{cases}
-
+\sum_{1\le i\le h}a_iT(n-i)+cn^\beta\quad n>m\\
+\Theta(1)\qquad\qquad\qquad\qquad\quad\;\, n\le m \ge h
 \end{cases}$$
-
-
+$a=\sum_{1\le i\le h}a_i$
+$$T(n)=\begin{cases}
+|Theta(n^{\beta+1})\qquad a=1\\
+\Theta(a^nn^\beta)\qquad\qquad a\ge 2
+\end{cases}$$
 
 
 # Pseudocodice
