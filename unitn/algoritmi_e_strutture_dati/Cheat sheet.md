@@ -76,6 +76,7 @@ distance(GRAPH,NODE, int[] &distance)
 GRAPH transpose(GRAPH)
 heapSort(Item[] A, int n)
 swap(Item[], int, int)
+int[] cc(GRAPH) // componenti connesse di un grafo
 ```
 ## Data Structures
 ### Sequence
