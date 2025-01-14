@@ -43,7 +43,7 @@ $$T(n)=\begin{cases}
 \end{cases}$$
 $a=\sum_{1\le i\le h}a_i$
 $$T(n)=\begin{cases}
-|Theta(n^{\beta+1})\qquad a=1\\
+\Theta(n^{\beta+1})\qquad a=1\\
 \Theta(a^nn^\beta)\qquad\qquad a\ge 2
 \end{cases}$$
 
