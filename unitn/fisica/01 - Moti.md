@@ -9,3 +9,6 @@ $v=\frac{\Delta x}{\Delta t}$ velocità o velocità media ($v_m$)
 
 ### Dimensioni fisiche
 Una dimensione di un fenomeno naturale misurabile
+Scritte nelle quadre:
+$[L]$
+$[\frac LT]$
