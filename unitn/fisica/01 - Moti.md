@@ -4,3 +4,5 @@ Spazio-tempo euclideo, quarto asse
 $P_i\ne x_i$, posizioni fatte di coordinate
 $S_{i\to f}=x_f-x_i$ spostamento
 $\Delta x_{i\to f}=x_f-x_i$ 
+
+$v=\frac{\Delta x}{\Delta t}$ velocità
