@@ -6,3 +6,6 @@ $S_{i\to f}=x_f-x_i$ spostamento
 $\Delta x_{i\to f}=x_f-x_i$ 
 
 $v=\frac{\Delta x}{\Delta t}$ velocità o velocità media ($v_m$)
+
+### Dimensioni fisiche
+Una dimensione di un fenomeno naturale misurabile
