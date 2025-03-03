@@ -12,3 +12,7 @@ Una dimensione di un fenomeno naturale misurabile
 Scritte nelle quadre:
 $[L]$
 $[\frac LT]$
+
+### Moto periodico
+Anche detto moto armonico
+$x(t)=A\sin(\omega t+\phi)$
