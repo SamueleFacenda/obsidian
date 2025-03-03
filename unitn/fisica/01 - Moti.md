@@ -15,4 +15,10 @@ $[\frac LT]$
 
 ### Moto periodico
 Anche detto moto armonico
-$x(t)=A\sin(\omega t+\phi)$
+$x(t)=A\sin(\omega t+\varphi)$
+$A$: l'ampiezza di oscillazione
+$\omega$: pulsazione
+$\varphi$: fase
+$[A]=[x(t)]=[L]$
+$[\omega]=[\frac 1T]=[T^{-1}]$, radianti al secondo
+
