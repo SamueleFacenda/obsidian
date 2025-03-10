@@ -28,4 +28,5 @@ $T=\frac{2\pi}\omega$, periodo
 $\vec V=[v_x,v_y]$, la velocità è un vettore.
 Idem per l'accelerazione, posso rappresentarle come $|\vec v|\hat u_t$, dove $\hat u$ è un versore.
 $$\vec a=\frac{d|\vec v|}{dt}\hat u_t+|\vec v|\frac{d\hat u_t}{dt}$$
-
+Accelerazione scomposta in accelerazione tangenziale (alla traiettoria) e normale:
+$$\vec a=\frac{dv}{dt}\hat u_t+v\frac{d\varphi}{dt}\hat u_n$$
