@@ -30,3 +30,6 @@ Idem per l'accelerazione, posso rappresentarle come $|\vec v|\hat u_t$, dove $\h
 $$\vec a=\frac{d|\vec v|}{dt}\hat u_t+|\vec v|\frac{d\hat u_t}{dt}$$
 Accelerazione scomposta in accelerazione tangenziale (alla traiettoria) e normale:
 $$\vec a=\frac{dv}{dt}\hat u_t+v\frac{d\varphi}{dt}\hat u_n$$
+### Moto circolare uniforme
+Un moto che segue una circonferenza, uso la velocità angolare.
+$\omega=\frac{d\varphi}{dt}$
