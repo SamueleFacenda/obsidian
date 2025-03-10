@@ -33,3 +33,5 @@ $$\vec a=\frac{dv}{dt}\hat u_t+v\frac{d\varphi}{dt}\hat u_n$$
 ### Moto circolare uniforme
 Un moto che segue una circonferenza, uso la velocità angolare.
 $\omega=\frac{d\varphi}{dt}$
+$\omega=\frac{v}{R}$ velocità su raggio
+$a=\omega^2R$
