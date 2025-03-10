@@ -25,3 +25,4 @@ $v(t)=\omega A\cos(\omega t+\varphi)$
 $a(t)=-\omega^2A\sin(\omega t+\varphi)$
 $T=\frac{2\pi}\omega$, periodo 
 
+
