@@ -35,3 +35,4 @@ Un moto che segue una circonferenza, uso la velocità angolare.
 $\omega=\frac{d\varphi}{dt}$
 $\omega=\frac{v}{R}$ velocità su raggio
 $a=\omega^2R$
+L'accelerazione verso il centro la chiamo $\vec a_c$, accelerazione centripeta.
