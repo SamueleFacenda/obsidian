@@ -31,7 +31,7 @@ $$\vec a=\frac{d|\vec v|}{dt}\hat u_t+|\vec v|\frac{d\hat u_t}{dt}$$
 Accelerazione scomposta in accelerazione tangenziale (alla traiettoria) e normale:
 $$\vec a=\frac{dv}{dt}\hat u_t+v\frac{d\varphi}{dt}\hat u_n$$
 ### Moto circolare uniforme
-Un moto che segue una circonferenza, uso la velocità angolare.
+Un moto che segue una circonferenza, uso la velocità angolare. è la composizione di due moti armonici di uguale ampiezza.
 $\omega=\frac{d\varphi}{dt}$
 $\omega=\frac{v}{R}$ velocità su raggio
 $a=\omega^2R$
