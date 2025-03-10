@@ -36,3 +36,10 @@ $\omega=\frac{d\varphi}{dt}$
 $\omega=\frac{v}{R}$ velocità su raggio
 $a=\omega^2R$
 L'accelerazione verso il centro la chiamo $\vec a_c$, accelerazione centripeta.
+$x=R\cos\varphi=R\cos(\omega t)$
+$y=R\sin\varphi=R\sin(\omega t)$
+$x^2+y^2=R^2$
+$v_x=-\omega R\sin(\omega t)$
+$v_y=\omega R\cos(\omega t)$
+$\rho=R$
+$\varphi=\omega t$
