@@ -27,4 +27,5 @@ $T=\frac{2\pi}\omega$, periodo
 ### Vettori
 $\vec V=[v_x,v_y]$, la velocità è un vettore.
 Idem per l'accelerazione, posso rappresentarle come $|\vec v|\hat u_t$, dove $\hat u$ è un versore.
+$$\vec a=\frac{d|\vec v|}{dt}\hat u_t+|\vec v|\frac{d\hat u_t}{dt}$$
 
