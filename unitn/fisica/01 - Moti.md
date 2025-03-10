@@ -24,5 +24,7 @@ $[\omega]=[\frac 1T]=[T^{-1}]$, radianti al secondo
 $v(t)=\omega A\cos(\omega t+\varphi)$
 $a(t)=-\omega^2A\sin(\omega t+\varphi)$
 $T=\frac{2\pi}\omega$, periodo 
-
+### Vettori
+$\vec V=[v_x,v_y]$, la velocità è un vettore.
+Idem per l'accelerazione, posso rappresentarle come $|\vec v|\hat u_t$, dove $\hat u$ è un versore.
 
