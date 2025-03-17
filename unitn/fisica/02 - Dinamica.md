@@ -3,3 +3,4 @@
 2. $\vec F=m\vec a$ oppure $\vec a =\frac{\vec F}m$ 
 3. $\vec F_{1\to2}=-\vec F_{2\to1}$ , principio di azione reazione
 $m$: massa inerziale, $[M]$, Kg.
+$\vec p=m\vec v$: quantità di moto
