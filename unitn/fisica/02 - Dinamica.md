@@ -7,3 +7,4 @@ $\vec p=m\vec v$: quantità di moto
 
 $$\vec F=\frac{d\vec p}{dt}$$
 Kg m/s^2 = N (Newton) 
+$\vec F_{1\to c}+\vec F_{2\to c}+\dots+\vec F_{n\to c}=\vec R$ risultante delle forze.
