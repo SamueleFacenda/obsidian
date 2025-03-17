@@ -6,4 +6,4 @@ $m$: massa inerziale, $[M]$, Kg.
 $\vec p=m\vec v$: quantità di moto
 
 $$\vec F=\frac{d\vec p}{dt}$$
-
+Kg m/s^2 = N (Newton) 
