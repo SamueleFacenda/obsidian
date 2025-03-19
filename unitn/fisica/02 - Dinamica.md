@@ -14,4 +14,6 @@ $\vec N$ è la reazione vincolare, la forza opposta a un vincolo (e.g. la forza 
 ### Forze
 $\vec F_p=m\vec g$, forza peso
 $\vec F_{el}=-K(\vec x-\vec x_{eq})$, forza elastica e punto di equilibrio con costante elastica
-$\vec F_{AM,S}=-\mu_s|\vec N|\hat d$
+Attrito radente statico  e dinamico:
+$\vec F_{Att,S}=-\mu_s|\vec N|\hat d$
+$\vec F_{Att,D}=-\mu_d |\vec N|\hat v$
