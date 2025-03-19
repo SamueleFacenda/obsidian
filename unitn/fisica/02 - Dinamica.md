@@ -18,5 +18,7 @@ Attrito radente statico  e dinamico:
 $\vec F_{Att,S}=-\mu_s|\vec N|\hat d$
 $\vec F_{Att,D}=-\mu_d |\vec N|\hat v$
 
-Forza di gravitazione:
-$$\vec F_{1\to2}=\frac{q_{G,1}\cdot q_{G,2}}{boh}$$
+Legge di gravitazione universale:
+$$\vec F_{1\to2}=-G\frac{q_{G,1}\cdot q_{G,2}}{r_{12}^2}\hat r_{12}$$
+>$\vec F_{1\to2}=-G\frac{m_1m_2}{r_{12}^2}\hat r_{12}$
+
