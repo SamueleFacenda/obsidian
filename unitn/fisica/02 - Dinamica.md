@@ -17,3 +17,6 @@ $\vec F_{el}=-K(\vec x-\vec x_{eq})$, forza elastica e punto di equilibrio con c
 Attrito radente statico  e dinamico:
 $\vec F_{Att,S}=-\mu_s|\vec N|\hat d$
 $\vec F_{Att,D}=-\mu_d |\vec N|\hat v$
+
+Forza di gravitazione:
+$$\vec F_{1\to2}=\frac{q_{G,1}\cdot q_{G,2}}{boh}$$
