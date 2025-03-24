@@ -30,3 +30,4 @@ Forze fondamentali:
 ### Casi ricorrenti
 #### Attriti
 $|\vec A_{s,max}|=\mu_s|\vec N|$
+è una speciale forma di reazione vincolare.
