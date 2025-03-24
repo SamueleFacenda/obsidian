@@ -33,3 +33,9 @@ $|\vec A_{s,max}|=\mu_s|\vec N|$
 è una speciale forma di reazione vincolare.
 $|A_{s,max}=\mu_sN_n$
 $|\vec A_d|=-\mu_d|\vec N_n|\hat v$
+#### Piano inclinato
+$\theta$: angolo del piano inclinato rispetto all'orizzontale
+##### Stasi
+$$\begin{cases}-P\cos\theta+N_n=0\\ P\sin\theta-A_s=0 \end{cases}$$
+##### Discesa frenata
+$$\begin{cases}-P\cos\theta=N_n=0\\ P\sin\theta-A_d=ma_x\end{cases}$$
