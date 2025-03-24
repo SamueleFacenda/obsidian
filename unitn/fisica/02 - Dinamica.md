@@ -27,3 +27,4 @@ Forze fondamentali:
 - elettromagnetismo
 - interazione debole
 - interazione forte
+### Casi ricorrenti

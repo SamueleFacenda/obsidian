@@ -44,3 +44,4 @@ $v_y=\omega R\cos(\omega t)$
 $\rho=R$
 $\varphi=\omega t$
 $a_n(t)=\frac{v(t)^2}R$
+
