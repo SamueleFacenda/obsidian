@@ -31,3 +31,4 @@ Forze fondamentali:
 #### Attriti
 $|\vec A_{s,max}|=\mu_s|\vec N|$
 è una speciale forma di reazione vincolare.
+$|\vec A_d|=\mu_d|\vec N_n|$
