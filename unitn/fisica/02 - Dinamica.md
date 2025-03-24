@@ -28,4 +28,4 @@ Forze fondamentali:
 - interazione debole
 - interazione forte
 ### Casi ricorrenti
-																										
+#### Attriti
