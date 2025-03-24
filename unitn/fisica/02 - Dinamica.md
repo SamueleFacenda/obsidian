@@ -29,3 +29,4 @@ Forze fondamentali:
 - interazione forte
 ### Casi ricorrenti
 #### Attriti
+$|\vec A|=\mu_s|\vec N|$
