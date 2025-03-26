@@ -31,7 +31,7 @@ Forze fondamentali:
 #### Attriti
 $|\vec A_{s,max}|=\mu_s|\vec N|$
 è una speciale forma di reazione vincolare.
-$|A_{s,max}=\mu_sN_n$
+$|A_{s,max}|=\mu_sN_n$
 $|\vec A_d|=-\mu_d|\vec N_n|\hat v$
 #### Piano inclinato
 $\theta$: angolo del piano inclinato rispetto all'orizzontale
