@@ -38,4 +38,4 @@ $\theta$: angolo del piano inclinato rispetto all'orizzontale
 ##### Stasi
 $$\begin{cases}-P\cos\theta+N_n=0\\ P\sin\theta-A_s=0 \end{cases}$$
 ##### Discesa frenata
-$$\begin{cases}-P\cos\theta=N_n=0\\ P\sin\theta-A_d=ma_x\end{cases}$$
+$$\begin{cases}-P\cos\theta+N_n=0\\ P\sin\theta-A_d=ma_x\end{cases}$$
