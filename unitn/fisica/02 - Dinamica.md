@@ -55,3 +55,7 @@ $$\oint\vec F\cdot d\vec s=W_{F,i\to i}=0$$
 $$W_{F,i\to f(I)}=W_{F,i\to f(II)}$$
 O ancora
 $$W_{F,i\to f}=\mathscr F(P_f)-\mathscr F(P_i)$$
+> N.B. Ammette una primitiva (non torna indietro)
+
+#### Energia potenziale
+$$U(P)=-\mathscr F(P)$$
