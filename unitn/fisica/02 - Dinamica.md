@@ -52,3 +52,6 @@ Teorema forze vive
 $$\vec F | W_{F,i\to f}=\int_i^f\vec F,d\vec s \text{ non dipende dal percorso ma solo dai suoi estremi}$$
 Oppure
 $$\oint\vec F\cdot d\vec s=W_{F,i\to i}=0$$
+$$W_{F,i\to f(I)}=W_{F,i\to f(II)}$$
+O ancora
+$$W_{F,i\to f}=\mathscr F(P_f)-\mathscr F(P_i)$$
