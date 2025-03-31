@@ -59,3 +59,15 @@ $$W_{F,i\to f}=\mathscr F(P_f)-\mathscr F(P_i)$$
 
 #### Energia potenziale
 $$U(P)=-\mathscr F(P)$$
+| $\vec F$      | U               |
+| ------------- | --------------- |
+| $-mg\hat z$   | $mgz$           |
+| $-Kx^2\hat x$ | $\frac 12 Kx^2$ |
+
+### Teorema di conservazione dell'energia meccanica
+$W_{R,i\to f}=E_{K,f}-E_{K,i}$
+$\vec R=\vec R_{cons.}+\vec R_{n. cons.}$
+$W_{R_{cons.},i\to f}+W_{R_{n. cons.},i\to f}=E_{K,f}-E_{K,i}$
+$W_{R_{n. cons.},i\to f}=E_{K,f}-E_{K,i} +U_f-U_i$
+$$\Delta E_K+\Delta U=W_{R,N.C.}$$
+$$E=E_K+U\text{ energia meccanica}$$
