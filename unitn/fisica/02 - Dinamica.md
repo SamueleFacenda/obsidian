@@ -71,3 +71,4 @@ $W_{R_{cons.},i\to f}+W_{R_{n. cons.},i\to f}=E_{K,f}-E_{K,i}$
 $W_{R_{n. cons.},i\to f}=E_{K,f}-E_{K,i} +U_f-U_i$
 $$\Delta E_K+\Delta U=W_{R,N.C.}$$
 $$E=E_K+U\text{ energia meccanica}$$
+$$E_f-E_i=W_{R,N.C.}$$
