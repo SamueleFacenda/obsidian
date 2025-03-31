@@ -50,3 +50,5 @@ $$E_K=\frac 12mv^2$$
 Teorema forze vive
 #### Forze conservativa
 $$\vec F | W_{F,i\to f}=\int_i^f\vec F,d\vec s \text{ non dipende dal percorso ma solo dai suoi estremi}$$
+Oppure
+$$\oint\vec F\cdot d\vec s=W_{F,i\to i}=0$$
