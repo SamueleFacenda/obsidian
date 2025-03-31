@@ -45,3 +45,5 @@ $$\begin{cases}-P\cos\theta+N_n=0\\ P\sin\theta-A_d=ma_x\end{cases}$$
 $$W=\int_{percorso\;\gamma}\vec F\cdot d\vec\ell$$
 Si misura in Joule (J): $[W]=[E]=[F\cdot L]=[M\frac {L^2}{T^2}]$ 
 Lavoro motore e lavoro frenante
+### Energia cinetica
+$$E_K=\frac 12mv^2$$
