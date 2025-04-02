@@ -72,3 +72,7 @@ $W_{R_{n. cons.},i\to f}=E_{K,f}-E_{K,i} +U_f-U_i$
 $$\Delta E_K+\Delta U=W_{R,N.C.}$$
 $$E=E_K+U\text{ energia meccanica}$$
 $$E_f-E_i=W_{R,N.C.}$$
+### Potenza
+Potenza media:
+$$\bar P=\frac W{\Delta t}$$
+$$P=\frac {dW}{dt}\qquad[P]=[\frac ET]=[FV]=1W=1\frac Js$$
