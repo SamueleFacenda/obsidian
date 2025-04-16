@@ -77,7 +77,7 @@ Potenza media:
 $$\bar P=\frac W{\Delta t}$$
 $$P=\frac {dW}{dt}\qquad[P]=[\frac ET]=[FV]=1W=1\frac Js$$
 ### Urti
-Si conserva sia la quantità di moto che l'energia.
+Si conserva la quantità di moto ($m\vec v$)
 
 #### Centro di massa
 $$\vec X_{CM}=\sum_{i=0}^N\frac{m_i}M\vec x_i$$
