@@ -76,3 +76,4 @@ $$E_f-E_i=W_{R,N.C.}$$
 Potenza media:
 $$\bar P=\frac W{\Delta t}$$
 $$P=\frac {dW}{dt}\qquad[P]=[\frac ET]=[FV]=1W=1\frac Js$$
+### Urti
