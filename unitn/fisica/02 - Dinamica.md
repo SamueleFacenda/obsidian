@@ -82,7 +82,12 @@ Si conserva la quantità di moto ($m\vec v$).
 #### Centro di massa
 $$\vec X_{CM}=\sum_{i=0}^N\frac{m_i}M\vec x_i$$
 $$\vec v_{CM}=\sum_{i=1}^N\frac{m_i}M\vec v_i$$
+$$E'_{K,TOT}=E_{K,TOT}-\frac 12M\vec v_{CM}^2$$
 #### Urti elastici
 L'energia cinetica si conserva
 #### Urti anelastici
 L'energia cinetica non si conserva.
+
+#### Teorema del moto del centro di massa
+$\vec R_i=m_i\vec a_i$
+$\sum_{i=1}^n\vec R_i=\sum _{i=1}^nm_i\vec a_i$
