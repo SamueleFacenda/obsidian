@@ -11,3 +11,6 @@ $t[°C]$
 $T[K]=273.16+t[°C]$
 
 $$pV=\frac 23 N<E_K>$$
+$$Q=mc\Delta T$$
+c è il calore specifico, Q è il calore, m è la massa, T è la differenza di temperatura.
+$[Q]=[E]$
