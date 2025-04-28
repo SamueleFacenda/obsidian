@@ -6,3 +6,5 @@ $\pi=\frac NV$ densità
 $p=\frac{|\vec F_{\bot s}|}S=1\frac N{M^2}=1\,Pa$
 $1\,bar=10^5\,Pa$
 $1\,atm=1.013\,bar$
+
+$t[°C]$
