@@ -28,4 +28,4 @@ Valgono quando il sistema è in equilibrio (in media) di solito: equilibrio mecc
 ### Trasformazioni adiabatiche
 1. Conduzione: $dQ=-K\frac{dT}{dn}dSdt$, con k che è la conducibilità termica. Legge di Fourier o legge fondamentale della conducibilità
 2. Convezione
-3. Irraggiamento
+3. Irraggiamento $\epsilon=\mathcal e\sigma T^4$, sigma è la costante di Boltzmann, e è l'efficienza.
