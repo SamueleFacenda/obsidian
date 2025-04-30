@@ -15,3 +15,5 @@ $$Q=mc\Delta T$$
 c è il calore specifico, Q è il calore, m è la massa, T è la differenza di temperatura.
 $[Q]=[E]$
 $$\Delta U=Q-W$$
+1. Q,W sono forme di energia in trasferimento, $=\Delta T$
+2. $\Delta U\longleftrightarrow\Delta T$
