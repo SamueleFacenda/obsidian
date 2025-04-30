@@ -19,3 +19,5 @@ $$\Delta U=Q-W$$
 2. $\Delta U\longleftrightarrow\Delta T$
 Il lavoro sul sistema è positivo quando toglie energia, negativo quando aggiunge energia.
 Il calore è l'opposto, se è positivo aggiunge energia.
+
+### Stato termodinamico
