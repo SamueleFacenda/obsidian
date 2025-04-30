@@ -17,3 +17,5 @@ $[Q]=[E]$
 $$\Delta U=Q-W$$
 1. Q,W sono forme di energia in trasferimento, $=\Delta T$
 2. $\Delta U\longleftrightarrow\Delta T$
+Il lavoro sul sistema è positivo quando toglie energia, negativo quando aggiunge energia.
+Il calore è l'opposto, se è positivo aggiunge energia.
