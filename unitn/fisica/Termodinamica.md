@@ -25,3 +25,7 @@ Lo definisco come $f(v_1,v_2,\dots)=0$
 Un esempio è l'equazione dei gas perfetti: $pV=nRT$ è esprimibile come $f(p,V,n,T)=0$.
 Valgono quando il sistema è in equilibrio (in media) di solito: equilibrio meccanico, chimico e termodinamico.
 
+### Trasformazioni adiabatiche
+1. Conduzione: $dQ=-K\frac{dT}{dn}dSdt$, con k che è la conducibilità termica. Legge di Fourier o legge fondamentale della conducibilità
+2. Convezione
+3. Irraggiamento
