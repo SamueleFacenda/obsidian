@@ -21,3 +21,6 @@ Il lavoro sul sistema è positivo quando toglie energia, negativo quando aggiung
 Il calore è l'opposto, se è positivo aggiunge energia.
 
 ### Stato termodinamico
+Lo definisco come $f(v_1,v_2,\dots)=0$
+Un esempio è l'equazione dei gas perfetti: $pV=nRT$ è esprimibile come $f(p,V,n,T)=0$.
+Valgono quando il sistema è in equilibrio (in media) di solito.
