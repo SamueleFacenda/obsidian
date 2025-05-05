@@ -39,3 +39,12 @@ $c=\frac 1m\frac{dQ}{dT}$   calore specifico
 >Fase: stato di aggregazione della materia
 
 $Q=\lambda m$   calore latente di cambio di fase.
+
+#### Legge di Avogadro
+$p,V,t[°C]\to N$ indipendente dal gas particolare
+#### Legge di Boyle
+$t[°C]=cost\implies pV=cost$
+#### Legge di Gay-Lussac
+$p=cost\implies V(t)=V[1+\alpha(t-t_0)]$ con $\alpha$ relativo al gas
+#### Legge di Gay-Lussac 2
+$V=cost\implies p(t)=p_0[1+\beta(t-t_0)]$
