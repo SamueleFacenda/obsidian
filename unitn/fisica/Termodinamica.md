@@ -14,6 +14,7 @@ $$pV=\frac 23 N<E_K>$$
 $$Q=mc\Delta T$$
 c è il calore specifico, Q è il calore, m è la massa, T è la differenza di temperatura.
 $[Q]=[E]$
+> Prima legge della termodinamica
 $$\Delta U=Q-W$$
 1. Q,W sono forme di energia in trasferimento, $=\Delta T$
 2. $\Delta U\longleftrightarrow\Delta T$
