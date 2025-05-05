@@ -48,3 +48,5 @@ $t[°C]=cost\implies pV=cost$
 $p=cost\implies V(t)=V[1+\alpha(t-t_0)]$ con $\alpha$ relativo al gas
 #### Legge di Gay-Lussac 2
 $V=cost\implies p(t)=p_0[1+\beta(t-t_0)]$
+
+$$pV=nRT$$
