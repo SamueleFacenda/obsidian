@@ -36,3 +36,5 @@ $c=\frac 1m\frac{dQ}{dT}$   calore specifico
 
 ### Cambi di Fase
 >Fase: stato di aggregazione della materia
+
+$Q=\lambda m$   calore latente di cambio di fase.
