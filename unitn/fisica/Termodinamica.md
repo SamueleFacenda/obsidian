@@ -33,3 +33,6 @@ Valgono quando il sistema è in equilibrio (in media) di solito: equilibrio mecc
 ### Calore specifico
 $dQ=m\,c\,dT$
 $c=\frac 1m\frac{dQ}{dT}$   calore specifico
+
+### Cambi di Fase
+>Fase: stato di aggregazione della materia
