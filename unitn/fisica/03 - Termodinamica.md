@@ -38,6 +38,10 @@ $c=\frac 1m\frac{dQ}{dT}$   calore specifico
 ### Cambi di Fase
 >Fase: stato di aggregazione della materia
 
+- Stato solido: volume e forma propri
+- Stato liquido: volume proprio
+- Stato gassoso: né volume né forma propri
+
 $Q=\lambda m$   calore latente di cambio di fase.
 
 #### Legge di Avogadro
