@@ -53,3 +53,6 @@ $$pV=NK_BT$$
 pressione per volume uguale numero di elementi per costante di Boltzmann per temperatura
 che diventa $pV=nRT$ con $R=N_aK_b=8,314\frac J{mol K}$, costante di stato dei gas perfetti.
 >Gas ideale (o perfetto): quando è molto rarefatto, poco denso, a bassa pressione.
+
+I gas perfetti hanno volumi costituenti trascurabili rispetto ai volumi in gioco nel problema e sono poco integrati.
+
