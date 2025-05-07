@@ -49,4 +49,7 @@ $p=cost\implies V(t)=V[1+\alpha(t-t_0)]$ con $\alpha$ relativo al gas
 #### Legge di Gay-Lussac 2
 $V=cost\implies p(t)=p_0[1+\beta(t-t_0)]$
 
-$$pV=nRT$$
+$$pV=NK_BT$$
+pressione per volume uguale numero di elementi per costante di Boltzmann per temperatura
+che diventa $pV=nRT$ con $R=N_aK_b=8,314\frac J{mol K}$, costante di stato dei gas perfetti.
+>Gas ideale (o perfetto): quando è molto rarefatto, poco denso, a bassa pressione.
