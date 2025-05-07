@@ -58,4 +58,6 @@ I gas perfetti hanno volumi costituenti trascurabili rispetto ai volumi in gioco
 
 ### Lavoro sui gas ideali
 $$dW=\vec F_{gas}\cdot d\vec \ell=p\,dV$$
+Visto che la pressione dipende dal volume, allora:
+$$W_{a\to b}=\int_A^Bp(V)\,dV$$
 
