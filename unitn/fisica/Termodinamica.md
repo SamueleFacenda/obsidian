@@ -57,5 +57,5 @@ che diventa $pV=nRT$ con $R=N_aK_b=8,314\frac J{mol K}$, costante di stato dei g
 I gas perfetti hanno volumi costituenti trascurabili rispetto ai volumi in gioco nel problema e sono poco integrati.
 
 ### Lavoro sui gas ideali
-$$dW=\vec F_gas\cdot d\vec \ell$$
+$$dW=\vec F_{gas}\cdot d\vec \ell=p\,dV$$
 
