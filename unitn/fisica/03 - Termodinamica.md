@@ -65,3 +65,7 @@ $$dW=\vec F_{gas}\cdot d\vec \ell=p\,dV$$
 Visto che la pressione dipende dal volume, allora:
 $$W_{a\to b}=\int_A^Bp(V)\,dV$$
 Questo solo nelle "trasformazioni quasistatiche", ogni punto intermedio può essere visto come uno stato di equilibrio.
+
+### Funzione di stato
+$$U=U(T)$$
+L'energia interna di un sistema è relativa soltanto alla temperatura.
