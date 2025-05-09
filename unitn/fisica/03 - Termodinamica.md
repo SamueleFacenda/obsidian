@@ -69,3 +69,5 @@ Questo solo nelle "trasformazioni quasistatiche", ogni punto intermedio può ess
 ### Funzione di stato
 $$U=U(T)$$
 L'energia interna di un sistema è relativa soltanto alla temperatura.
+
+### Trasformazioni notevoli
