@@ -91,3 +91,4 @@ $\delta W=pdV$
 $\delta Q=0$
 $dV=nc_v\,dT$
 #### Relazione di Mayer
+$$\Delta U=nc_v\Delta T$$
