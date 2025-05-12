@@ -84,3 +84,6 @@ V=cost
 $\delta W=pdV=0\implies dU=nc_v\,dT$
 #### Isoterma
 T=cost
+$Q_T=nRT\ln{[\frac{V_f}{V_i}]}$
+$W_T=nRT\ln{\frac{V_f}{V_i}}$
+#### Adiabatica
