@@ -104,3 +104,11 @@ $$\Delta U=nc_v\Delta T$$
 per le adiabatiche:
 $$T_fV_f^{\gamma -1}=T_iV_i^{\gamma -1}\implies TV^{\gamma -1}=cost'$$
 $$pV^\gamma=cost$$
+#### Costanti nei gas ideali
+
+|                    | $\ell$ | $c_v=\frac \ell2 R$ | $c_p=c_v+R$     | $\gamma=\frac{c_p}{c_v}=\frac{\ell +2}\ell$ |
+| ------------------ | ------ | ------------------- | --------------- | ------------------------------------------- |
+| gas monoatomici    | 3      | $\frac 3R$          | $\frac 52R$     | $\frac 53$                                  |
+| biatomici          | 5      | $\frac 52R$         | $\frac 72R$     | $\frac 75$                                  |
+| $\dots$            |        |                     |                 |                                             |
+| molecole compresse | $\ell$ | $\frac \ell 2R$     | $\frac {l+2}2R$ | $\frac {\ell+2}\ell\to 1$                   |
