@@ -82,3 +82,5 @@ $Q=idem=n\,c_p(T_f-T_i)$
 #### Isocora
 V=cost
 $\delta W=pdV=0\implies dU=nc_v\,dT$
+#### Isoterma
+T=cost
