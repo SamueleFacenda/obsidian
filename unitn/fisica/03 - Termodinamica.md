@@ -70,5 +70,14 @@ Questo solo nelle "trasformazioni quasistatiche", ogni punto intermedio può ess
 $$U=U(T)$$
 L'energia interna di un sistema è relativa soltanto alla temperatura.
 
+Conclusione:
+$$dU = \delta Q-\delta W$$
+
 ### Trasformazioni notevoli
-Isoterme, isobare, isocore e adiabatiche(temperatura, pressione, volume e d calore costante)
+Isoterme, isobare, isocore e adiabatiche(temperatura, pressione, volume e $\delta$ calore costante)
+#### Isobara
+p=cost
+$W=\int_i^f p\, dV=p(V_f-V_i)$
+$Q=idem=n\,c_p(T_f-T_i)$
+#### Isocora
+V=cost
