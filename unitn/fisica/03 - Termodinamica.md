@@ -81,3 +81,4 @@ $W=\int_i^f p\, dV=p(V_f-V_i)$
 $Q=idem=n\,c_p(T_f-T_i)$
 #### Isocora
 V=cost
+$dU=\delta Q$
