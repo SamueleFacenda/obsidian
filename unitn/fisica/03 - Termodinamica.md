@@ -71,3 +71,4 @@ $$U=U(T)$$
 L'energia interna di un sistema è relativa soltanto alla temperatura.
 
 ### Trasformazioni notevoli
+Isoterme, isobare, isocore e adiabatiche(temperatura, pressione, volume e d calore costante)
