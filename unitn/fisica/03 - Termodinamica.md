@@ -92,3 +92,12 @@ $\delta Q=0$
 $dV=nc_v\,dT$
 #### Relazione di Mayer
 $$\Delta U=nc_v\Delta T$$
+
+#### Riassunto
+
+| Trasf.     | $\Delta U$     | Q                           | W                         |
+| ---------- | -------------- | --------------------------- | ------------------------- |
+| Isocora    | $nc_v\Delta T$ | $nc_v\Delta T$              | 0                         |
+| Isobara    | $nc_v\Delta T$ | $nc_p\Delta T$              | $p\Delta V$               |
+| Isoterma   | 0              | $nRT\ln{[\frac{V_f}{V_i}]}$ | $nRT\ln{\frac{V_f}{V_i}}$ |
+| Adiabatica | $nc_v\,dT$     | 0                           | $-nc_v\,dT$               |
