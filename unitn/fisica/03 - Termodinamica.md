@@ -90,3 +90,4 @@ $W_T=nRT\ln{\frac{V_f}{V_i}}$
 $\delta W=pdV$
 $\delta Q=0$
 $dV=nc_v\,dT$
+#### Relazione di Mayer
