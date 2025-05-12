@@ -87,3 +87,6 @@ T=cost
 $Q_T=nRT\ln{[\frac{V_f}{V_i}]}$
 $W_T=nRT\ln{\frac{V_f}{V_i}}$
 #### Adiabatica
+$\delta W=pdV$
+$\delta Q=0$
+$dV=nc_v\,dT$
