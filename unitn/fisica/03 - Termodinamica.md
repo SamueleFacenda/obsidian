@@ -93,7 +93,7 @@ $dV=nc_v\,dT$
 #### Relazione di Mayer
 $$\Delta U=nc_v\Delta T$$
 
-#### Riassunto
+#### Riassunto e conclusioni
 
 | Trasf.     | $\Delta U$     | Q                           | W                         |
 | ---------- | -------------- | --------------------------- | ------------------------- |
@@ -101,3 +101,6 @@ $$\Delta U=nc_v\Delta T$$
 | Isobara    | $nc_v\Delta T$ | $nc_p\Delta T$              | $p\Delta V$               |
 | Isoterma   | 0              | $nRT\ln{[\frac{V_f}{V_i}]}$ | $nRT\ln{\frac{V_f}{V_i}}$ |
 | Adiabatica | $nc_v\,dT$     | 0                           | $-nc_v\,dT$               |
+per le adiabatiche:
+$$T_fV_f^{\gamma -1}=T_iV_i^{\gamma -1}\implies TV^{\gamma -1}=cost'$$
+$$pV^\gamma=cost$$
