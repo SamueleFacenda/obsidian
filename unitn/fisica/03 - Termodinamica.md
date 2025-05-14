@@ -112,3 +112,4 @@ $$pV^\gamma=cost$$
 | biatomici          | 5      | $\frac 52R$         | $\frac 72R$     | $\frac 75$                                  |
 | $\dots$            |        |                     |                 |                                             |
 | molecole compresse | $\ell$ | $\frac \ell 2R$     | $\frac {l+2}2R$ | $\frac {\ell+2}\ell\to 1$                   |
+
