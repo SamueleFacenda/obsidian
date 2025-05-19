@@ -22,3 +22,14 @@ Chiamo i vari stati A,B,C,D, con A lo stato iniziale.
 | DA  | $nc_v(T_2-T_1)$ | 0                            | $-nc_v(T_1-T_2)$  |
 
 $$\eta = 1-\frac{T_1}{T_2}$$
+### Ciclo di Otto
+Questo è per i motori diesel
+Fasi:
+- A: espansione isobara, il carburante viene iniettato
+- B: riduzione del volume e aumento di pressione, il pistone comprime il carburante
+- C: accensione (compressione), il carburante esplode per compressione e la pressione aumenta istantaneamente
+- D: espansione adiabatica, la pressione muove il pistone
+- E: decompressione, il pistone scende
+- F: scarico, la valvola di scarico fa ridurre il volume
+$$\eta = 1-\frac{|T_A-T_D|}{|T_C-T_B|}$$
+Nel caso ideale solito è 0.6.
