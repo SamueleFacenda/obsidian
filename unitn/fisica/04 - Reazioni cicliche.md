@@ -11,4 +11,5 @@ Lavoro totale fratto quantità di calore assorbita dalla macchina ($Q_C$ è calo
 Per le macchine frigorifere è analogo, abbiamo il coefficiente di prestazione:
 $$CoP=\frac {Q_A}{|W_{need}|}$$
 ### Ciclo di Carnot
+Ho una isoterma a $T_2$, una adiabatica, una isoterma a $T_1$ e un'altra adiabatica. $T_1<T_2$.
 
