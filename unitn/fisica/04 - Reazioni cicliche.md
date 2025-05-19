@@ -9,3 +9,4 @@ $$\eta=\frac W{Q_A}=1+\frac{Q_C}{Q_A}=1-\frac{|Q_C|}{Q_A}$$
 Lavoro totale fratto quantità di calore assorbita dalla macchina ($Q_C$ è calore ceduto, è sempre negativo).
 
 Per le macchine frigorifere è analogo, abbiamo il coefficiente di prestazione:
+$$CoP=\frac {Q_A}{|W_{need}|}$$
