@@ -29,7 +29,7 @@ Fasi:
 - B: riduzione del volume e aumento di pressione, il pistone comprime il carburante
 - C: accensione (compressione), il carburante esplode per compressione e la pressione aumenta istantaneamente
 - D: espansione adiabatica, la pressione muove il pistone
-- E: decompressione, il pistone scende
+- E: decompressione, scarico a volume costante
 - F: scarico, la valvola di scarico fa ridurre il volume
 $$\eta = 1-\frac{|T_A-T_D|}{|T_C-T_B|}$$
 Nel caso ideale solito è 0.6.
