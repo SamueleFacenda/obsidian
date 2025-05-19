@@ -21,3 +21,4 @@ Chiamo i vari stati A,B,C,D, con A lo stato iniziale.
 | CD  | 0               | $nRT_1\ln[\frac {V_D}{V_C}]$ | $\leftarrow idem$ |
 | DA  | $nc_v(T_2-T_1)$ | 0                            | $-nc_v(T_1-T_2)$  |
 
+$$\eta = 
