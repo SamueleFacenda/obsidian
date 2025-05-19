@@ -14,10 +14,10 @@ $$CoP=\frac {Q_A}{|W_{need}|}$$
 Ho una isoterma a $T_2$, una adiabatica, una isoterma a $T_1$ e un'altra adiabatica. $T_1<T_2$.
 Chiamo i vari stati A,B,C,D, con A lo stato iniziale.
 
-|     | $\Delta U$      | Q                          | W                 |
-| --- | --------------- | -------------------------- | ----------------- |
-| AB  | 0               | $nRT\ln[\frac {V_B}{V_A}]$ | $\leftarrow idem$ |
-| BC  | $nc_v(T_1-T_2)$ | 0                          | $-nc_v(T_1-T_2)$  |
-| CD  | 0               | $nRT\ln[\frac {V_D}{V_C}]$ | $\leftarrow idem$ |
-| DA  | $nc_v(T_2-T_1)$ | 0                          | $-nc_v(T_1-T_2)$  |
+|     | $\Delta U$      | Q                            | W                 |
+| --- | --------------- | ---------------------------- | ----------------- |
+| AB  | 0               | $nRT_2\ln[\frac {V_B}{V_A}]$ | $\leftarrow idem$ |
+| BC  | $nc_v(T_1-T_2)$ | 0                            | $-nc_v(T_1-T_2)$  |
+| CD  | 0               | $nRT_1\ln[\frac {V_D}{V_C}]$ | $\leftarrow idem$ |
+| DA  | $nc_v(T_2-T_1)$ | 0                            | $-nc_v(T_1-T_2)$  |
 
