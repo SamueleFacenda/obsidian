@@ -33,3 +33,6 @@ Fasi:
 - F: scarico, la valvola di scarico fa ridurre il volume
 $$\eta = 1-\frac{|T_A-T_D|}{|T_C-T_B|}$$
 Nel caso ideale solito è 0.6.
+
+### Trasformazioni reversibili
+Una trasformazione si dice reversibile quando è possibile riportare allo stato iniziale sia il sistema sia l'ambiente esterno.
