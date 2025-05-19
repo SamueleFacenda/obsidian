@@ -36,3 +36,7 @@ Nel caso ideale solito è 0.6.
 
 ### Trasformazioni reversibili
 Una trasformazione si dice reversibile quando è possibile riportare allo stato iniziale sia il sistema sia l'ambiente esterno.
+
+### Seconda legge della termodinamica
+nei cicli:
+$$Q=W$$
