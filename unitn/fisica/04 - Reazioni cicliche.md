@@ -38,5 +38,5 @@ Nel caso ideale solito è 0.6.
 Una trasformazione si dice reversibile quando è possibile riportare allo stato iniziale sia il sistema sia l'ambiente esterno.
 
 ### Seconda legge della termodinamica
-nei cicli:
-$$Q=W$$
+Enunciato di Kelvin-Planck: non è possibile costruire una macchina il cui unico enunciato sia prendere del calore da una sorgente e trasformarlo in lavoro.
+Enunciato di Clausius: non esiste nessuna trasformazione termodinamica il cui unico effetto sia trasferire calore da una sorgente ad un'altra sorgente a temperatura più calda.
