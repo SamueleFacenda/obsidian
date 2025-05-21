@@ -40,3 +40,8 @@ Una trasformazione si dice reversibile quando è possibile riportare allo stato 
 ### Seconda legge della termodinamica
 Enunciato di Kelvin-Planck: non è possibile costruire una macchina il cui unico enunciato sia prendere del calore da una sorgente e trasformarlo in lavoro.
 Enunciato di Clausius: non esiste nessuna trasformazione termodinamica il cui unico effetto sia trasferire calore da una sorgente ad un'altra sorgente a temperatura più calda.
+
+### Teorema di Carnot
+$$\eta_{x(T_1,T_2)}\le \eta_{R(T_1,T_2)}$$
+$$<\;:\text{ x irreversibile}$$
+$$=\;:\text{ x reversibile}$$
