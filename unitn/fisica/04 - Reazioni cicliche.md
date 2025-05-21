@@ -50,3 +50,5 @@ Si dimostra per assurdo mettendo le due macchine vicine, facendo andare il lavor
 Estende il teorema di Carnot a multiple sorgenti.
 $$\sum_{i=1}^n\frac{Q_i}{T_i}\le 0$$
 N sorgenti distinte.
+$$\oint\frac{dQ}T\le 0$$
+Per $\infty$ sorgenti a T variabile.
