@@ -45,3 +45,4 @@ Enunciato di Clausius: non esiste nessuna trasformazione termodinamica il cui un
 $$\eta_{x(T_1,T_2)}\le \eta_{R(T_1,T_2)}$$
 $$<\;:\text{ x irreversibile}$$
 $$=\;:\text{ x reversibile}$$
+Si dimostra per assurdo mettendo le due macchine vicine, facendo andare il lavoro da una all'altra (invertendo quella reversibile) e dimostrando usando la ipotesi assurda che la macchina combinata viola il principio di Clausius.
