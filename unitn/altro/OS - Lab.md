@@ -95,4 +95,6 @@ int system(char* cmd)
 pid_t getpid()
 pid_t getppid()
 pid_t fork()
+pid_t wait (int *status) // wait any children status
+pid_t waitpid(pid_t pid, int *status, int options)
 ```
