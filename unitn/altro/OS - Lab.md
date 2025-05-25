@@ -78,4 +78,21 @@ int creat(char* path, mode_t)
 
 int dup(int oldfd); // duplica fd
 int dup2(int oldfd, int newfd); //close newfd if open
+
+int chown(const char *pathname, uid_t owner, gid_t group) 
+int fchown(int fd, uid_t owner, gid_t group) 
+int chmod(const char *pathname, mode_t mode) 
+int fchmod(int fd, mode_t mode)
+
+exec(char* path): execl argument list, v vector of arguments, p uses PATH, e passes env list. e.g.
+int execlp (const char *file, const char * arg0,…,argn,NULL)
+
+int system(char* cmd)
+```
+
+## fork
+```
+pid_t getpid()
+pid_t getppid()
+pid_t fork()
 ```
