@@ -29,3 +29,20 @@ LATER=world
 $ $@ is target, $^ is dependencies, $< is first dependency
 ```
 ## files
+### streams
+`FILE *fopen(const char* filename, const char* mode);`
+mode: r, w, r+ (read and write), w+ (read and write create or overwrite), a, a+ (read and write at end)
+`int fclose (FILE)`
+read
+```
+int fgetc(FILE *stream)
+char *fgets(char *str, int n, FILE *stream)
+int fscanf(FILE *stream, const char *format, ...)
+int feof(FILE *stream) // eof reached
+```
+write
+```
+int fputc(int char, FILE *stream)
+int fputs(const char *str, FILE *stream)
+int fprintf(FILE *stream, const char *format, ...)
+```
