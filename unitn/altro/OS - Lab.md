@@ -29,7 +29,7 @@ LATER=world
 $ $@ is target, $^ is dependencies, $< is first dependency
 ```
 ## files
-con `access` controllo attributi su file, come l'esistenza.
+con `access` controllo attributi su file, come l'esistenza. Con `remove` o `unlink` elimino i files.
 ### streams
 `FILE *fopen(const char* filename, const char* mode);`
 mode: r, w, r+ (read and write), w+ (read and write create or overwrite), a, a+ (read and write at end)
@@ -132,9 +132,14 @@ anonime:
 int pipe(int pipefd[2]); // reand and write fd's
 int fcntl(int fd, F_SETFL, O_NONBLOCK); // non blocking pipe
 ```
-fifo
+fifo:
 ```
-int mkfifo(const char *pathname, mode_t mode);
 // open da un solo lato è bloccante
+int mkfifo(const char *pathname, mode_t mode);
+```
+## message queues
+```
+key_t ftok(const char *path, int id) // generate unique key from path and num
+int msgget(key_t key, int msgflg) // crea coda, flags: 0666 | IPC_CREAT | IPC_EXC
 
 ```
