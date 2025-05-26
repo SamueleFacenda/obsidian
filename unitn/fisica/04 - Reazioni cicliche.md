@@ -53,6 +53,14 @@ N sorgenti distinte.
 $$\oint\frac{dQ}T\le 0$$
 Per $\infty$ sorgenti a T variabile.
 ### Entropia
-$$S | \Delta S_{A-B}=\S_B - S_A=\underset{(rev)}{ \int_A^B \frac{dQ}T }$$
+$$S | \Delta S_{A\to B}=\S_B - S_A=\underset{(rev)}{ \int_A^B}\frac{dQ}T $$
 Non si tratta mai di entropia ma di variazione di entropia!
 $dS=\frac {dQ}T,\qquad [S]=[\frac ET]$
+
+$$\Delta S_{A\to B}\ge \underset{(x)}{\int_A^B}\frac{dQ}T$$
+valido per tutte le trasformazioni
+
+#### Teorema dell'entropia
+Considerando un sistema isolato:
+$$Q=0\implies \Delta S_{AB}\ge 0\implies \frac{dS_0}{dt}\ge 0$$
+L'entropia non può diminuire.
