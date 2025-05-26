@@ -156,7 +156,11 @@ int msgctl(int msqid, int cmd, struct msqid_ds *buf);
 ## threads
 ```
 int pthread_create( pthread_t *thread, const pthread_attr_t *attr, void *(*start_routine)(void *), void *arg);
+void pthread_exit(void * retval);
+int pthread_cancel(pthread_t thread);
 
+// PTHREAD_CANCEL_ENABLE | PTHREAD_CANCEL_DEFERRED | PTHREAD_CANCEL_ASYNCHRONOUS
+int pthread_setcancelstate(int state, int *oldstate);
 ```
 
 >[!warning]
