@@ -113,4 +113,7 @@ int sigpending(sigset_t *set);
 
 int sigaction(int signum, const struct sigaction *act, struct sigaction *oldact);
 int sigqueue(pid_t pid, int sig, const union sigval value);
+
+int pause(); 
+int sigsuspend(const sigset_t *mask);
 ```
