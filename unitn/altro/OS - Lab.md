@@ -124,5 +124,10 @@ int sigsuspend(const sigset_t *mask);
 ```
 char *strerror(int errnum) // errno to str
 void perror(const char *str) // print "str:strerror(errno)"
+```
+## pipes
+anonime:
+```
+int pipe(int pipefd[2]); // reand and write fd's
 
 ```
