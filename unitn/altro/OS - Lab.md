@@ -29,6 +29,7 @@ LATER=world
 $ $@ is target, $^ is dependencies, $< is first dependency
 ```
 ## files
+con `access` controllo attributi su file, come l'esistenza.
 ### streams
 `FILE *fopen(const char* filename, const char* mode);`
 mode: r, w, r+ (read and write), w+ (read and write create or overwrite), a, a+ (read and write at end)
