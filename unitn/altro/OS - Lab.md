@@ -144,4 +144,7 @@ key_t ftok(const char *path, int id) // generate unique key from path and num
 int msgget(key_t key, int msgflg) // crea coda, flags: 0666 | IPC_CREAT | IPC_EXC
 int msgsnd(int msqid, const void *msgp, size_t msgsz, int msgflg);
 ssize_t msgrcv(int msqid,void *msgp,size_t msgsz,long msgtyp,int msgflg)
+
+// cmd: IPC_STAT, IPC_SET, IPC_RMID, IPC_INFO, MSG_INFO, MSG_STAT
+int msgctl(int msqid, int cmd, struct msqid_ds *buf);
 ```
