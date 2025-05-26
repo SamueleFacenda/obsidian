@@ -97,6 +97,9 @@ pid_t getppid()
 pid_t fork()
 pid_t wait (int *status) // wait any children status
 pid_t waitpid(pid_t pid, int *status, int options)
+
+int setpgid(pid_t pid, pid_t pgid);
+pid_t getpgid(pid_t pid);
 ```
 ## signals
 ```
