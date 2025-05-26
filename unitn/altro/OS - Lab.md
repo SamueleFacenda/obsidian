@@ -117,3 +117,9 @@ int sigqueue(pid_t pid, int sig, const union sigval value);
 int pause(); 
 int sigsuspend(const sigset_t *mask);
 ```
+## errors
+```
+char *strerror(int errnum) // errno to str
+void perror(const char *str) // print "str:strerror(errno)"
+
+```
