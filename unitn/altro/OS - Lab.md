@@ -142,5 +142,6 @@ int mkfifo(const char *pathname, mode_t mode);
 ```
 key_t ftok(const char *path, int id) // generate unique key from path and num
 int msgget(key_t key, int msgflg) // crea coda, flags: 0666 | IPC_CREAT | IPC_EXC
-
+int msgsnd(int msqid, const void *msgp, size_t msgsz, int msgflg);
+ssize_t msgrcv(int msqid,void *msgp,size_t msgsz,long msgtyp,int msgflg)
 ```
