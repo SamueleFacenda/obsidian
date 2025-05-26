@@ -29,7 +29,6 @@ LATER=world
 $ $@ is target, $^ is dependencies, $< is first dependency
 ```
 ## files
-con `access` controllo attributi su file, come l'esistenza. Con `remove` o `unlink` elimino i files.
 ### streams
 `FILE *fopen(const char* filename, const char* mode);`
 mode: r, w, r+ (read and write), w+ (read and write create or overwrite), a, a+ (read and write at end)
@@ -63,6 +62,9 @@ off_t lseek(int fd, off_t offset, int whence);
 ```
 STDIN_FILENO, STDOUT_FILENO, STDERR_FILENO per standard streams
 `fprintf(stream, format, etc.)` funziona su file descriptors. 
+
+>[!NOTE]
+>con `access` controllo attributi su file, come l'esistenza. Con `remove` o `unlink` elimino i files.
 ## syscalls
 ```
 time(time_t*) // seconds since epoch begin
@@ -138,7 +140,7 @@ fifo:
 int mkfifo(const char *pathname, mode_t mode);
 ```
 ## message queues
-`IPC_PRIVATE` come key crea una coda privata in un gruppo di processi. `ipcs -q` per vedere le code da cli, `ipcrm --all=msg` per svuotarle.
+`IPC_PRIVATE` come key crea una coda privata in un gruppo di processi.
 ```
 key_t ftok(const char *path, int id) // generate unique key from path and num
 int msgget(key_t key, int msgflg) // crea coda, flags: 0666 | IPC_CREAT | IPC_EXC
@@ -148,3 +150,13 @@ ssize_t msgrcv(int msqid,void *msgp,size_t msgsz,long msgtyp,int msgflg)
 // cmd: IPC_STAT, IPC_SET, IPC_RMID, IPC_INFO, MSG_INFO, MSG_STAT
 int msgctl(int msqid, int cmd, struct msqid_ds *buf);
 ```
+
+>[!NOTE]
+>`ipcs -q` per vedere le code da cli, `ipcrm --all=msg` per svuotarle.
+## threads
+```
+
+```
+
+>[!warning]
+>compilare con `-pthread`
