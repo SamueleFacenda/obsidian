@@ -129,5 +129,6 @@ void perror(const char *str) // print "str:strerror(errno)"
 anonime:
 ```
 int pipe(int pipefd[2]); // reand and write fd's
+int fcntl(int fd, F_SETFL, O_NONBLOCK); // non blocking pipe
 
 ```
