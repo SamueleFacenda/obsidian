@@ -112,4 +112,5 @@ int sigprocmask(int how, const sigset_t *set, sigset_t *oldset);
 int sigpending(sigset_t *set);
 
 int sigaction(int signum, const struct sigaction *act, struct sigaction *oldact);
+int sigqueue(pid_t pid, int sig, const union sigval value);
 ```
