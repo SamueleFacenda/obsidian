@@ -99,3 +99,17 @@ pid_t wait (int *status) // wait any children status
 pid_t waitpid(pid_t pid, int *status, int options)
 ```
 ## signals
+```
+int kill(pid_t pid, int sig) // signal 0 checks existence
+uint alarm(uint seconds);
+
+int sigemptyset(sigset_t *set);
+int sigfillset(sigset_t *set);
+int sigaddset(sigset_t *set, int signo);
+int sigdelset(sigset_t *set, int signo);
+int sigprocmask(int how, const sigset_t *set, sigset_t *oldset);
+// how: SIG_BLOCK or SIG_UNBLOCK or SIG_SETMASK
+int sigpending(sigset_t *set);
+
+int sigaction(int signum, const struct sigaction *act, struct sigaction *oldact);
+```
