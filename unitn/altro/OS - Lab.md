@@ -162,7 +162,22 @@ int pthread_join(pthread_t thread, void ** retval); // may return PTHREAD_CANCEL
 
 // PTHREAD_CANCEL_ENABLE | PTHREAD_CANCEL_DEFERRED | PTHREAD_CANCEL_ASYNCHRONOUS
 int pthread_setcancelstate(int state, int *oldstate);
+int pthread_detach(pthread_t thread);
+
+int pthread_attr_init(pthread_attr_t *attr)
+int pthread_attr_destroy(pthread_attr_t *attr)
+int pthread_attr_set<xxx>(pthread_attr_t *attr, params);
+int pthread_attr_get<xxx>(const pthread_attr_t *attr, params);
+
+pthread_sigmask(int how, const sigset_t *restrict set, sigset_t *restrict oset);
+int pthread_kill(pthread_t thread, int sig);
 ```
 
 >[!warning]
 >compilare con `-pthread`
+
+### mutex
+```
+int pthread_mutex_init(pthread_mutex_t *mutex, const pthread_mutexattr_t *attr)
+
+```
