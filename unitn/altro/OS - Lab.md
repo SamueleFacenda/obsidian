@@ -21,7 +21,7 @@ lib.o: lib.c
 # generic target
 %.s: %.c
 # variables, EVERY is evaluated every time
-ONCE:=hello $(LATER) 
+restrictONCE:=hello $(LATER) 
 EVERY=hello $(LATER) 
 LATER=world
 # make var=value
@@ -179,5 +179,10 @@ int pthread_kill(pthread_t thread, int sig);
 ### mutex
 ```
 int pthread_mutex_init(pthread_mutex_t *mutex, const pthread_mutexattr_t *attr)
+int pthread_mutex_destroy(pthread_mutex_t *mutex)
 
+int pthread_mutex_lock(pthread_mutex_t *mutex)
+int pthread_mutex_unlock(pthread_mutex_t *mutex)
+int pthread_mutex_trylock(pthread_mutex_t *mutex)
 ```
+Types: PTHREAD_MUTEX_NORMAL, ERRORCHECK, RECURSIVE, DEFAULT.
