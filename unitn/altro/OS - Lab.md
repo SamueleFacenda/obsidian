@@ -138,6 +138,7 @@ fifo:
 int mkfifo(const char *pathname, mode_t mode);
 ```
 ## message queues
+`IPC_PRIVATE` come key crea una coda privata in un gruppo di processi.
 ```
 key_t ftok(const char *path, int id) // generate unique key from path and num
 int msgget(key_t key, int msgflg) // crea coda, flags: 0666 | IPC_CREAT | IPC_EXC
