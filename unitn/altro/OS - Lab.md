@@ -21,7 +21,7 @@ lib.o: lib.c
 # generic target
 %.s: %.c
 # variables, EVERY is evaluated every time
-restrictONCE:=hello $(LATER) 
+ONCE:=hello $(LATER) 
 EVERY=hello $(LATER) 
 LATER=world
 # make var=value
