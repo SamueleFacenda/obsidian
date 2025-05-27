@@ -48,6 +48,10 @@ int fputs(const char *str, FILE *stream)
 int fprintf(FILE *stream, const char *format, ...)
 int fflush(FILE *stream)
 ```
+
+>[!NOTE]
+>STDIN_FILENO, STDOUT_FILENO, STDERR_FILENO per standard streams
+`fprintf(stream, format, etc.)` funziona su file descriptors. 
 ### file descriptors
 `int open(const char *pathname, int flags[, mode_t mode]);`
 flags: O_RDONLY, O_WRONLY, O_RDWR almeno uno, O_CREAT e O_EXCL, O_APPEND, O_TRUNC
@@ -60,8 +64,6 @@ ssize_t write(int fd, const void *buf, size_t count);
 off_t lseek(int fd, off_t offset, int whence);
 // whence: SEEK_SET inizio file, SEEK_CUR current pos, SEEK_END
 ```
-STDIN_FILENO, STDOUT_FILENO, STDERR_FILENO per standard streams
-`fprintf(stream, format, etc.)` funziona su file descriptors. 
 
 >[!NOTE]
 >con `access` controllo attributi su file, come l'esistenza. Con `remove` o `unlink` elimino i files.
