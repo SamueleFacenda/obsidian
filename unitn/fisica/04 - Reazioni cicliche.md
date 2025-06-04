@@ -66,3 +66,8 @@ $$Q=0\implies \Delta S_{AB}\ge 0\implies \frac{dS_0}{dt}\ge 0$$
 L'entropia non può diminuire.
 
 Isoterma: $\Delta S_u=nR\ln\frac{V_f}{V_i}$
+#### Note su trasformazioni irreversibili
+Espansione libera: $W_R-W=T\Delta S_u$
+Passaggio di Q da $T_2>T_2\to T_i$
+$\Delta S_u=-\frac Q{T_2}+\frac Q{T_1}$
+$W_R-W=T_1\Delta S_u$
