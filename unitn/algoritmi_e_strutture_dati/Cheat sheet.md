@@ -203,5 +203,6 @@ int merge(int, int)
 ```
 int knapsack(int[] peso, int[] costo, int len, int capacita) // O(nC)
 int LCS(ITEM[] a, ITEM[] b) // O(nm)
-Set kruskal(edge[ ] A, int n, int m) // 
+Set kruskal(edge[ ] A, int n, int m) // O(m log n)
+
 ```
