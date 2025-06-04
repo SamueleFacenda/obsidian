@@ -199,3 +199,7 @@ MFSET Mfset(int size)
 int find(int)
 int merge(int, int)
 ```
+### Algoritmi vari
+```
+int knapsack(int[] peso, int[] costo, int len, int capacita) // O(nC)
+```
