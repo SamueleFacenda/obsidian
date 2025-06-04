@@ -20,7 +20,7 @@ accelerazione di trascinamento
 ### Definizioni
 Potenza: $P=\frac {dW}{dt}$$
 Lavoro: $dW=\vec F\cdot d\vec\ell$
-Energia potenziale: $\Delta U=-W$ (forze conservative)
+Energia potenziale: $\Delta U=-W$ (conservativa)
 Forza: $|\vec F|=-\frac{dU}{ds}$
 Energia cinetica: $\frac 12 mv^2$
 Energia meccanica: $E=E_K+U$
