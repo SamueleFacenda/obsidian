@@ -74,4 +74,4 @@ $\Delta S_u=-\frac Q{T_2}+\frac Q{T_1}$
 $W_R-W=T_1\Delta S_u$
 
 Macchina $T_2\to Q_1,\quad T_1\to Q_1\quad W>0$
-
+$W_R-W=Q_2($
