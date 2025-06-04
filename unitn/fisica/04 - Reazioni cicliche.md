@@ -64,3 +64,5 @@ valido per tutte le trasformazioni
 Considerando un sistema isolato:
 $$Q=0\implies \Delta S_{AB}\ge 0\implies \frac{dS_0}{dt}\ge 0$$
 L'entropia non può diminuire.
+
+Isoterma: $\Delta S_u=nR\ln\frac{V_f}{V_i}$
