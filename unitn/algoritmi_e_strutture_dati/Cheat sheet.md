@@ -202,5 +202,5 @@ int merge(int, int)
 ### Algoritmi vari
 ```
 int knapsack(int[] peso, int[] costo, int len, int capacita) // O(nC)
-int LCS(int[] a, int[] b) // 
+int LCS(int[] a, int[] b) // O(nm)
 ```
