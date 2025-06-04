@@ -1,4 +1,5 @@
-### Cose da sapere
+## Dinamica
+### Teoremi
 #### Principio d'inerzia (sistema inerziale) (primo principio della dinamica)
 #### Secondo principio della dinamica
 $$\vec F=m\vec a=\frac {d\vec p}{dt}$$
@@ -26,3 +27,33 @@ Energia cinetica: $\frac 12 mv^2$
 Energia meccanica: $E=E_K+U$
 Centro di massa: $\frac{\sum_{i=1}^n m_i\vec x_i}{\sum_{i=1}^nm_i}$
 Urti elastici: $E_{iniz}=E_{fin}$
+
+## Termodinamica
+
+### Teoremi
+#### Primo principio della termodinamica
+$$\Delta U=Q-W$$
+$$dU=\delta Q-\delta W$$
+#### Enunciato di Kelvin-Planck
+#### Enunciato di Clausius
+#### Equivalenza dei due enunciati
+#### Teorema di Carnot
+$$\eta_{R(T_1,T_2)}\ge\eta_{X(T_1,T_2)}$$
+#### Teorema di Clausius
+$$\oint\frac{dQ}T\ge 0$$
+#### Teorema dell'entropia
+$$\Delta S_{isolato}\ge 0$$
+#### Stato dei gas (?)
+$$pV=NK_BT$$
+#### Relazione di Meyer
+$$c_p-c_v=R$$
+### Definizioni
+Teoria cinetica dei gas: $U=U(T)$
+Stato termodinamico:
+Funzione di stato:
+$\Delta S_{ab}=\underset{(rev)}{\int_a^b}\frac {dQ}T$
+pressione
+volume
+temperatura (esperimento di boyle e di guy-lussac)
+mole
+macchine (rappresentazione schematica)
