@@ -47,6 +47,8 @@ $$\Delta S_{isolato}\ge 0$$
 $$pV=NK_BT$$
 #### Relazione di Meyer
 $$c_p-c_v=R$$
+#### Energia interna e gradi di libertà
+$$U=\frac\ell2K_BT$$
 ### Definizioni
 Teoria cinetica dei gas: $U=U(T)$
 Stato termodinamico:
@@ -54,6 +56,6 @@ Funzione di stato:
 $\Delta S_{ab}=\underset{(rev)}{\int_a^b}\frac {dQ}T$
 pressione
 volume
-temperatura (esperimento di boyle e di guy-lussac)
+temperatura (esperimento di boyle e di gay-lussac)
 mole
 macchine (rappresentazione schematica)
