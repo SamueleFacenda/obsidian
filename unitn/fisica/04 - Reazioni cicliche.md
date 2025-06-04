@@ -65,6 +65,8 @@ Considerando un sistema isolato:
 $$Q=0\implies \Delta S_{AB}\ge 0\implies \frac{dS_0}{dt}\ge 0$$
 L'entropia non può diminuire.
 
+Sapendo il numero di stati possibili in un dato istante:
+$$S=K_B\ln N$$
 #### Note su trasformazioni irreversibili
 Espansione libera
 $\Delta S_u=nR\ln\frac{V_f}{V_i}$ per le isoterme
