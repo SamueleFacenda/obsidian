@@ -204,5 +204,6 @@ int merge(int, int)
 int knapsack(int[] peso, int[] costo, int len, int capacita) // O(nC)
 int LCS(ITEM[] a, ITEM[] b) // O(nm)
 Set kruskal(edge[ ] A, int n, int m) // O(m log n)
-// O(VE^2) vs O((V+E)+|f*|), Vinitz O(V E log V )
+int[ ][ ] maxFlow(Graph G, Node s, Node t, int[ ][ ] c) // O(VE^2) vs O((V+E)+|f*|), Vinitz O(V E log V )
+
 ```
