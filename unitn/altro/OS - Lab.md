@@ -57,7 +57,7 @@ int fflush(FILE *stream)
 flags: O_RDONLY, O_WRONLY, O_RDWR almeno uno, O_CREAT e O_EXCL, O_APPEND, O_TRUNC
 mode: S_IRUSR, S_IWUSR, S_IXUSR, S_IRWXU, S_IRGRP, …, S_IROTH
 `int close(int fd);`
-leggere e scriverew:
+leggere e scrivere:
 ```
 ssize_t read (int fd, void *buf, size_t count);
 ssize_t write(int fd, const void *buf, size_t count);
@@ -67,6 +67,7 @@ off_t lseek(int fd, off_t offset, int whence);
 
 >[!NOTE]
 >con `access` controllo attributi su file, come l'esistenza. Con `remove` o `unlink` elimino i files.
+>Posso usare `stat` per controllare se un file esiste e se è file o directory.
 ## syscalls
 ```
 time(time_t*) // seconds since epoch begin
