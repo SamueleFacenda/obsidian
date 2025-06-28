@@ -19,7 +19,7 @@ $$\vec F=-G\frac{m_1^{(g)}m_2^{(g)}}{r^2}\hat r$$
 $$\vec F=m(\vec a+\vec a_t)$$
 accelerazione di trascinamento
 ### Definizioni
-Potenza: $P=\frac {dW}{dt}$$
+Potenza: $P=\frac {dW}{dt}$
 Lavoro: $dW=\vec F\cdot d\vec\ell$
 Energia potenziale: $\Delta U=-W$ (conservativa)
 Forza: $|\vec F|=-\frac{dU}{ds}$
