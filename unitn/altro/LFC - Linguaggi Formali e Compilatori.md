@@ -46,4 +46,10 @@ Scritto: senza supporti, 5 domande basiche, meccaniche (applicazioni algoritmi) 
 Orale
 Voto 50/50 scritto e orale.
 
-## Grammatiche ...
+## Grammatiche Generative
+
+Simboli terminali e non terminali.  I terminali sono l'output dell'analisi lessicale. I simboli maiuscoli sono quelli non terminali.
+
+Start symbol: non terminale.
+
+Inoltre, insieme di produzioni (traduzioni), da \<a> a \<b> con almeno un terminale in b.
