@@ -5,3 +5,5 @@ Trovo un albero di derivazione per andare verso un risultato.
 
 >Analisi lessicale: traduce stream di caratteri in stream di token (e.g. <ID,pippo>, ASS, <NUM,2>, MUL...)
 
+> Analisi sintattica: controlla se una stream di token aderisce a una grammatica, convertendolo in un parse tree o abstract syntax tree.
+
