@@ -46,4 +46,4 @@ Scritto: senza supporti, 5 domande basiche, meccaniche (applicazioni algoritmi) 
 Orale
 Voto 50/50 scritto e orale.
 
-## 
+## Grammatiche ...
