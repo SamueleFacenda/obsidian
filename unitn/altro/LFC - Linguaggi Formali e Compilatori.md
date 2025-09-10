@@ -21,3 +21,14 @@ Generazione codice macchina
 Front-end del compilatore: da analisi lessicale a codice intermedio
 Back-end: tutto il resto
 Così, avendo $N$ linguaggi e $K$ macchine, ho $N*K$ compilatori. 
+
+### Contenuto del corso
+- Strutture pervasive:
+	- automi a stati finiti
+	- grammatiche
+	- alberi e grafi
+- metodologie alle basi di molte aree e.g.:
+	- parsing di linguaggio naturale
+	- sonorità di db query
+
+
