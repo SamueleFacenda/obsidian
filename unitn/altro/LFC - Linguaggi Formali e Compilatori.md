@@ -3,7 +3,7 @@
 Traduzione da un linguaggio ad un altro
 Trovo un albero di derivazione per andare verso un risultato. 
 
-### Step della compilazione
+## Step della compilazione
 
 >Analisi lessicale: traduce stream di caratteri in stream di token (e.g. <ID,pippo>, ASS, <NUM,2>, MUL...)
 
@@ -22,7 +22,7 @@ Front-end del compilatore: da analisi lessicale a codice intermedio
 Back-end: tutto il resto
 Così, avendo $N$ linguaggi e $K$ macchine, ho $N*K$ compilatori. 
 
-### Contenuto del corso
+## Contenuto del corso
 - Strutture pervasive:
 	- automi a stati finiti
 	- grammatiche
@@ -41,6 +41,9 @@ Quindi:
 
 Libro: `Compilers: Principles, Techniques, and Tool (2nd edition); Aho et al.`
 
-#### Esame
-Scritto: senza supporti, 5 domande basiche, meccaniche (applicazioni algoritmi) e per mettersi in mostra.
-Orale: 
+### Esame
+Scritto: senza supporti, 5 domande basiche, meccaniche (applicazioni algoritmi) e per mettersi in mostra. Salto d'appello per chi non si presenta.
+Orale
+Voto 50/50 scritto e orale.
+
+## 
