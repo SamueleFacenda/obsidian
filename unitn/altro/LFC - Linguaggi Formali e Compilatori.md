@@ -38,3 +38,9 @@ Quindi:
 - generazione codice intermedio
 - generazione codice macchina (no)
 - tecniche di ottimizzazione (no)
+
+Libro: `Compilers: Principles, Techniques, and Tool (2nd edition); Aho et al.`
+
+#### Esame
+Scritto: senza supporti, 5 domande basiche, meccaniche (applicazioni algoritmi) e per mettersi in mostra.
+Orale: 
