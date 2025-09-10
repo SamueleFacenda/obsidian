@@ -12,3 +12,4 @@ ABS: ogni nodo operazione contiene i suoi operandi.
 
 > Analisi semantica: controllo validità delle operazioni (e.g. type checking)
 
+Generazione del codice intermedio, da albero/grafo a codice.
