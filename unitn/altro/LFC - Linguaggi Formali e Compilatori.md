@@ -31,4 +31,10 @@ Così, avendo $N$ linguaggi e $K$ macchine, ho $N*K$ compilatori.
 	- parsing di linguaggio naturale
 	- sonorità di db query
 
-
+Quindi:
+- linguaggi regolari e automi a stati finiti (analisi sintattica)
+- linguaggi context-free e parsing (analisi sintattica)
+- analisi semantica (grammatiche arricchite e symbol tables)
+- generazione codice intermedio
+- generazione codice macchina (no)
+- tecniche di ottimizzazione (no)
