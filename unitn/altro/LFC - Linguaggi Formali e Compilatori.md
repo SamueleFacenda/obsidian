@@ -49,7 +49,6 @@ Voto 50/50 scritto e orale.
 ## Grammatiche Generative
 
 Simboli terminali e non terminali.  I terminali sono l'output dell'analisi lessicale. I simboli maiuscoli sono quelli non terminali.
-
 Start symbol: non terminale.
-
-Inoltre, insieme di produzioni (traduzioni), da \<a> a \<b> con almeno un terminale in \<b>.
+	Inoltre, insieme di produzioni (traduzioni), da \<a\> a \<b\> con almeno un terminale in \<b\>.
+Il carattere speciale $\varepsilon$ rappresenta la parola vuota.
