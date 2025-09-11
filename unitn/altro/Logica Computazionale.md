@@ -7,3 +7,6 @@ Due parziali, primo il 7 novembre, il secondo la settimana prima di natale.
 **Logica:** formalizzazione del ragionamento (umano e non).
 **Ragionare:** partire da assiomi e assunzioni per raggiungere una conclusione.
 
+Passi:
+- scegliere un linguaggio formale
+- scegliere le regole di inferenza
