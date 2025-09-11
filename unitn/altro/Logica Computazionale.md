@@ -23,6 +23,6 @@ Logiche:
 	- logiche descrittive (relational DB)
 
 ## Introduzione alla logica
-Percezione: vediamo quello che scegliamo di vedere.
-Concettualizzazione: associazione di una parola a un concetto.
-Ragionamento: vedi sopra, può essere fallace (formalmente o informalmente, struttura o contenuto).
+**Percezione**: vediamo quello che scegliamo di vedere. Andare dalla realtà alle percezioni e fatti, cioè la nostra rappresentazione mentale della realtà.
+**Concettualizzazione**: associazione di una parola a un concetto. 
+**Ragionamento**: vedi sopra, può essere fallace (formalmente o informalmente, struttura o contenuto).
