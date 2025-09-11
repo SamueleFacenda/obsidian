@@ -53,3 +53,18 @@ Start symbol: non terminale.
 	Inoltre, insieme di produzioni (traduzioni), da \<a\> a \<b\> con almeno un terminale in \<b\>.
 Il carattere speciale $\varepsilon$ rappresenta la parola vuota.
 Un linguaggio può essere generato da più grammatiche.
+
+#### Formalmente
+è una tupla $(V,T,S,P)$ con:
+- V un vocabolario di terminali e non terminali
+- T un insieme di terminali
+- S è lo start symbol
+- P è l'insieme delle produzioni
+
+Convenzione:
+- Lettere maiuscole tipo A e B sono non terminali
+- Lettere maiuscole tipo X e Y sono simboli del vocabolario
+- Lettere minuscole tipo a e b sono terminali
+- Lettere greche tipo $\alpha$ e $\beta$ sono 0 o più ripetizioni di simboli nel vocabolario base
+- $w,w_0$ sono stringhe di terminali
+
