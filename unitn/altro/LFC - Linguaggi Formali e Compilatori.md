@@ -52,3 +52,4 @@ Simboli terminali e non terminali.  I terminali sono l'output dell'analisi lessi
 Start symbol: non terminale.
 	Inoltre, insieme di produzioni (traduzioni), da \<a\> a \<b\> con almeno un terminale in \<b\>.
 Il carattere speciale $\varepsilon$ rappresenta la parola vuota.
+Un linguaggio può essere generato da più grammatiche.
