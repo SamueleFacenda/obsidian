@@ -25,4 +25,4 @@ Logiche:
 ## Introduzione alla logica
 **Percezione**: vediamo quello che scegliamo di vedere. Andare dalla realtà alle percezioni e fatti, cioè la nostra rappresentazione mentale della realtà.
 **Concettualizzazione**: associazione di una parola a un concetto. 
-**Ragionamento**: vedi sopra, può essere fallace (formalmente o informalmente, struttura o contenuto).
+**Ragionamento**: da concetti a proprietà, entità e tipi di entità. Basandosi su asserzioni, cioè la conoscenza, con regole. Può essere fallace (formalmente o informalmente, struttura o contenuto).
