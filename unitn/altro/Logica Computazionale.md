@@ -22,7 +22,7 @@ Logiche:
 - logica computazionale
 	- logiche descrittive (relational DB)
 
-## Introduzione alla logica
+## Attività Mentale
 **Percezione**: vediamo quello che scegliamo di vedere. Andare dalla realtà alle percezioni e fatti, cioè la nostra rappresentazione mentale della realtà.
 **Concettualizzazione**: associazione di una parola a un concetto. 
 **Ragionamento**: da concetti a proprietà, entità e tipi di entità. Basandosi su asserzioni, cioè la conoscenza, con regole. Può essere fallace (formalmente o informalmente, struttura o contenuto).
