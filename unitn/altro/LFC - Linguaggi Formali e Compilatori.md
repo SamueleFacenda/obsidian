@@ -71,3 +71,7 @@ Convenzione:
 Linguaggio generato: $G=(V,T,S,P), L(G)=\{w|w\in T^* \;and\;S\implies^+w\}$
 
 L è un linguaggio context-free se è solo se esiste una grammatica libera che genera L.
+
+Derivazioni canoniche: 
+- rightmost e leftmost, sostituisci sempre il non terminale più a destra/sinistra
+- sceglie quale sostituire, non come.
