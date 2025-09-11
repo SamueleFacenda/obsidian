@@ -1,7 +1,7 @@
 > Fausto Giunchiglia 2025/26
 
 Esame con parte teorica e applicativa (modellistica) 40/60.
-Due parziali, primo il 7 novembre, il secondo la settimana prima di natale. Sono indipendenti l'uno dall'altro, il voto finale è la media.
+Due parziali, primo il 7 novembre, il secondo la settimana prima di natale. Sono indipendenti l'uno dall'altro, il voto finale è la media. Le domande sono tutte stronze a trabocchetto.
 [Sito del corso](https://datascientiafoundation.github.io/datascientia-education-logica-2025-26-unitn/)
 
 ## Intro
