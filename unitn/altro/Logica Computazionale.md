@@ -15,3 +15,15 @@ Passi:
 - algoritmi di ragionamento.
 Correttezza e completezza si verifica con la teoria degli insieme.
 
+Logiche:
+- logica filosofica
+	- modale
+- logica matematica
+- logica computazionale
+```mermaid
+%%{init: { 'logLevel': 1} }%%
+flowchart LR
+  A e1@==> B
+  e1@{ animate: true }
+
+```
