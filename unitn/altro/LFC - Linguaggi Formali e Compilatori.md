@@ -69,3 +69,5 @@ Convenzione:
 - $w,w_0$ sono stringhe di terminali
 
 Linguaggio generato: $G=(V,T,S,P), L(G)=\{w|w\in T^* \;and\;S\implies^+w\}$
+
+L è un linguaggio context-free se è solo se esiste una grammatica libera che genera L.
