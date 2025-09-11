@@ -75,3 +75,5 @@ L è un linguaggio context-free se è solo se esiste una grammatica libera che g
 Derivazioni canoniche: 
 - rightmost e leftmost, sostituisci sempre il non terminale più a destra/sinistra
 - sceglie quale sostituire, non come.
+
+Albero di derivazione, i terminali sono le foglie.
