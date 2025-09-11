@@ -22,3 +22,5 @@ Logiche:
 - logica computazionale
 	- logiche descrittive (relational DB)
 
+## Prima Lezione
+Percezione: vediamo quello che scegliamo di vedere.
