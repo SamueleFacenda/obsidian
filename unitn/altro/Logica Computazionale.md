@@ -20,4 +20,4 @@ Logiche:
 	- modale
 - logica matematica
 - logica computazionale
-	- logiche descrittive
+	- logiche descrittive (relational DB)
