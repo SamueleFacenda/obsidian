@@ -25,4 +25,4 @@ Logiche:
 ## Introduzione alla logica
 Percezione: vediamo quello che scegliamo di vedere.
 Concettualizzazione: associazione di una parola a un concetto.
-Ragionamento: vedi sopra.
+Ragionamento: vedi sopra, può essere fallace (formalmente o informalmente, struttura o contenuto).
