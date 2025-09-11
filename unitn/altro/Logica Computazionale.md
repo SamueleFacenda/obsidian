@@ -20,3 +20,4 @@ Logiche:
 	- modale
 - logica matematica
 - logica computazionale
+	- logiche descrittive
