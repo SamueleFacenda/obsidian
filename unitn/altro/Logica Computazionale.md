@@ -8,5 +8,6 @@ Due parziali, primo il 7 novembre, il secondo la settimana prima di natale.
 **Ragionare:** partire da assiomi e assunzioni per raggiungere una conclusione.
 
 Passi:
-- scegliere un linguaggio formale
-- scegliere le regole di inferenza
+- linguaggio formale
+- regole di inferenza
+- correttezza e completezza
