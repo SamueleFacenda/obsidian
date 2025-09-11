@@ -68,3 +68,4 @@ Convenzione:
 - Lettere greche tipo $\alpha$ e $\beta$ sono 0 o più ripetizioni di simboli nel vocabolario base
 - $w,w_0$ sono stringhe di terminali
 
+Linguaggio generato: $G=(V,T,S,P), L(G)=\{w|w\in T^* \;and\;S\implies^+w\}$
