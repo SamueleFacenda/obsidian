@@ -13,9 +13,3 @@ Passi:
 - correttezza e completezza (rispetto a una semantica intesa)
 - algoritmi di ragionamento.
 Correttezza e completezza si verifica con la teoria degli insieme.
-
-
-```mermaid
-flowchart LR 
-	A ==> B 
-```
