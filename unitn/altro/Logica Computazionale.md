@@ -46,3 +46,5 @@ Mondo, memoria, rappresentazione mentale (e.g. un database) e gap semantico.
 La rappresentazione mentale può essere:
 - analogica, generata dalla percezione (memoria subconscia in psico)
 - linguistica, generata da un input linguistico (memoria semantica in psico)
+
+Consistenza: 
