@@ -34,4 +34,9 @@ I quattro livelli sono:
 4. proposizioni (nuova conoscenza)
 
 ## Logica
-> La logica ci da una struttura per modellare il mondo e il nostro modo di pensare
+
+> La logica ci da una struttura per modellare il mondo e il nostro modo di pensare.
+
+applicazioni:
+- ingegneria del software, con linguaggi di specificazione e linguaggi di implementazioni.
+- metodi formali, correttezza e completezza di specifiche e metodi.
