@@ -118,4 +118,10 @@ flowchart TD
 	s7 --> j(other)
 	s8 --> k(other)
 ```
+Qua sopra l'ordine degli if è diverso, a parità di risultato.
 L'ambiguità è indecidibile, non ci sono algoritmi per decidere se una grammatica è ambigua o no.
+
+## Proprietà dei linguaggi liberi
+
+#### Lemma
+Data una grammatica $G$ si può ottenere una grammatica $G'$ da $G$ cambiando tutti i suoi non terminali con simboli nuovi. Allora $\mathcal L(G')=\mathcal L(G)$ 
