@@ -94,3 +94,7 @@ flowchart TD
 	s3 -.-> e($$\varepsilon$$)
 ```
 ### Ambiguità nelle grammatiche
+
+>Una grammatica è **ambigua** se e solo se esiste una $w\in L(G)$ che può essere generata da due derivazioni canoniche distinte, o entrambe rightmost o entrambe leftmost.
+
+
