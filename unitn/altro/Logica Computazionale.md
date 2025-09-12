@@ -47,4 +47,4 @@ La rappresentazione mentale può essere:
 - analogica, generata dalla percezione (memoria subconscia in psico)
 - linguistica, generata da un input linguistico (memoria semantica in psico)
 
-Consistenza: 
+**Consistenza**: si parla di inconsistenza, che si formalizza come $A\land \lnot A$ (A and not A).
