@@ -97,7 +97,7 @@ flowchart TD
 
 >Una grammatica è **ambigua** se e solo se esiste una $w\in L(G)$ che può essere generata da due derivazioni canoniche distinte, o entrambe rightmost o entrambe leftmost.
 
-
+Ad esempio la grammatica
 $$
 \begin{eqnarray}
 S \to & \text {if b then S } &| \\
@@ -107,7 +107,7 @@ S \to & \text {if b then S } &| \\
 $$
 è ambigua:
 ```mermaid
-%%{init: { "flowchart": { "diagramPadding": 2, "useMaxWidth": 10000 , "curve": "curve" } } }%%
+%%{init: { "flowchart": { "diagramPadding": 2, "useMaxWidth": 1 , "curve": "curve" } } }%%
 flowchart TD
 	s1(S) -->  a(if b then) & s2(S)
 	s2 --> b(if b then) & s3(S) & c(else) & s4(S)
