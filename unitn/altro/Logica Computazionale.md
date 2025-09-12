@@ -32,3 +32,6 @@ I quattro livelli sono:
 2. concetti
 3. entità, proprietà, tipi di entità, asserzioni e conoscenza (espressi con un linguaggio regolato)
 4. proposizioni (nuova conoscenza)
+
+## Logica
+> La logica ci da una struttura per modellare il mondo e il nostro modo di pensare
