@@ -26,3 +26,8 @@ Logiche:
 **Percezione**: vediamo quello che scegliamo di vedere. Andare dalla realtà alle percezioni e fatti, cioè la nostra rappresentazione mentale della realtà.
 **Concettualizzazione**: associazione di una parola a un concetto. 
 **Ragionamento**: da concetti a proprietà, entità e tipi di entità. Basandosi su asserzioni, cioè la conoscenza, con regole. Può essere fallace (formalmente o informalmente, struttura o contenuto).
+
+I quattro livelli sono:
+1. percezioni e fatti
+2. concetti
+3. entità, proprietà, tipi di entità, asserzioni e conoscenza (espressi con un linguaggio regolato)
