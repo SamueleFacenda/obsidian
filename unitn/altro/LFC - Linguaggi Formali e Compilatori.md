@@ -107,6 +107,7 @@ S \to & \text {if b then S } &| \\
 $$
 è ambigua:
 ```mermaid
+%%{init: { "flowchart": { "diagramPadding": 2, "useMaxWidth": 10000 , "curve": "curve" } } }%%
 flowchart TD
 	s1(S) -->  a(if b then) & s2(S)
 	s2 --> b(if b then) & s3(S) & c(else) & s4(S)
