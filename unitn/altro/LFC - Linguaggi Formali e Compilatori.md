@@ -98,3 +98,24 @@ flowchart TD
 >Una grammatica è **ambigua** se e solo se esiste una $w\in L(G)$ che può essere generata da due derivazioni canoniche distinte, o entrambe rightmost o entrambe leftmost.
 
 
+$$
+\begin{eqnarray}
+S \to & \text {if b then S } &| \\
+& \text{if b then S else S } &| \\
+& \text{other}&
+\end{eqnarray}
+$$
+è ambigua:
+```mermaid
+flowchart TD
+	s1(S) -->  a(if b then) & s2(S)
+	s2 --> b(if b then) & s3(S) & c(else) & s4(S)
+	s3 --> e(other)
+	s4 --> f(other)
+	
+	s5(S) -->  g(if b then) & s6(S) & i(else) & s7(S)
+	s6 --> h(if b then) & s8(S)
+	s7 --> j(other)
+	s8 --> k(other)
+```
+L'ambiguità è indecidibile, non ci sono algoritmi per decidere se una grammatica è ambigua o no.
