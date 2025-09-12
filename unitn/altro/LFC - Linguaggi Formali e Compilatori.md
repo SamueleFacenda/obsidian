@@ -54,7 +54,7 @@ Start symbol: non terminale.
 Il carattere speciale $\varepsilon$ rappresenta la parola vuota.
 Un linguaggio può essere generato da più grammatiche.
 
-#### Formalmente
+### Formalmente
 è una tupla $(V,T,S,P)$ con:
 - V un vocabolario di terminali e non terminali
 - T un insieme di terminali
@@ -93,5 +93,4 @@ flowchart TD
 	s2 --> a2(a) & s3(S) & b2(b)
 	s3 -.-> e($$\varepsilon$$)
 ```
-
-
+### Ambiguità nelle grammatiche
