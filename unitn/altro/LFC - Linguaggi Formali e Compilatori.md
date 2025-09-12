@@ -77,3 +77,7 @@ Derivazioni canoniche:
 - sceglie quale sostituire, non come.
 
 Albero di derivazione, i terminali sono le foglie.
+```mermaid
+flowchart TD
+	s1(S) --> a1(a) s2(S) & & b1(b)
+```
