@@ -47,4 +47,4 @@ La rappresentazione mentale può essere:
 - analogica, generata dalla percezione (memoria subconscia in psico)
 - linguistica, generata da un input linguistico (memoria semantica in psico)
 
-**Consistenza**: si parla di inconsistenza, che si formalizza come $A\land \lnot A$ (A and not A).
+**(In)Consistenza**: si parla di inconsistenza, che si formalizza come $A\land \lnot A$ (A and not A). Una rappresentazione mentale è inconsistente quando rappresenta uno stato del mondo che è impossibile per quello che sappiamo. Consistenza è l'assenza di inconsistenza.
