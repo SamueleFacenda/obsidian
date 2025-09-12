@@ -77,7 +77,21 @@ Derivazioni canoniche:
 - sceglie quale sostituire, non come.
 
 Albero di derivazione, i terminali sono le foglie.
+
+
+Data la grammatica:
+$$ \begin{eqnarray}
+S& \to &aSb | \varepsilon \\
+a& \to &\varepsilon \\
+b& \to &\varepsilon
+\end{eqnarray}
+$$
+Si può avere il seguente albero di derivazione
 ```mermaid
 flowchart TD
-	s1(S) --> a1(a) s2(S) & & b1(b)
+	s1(S) --> a1(a) & s2(S) & b1(b)
+	s2 --> a2(a) & s3(S) & b2(b)
+	s3 -.-> e($$\varepsilon$$)
 ```
+
+
