@@ -40,3 +40,5 @@ I quattro livelli sono:
 applicazioni:
 - ingegneria del software, con linguaggi di specificazione e linguaggi di implementazioni.
 - metodi formali, correttezza e completezza di specifiche e metodi.
+- intelligenza artificiale, ragionamento automatico etc.
+
