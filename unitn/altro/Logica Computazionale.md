@@ -31,3 +31,4 @@ I quattro livelli sono:
 1. percezioni e fatti
 2. concetti
 3. entità, proprietà, tipi di entità, asserzioni e conoscenza (espressi con un linguaggio regolato)
+4. proposizioni (nuova conoscenza)
