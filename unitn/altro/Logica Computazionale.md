@@ -42,3 +42,7 @@ applicazioni:
 - metodi formali, correttezza e completezza di specifiche e metodi.
 - intelligenza artificiale, ragionamento automatico etc.
 
+Mondo, memoria, rappresentazione mentale (e.g. un database) e gap semantico.
+La rappresentazione mentale può essere:
+- analogica, generata dalla percezione (memoria subconscia in psico)
+- linguistica, generata da un input linguistico (memoria semantica in psico)
