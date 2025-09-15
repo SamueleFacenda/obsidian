@@ -51,4 +51,6 @@ La rappresentazione mentale può essere:
 
 Gli umani costruiscono una delle tante rappresentazione analogiche e linguistiche, due rappresentazioni mentali soggettive possono essere mutualmente inconsistenti. Ciò dimostra che la soggettività è coinvolta.
 
-**Rappresentazione:** oggettizzazione della rappresentazione mentale, permettono di condividere, comunicare le proprie rappresentazioni.
+**Rappresentazione:** oggettizzazione della rappresentazione mentale, permettono di condividere, comunicare le proprie rappresentazioni. Usate per minimizzare le non comprensioni.
+
+
