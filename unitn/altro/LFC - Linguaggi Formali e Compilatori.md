@@ -148,4 +148,19 @@ Passi di trasformazione:
 	- riscrivo le produzioni considerando tutte le combinazioni in cui i non terminali vengono annullati.
 	- elimino le produzioni con le $\epsilon$
 - eliminazione non terminali inutili
+	- li elimino e bom
+- eliminazione produzioni unitarie
 	- sposto le produzioni dei non terminali inutili al non terminale superiore.
+
+manca la produzioni di epsilon da S, e le due forme.
+
+#### Pumping lemma
+Dato $\mathcal L$ un linguaggio libero, allora
+- $\exists p\in\Bbb N^+$ t.c.
+- $\forall z \in \mathcal L$ t.c. $|z|>p$
+- $\exists u,v,w,x,y$ t.c.
+	- $z=uvwxy$ e
+	- $|vwx|\le p$ e
+	- $|vx|> 0$ e
+	- $\forall i \in \Bbb N.uv^iwx^iy\in\mathcal L$
+	
