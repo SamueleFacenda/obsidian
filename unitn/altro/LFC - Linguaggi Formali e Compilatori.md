@@ -143,4 +143,5 @@ Sia $\mathcal L$ un linguaggio libero da contesto. Allora esiste una grammatica 
 	- $A\to A_1A_2$
 
 Passi di trasformazione:
-- annullamento produzioni $\epsilon$, 
+- annullamento produzioni $\epsilon$
+	- induttivamente, trovo non-terminali annullabili (base $A\to a$, iter $A\to Y_1,Y_2,\dots ,Y_n$ nullabili)
