@@ -131,4 +131,4 @@ C'è la dimostrazione, serve?
 
 #### Lemmi
 La classe dei linguaggi liberi è chiusa rispetto all'unione insiemistica.
-La classe dei linguaggi liberi è chiusa rispetto alla concatenazioni.
+La classe dei linguaggi liberi è chiusa rispetto alla concatenazione.
