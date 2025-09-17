@@ -128,3 +128,6 @@ L'ambiguità è indecidibile, non ci sono algoritmi per decidere se una grammati
 Data una grammatica $G$ si può ottenere una grammatica $G'$ da $G$ cambiando tutti i suoi non terminali con simboli nuovi. Allora $\mathcal L(G')=\mathcal L(G)$.
 
 C'è la dimostrazione, serve?
+
+#### Lemma
+La classe dei linguaggi liberi e chiusa rispetto all'unione insiemistica.
