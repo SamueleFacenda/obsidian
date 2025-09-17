@@ -141,3 +141,6 @@ Sia $\mathcal L$ un linguaggio libero da contesto. Allora esiste una grammatica 
 - Ogni produzione è in una delle due forme
 	- $A\to a$
 	- $A\to A_1A_2$
+
+Passi di trasformazione:
+- annullamento produzioni $\epsilon$, 
