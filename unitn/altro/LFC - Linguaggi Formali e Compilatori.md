@@ -151,8 +151,11 @@ Passi di trasformazione:
 	- li elimino e bom
 - eliminazione produzioni unitarie
 	- sposto le produzioni dei non terminali inutili al non terminale superiore.
+- cambio tutto nella forma binaria
+	- aggiungo non terminali per stringhe miste di terminali e non
+	- aggiunge terminali per stringhe con lunghezza >2
 
-manca la produzioni di epsilon da S, e le due forme.
+manca la produzioni di epsilon da S
 
 #### Pumping lemma
 Dato $\mathcal L$ un linguaggio libero, allora
