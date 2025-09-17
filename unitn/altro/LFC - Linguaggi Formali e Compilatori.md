@@ -132,3 +132,12 @@ C'è la dimostrazione, serve?
 #### Lemmi
 La classe dei linguaggi liberi è chiusa rispetto all'unione insiemistica.
 La classe dei linguaggi liberi è chiusa rispetto alla concatenazione.
+
+### Chomsky normal form
+Sia $\mathcal L$ un linguaggio libero da contesto. Allora esiste una grammatica $\mathcal G$ per cui $\mathcal L(\mathcal G)=\mathcal L \\ \{\epsilon \}$ e $\mathcal G$ t.c.:
+- Non ha $\epsilon$-produzioni
+- Non ha produzioni unitarie (forma $A\to B$)
+- Non ha non-terminali inutili (che non compaiono mai in derivazioni di stringhe)
+- Ogni produzione è in una delle due forme
+	- $A\to a$
+	- $A\to A_1A_2$
