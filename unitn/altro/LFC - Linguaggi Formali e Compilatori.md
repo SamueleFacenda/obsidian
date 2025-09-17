@@ -166,4 +166,11 @@ Dato $\mathcal L$ un linguaggio libero, allora
 	- $|vwx|\le p$ e
 	- $|vx|> 0$ e
 	- $\forall i \in \Bbb N.uv^iwx^iy\in\mathcal L$
-	
+```mermaid
+flowchart TB
+	S --> u & A1[A] & y
+	A1 --> v & A2[A] & x
+	A2 --> w
+```
+In questo albero che genera g, ho una coppia di A (la più profonda coppia di non terminali uguali).Posso replicare la derivazione tra i due e fare *pumping*, moltiplicando v e x.
+u y e w possono essere $\epsilon$, almeno una tra v e x non lo sono.
