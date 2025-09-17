@@ -129,5 +129,6 @@ Data una grammatica $G$ si può ottenere una grammatica $G'$ da $G$ cambiando tu
 
 C'è la dimostrazione, serve?
 
-#### Lemma
-La classe dei linguaggi liberi e chiusa rispetto all'unione insiemistica.
+#### Lemmi
+La classe dei linguaggi liberi è chiusa rispetto all'unione insiemistica.
+La classe dei linguaggi liberi è chiusa rispetto alla concatenazioni.
