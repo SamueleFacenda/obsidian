@@ -146,3 +146,5 @@ Passi di trasformazione:
 - annullamento produzioni $\epsilon$
 	- induttivamente, trovo non-terminali annullabili (base $A\to a$, iter $A\to Y_1,Y_2,\dots ,Y_n$ annullabili)
 	- riscrivo le produzioni considerando tutte le combinazioni in cui i non terminali vengono annullati.
+	- elimino le produzioni con le $\epsilon$
+	- 
