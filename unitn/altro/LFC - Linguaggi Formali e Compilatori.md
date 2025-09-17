@@ -147,4 +147,5 @@ Passi di trasformazione:
 	- induttivamente, trovo non-terminali annullabili (base $A\to a$, iter $A\to Y_1,Y_2,\dots ,Y_n$ annullabili)
 	- riscrivo le produzioni considerando tutte le combinazioni in cui i non terminali vengono annullati.
 	- elimino le produzioni con le $\epsilon$
-	- 
+- eliminazione non terminali inutili
+	- sposto le produzioni dei non terminali inutili al non terminale superiore.
