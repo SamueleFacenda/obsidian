@@ -55,7 +55,7 @@ Gli umani costruiscono una delle tante rappresentazione analogiche e linguistich
 **Rappresentazione:** oggettizzazione della rappresentazione mentale, permettono di condividere, comunicare le proprie rappresentazioni. Usate per minimizzare le non comprensioni.
 
 
-### Rappresentazione (machine)
+## Rappresentazione (machine)
 Riassunto:
 - percezione
 - concettualizzazione
@@ -64,3 +64,10 @@ Riassunto:
 Semantic Gap: differenze tra persone e modi diversi di rappresentare mentalmente.
 
 **Grammatica Formale**: come in LFC, terminali e non, regole di produzione.
+
+### Rappresentazioni:
+#### Tabelle
+Come in database relazionale, una tabella per ogni tipo di entità con campi finiti.
+
+#### Grafi
+Vari nodi, i nodi hanno delle proprietà, sono collegati ad altri nodi con relazioni.
