@@ -125,12 +125,12 @@ L'ambiguità è indecidibile, non ci sono algoritmi per decidere se una grammati
 
 ## Proprietà dei linguaggi liberi
 
-#### Lemma
+### Lemma
 Data una grammatica $G$ si può ottenere una grammatica $G'$ da $G$ cambiando tutti i suoi non terminali con simboli nuovi. Allora $\mathcal L(G')=\mathcal L(G)$.
 
 C'è la dimostrazione, serve?
 
-#### Lemmi
+### Lemmi
 La classe dei linguaggi liberi è chiusa rispetto all'unione insiemistica.
 La classe dei linguaggi liberi è chiusa rispetto alla concatenazione.
 
@@ -158,7 +158,7 @@ Passi di trasformazione:
 
 manca la produzioni di epsilon da S
 
-#### Pumping lemma
+### Pumping lemma
 Dato $\mathcal L$ un linguaggio libero, allora
 - $\exists p\in\Bbb N^+$ t.c.
 - $\forall z \in \mathcal L$ t.c. $|z|>p$
@@ -182,3 +182,5 @@ Io per ogni specifico linguaggio ho una p unica ($2^{k+1}$ con k numero di termi
 Tesi negata:
 $$\forall p\in\Bbb N^+.\forall z \in \mathcal L : |z|>p.\forall u,v,w,x,y.$$
 $$(z=uvwxy\,and\,|vwx|\le p\,and\,|vx|>0)\implies \exists i\in\Bbb N.uv^iwx^iy\notin \mathcal L$$
+### Lemma
+Non è vero che dati due linguaggi liberi la loro intersezione non è libera.
