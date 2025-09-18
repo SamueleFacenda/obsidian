@@ -177,9 +177,6 @@ u y e w possono essere $\epsilon$, almeno una tra v e x non lo sono.
 
 Io per ogni specifico linguaggio ho una p unica ($2^{k+1}$ con k numero di terminali), non è detto che tutti abbiano una z più lunga di p.
 
-Tesi più formale:
-$\exists p\in\Bbb N^+.\forall z \in \mathcal L : |z|>p.\exists u,v,w,x,y. P$
-con tutte le proprietà di sopra.
-
 Tesi negata:
-$$\forall p\in\Bbb N^+.\forall z \in \mathcal L : |z|>p.\exists u,v,w,x,y. not(P)$$
+$$\forall p\in\Bbb N^+.\forall z \in \mathcal L : |z|>p.\forall u,v,w,x,y.$$
+$$(z=uvwxy\,and\,|vxy|\le p\,and\,|vx|>0)\implies \exists i\in\Bbb N.uv^iwx^iy\notin \mathcal L$$
