@@ -4,6 +4,7 @@ Esame con parte teorica e applicativa (modellistica) 40/60.
 Due parziali, primo il 7 novembre, il secondo la settimana prima di natale. Sono indipendenti l'uno dall'altro, il voto finale è la media. Le domande sono tutte stronze a trabocchetto.
 [Sito del corso](https://datascientiafoundation.github.io/datascientia-education-logica-2025-26-unitn/)
 
+Il corso è diviso in Human Practice to Theory e Theory to Machine Practice.
 ## Premesse
 **Logica:** formalizzazione del ragionamento (umano e non).
 **Ragionare:** partire da assiomi e assunzioni per raggiungere una conclusione.
