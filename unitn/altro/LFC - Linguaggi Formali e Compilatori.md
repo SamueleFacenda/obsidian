@@ -174,3 +174,5 @@ flowchart TB
 ```
 In questo albero che genera g, ho una coppia di A (la più profonda coppia di non terminali uguali).Posso replicare la derivazione tra i due e fare *pumping*, moltiplicando v e x.
 u y e w possono essere $\epsilon$, almeno una tra v e x non lo sono.
+
+Io per ogni specifico linguaggio ho una p unica ($2^{k+1}$ con k numero di terminali), non è detto che tutti abbiano una z più lunga di p.
