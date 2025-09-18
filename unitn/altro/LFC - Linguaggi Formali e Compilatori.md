@@ -176,3 +176,10 @@ In questo albero che genera g, ho una coppia di A (la più profonda coppia di no
 u y e w possono essere $\epsilon$, almeno una tra v e x non lo sono.
 
 Io per ogni specifico linguaggio ho una p unica ($2^{k+1}$ con k numero di terminali), non è detto che tutti abbiano una z più lunga di p.
+
+Tesi più formale:
+$\exists p\in\Bbb N^+.\forall z \in \mathcal L : |z|>p.\exists u,v,w,x,y. P$
+con tutte le proprietà di sopra.
+
+Tesi negata:
+$$\forall p\in\Bbb N^+.\forall z \in \mathcal L : |z|>p.\exists u,v,w,x,y. not(P)$$
