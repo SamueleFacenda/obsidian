@@ -55,3 +55,11 @@ Gli umani costruiscono una delle tante rappresentazione analogiche e linguistich
 **Rappresentazione:** oggettizzazione della rappresentazione mentale, permettono di condividere, comunicare le proprie rappresentazioni. Usate per minimizzare le non comprensioni.
 
 
+### Rappresentazione (machine)
+Riassunto:
+- percezione
+- concettualizzazione
+- comprensione
+- ragionamento
+Semantic Gap: differenze tra persone e modi diversi di rappresentare mentalmente.
+
