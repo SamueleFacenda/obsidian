@@ -73,3 +73,4 @@ Vari nodi, i nodi hanno delle proprietà, sono collegati ad altri nodi con relaz
 #### Rappresentare la conoscenza
 Parliamo solo dei tipi, non delle entità. Si può usare un ER diagram, 
 #### Rappresentare i concetti
+WordNet è un lessico digitalizzato, contiene dei set di sinonimi (synsets). Contiene i collegamenti tra i concetti, opposizioni, somiglianza, componenti di e generalizzazioni.
