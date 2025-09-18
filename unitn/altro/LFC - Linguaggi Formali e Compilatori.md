@@ -179,4 +179,4 @@ Io per ogni specifico linguaggio ho una p unica ($2^{k+1}$ con k numero di termi
 
 Tesi negata:
 $$\forall p\in\Bbb N^+.\forall z \in \mathcal L : |z|>p.\forall u,v,w,x,y.$$
-$$(z=uvwxy\,and\,|vxy|\le p\,and\,|vx|>0)\implies \exists i\in\Bbb N.uv^iwx^iy\notin \mathcal L$$
+$$(z=uvwxy\,and\,|vwx|\le p\,and\,|vx|>0)\implies \exists i\in\Bbb N.uv^iwx^iy\notin \mathcal L$$
