@@ -75,5 +75,4 @@ Parliamo solo dei tipi, non delle entità. Si può usare un ER diagram,
 #### Rappresentare i concetti
 WordNet è un lessico digitalizzato, contiene dei set di sinonimi (synsets). Contiene i collegamenti tra i concetti, opposizioni, somiglianza, componenti di e generalizzazioni.
 
-**DType:**
-Un tipo di EType con proprietà fissate (datatype), 
+**DType:** un tipo di EType con proprietà fissate (datatype).
