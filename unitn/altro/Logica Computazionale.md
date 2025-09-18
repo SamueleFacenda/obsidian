@@ -63,3 +63,4 @@ Riassunto:
 - ragionamento
 Semantic Gap: differenze tra persone e modi diversi di rappresentare mentalmente.
 
+**Grammatica Formale**: come in LFC, terminali e non, regole di produzione.
