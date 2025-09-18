@@ -72,3 +72,4 @@ Come in database relazionale, una tabella per ogni tipo di entità con campi fin
 Vari nodi, i nodi hanno delle proprietà, sono collegati ad altri nodi con relazioni.
 #### Rappresentare la conoscenza
 Parliamo solo dei tipi, non delle entità. Si può usare un ER diagram, 
+#### Rappresentare i concetti
