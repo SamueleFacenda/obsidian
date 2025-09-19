@@ -189,5 +189,5 @@ Non è vero che dati due linguaggi liberi la loro intersezione non è libera
 
 >**Parsing:** data una grammatica e una parola, vogliamo capire se una parola è generata dalla grammatica e fornire un albero di derivazione.
 
-
+Due tipi di parsing, top-down che costruisce una derivazione leftmost e bottom-up che costruisce rightmost dalla frontiera alla radice.
 
