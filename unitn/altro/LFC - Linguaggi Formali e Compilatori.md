@@ -183,4 +183,11 @@ Tesi negata:
 $$\forall p\in\Bbb N^+.\forall z \in \mathcal L : |z|>p.\forall u,v,w,x,y.$$
 $$(z=uvwxy\,and\,|vwx|\le p\,and\,|vx|>0)\implies \exists i\in\Bbb N.uv^iwx^iy\notin \mathcal L$$
 ### Lemma
-Non è vero che dati due linguaggi liberi la loro intersezione non è libera.
+Non è vero che dati due linguaggi liberi la loro intersezione non è libera
+
+## Top-down Parsing
+
+>**Parsing:** data una grammatica e una parola, vogliamo capire se una parola è generata dalla grammatica e fornire un albero di derivazione.
+
+
+
