@@ -200,4 +200,5 @@ Nella tabella setto $M[A,b]=A\to \alpha$ se:
 Questa è l'introduzione a due *famosissimi* (ndr. mai sentiti) **first e follow**.
 
 #### First
-$\mathbf {first(\alpha)}$ è l'insieme di terminali che stanno all'inizio di stringhe che derivano da $\alpha$, tra i quali ci può essere $\epsilon$ .
+$\mathbf {first(\alpha)}$ è l'insieme di terminali che stanno all'inizio di stringhe che derivano da $\alpha$, tra i quali ci **può** essere $\epsilon$ .
+
