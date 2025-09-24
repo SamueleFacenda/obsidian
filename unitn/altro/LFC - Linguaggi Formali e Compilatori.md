@@ -199,3 +199,5 @@ Nella tabella setto $M[A,b]=A\to \alpha$ se:
 - o da $\alpha$ posso derivare $\epsilon$ e in qualche derivazione A è seguito da un qualche $\gamma$ da cui si può derivare una stringa che comincia con b.
 Questa è l'introduzione a due *famosissimi* (ndr. mai sentiti) **first e follow**.
 
+#### First
+$\mathbf {first(\alpha)}$ è l'insieme di terminali che stanno all'inizio di stringhe che derivano da $\alpha$, tra i quali ci può essere $\epsilon$ .
