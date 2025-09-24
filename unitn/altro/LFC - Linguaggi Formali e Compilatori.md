@@ -201,4 +201,4 @@ Questa è l'introduzione a due *famosissimi* (ndr. mai sentiti) **first e follow
 
 #### First
 $\mathbf {first(\alpha)}$ è l'insieme di terminali che stanno all'inizio di stringhe che derivano da $\alpha$, tra i quali ci **può** essere $\epsilon$ .
-
+L'algoritmo è semplice, data una stringa $\alpha$ aggiungo i first del primo elemento a $first(\alpha)$, se c'è $\epsilon$ allora procedo anche con l'elemento successivo. Se sono arrivato alla fine aggiungo anche $\epsilon$.
