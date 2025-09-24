@@ -197,3 +197,5 @@ Si evita il backtrack, si può usare il top down parsing predittivo, sulle gramm
 Nella tabella setto $M[A,b]=A\to \alpha$ se:
 - o da $\alpha$ arrivo in un certo numero di passo derivo una stringa che comincia per b
 - o da $\alpha$ posso derivare $\epsilon$ e in qualche derivazione A è seguito da un qualche $\gamma$ da cui si può derivare una stringa che comincia con b.
+Questa è l'introduzione a due *famosissimi* (ndr. mai sentiti) **first e follow**.
+
