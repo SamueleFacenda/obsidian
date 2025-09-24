@@ -193,4 +193,4 @@ Due tipi di parsing, top-down che costruisce una derivazione leftmost e bottom-u
 
 Si evita il backtrack, si può usare il top down parsing predittivo, sulle grammatiche $LL(1)$. Queste grammatiche permettono di create deterministicamente una stringa leggendo da sinistra un simbolo alla volta.
 
-**Parsing Table:** indica per ogni terminale (che sarà in posizione iniziale) e non terminale (stato corrente) quale produzione utilizzare. Si costruisce utilizzando prima il matching del token iniziale 
+**Parsing Table:** indica per ogni terminale (che sarà in posizione iniziale) e non terminale (stato corrente) quale produzione utilizzare. Si costruisce utilizzando prima il matching del token iniziale e poi altre robe complicate che ci sta mettendo tanto a spiegare.
