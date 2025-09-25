@@ -91,13 +91,16 @@ flowchart TD
 
 ```mermaid
 gantt
-	title 3dom smart processing timeline
-	dateFormat DD-MM-YYYY
-	section Developement
-		Finale interface definition :active, d1, 25-09-2025, 7d
-		Lio tuning : d2, 25-09-2025, 14d
-		Improve PBA performance : d3, after d1, 7d
-		Final refinement : d4, after d3, 10d
+    title 3dom smart processing timeline
+    dateFormat  YYYY-MM-DD
+    excludes    weekends
+
+    section Development
+    Lidar-inertial odometry module      :active, lio, 2025-10-01, 30d
+    Bundle adjustment module            :ba, after lio, 14d
+    Processing with intermediate steps  :pint, after ba, 14d
+    Beta milestone                      :milestone, beta, 2026-01-15, 0d
+    Coupled processing (3dttrj I/O)     :cp, after pint, 2026-03-01
 ```
 ## Rappresentazione (machine)
 Riassunto:
