@@ -208,3 +208,6 @@ $\mathbf{follow(A)}$ è l'insieme di terminali che possono seguire A in qualche 
 Per ogni  $A\to\alpha$ aggiungo alla tabella:
 - $M[A,b]=\alpha$ se $b\in first(\alpha)$
 - Se $\epsilon\in first(\alpha)$ allora $M[A,b] =\epsilon \;\forall b\in follow(\alpha)$
+
+**Grammatica Left Recursive:** se per qualche A e qualche $\alpha$, $A\Rightarrow^* A\alpha$. Queste non sono LL(1). Quelle immediatamente ricorsive hanno produzioni in forma $A\to A\alpha$.
+
