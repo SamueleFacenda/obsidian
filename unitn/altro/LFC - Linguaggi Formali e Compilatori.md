@@ -218,3 +218,9 @@ Se ho $A\Rightarrow Ba\Rightarrow Ada$ rimpiazzo $B\to Ad$ con $B\to Bad| db$, c
 $B\to dbB'| cB'$
 $B'\to cB'|adB'|\epsilon$
 
+Quindi, per le ricorsioni immediate:
+Sostituisco $A\to A\alpha | \beta$
+avendo $\alpha \ne \epsilon$ e $\beta\ne A\gamma$ 
+con:
+$A\to \beta A'$
+$A'\to\alpha A' | \epsilon$
