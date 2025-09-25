@@ -210,4 +210,8 @@ Per ogni  $A\to\alpha$ aggiungo alla tabella:
 - Se $\epsilon\in first(\alpha)$ allora $M[A,b] =\epsilon \;\forall b\in follow(\alpha)$
 
 **Grammatica Left Recursive:** se per qualche A e qualche $\alpha$, $A\Rightarrow^* A\alpha$. Queste non sono LL(1). Quelle immediatamente ricorsive hanno produzioni in forma $A\to A\alpha$.
-Si può modificare una grammatica left recursive per farla diventare LL(1).
+Si può modificare una grammatica left recursive per farla diventare LL(1). Con un po' di sostituzioni.
+**Esempio**
+$A\to Ba|b$
+$B\to Bc|Ad|b$
+Se ho $A\Rightarrow Ba\Rightarrow Ada$ rimpiazzo $B\to Ad$ con $B\to Bad| db$, cioè le produzioni che avrei con A.
