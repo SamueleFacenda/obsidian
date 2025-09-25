@@ -214,4 +214,7 @@ Si può modificare una grammatica left recursive per farla diventare LL(1). Con 
 **Esempio**
 $A\to Ba|b$
 $B\to Bc|Ad|b$
-Se ho $A\Rightarrow Ba\Rightarrow Ada$ rimpiazzo $B\to Ad$ con $B\to Bad| db$, cioè le produzioni che avrei con A.
+Se ho $A\Rightarrow Ba\Rightarrow Ada$ rimpiazzo $B\to Ad$ con $B\to Bad| db$, cioè le produzioni che avrei con A. Introduco un nuovo non terminale che si postpone:
+$B\to dbB'| cB'$
+$B'\to cB'|adB'|\epsilon$
+
