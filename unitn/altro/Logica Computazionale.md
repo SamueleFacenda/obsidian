@@ -54,6 +54,7 @@ Gli umani costruiscono una delle tante rappresentazione analogiche e linguistich
 
 **Rappresentazione:** oggettizzazione della rappresentazione mentale, permettono di condividere, comunicare le proprie rappresentazioni. Usate per minimizzare le non comprensioni.
 
+$$\frac{\text{if A then B},A}B $$
 
 ## Rappresentazione (machine)
 Riassunto:
