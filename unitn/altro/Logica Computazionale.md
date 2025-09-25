@@ -97,6 +97,7 @@ gantt
 		Finale interface definition :active, d1, 25-09-2025, 7d
 		Lio tuning : d2, 25-09-2025, 14d
 		Improve PBA performance : d3, after d1, 7d
+		Final refinement : d4, after d3, 10d
 ```
 ## Rappresentazione (machine)
 Riassunto:
