@@ -83,6 +83,11 @@ flowchart TD
 - concetti/concettualizzazioni
 - percetti/percezioni
 - dati
+### Piramide logica
+- logica di ragionamento
+- logica del mondo
+- modelli del mondo
+- modelli
 ## Rappresentazione (machine)
 Riassunto:
 - percezione
