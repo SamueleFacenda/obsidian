@@ -55,6 +55,23 @@ Gli umani costruiscono una delle tante rappresentazione analogiche e linguistich
 **Rappresentazione:** oggettizzazione della rappresentazione mentale, permettono di condividere, comunicare le proprie rappresentazioni. Usate per minimizzare le non comprensioni.
 
 $$\frac{\text{if A then B},A}B $$
+### Piramide DIKW
+```mermaid
+flowchart TD
+    W@{ shape: tri, label: "Winsodm" }
+    K[/Knowledge\]
+    I[/    Information     \]
+    D[/"     Data    "\]
+    
+    W --> K
+    K --> I
+    I --> D
+
+    style W fill:#60a5fa,stroke:#1e3a8a,stroke-width:2px
+    style K fill:#93c5fd,stroke:#1e3a8a,stroke-width:2px
+    style I fill:#bfdbfe,stroke:#1e3a8a,stroke-width:2px
+    style D fill:#dbeafe,stroke:#1e40af,stroke-width:2px
+```
 
 ## Rappresentazione (machine)
 Riassunto:
