@@ -60,8 +60,8 @@ $$\frac{\text{if A then B},A}B $$
 flowchart TD
     W@{ shape: tri, label: "Winsodm" }
     K[/Knowledge\]
-    I[/    Information     \]
-    D[/"     Data    "\]
+    I[/&nbsp;&nbsp;&nbsp;Information&nbsp;&nbsp;&nbsp;\]
+    D[/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\]
     
     W --> K
     K --> I
@@ -72,7 +72,17 @@ flowchart TD
     style I fill:#bfdbfe,stroke:#1e3a8a,stroke-width:2px
     style D fill:#dbeafe,stroke:#1e40af,stroke-width:2px
 ```
-
+### Piramide di attività
+- ragionamento
+- comprensione
+- concettualizzazione
+- percezione
+### Piramide di rappresentazione
+- proposizioni
+- asserzioni
+- concetti/concettualizzazioni
+- percetti/percezioni
+- dati
 ## Rappresentazione (machine)
 Riassunto:
 - percezione
