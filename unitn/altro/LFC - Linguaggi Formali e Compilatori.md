@@ -204,3 +204,7 @@ $\mathbf {first(\alpha)}$ è l'insieme di terminali che stanno all'inizio di str
 L'algoritmo è semplice, data una stringa $\alpha$ aggiungo i first del primo elemento a $first(\alpha)$, se c'è $\epsilon$ allora procedo anche con l'elemento successivo. Se sono arrivato alla fine aggiungo anche $\epsilon$.
 #### Follow
 $\mathbf{follow(A)}$ è l'insieme di terminali che possono seguire A in qualche derivazione.
+
+Per ogni  $A\to\alpha$ aggiungo alla tabella:
+- $M[A,b]=\alpha$ se $b\in first(\alpha)$
+- Se $\epsilon\in first(\alpha)$ allora $M[A,b] =\epsilon \;\forall b\in follow(\alpha)$
