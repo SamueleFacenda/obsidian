@@ -88,6 +88,16 @@ flowchart TD
 - logica del mondo
 - modelli del mondo
 - modelli
+
+```mermaid
+gantt
+	title 3dom smart processing timeline
+	dateFormat DD-MM-YYYY
+	section Developement
+		Finale interface definition :active, d1, 25-09-2025, 7d
+		Lio tuning : d2, 25-09-2025, 14d
+		Improve PBA performance : d3, after d1, 7d
+```
 ## Rappresentazione (machine)
 Riassunto:
 - percezione
