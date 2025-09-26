@@ -224,3 +224,5 @@ avendo $\alpha \ne \epsilon$ e $\beta\ne A\gamma$
 con:
 $A\to \beta A'$
 $A'\to\alpha A' | \epsilon$
+
+### Left factoring
