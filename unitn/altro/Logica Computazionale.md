@@ -105,7 +105,7 @@ gantt
 ```
 
 ## Modelli
-Come già detto, abbiamo entità, tipi di entità e proprietà delle entità.
+Come già detto, abbiamo entità, tipi di entità, proprietà delle entità, tipi di proprietà, relazioni tra le entità
 
 # T2MP
 ## Rappresentazione (machine)
