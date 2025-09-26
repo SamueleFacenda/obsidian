@@ -113,6 +113,7 @@ Con un insieme di tuple specifico le proprietà e le relazioni,
 Un **percetto** è una qualunque cosa che è percepita in modo diversa dalle altre. Chiamiamo **dominio di interpretazione** l'insieme dei percetti che consideriamo. Possiamo distinguere i percetti basandoci sull'analisi di quello che percepiamo.
 $$D=<U,\{C\},\{R\}>$$
 Nel dominio di interpretazione, U è l'universo di interpretazione, C è un insieme di classi, R un insieme di relazioni n-arie. Abbiamo appunto unità, classi e relazioni.
+I fatti sono delle relazioni, di tipo *membro di* oppure *sottoinsieme/superinsieme di*.
 
 # T2MP
 ## Rappresentazione (machine)
