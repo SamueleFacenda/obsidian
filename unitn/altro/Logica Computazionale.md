@@ -114,7 +114,7 @@ Un **percetto** è una qualunque cosa che è percepita in modo diversa dalle alt
 $$D=<U,\{C\},\{R\}>$$
 Nel dominio di interpretazione, U è l'universo di interpretazione, C è un insieme di classi, R un insieme di relazioni n-arie. Abbiamo appunto unità, classi e relazioni.
 I fatti sono delle relazioni, di tipo *membro di* oppure *sottoinsieme/superinsieme di*.
-
+La teoria dei modelli è la disciplina che studio la struttura dei modelli come una funzione di tipi di fatti e percetti specifici.
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
