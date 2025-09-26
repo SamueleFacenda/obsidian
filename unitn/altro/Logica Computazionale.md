@@ -106,7 +106,8 @@ gantt
 
 ## Modelli
 Come già detto, abbiamo entità, tipi di entità, proprietà delle entità, tipi di proprietà, relazioni tra le entità e tipi di relazioni.
-
+Uno dei problemi è stabilire l'uguaglianza di due entità, partendo dal tipo.
+Usiamo la teoria degli insiemi, che offre una buona rappresentazione grafica e una possibilità di essere convertita in funzioni e domini.
 
 # T2MP
 ## Rappresentazione (machine)
