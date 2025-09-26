@@ -227,3 +227,9 @@ $A'\to\alpha A' | \epsilon$
 
 ### Left factoring
 Quando due produzioni dello stesso non terminale hanno lo stesso prefisso. Queste grammatiche non sono LL(1). Posso *raccogliere* il prefisso creando un nuovo non terminale.
+
+$\mathcal G$ è LL(1) $\iff\mathcal G$ ha una produzione $A\to\alpha|\beta$ tale che:
+- $first(\alpha)\cap first(\beta) = \emptyset$
+- se $\epsilon \in first(\alpha)$ allora $first(\beta)$ ... continua
+
+## Linguaggi regolari
