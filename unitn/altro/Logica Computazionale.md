@@ -109,6 +109,11 @@ Come già detto, abbiamo entità, tipi di entità, proprietà delle entità, tip
 Uno dei problemi è stabilire l'uguaglianza di due entità, partendo dal tipo.
 Usiamo la teoria degli insiemi, che offre una buona rappresentazione grafica e una possibilità di essere convertita in funzioni e domini.
 Con un insieme di tuple specifico le proprietà e le relazioni, 
+
+Un **percetto** è una qualunque cosa che è percepita in modo diversa dalle altre. Chiamiamo **dominio di interpretazione** l'insieme dei percetti che consideriamo. Possiamo distinguere i percetti basandoci sull'analisi di quello che percepiamo.
+$$D=<U,\{C\},\{R\}>$$
+Nel dominio di interpretazione, U è l'universo di interpretazione, C è un insieme di classi, R un insieme di relazioni n-arie. Abbiamo appunto unità, classi e relazioni.
+
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
