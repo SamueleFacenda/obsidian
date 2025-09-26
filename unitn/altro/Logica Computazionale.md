@@ -5,6 +5,7 @@ Due parziali, primo il 7 novembre, il secondo la settimana prima di natale. Sono
 [Sito del corso](https://datascientiafoundation.github.io/datascientia-education-logica-2025-26-unitn/)
 
 Il corso è diviso in Human Practice to Theory e Theory to Machine Practice.
+# HP2T
 ## Premesse
 **Logica:** formalizzazione del ragionamento (umano e non).
 **Ragionare:** partire da assiomi e assunzioni per raggiungere una conclusione.
@@ -102,6 +103,11 @@ gantt
     Beta milestone                      :milestone, beta, 2026-01-15, 0d
     Coupled processing (3dttrj I/O)     :cp, after pint, 2026-03-01
 ```
+
+## Modelli
+
+
+# T2MP
 ## Rappresentazione (machine)
 Riassunto:
 - percezione
