@@ -242,3 +242,8 @@ Abbiamo questi operatori:
 -  `*` è la ripetizione
 - `()` è triviale
 Il linguaggio denotato da una regex si definisce induttivamente, ricorsivamente sui vari operatori usando il singolo carattere o $\epsilon$. Si possono scrivere formalmente in modo insiemistico i vari operatori ma è triviale.
+
+Ordine operatori (precedenza):
+- kleene star, associa a sinistra
+- concatenazione, associa a sinistra
+- alternazione, associa a sinistra
