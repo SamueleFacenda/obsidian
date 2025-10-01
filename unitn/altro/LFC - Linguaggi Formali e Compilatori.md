@@ -258,6 +258,7 @@ Sono delle tuple $(S,\mathcal A,mode_n,s_0,F)$ dove:
 Si rappresenta come un grafo diretto:
 ```mermaid
 graph LR
+	z:::hidden --> a
 	a(($$S_0$$)) -- a --> b(($$S_1$$)) -- a --> c((($$S_3$$)))
 	
 	a -- $$\epsilon$$ --> a
