@@ -276,3 +276,5 @@ In ogni NFA intermedio c'è:
 - esattamente uno stato finale
 - nessun arco entrante entranti negli stati iniziali
 - nessun arco uscente dallo stato finale
+
+Il metodo è abbastanza semplice, costruisci dei bivi quando c'è l'alternazione, metti in fila con la concatenazione e metti loop con la ripetizione.
