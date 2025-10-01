@@ -257,7 +257,8 @@ Sono delle tuple $(S,\mathcal A,mode_n,s_0,F)$ dove:
 - $move_n:S \times (\mathcal A\cup \{\epsilon\})\to 2^S$
 Si rappresenta come un grafo diretto:
 ```mermaid
-graph LR
+%%{ init: { 'flowchart': {'defaultRenderer': 'elk' } } }%%
+flowchart LR
 	z:::hidden --> a
 	a(($$S_0$$)) -- a --> b(($$S_1$$)) -- a --> c((($$S_3$$)))
 	
@@ -269,3 +270,9 @@ Un NFA $\mathcal N$ accetta (o riconosce) w se e solo se esiste almeno un cammin
 
 #### Costruzione di Thompson
 Un algoritmo che costruisce un NFA data un'espressione regolare.
+
+Ogni step introduce al massimo 2 nuovi stati, avremo quindi al massimo $2k$ stati, dove k è il numero di simboli e operatori nell'espressione regolare.
+In ogni NFA intermedio c'è:
+- esattamente uno stato finale
+- nessun arco entrante entranti negli stati iniziali
+- nessun arco uscente dallo stato finale
