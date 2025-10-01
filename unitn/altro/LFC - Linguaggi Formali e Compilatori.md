@@ -233,5 +233,6 @@ $\mathcal G$ è LL(1) $\iff\mathcal G$ ha una produzione $A\to\alpha|\beta$ tale
 - se $\epsilon \in first(\alpha)$ allora $first(\beta)$ ... continua
 
 ## Linguaggi regolari
-
 Per riconoscere un linguaggio non per forza ho bisogno delle espressioni matematiche che abbiamo usato fino ad adesso, una **macchina a stati** è abbastanza.
+Questi linguaggi sono definiti da espressioni regolari, riconosciuti da automi a stati finiti deterministici e non.
+### Regex
