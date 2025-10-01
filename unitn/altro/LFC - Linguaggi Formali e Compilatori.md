@@ -255,4 +255,12 @@ Sono delle tuple $(S,\mathcal A,mode_n,s_0,F)$ dove:
 - $s_0\in S$ è lo stato iniziale
 - $F\subseteq S$ è un insieme di stati finali (o accettabili)
 - $move_n:S \times (\mathcal A\cup \{\epsilon\})\to 2^S$
+Si rappresenta come un grafo diretto:
+```mermaid
+graph LR
+	a(($$S_0$$)) -- a --> b(($$S_1$$)) -- a --> c((($$S_3$$)))
+	
+	a -- $$\epsilon$$ --> a
+```
 
+Un NFA $\mathcal N$ accetta (o riconosce) w se e solo se esiste almeno un cammino spelling w dal suo stato iniziale a uno dei suoi stati finali.
