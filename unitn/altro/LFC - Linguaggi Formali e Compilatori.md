@@ -236,3 +236,9 @@ $\mathcal G$ è LL(1) $\iff\mathcal G$ ha una produzione $A\to\alpha|\beta$ tale
 Per riconoscere un linguaggio non per forza ho bisogno delle espressioni matematiche che abbiamo usato fino ad adesso, una **macchina a stati** è abbastanza.
 Questi linguaggi sono definiti da espressioni regolari, riconosciuti da automi a stati finiti deterministici e non.
 ### Regex
+Abbiamo questi operatori:
+- `|` è l'alternazione
+- `.` è la concatenazione (omettibile)
+-  `*` è la ripetizione
+- `()` è triviale
+Il linguaggio denotato da una regex si definisce induttivamente, ricorsivamente sui vari operatori usando il singolo carattere o $\epsilon$. Si possono scrivere formalmente in modo insiemistico i vari operatori ma è triviale.
