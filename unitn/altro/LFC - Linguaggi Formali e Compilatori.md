@@ -247,3 +247,12 @@ Ordine operatori (precedenza):
 - kleene star, associa a sinistra
 - concatenazione, associa a sinistra
 - alternazione, associa a sinistra
+
+### NFA
+Sono delle tuple $(S,\mathcal A,mode_n,s_0,F)$ dove:
+- S è un insieme di stati
+- $\mathcal A$ è un alfabeto con $\epsilon \notin \mathcal A$
+- $s_0\in S$ è lo stato iniziale
+- $F\subseteq S$ è un insieme di stati finali (o accettabili)
+- $move_n:S \times (\mathcal A\cup \{\epsilon\})\to 2^S$
+
