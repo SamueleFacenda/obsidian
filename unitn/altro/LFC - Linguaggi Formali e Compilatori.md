@@ -266,6 +266,19 @@ flowchart LR
 	classDef hidden display: none;
 ```
 
+
+```mermaid
+--- 
+config: 
+  layout: elk
+---
+flowchart LR
+	z:::hidden --> a
+	a(($$S_0$$)) -- a --> b(($$S_1$$)) -- a --> c((($$S_3$$)))
+	
+	a -- $$\epsilon$$ --> a
+	classDef hidden display: none;
+```
 Un NFA $\mathcal N$ accetta (o riconosce) w se e solo se esiste almeno un cammino spelling w dal suo stato iniziale a uno dei suoi stati finali.
 
 #### Costruzione di Thompson
