@@ -291,3 +291,5 @@ Quindi non ci sono $\epsilon$-transizioni, la move è :
 - **totale** se da ogni stato c'è esattamente una a-transizione per ogni $a\in\mathcal A$.
 - **parziale** se c'è al massimo una a-transizione per ogni $a\in\mathcal A$.
 Quando è totale posso andare da ogni stato usando ogni etichetta in un altro stato. Se è parziale non posso andare da ogni stato in un altro usando tutte le etichette.
+
+Il linguaggio riconosciuto da un DFA $\mathcal D$, denotato con $\mathcal L(\mathcal D)$, è l'insieme di parole w tali che... *uguale ai NFA*.
