@@ -257,17 +257,6 @@ Sono delle tuple $(S,\mathcal A,mode_n,s_0,F)$ dove:
 - $move_n:S \times (\mathcal A\cup \{\epsilon\})\to 2^S$
 Si rappresenta come un grafo diretto:
 ```mermaid
-%%{ init: { 'flowchart': {'defaultRenderer': 'elk' } } }%%
-flowchart LR
-	z:::hidden --> a
-	a(($$S_0$$)) -- a --> b(($$S_1$$)) -- a --> c((($$S_3$$)))
-	
-	a -- $$\epsilon$$ --> a
-	classDef hidden display: none;
-```
-
-
-```mermaid
 --- 
 config: 
   layout: elk
