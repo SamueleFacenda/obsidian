@@ -263,7 +263,7 @@ config:
 ---
 flowchart LR
 	z:::hidden --> a
-	a(($$S_0$$)) -- a --> b(($$S_1$$)) -- a --> c((($$S_3$$)))
+	a(($$S_0$$)) -- a --> b(($$S_1$$)) -- a --> c((($$S_2$$)))
 	
 	a -- $$\epsilon$$ --> a
 	classDef hidden display: none;
@@ -284,3 +284,5 @@ Il metodo è abbastanza semplice, costruisci dei bivi quando c'è l'alternazione
 Bisogna capire data una parola w e un NFA se $w\in\mathcal L(\mathcal N)$.
 
 **$\epsilon$-closure:** è l'insieme di stati raggiungibili da un dato stato t in zero o più $\epsilon$-transizioni.
+La simulazione (con n stati e m archi) ha complessità $O(|w|(n+m))$ e nel caso di Thompson è $O(|w||r|)$. Il processo intero costa sempre $O(|w||r|)$ perché la costruzione di Thompson è $O(|er|)$.
+
