@@ -280,3 +280,5 @@ In ogni NFA intermedio c'è:
 - nessun arco uscente dallo stato finale
 
 Il metodo è abbastanza semplice, costruisci dei bivi quando c'è l'alternazione, metti in fila con la concatenazione e metti loop con la ripetizione.
+#### Simulazione di un NFA
+Bisogna capire data una parola w e un NFA se $w\in\mathcal L(\mathcal N)$.
