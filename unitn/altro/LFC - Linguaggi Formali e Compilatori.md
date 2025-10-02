@@ -248,7 +248,7 @@ Ordine operatori (precedenza):
 - concatenazione, associa a sinistra
 - alternazione, associa a sinistra
 
-### NFA
+### NFA (non deterministic finite state automata)
 Sono delle tuple $(S,\mathcal A,mode_n,s_0,F)$ dove:
 - S è un insieme di stati
 - $\mathcal A$ è un alfabeto con $\epsilon \notin \mathcal A$
@@ -285,4 +285,9 @@ Bisogna capire data una parola w e un NFA se $w\in\mathcal L(\mathcal N)$.
 
 **$\epsilon$-closure:** è l'insieme di stati raggiungibili da un dato stato t in zero o più $\epsilon$-transizioni.
 La simulazione (con n stati e m archi) ha complessità $O(|w|(n+m))$ e nel caso di Thompson è $O(|w||r|)$. Il processo intero costa sempre $O(|w||r|)$ perché la costruzione di Thompson è $O(|er|)$.
-
+### DFA (deterministic finite state automata)
+Sono delle tuple $(S,\mathcal A, move_d, s_0, F)$ con $move_d:S\times\mathcal A\to S$.
+Quindi non ci sono $\epsilon$-transizioni, la move è :
+- **totale** se da ogni stato c'è esattamente una a-transizione per ogni $a\in\mathcal A$.
+- **parziale** se c'è al massimo una a-transizione per ogni $a\in\mathcal A$.
+Quando è totale posso andare da ogni stato usando ogni etichetta in un altro stato. Se è parziale non posso andare da ogni stato in un altro usando tutte le etichette.
