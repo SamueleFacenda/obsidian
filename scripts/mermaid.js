@@ -4,5 +4,5 @@
 
   mermaid.registerLayoutLoaders(elkLayouts);
   window.mermaid = mermaid;
-  console.log("Mermaid with ELK layouts loaded!");
+  console.log("✅ Mermaid with ELK layouts loaded!");
 })();
