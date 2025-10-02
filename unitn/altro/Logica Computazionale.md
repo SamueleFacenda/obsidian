@@ -115,6 +115,8 @@ $$D=<U,\{C\},\{R\}>$$
 Nel dominio di interpretazione, U è l'universo di interpretazione, C è un insieme di classi, R un insieme di relazioni n-arie. Abbiamo appunto unità, classi e relazioni.
 I fatti sono delle relazioni, di tipo *membro di* oppure *sottoinsieme/superinsieme di*.
 La teoria dei modelli è la disciplina che studio la struttura dei modelli come una funzione di tipi di fatti e percetti specifici.
+
+Un linguaggio è definito come $L=<A,FR>=\{s\}$, con A l'alfabeto e FR le formation rules, un insieme di regole di generazione.
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
