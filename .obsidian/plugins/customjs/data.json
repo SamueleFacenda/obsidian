@@ -1,6 +1,6 @@
 {
   "jsFiles": "",
-  "jsFolder": ".obsidian/customjs",
+  "jsFolder": ".scripts",
   "startupScriptNames": [],
   "registeredInvocableScriptNames": [],
   "rerunStartupScriptsOnFileChange": true
