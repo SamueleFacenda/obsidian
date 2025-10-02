@@ -282,3 +282,5 @@ In ogni NFA intermedio c'è:
 Il metodo è abbastanza semplice, costruisci dei bivi quando c'è l'alternazione, metti in fila con la concatenazione e metti loop con la ripetizione.
 #### Simulazione di un NFA
 Bisogna capire data una parola w e un NFA se $w\in\mathcal L(\mathcal N)$.
+
+**$\epsilon$-closure:** è l'insieme di stati raggiungibili da un dato stato t in zero o più $\epsilon$-transizioni.
