@@ -1,7 +1,9 @@
 {
   "jsFiles": "",
   "jsFolder": "scripts",
-  "startupScriptNames": [],
+  "startupScriptNames": [
+    "MermaidLoader"
+  ],
   "registeredInvocableScriptNames": [],
   "rerunStartupScriptsOnFileChange": false
 }
