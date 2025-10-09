@@ -118,7 +118,7 @@ La teoria dei modelli è la disciplina che studio la struttura dei modelli come 
 
 Un linguaggio è definito come $L=<A,FR>=\{s\}$, con A l'alfabeto e FR le formation rules, un insieme di regole di generazione.
 
-Una teoria è un insieme di fatti, una teoria T può essere corretta per un modello M. Una rappresentazione del mondo è una coppia teoria modello. 
+Una teoria è un insieme di fatti, una teoria T può essere corretta per un modello M. Una rappresentazione del mondo è una coppia teoria modello. Le teorie non sono necessariamente complete.
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
