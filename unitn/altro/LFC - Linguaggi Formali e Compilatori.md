@@ -303,3 +303,5 @@ Quindi:
 - controllo se ci sono stati equivalenti in un blocco
 - se no *raffino* dividendo il blocco dividendolo ancora
 - così ogni blocco rappresenta uno stato di equivalenza.
+
+In pratica, mano a mano splitto gli stati che raggiungono altri blocchi con delle a-transizioni o no.
