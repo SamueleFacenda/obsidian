@@ -121,7 +121,7 @@ Un linguaggio è definito come $L=<A,FR>=\{s\}$, con A l'alfabeto e FR le format
 Una teoria è un insieme di fatti, una teoria T può essere corretta per un modello M. Una rappresentazione del mondo è una coppia teoria modello. Le teorie non sono necessariamente complete.
 
 ### Rappresentazioni canoniche del mondo
-
+Un modello canonico per una teoria è il modello per cui la teoria è massimale (completa).
 
 # T2MP
 ## Rappresentazione (machine)
