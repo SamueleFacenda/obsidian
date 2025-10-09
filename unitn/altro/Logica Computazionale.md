@@ -117,6 +117,8 @@ I fatti sono delle relazioni, di tipo *membro di* oppure *sottoinsieme/superinsi
 La teoria dei modelli è la disciplina che studio la struttura dei modelli come una funzione di tipi di fatti e percetti specifici.
 
 Un linguaggio è definito come $L=<A,FR>=\{s\}$, con A l'alfabeto e FR le formation rules, un insieme di regole di generazione.
+
+Una teoria è un insieme di fatti, una teoria T può essere corretta per un modello M. Una rappresentazione del mondo è una coppia teoria modello. 
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
