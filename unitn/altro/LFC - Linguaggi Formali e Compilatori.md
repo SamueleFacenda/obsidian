@@ -295,3 +295,5 @@ Quando è totale posso andare da ogni stato usando ogni etichetta in un altro st
 Il linguaggio riconosciuto da un DFA $\mathcal D$, denotato con $\mathcal L(\mathcal D)$, è l'insieme di parole w tali che... *uguale ai NFA*.
 #### Subset construction
 Dato un NFA costruisco un DFA che riconosce lo stesso linguaggio. Uso le $\epsilon$-closure per mappare i sottoinsiemi di stati in un solo stato.
+#### Minimizzazione
+Esiste un algoritmo per minimizzare un DFA. Questo algoritmo funziona solo su automi con funzioni di move totali.
