@@ -296,5 +296,10 @@ Il linguaggio riconosciuto da un DFA $\mathcal D$, denotato con $\mathcal L(\mat
 #### Subset construction
 Dato un NFA costruisco un DFA che riconosce lo stesso linguaggio. Uso le $\epsilon$-closure per mappare i sottoinsiemi di stati in un solo stato.
 #### Minimizzazione
-Esiste un algoritmo per minimizzare un DFA. Questo algoritmo funziona solo su automi con funzioni di move totali. Algoritmo `partition refinement`.
+Esiste un algoritmo per minimizzare un DFA. Questo algoritmo funziona solo su automi con funzioni di move totali. Algoritmo *partition refinement*.
 Inizi partizionando gli stati e raffinando le partizioni (o blocchi). Comincio dagli stati finali e tutti gli altri.
+Quindi:
+- partiziono
+- controllo se ci sono stati equivalenti in un blocco
+- se no *raffino* dividendo il blocco dividendolo ancora
+- così ogni blocco rappresenta uno stato di equivalenza.
