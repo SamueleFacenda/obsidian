@@ -306,4 +306,4 @@ Quindi:
 
 In pratica, mano a mano splitto gli stati che raggiungono altri blocchi con delle a-transizioni o no.
 #### Numero di stati di un DFA
-**Lemma:**
+**Lemma:** per ogni $n\in\Bbb N$ esiste un NFA con n stati la cui forma minima di DFA ha almeno $2^n$ stati.
