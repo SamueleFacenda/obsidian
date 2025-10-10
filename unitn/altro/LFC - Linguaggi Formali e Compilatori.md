@@ -305,3 +305,5 @@ Quindi:
 - così ogni blocco rappresenta uno stato di equivalenza.
 
 In pratica, mano a mano splitto gli stati che raggiungono altri blocchi con delle a-transizioni o no.
+#### Numero di stati di un DFA
+**Lemma:**
