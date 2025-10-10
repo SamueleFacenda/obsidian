@@ -308,4 +308,4 @@ In pratica, mano a mano splitto gli stati che raggiungono altri blocchi con dell
 #### Numero di stati di un DFA
 **Lemma:** per ogni $n\in\Bbb N$ esiste un NFA con n stati la cui forma minima di DFA ha almeno $2^n$ stati.
 
-Esiste poi un pumping lemma per i linguaggi regolari.
+Esiste poi un pumping lemma per i linguaggi regolari. Solo che invece di *uvwxy* ho solo *uvw*, con v che *pumpa*.
