@@ -123,6 +123,8 @@ Una teoria è un insieme di fatti, una teoria T può essere corretta per un mode
 ### Rappresentazioni canoniche del mondo
 Un modello canonico per una teoria è il modello per cui la teoria è massimale (completa).
 
+## Logica del mondo
+
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
