@@ -140,6 +140,14 @@ Se $M\models$ allora a è vero. La negazione è che a è sconosciuto, non falso.
 **cut:** posso evitare di salvare gli step intermedi di ragionamento in quanto non sono necessari
 $$if \;T\models w_1\;and\;\Sigma \cup \{w_1\}\models w_2\;then\;T\cup \Sigma\models w_2$$
 
+#### Tipi di logica:
+LoE: logica delle entità
+LoC: logica delle definizioni dei concetti
+LoD: logica della descrizione degli etype
+LoCE
+LoDE
+LoCD
+LoCDE
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
