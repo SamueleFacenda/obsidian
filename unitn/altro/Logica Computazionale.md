@@ -136,6 +136,10 @@ essa estende un mondo creando un nuovo mondo.
 Un modello è un insieme di fatti, presi dal dominio. Per avere il dominio ho la funzione di interpretazione. La funzione di entailment permette di stabilire linguisticamente cosa è vero e cosa falso dato un modello.
 
 Se $M\models$ allora a è vero. La negazione è che a è sconosciuto, non falso.
+
+**cut:** posso evitare di salvare gli step intermedi di ragionamento in quanto non sono necessari
+$$if \;T\models w_1\;and\;\Sigma \cup \{w_1\}\models w_2\;then\;T\cup \Sigma\models w_2$$
+
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
