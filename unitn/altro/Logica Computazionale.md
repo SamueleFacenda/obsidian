@@ -135,7 +135,7 @@ essa estende un mondo creando un nuovo mondo.
 
 Un modello è un insieme di fatti, presi dal dominio. Per avere il dominio ho la funzione di interpretazione. La funzione di entailment permette di stabilire linguisticamente cosa è vero e cosa falso dato un modello.
 
-Se $M\models$ allora a è vero.
+Se $M\models$ allora a è vero. La negazione è che a è sconosciuto, non falso.
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
