@@ -124,7 +124,10 @@ Una teoria è un insieme di fatti, una teoria T può essere corretta per un mode
 Un modello canonico per una teoria è il modello per cui la teoria è massimale (completa).
 
 ## Logica del mondo
-
+La scelta se una certa asserzione è la conseguenza di un world model.
+Dato $W=<L_a,D,I_a>$ un world model, con $L_a$ un linguaggio di asserzione,
+$$|=_{L_a}\subseteq D\times L_a$$
+è il mapping (world entailement)
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
