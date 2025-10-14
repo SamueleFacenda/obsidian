@@ -126,14 +126,16 @@ Un modello canonico per una teoria è il modello per cui la teoria è massimale 
 ## Logica del mondo
 La scelta se una certa asserzione è la conseguenza di un world model.
 Dato $W=<L_a,D,I_a>$ un world model, con $L_a$ un linguaggio di asserzione,
-$$|=_{L_a}\subseteq D\times L_a$$
+$$\models_{L_a}\subseteq D\times L_a$$
 è il mapping (world entailment).
 
 La logica del mondo $L_w$ per un mondo W e definita come
-$$L_w=<W,|=_w>$$
+$$L_w=<W,\models_w>$$
 essa estende un mondo creando un nuovo mondo.
 
 Un modello è un insieme di fatti, presi dal dominio. Per avere il dominio ho la funzione di interpretazione. La funzione di entailment permette di stabilire linguisticamente cosa è vero e cosa falso dato un modello.
+
+Se $M\models$ allora a è vero.
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
