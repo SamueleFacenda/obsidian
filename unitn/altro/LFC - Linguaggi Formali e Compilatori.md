@@ -264,7 +264,6 @@ config:
 flowchart LR
 	z:::hidden --> a
 	a(($$S_0$$)) -- a --> b(($$S_1$$)) -- a --> c((($$S_2$$)))
-	
 	a -- $$\epsilon$$ --> a
 	classDef hidden display: none;
 ```
