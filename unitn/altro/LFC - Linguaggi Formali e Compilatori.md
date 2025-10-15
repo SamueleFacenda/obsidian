@@ -308,3 +308,5 @@ In pratica, mano a mano splitto gli stati che raggiungono altri blocchi con dell
 **Lemma:** per ogni $n\in\Bbb N$ esiste un NFA con n stati la cui forma minima di DFA ha almeno $2^n$ stati.
 
 Esiste poi un pumping lemma per i linguaggi regolari. Solo che invece di *uvwxy* ho solo *uvw*, con v che *pumpa*.
+#### Generatore di analizzatori lessicali
+Un esempio è flex, il generatore di c, perché in pratica creare un DFA è molto complesso e dispendioso. Dato il minimo numero di informazioni questi tool sono capaci di creare un DFA per il linguaggio specificato.
