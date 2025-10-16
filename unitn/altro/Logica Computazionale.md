@@ -149,7 +149,7 @@ LoDE
 LoCD
 LoCDE
 ### LoE
-Tutte le entità hanno un nome che le identifica.
+Tutte le entità hanno un nome che le identifica. è la base, puoi salvare 
 
 # T2MP
 ## Rappresentazione (machine)
