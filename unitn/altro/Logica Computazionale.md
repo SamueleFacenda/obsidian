@@ -150,7 +150,7 @@ LoCD
 LoCDE
 ### LoE
 Tutte le entità hanno un nome che le identifica. è la base, puoi salvare 
-
+Ogni teoria LoE è canonica. 
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
