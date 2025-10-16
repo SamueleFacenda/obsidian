@@ -148,6 +148,9 @@ LoCE
 LoDE
 LoCD
 LoCDE
+### LoE
+
+
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
