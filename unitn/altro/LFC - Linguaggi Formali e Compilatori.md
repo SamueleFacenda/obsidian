@@ -315,3 +315,4 @@ Parsing `LR(0)`.
 
 #### Costruzione degli automi
 Dato $P_0=closure(\{S'\to\cdot S\})$, per ogni item Y tale che P contiene almeno un elemento con il marcatore alla sinistra di Y, c'è una Y-transizione da P a Q. Q (il kernel Q) è detto: dato ogni elemento $A\to\alpha\cdot Y\beta$ in P, Q contiene $A\to\alpha Y\cdot \beta$.
+
