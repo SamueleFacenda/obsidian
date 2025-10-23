@@ -317,3 +317,5 @@ Parsing `LR(0)`.
 Dato $P_0=closure(\{S'\to\cdot S\})$, per ogni item Y tale che P contiene almeno un elemento con il marcatore alla sinistra di Y, c'è una Y-transizione da P a Q. Q (il kernel Q) è detto: dato ogni elemento $A\to\alpha\cdot Y\beta$ in P, Q contiene $A\to\alpha Y\cdot \beta$.
 
 Per il parsing poi si usa lo shift-reduce algorithm.
+
+Una grammatica è SLR(1) se la sua tabella di parsing non ha conflitti.
