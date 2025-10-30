@@ -154,7 +154,7 @@ Ogni teoria LoE è canonica.
 ### LoD
 Logica delle descrizioni, descrive i vari e-type (e.g. Person hasHeight Real).
 ### LoC
-Logic of concepts definitions.
+Logica delle definizioni di concetti. Permette di ragionare, rappresentando i concetti e come si correlano.
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
