@@ -153,6 +153,8 @@ Tutte le entità hanno un nome che le identifica. è la base, puoi salvare
 Ogni teoria LoE è canonica. 
 ### LoD
 Logica delle descrizioni, descrive i vari e-type (e.g. Person hasHeight Real).
+### LoC
+Logic of concepts definitions.
 # T2MP
 ## Rappresentazione (machine)
 Riassunto:
