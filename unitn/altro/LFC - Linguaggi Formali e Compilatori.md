@@ -319,3 +319,4 @@ Dato $P_0=closure(\{S'\to\cdot S\})$, per ogni item Y tale che P contiene almeno
 Per il parsing poi si usa lo shift-reduce algorithm.
 
 Una grammatica è SLR(1) se la sua tabella di parsing non ha conflitti.
+## Analisi Semantica
