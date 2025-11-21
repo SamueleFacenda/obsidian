@@ -321,3 +321,4 @@ Per il parsing poi si usa lo shift-reduce algorithm.
 Una grammatica è SLR(1) se la sua tabella di parsing non ha conflitti.
 ## Analisi Semantica
 Data la struttura semantica, bisogna calcolare informazioni addizionali (e.g. type inference and checking). Tutto questo dato un albero di derivazione.
+Definisco delle regole di annotazione, come la type inference, e genero il grado annotato.
