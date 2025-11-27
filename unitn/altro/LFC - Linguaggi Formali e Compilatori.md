@@ -324,4 +324,4 @@ Data la struttura semantica, bisogna calcolare informazioni addizionali (e.g. ty
 Definisco delle regole di annotazione, come la type inference, e genero il grado annotato.
 
 ### Abstract syntax trees
-Compatto l'albero di derivazione rimuovendo i non terminali
+Compatto l'albero di derivazione rimuovendo i non terminali. Uso una grammatica S-attribuita per costruirlo mentre faccio il parsing.
