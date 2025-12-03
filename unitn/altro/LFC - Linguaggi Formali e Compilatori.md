@@ -325,3 +325,9 @@ Definisco delle regole di annotazione, come la type inference, e genero il grado
 
 ### Abstract syntax trees
 Compatto l'albero di derivazione rimuovendo i non terminali. Uso una grammatica S-attribuita per costruirlo mentre faccio il parsing. Uso l'attributo node, infierisco il nodo in base alla derivazione.
+
+## Rappresentazioni intermedie
+Tra il frontend e il backend di un compilatore c'è bisogno di un linguaggio comune. Possono essere di questo tipo:
+- strutture di tipo grafo (e.g. abstract syntax tree o dag)
+- codice three-address (`x=y op z`)
+- un altro linguaggio (`C` è molto favorito per la sua flessibilità)
