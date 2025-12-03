@@ -331,3 +331,14 @@ Tra il frontend e il backend di un compilatore c'è bisogno di un linguaggio com
 - strutture di tipo grafo (e.g. abstract syntax tree o dag)
 - codice three-address (`x=y op z`)
 - un altro linguaggio (`C` è molto favorito per la sua flessibilità)
+### Three-address code
+Tipi di operazioni:
+- operazioni binarie: `a = b op c`
+- operazioni unarie: `a = op b`
+- assegnamenti: `a = b`
+- riferimento ad array: `a  = b[c]`
+- assegnamento ad array: `a[b] = c`
+- goto: `goto L`
+- if `if a then b`
+- etc...
+
