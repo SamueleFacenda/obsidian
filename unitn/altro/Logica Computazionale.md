@@ -178,8 +178,3 @@ WordNet è un lessico digitalizzato, contiene dei set di sinonimi (synsets). Con
 
 **DType:** un tipo di EType con proprietà fissate (datatype).
 
-
-## Note
-
-$$((\exists x.\forall x.(A(x)\supset B(x)))\supset(\forall y.(A(y)\supset B(y))))\\ \wedge((\forall z.(A(z)\supset B(z)))\supset(\exists w.\forall w.(A(w)\supset B(w))))$$
-$$\exists x.\forall x.(A(x)\supset B(x))\equiv\forall y.(A(y)\supset B(y))$$
