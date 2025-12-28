@@ -177,3 +177,9 @@ Parliamo solo dei tipi, non delle entità. Si può usare un ER diagram,
 WordNet è un lessico digitalizzato, contiene dei set di sinonimi (synsets). Contiene i collegamenti tra i concetti, opposizioni, somiglianza, componenti di e generalizzazioni.
 
 **DType:** un tipo di EType con proprietà fissate (datatype).
+
+
+## Note
+
+$$((\exists x.\forall x.(A(x)\supset B(x)))\supset(\forall y.(A(y)\supset B(y))))\\ \wedge((\forall z.(A(z)\supset B(z)))\supset(\exists w.\forall w.(A(w)\supset B(w))))$$
+$$\exists x.\forall x.(A(x)\supset B(x))\equiv\forall y.(A(y)\supset B(y))$$
