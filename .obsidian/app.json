@@ -1,12 +1,17 @@
 {
   "showFrontmatter": false,
   "promptDelete": false,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 74
-  }
+  },
+  "newFileFolderPath": "pages",
+  "attachmentFolderPath": "assets",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": false,
+  "useMarkdownLinks": true
 }
