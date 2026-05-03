@@ -1,4 +1,4 @@
-## 1. Purpose
+# 1. Purpose
 
 The bot monitors Slack messages with image attachments, sends those images to TrueBees for AI-generation analysis, and gives the uploader a moderation choice when an image is likely AI-generated.
 
