@@ -10,3 +10,5 @@ There are much more organizational transactions in the world that market transac
 Copyright is one of the first international private organization.
 The stationer's copyright: ogni stampa deve passare da un registro, per ogni libro. Discontinuato per monopolio, sostituito con lo statuto di anne.
 Luther blisset e Q?
+Il copyright è un po' in controsenso, serve a incoraggiare l'apprendimento e diffondere la conoscenza, ma limita l'accesso alle risorse e la loro riproduzione.
+
